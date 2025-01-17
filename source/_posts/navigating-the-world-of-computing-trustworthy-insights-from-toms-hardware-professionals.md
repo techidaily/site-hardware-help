@@ -1,7 +1,7 @@
 ---
 title: "Navigating the World of Computing: Trustworthy Insights From Tom's Hardware Professionals"
-date: 2024-08-13T12:50:22.806Z
-updated: 2024-08-14T12:50:22.806Z
+date: 2025-01-12T21:05:08.363Z
+updated: 2025-01-16T17:26:13.734Z
 tags:
   - cpu
 categories:
@@ -28,8 +28,9 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
  _This is being done as a predecessor towards general removal of MMX register usage. Since there is almost no usage of the 3DNow! intrinsics, and no modern hardware even implements them, simple removal seems like the best option.”_
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +43,11 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
 
  Developers who need to write for old AMD processors can still use 3DNow! instructions in Assembly, including inline Assembly code with LLVM. Other than that, anything related to 3DNow! should be considered deprecated and no longer used.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,4 +56,18 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-blitz-photo-screening-for-windows-users/"><u>[New] 2024 Approved Blitz Photo Screening for Windows Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-evaluating-mr-beasts-fortune/"><u>[Updated] 2024 Approved Evaluating Mr. Beast’s Fortune</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/compress-videos-in-minutes-10-free-online-tools-with-no-software/"><u>Compress Videos in Minutes 10 Free Online Tools with No Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-link-to-downloading-the-focusrite-scarlett-2i2-windows-driver-free/"><u>Direct Link to Downloading the Focusrite Scarlett 2I2 Windows Driver (Free)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newest-geforce-rtx-3080-ti-drivers-compatible-with-windows-11-10-and-7/"><u>Download the Newest GeForce RTX 3080 Ti Drivers: Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-gaming-performance-with-the-recent-update-of-nvidia-geforce-210-drivers-for-windows-10/"><u>Enhance Gaming Performance with the Recent Update of Nvidia GeForce 210 Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-update-guide-new-surface-dock-driver-download-and-installation/"><u>Instant Update Guide: New Surface Dock Driver Download and Installation</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-the-art-of-reducing-personalized-marketing-efforts-online/"><u>Master the Art of Reducing Personalized Marketing Efforts Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-blu-ray-to-avchd-video-upgrade-master-the-art-of-easy-disc-conversions-with-our-top-notch-software-solution/"><u>Seamless Blu-Ray to AVCHD Video Upgrade - Master the Art of Easy Disc Conversions with Our Top-Notch Software Solution</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-note-12r-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi Note 12R Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/windows-78mp3-wav/"><u>Windows 7/8向けにMP3, WAV音声ファイルを効果的に編集する手引き</u></a></li>
+</ul></div>
 

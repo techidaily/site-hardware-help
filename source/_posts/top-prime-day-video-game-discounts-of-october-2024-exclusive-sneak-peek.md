@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek
-date: 2025-01-08T05:40:24.184Z
-updated: 2025-01-10T21:47:07.522Z
+date: 2025-01-15T20:55:17.501Z
+updated: 2025-01-16T19:05:54.090Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -87,6 +91,10 @@ Dell/ZDNET
 The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeForce RTX 4070 GPU, 32GB of RAM, and a 1TB SSD. It features a 16-inch, 1440p display with Dolby Vision support for better contrast, color, and detailing.
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More October Prime Day 2024 gaming deals
 
@@ -161,10 +169,6 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -181,7 +185,7 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
@@ -195,6 +199,10 @@ Lenovo
 * [HP Omen Transcend for $1,130 (save $470 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-transcend-gaming-laptop-14t-fb000-14-8x1h0av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming laptop with a 14-inch 2K OLED display, Intel Core Ultra 7 CPU, 512GB SSD, 16GB of RAM, and a GeForce RTX 4050 GPU.
 * [HP Victus 16 laptop for $850 (save $450 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r100-161-91c59av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade gamign laptop with a 16-inch 1080p IPS display, 144Hz refresh rate, 14th gen Intel Core i5 CPU, 16GB of RAM, GeForce RTX 4050 GPU, and a 512GB SSD.
 * [Alienware m18 R2 for $3,400 (save $600 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
 
@@ -213,10 +221,6 @@ Samsung/ZDNET
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $145 (save $75 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -226,16 +230,12 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -275,24 +275,24 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ultimate-storage-enhancement-for-sony-alpha-7s-ii/"><u>[New] In 2024, Ultimate Storage Enhancement for Sony Alpha 7S II</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>[Updated] M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-a-comparative-review-sns-hdr-pro-and-other-editors/"><u>2024 Approved A Comparative Review SNS HDR Pro and Other Editors</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-unleashing-the-power-of-free-high-end-3d-video-players/"><u>2024 Approved Unleashing the Power of Free, High-End 3D Video Players</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-canon-mx492-printer-drivers-the-ultimate-guide-for-windows-users/"><u>Download & Install Canon MX492 Printer Drivers: The Ultimate Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-epson-wf-3620-printer-drivers-on-windows-10-8-and-7-free/"><u>Download & Install the Latest Epson WF-3620 Printer Drivers on Windows 10, 8 & 7 - FREE</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-guide-latest-eveo-bluetooth-connection-software/"><u>Easy Install Guide: Latest Eveo Bluetooth Connection Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-for-realtek-rtl8723be-wireless-network-adapter-on-windows-10/"><u>Easy Installation Guide for Realtek RTL8723BE Wireless Network Adapter on Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-microsoft-wireless-mouse-amouse-5000-driver-fast-effortless-installation-guide/"><u>Get Your Microsoft Wireless Mouse Amouse 5000 Driver Fast - Effortless Installation Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965231080-guide-to-instant-upgrades-freshest-epson-drivers-for-your-window-os/"><u>Guide to Instant Upgrades: Freshest Epson Drivers for Your Window OS</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/high-resolution-pokemon-themed-wallpapers-and-hd-desktop-backgrounds-powered-by-yl-software/"><u>High-Resolution Pokemon Themed Wallpapers & HD Desktop Backgrounds - Powered by YL Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-realtek-memory-card-reader-software-on-windows-pcs/"><u>How to Download & Install RealTek Memory Card Reader Software on Windows PCs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-skype-calls-with-advanced-zoom-use/"><u>In 2024, Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-version-of-logitech-k350-drivers-download-now/"><u>Latest Version of Logitech K350 Drivers - Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/smooth-nahimic-driver-upgrade-for-speed-and-ease/"><u>Smooth Nahimic Driver Upgrade for Speed & Ease</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-guide-to-saving-crooks-and-liars-content-as-video-files-on-macwindows/"><u>Step-by-Step Guide to Saving Crooks & Liars Content as Video Files on Mac/Windows</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-comprehensive-guide-to-selecting-a-4k-smartphone-or-tablet-with-video-playback-and-recording-capabilities/"><u>The Comprehensive Guide to Selecting a 4K Smartphone or Tablet with Video Playback and Recording Capabilities</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-multimedia-sensation-apps-iphoneandroid-showdown/"><u>Top 5 Multimedia Sensation Apps IPhone/Android Showdown</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/vn-video-editor-apk-review-a-powerful-video-editing-tool-for-2024/"><u>VN Video Editor APK Review A Powerful Video Editing Tool for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-affinity-photos-features-to-excise-borders-effectively/"><u>[New] Navigating Affinity Photo's Features to Excise Borders Effectively</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-designing-eye-catching-instagram-post-previews/"><u>2024 Approved Designing Eye-Catching Instagram Post Previews</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pathway-for-pixels-transferring-data-to-computers/"><u>2024 Approved Pathway for Pixels Transferring Data to Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-bt500-bluetooth-adapter-drivers-downloaded-easily-for-windows-11-10-and-8-users/"><u>Asus BT500 Bluetooth Adapter: Drivers Downloaded Easily for Windows 11, 10 & 8 Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-into-turkish-orthography-learn-the-alphabet-and-pronunciation-fast/"><u>Dive Into Turkish Orthography: Learn the Alphabet and Pronunciation Fast</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-update-for-scansnap-ix5n-series-drivers-on-windows-operating-system/"><u>Easy Update for ScanSnap iX5n Series Drivers on Windows Operating System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/friendship-powered-pokehunting-collaborative-strategies-for-increased-xp-gains-in-pokemon-go/"><u>Friendship-Powered PokéHunting: Collaborative Strategies for Increased XP Gains in ‘Pokémon Go'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-kitchen-to-lab-transforming-your-cooler-gear-for-homemade-ln2-production/"><u>From Kitchen to Lab: Transforming Your Cooler Gear for Homemade LN2 Production</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gsl-transformation-pearson-and-mondly-join-forces/"><u>GSL Transformation - Pearson & Mondly Join Forces</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-address-and-resolve-issues-with-the-ralink-rt3290-driver-on-various-windows-versions-vista7810/"><u>How to Address and Resolve Issues with the Ralink RT3290 Driver on Various Windows Versions (Vista/7/8/10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-effortlessly-obtain-and-implement-your-usb-camera-drivers-now/"><u>How to Effortlessly Obtain & Implement Your USB Camera Drivers Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-driver-downloads-made-simple-easy-setup-tutorials-inside/"><u>HP Driver Downloads Made Simple – Easy Setup Tutorials Inside</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/insightful-analysis-on-torment-tides-of-numenera-a-journey-through-sci-fi-and-fantasy-rpg-realms/"><u>Insightful Analysis on 'Torment: Tides of Numenera': A Journey Through Sci-Fi and Fantasy RPG Realms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-epson-v700-drivers-on-windows-systems-windows-7-to-10/"><u>Installing Epson V700 Drivers on Windows Systems (Windows 7 to 10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-new-hp-laserjet-pro-mfp-m477-driver-step-by-step-guide/"><u>Installing New HP Laserjet Pro MFP M477 Driver - Step by Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-downloading-asus-laptop-trackpad-drivers-for-windows-10/"><u>Quick and Simple Guide: Downloading ASUS Laptop Trackpad Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-get-the-latest-usb-to-rs232-communication-driver/"><u>Quick Setup: Get the Latest USB to RS232 Communication Driver</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-get-noticed-with-these-20-eye-catching-adobe-premiere-intro-templates-free-download/"><u>Updated In 2024, Get Noticed with These 20 Eye-Catching Adobe Premiere Intro Templates Free Download</u></a></li>
 </ul></div>
 

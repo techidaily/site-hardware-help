@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Windows Laptop Showdown: How Acer and Dell Stack Up | Expert Review by ZDNET"
-date: 2024-11-30T19:39:54.896Z
-updated: 2024-12-04T21:24:35.759Z
+date: 2025-01-09T18:49:43.396Z
+updated: 2025-01-16T20:30:34.075Z
 tags:
   - laptops
 categories:
@@ -37,7 +37,7 @@ Cons
 * Finicky touchpad
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Aspire 5
@@ -63,6 +63,10 @@ Cons
 * No USB-C ports
 * OK battery life
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dell Inspiron 3510
 
 ### Best value cheap Windows laptop
@@ -86,11 +90,11 @@ Cons
 * Trackpad could be better
 * Lacks more RAM
 
-## ASUS Laptop L406
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## ASUS Laptop L406
 
 ### Best lightweight cheap Windows laptop
 
@@ -159,10 +163,6 @@ The Acer Aspire 5 is our pick for the best cheap Windows laptop. Whether you nee
 | Dell Inspiron 11 2-in-1  | $358      | AMD A9-9420E processor                                   | 11.6 inches |
 | Lenovo ThinkPad Yoga 11e | $350      | Core m3-8100Y                                            | 11.6 inches |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which cheap Windows laptop is right for you?
 
 Any of these cheap Windows laptops are great options -- it ultimately comes down to what qualities are important to you (CPU, RAM, display, etc.), what size and weight you prefer, and what you're willing to spend.
@@ -176,7 +176,7 @@ Any of these cheap Windows laptops are great options -- it ultimately comes down
 | Lenovo ThinkPad Yoga 11e                | A portable option that doubles as a tablet.     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these cheap Windows laptops?
@@ -187,13 +187,13 @@ We chose these laptops after extensive research into the product category. We co
 * **Specs:** Some laptops have great memory, long battery life, storage, pristine resolution, and a wide display. While you don't need every single spec to be top tier just to write an essay or submit your physics homework, we compared these essential specs to other laptops on the market.
 * **Functionality:** Some laptops are lightweight, while others weigh a ton. Some double as tablets and boast touchscreens. We considered how these aspects of the laptops would cater to a student or employee's needs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can all these laptops run Windows 11?
 
 It's always recommended that you check the tech specs and user manual of your laptop to see what version of Windows it's running. But the Dell Inspiron 15 3000 has Windows 11 already installed, and the Acer Aspire 5 is eligible for a free Windows 11 upgrade.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are budget laptops best suited for?
 
@@ -204,7 +204,7 @@ You're looking at a system that can handle the general activities people do at w
 [Battery life](https://www.zdnet.com/article/best-battery-life-laptop/) all depends on how you're using your laptop. If you're doing very light workloads like web browsing or word processing, you'll get the maximum run time out of your new laptop. For example: the Dell Inspiron 15 3000 has a maximum battery life of 7.5 hours. So if you're just catching up on news headlines or your kids are doing homework, you'll get fairly close to that number. But if you're streaming music, movies, or shows, you'll get a bit less, and your laptop will die fairly quickly if you're trying to edit photos and videos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative cheap Windows laptops worth considering?
@@ -255,19 +255,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-adding-a-flurry-of-images-and-videos-to-your-ig-story/"><u>[New] Step-by-Step Adding a Flurry of Images & Videos to Your IG Story</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-compre-point-guide-to-instagrams-inquiry-tool/"><u>[Updated] 2024 Approved The Compre Point Guide to Instagram's Inquiry Tool</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-art-of-editing-reimagined-by-vidas-innovations/"><u>[Updated] In 2024, The Art of Editing Reimagined by Vida's Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-fraudgpt-deceits-key-security-measures/"><u>Avoiding FraudGPT Deceits: Key Security Measures</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enable-or-disable-permanent-screen-visibility-in-android-settings/"><u>Enable or Disable Permanent Screen Visibility in Android Settings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-ultimate-snapdragon-8-gen-2-devices-the-leading-android-phones/"><u>Exploring the Ultimate Snapdragon 8 Gen 2 Devices: The Leading Android Phones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/extend-your-android-devices-battery-life-a-comprehensive-guide/"><u>Extend Your Android Device's Battery Life: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/final-closure-barnes-and-noble-ends-support-for-aging-nook-devices/"><u>Final Closure: Barnes & Noble Ends Support for Aging Nook Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-early-access-to-the-new-asus-zenfone-9-shop-and-reserve-at-amazon-today/"><u>Get Early Access to the New ASUS Zenfone 9 - Shop and Reserve at Amazon Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/google-the-moment-is-now-for-crafting-an-ultimate-weather-application/"><u>Google: The Moment Is Now for Crafting an Ultimate Weather Application</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-se-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone SE?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/memory-card-rescue-guide-retrieving-missing-pictures-and-photos-easily/"><u>Memory Card Rescue Guide: Retrieving Missing Pictures and Photos Easily!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-ai-understanding-how-security-concerns-in-generative-models-are-intensifying/"><u>The Future of AI: Understanding How Security Concerns in Generative Models Are Intensifying</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716000640680-new-detailed-evaluation-razer-kiyo-webcam-for-2024/"><u>[New] Detailed Evaluation - Razer Kiyo Webcam for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-best-applications-for-crafting-dynamic-video-entrances/"><u>[New] In 2024, Best Applications for Crafting Dynamic Video Entrances</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-potential-of-videoleaps-zoom-functionality/"><u>[New] Unlocking the Potential of VideoLeap's Zoom Functionality</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlining-the-process-of-google-voice-call-capture/"><u>[Updated] Streamlining the Process of Google Voice Call Capture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-alienexchange-powerful-i5-12450h-laptop-with-dual-16-screens-at-only-710-no-keyboard-included/"><u>Affordable AlienExchange: Powerful I5-12450H Laptop with Dual 16'' Screens at Only $710, No Keyboard Included</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/aliexpress-offers-dual-16-inch-display-laptops-with-core-i5-1245nh-processor-at-710-no-keyboard-included/"><u>AliExpress Offers Dual 16-Inch Display Laptops with Core I5-1245nH Processor at $710, No Keyboard Included</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862694184-conquer-your-battles-snag-the-high-performance-lenovo-legion-slim-5-for-gamers-now-priced-below-1k-on-newegg/"><u>Conquer Your Battles: Snag the High-Performance Lenovo Legion Slim 5 for Gamers, Now Priced Below $1K on Newegg!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-set-up-the-latest-hp-printer-software-on-your-windows-pc/"><u>Download & Set Up the Latest HP Printer Software on Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862719981-get-ready-to-play-unleash-epic-gaming-with-lenovos-legion-slim-5-and-a-potent-rtx-ntegrated-4060-at-an-amazing-price-of-899/"><u>Get Ready to Play! Unleash Epic Gaming with Lenovo's Legion Slim 5 and a Potent RTX Ntegrated 4060 at an Amazing Price of $899</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-moto-g73-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Moto G73 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-choices-premier-mac-video-capture-apps/"><u>Top Choices Premier Mac Video Capture Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862708862-unbeatable-deal-lenovo-legion-slim-5-with-nvidia-rtx-4060-now-at-a-record-low-849/"><u>Unbeatable Deal: Lenovo Legion Slim 5 with NVIDIA RTX 4060 Now at a Record Low $849!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AMD’s Pioneer, Mike Clark, on Speeding up Zen-5 Release and Transforming Desktop Processors with Compact Cores
-date: 2024-08-13T12:50:24.972Z
-updated: 2024-08-14T12:50:24.972Z
+date: 2025-01-11T20:17:46.100Z
+updated: 2025-01-16T23:59:47.049Z
 tags:
   - cpu
 categories:
@@ -33,12 +33,9 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
  As always, take these results with a pinch of salt. The conditions in which the Core Ultra 7 was running are unknown. However, we won't see what Arrow Lake is capable of until in a few months, as Intel's next-generation chips have been rumored to launch in October, while AMD's Ryzen 9000 lineup is just right around the corner.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -47,14 +44,11 @@ No advertising on the website.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -63,4 +57,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-screen-recording-steps-for-perfection/"><u>[New] Essential Screen Recording Steps for Perfection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-merge-worlds-easily-linking-instagram-and-facebook-accounts/"><u>[New] In 2024, Merge Worlds Easily Linking Instagram & Facebook Accounts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-30-quotes-on-metacosm-realities/"><u>[New] The Ultimate 30 Quotes on Metacosm Realities</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-comprehensive-playbook-for-self-branded-content-creators-for-2024/"><u>[Updated] The Comprehensive Playbook for Self-Branded Content Creators for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-150-2023-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on 150 (2023)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-problems-with-your-smartphones-usb-tethering-capability/"><u>Diagnosing Problems With Your Smartphone's USB Tethering Capability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-your-brother-hl-l2360dw-printer-drivers-easily/"><u>Download and Update Your Brother HL-L2360DW Printer Drivers Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-pci-graphics-and-network-adapter-drivers-for-microsoft-windows-11-to-7/"><u>Download Updated PCI Graphics and Network Adapter Drivers for Microsoft Windows 11 to 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970224568-effortless-installation-of-hp-envy-t-5660-driver-software-get-your-download-here/"><u>Effortless Installation of HP ENVY T 5660 Driver Software - Get Your Download Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-faster-rendering-speeds-now-intuitive-setup-for-intels-iris-graphics-driver-v540/"><u>Get Faster Rendering Speeds Now! Intuitive Setup for Intel's Iris Graphics Driver V540</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-free-usb-c-drivers-for-windows-11-today/"><u>Get Your Free USB-C Drivers for Windows 11 Today!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-xiaomi-13t-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Xiaomi 13T?</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/mastering-hardware-troubleshooting-proven-tips-for-windows-diagnostics-by-yl-technology/"><u>Mastering Hardware Troubleshooting: Proven Tips for Windows Diagnostics by YL Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-guide-lenovo-t430-driver-downloads-compatible-with-windows-11-8-and-7/"><u>Quick & Easy Guide: Lenovo T430 Driver Downloads Compatible with Windows 11, 8, and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976053494-streamlined-process-secure-your-microsoft-wireless-mouse-5000-driver-download-now/"><u>Streamlined Process: Secure Your Microsoft Wireless Mouse 5000 Driver Download Now!</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nubia-red-magic-9-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nubia Red Magic 9 Pro Unresponsive Screen | Dr.fone</u></a></li>
+</ul></div>
 

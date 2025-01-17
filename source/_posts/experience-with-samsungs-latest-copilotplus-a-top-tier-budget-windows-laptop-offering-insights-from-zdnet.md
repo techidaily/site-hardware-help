@@ -1,7 +1,7 @@
 ---
 title: "Experience with Samsung's Latest Copilot+: A Top-Tier Budget Windows Laptop Offering! - Insights From ZDNet"
-date: 2024-11-30T01:56:38.900Z
-updated: 2024-12-05T08:44:37.962Z
+date: 2025-01-11T18:39:36.053Z
+updated: 2025-01-16T22:16:53.524Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,24 +166,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-strategic-broadcasting-link-twitch-to-facebook-feeds/"><u>[New] Strategic Broadcasting Link Twitch to Facebook Feeds</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-variety-50-complimentary-youtube-banners-available/"><u>[Updated] Discover Variety – 50 Complimentary YouTube Banners Available!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>[Updated] Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/android-lacking-procreate-discover-top-6-alternatives-for-your-digital-art-needs/"><u>Android Lacking Procreate? Discover Top 6 Alternatives for Your Digital Art Needs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/android-users-ultimate-tutorial-forwarding-sms-with-easy-steps-and-expert-advice/"><u>Android Users' Ultimate Tutorial: Forwarding SMS with Easy Steps and Expert Advice</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/clear-out-quick-settings-tiles-from-your-androids-notifications-panel-easily/"><u>Clear Out Quick Settings Tiles From Your Android's Notifications Panel Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complexities-unveiled-how-google-urges-apple-to-resolve-cross-platform-messaging-between-android-and-iphone/"><u>Complexities Unveiled: How Google Urges Apple to Resolve Cross-Platform Messaging Between Android and iPhone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/convert-the-average-vehicle-length-from-meters-to-kilometers-47-meters-00047-kilometers/"><u>Convert the Average Vehicle Length From Meters to Kilometers: $4.7$ Meters $= 0.0047$ Kilometers.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-innovative-amazfit-gtr-4-with-pioneering-gps-at-just-199-comprehensive-test-and-analysis-on-zdnet/"><u>Experience the Innovative Amazfit GTR 4 with Pioneering GPS at Just $199 - Comprehensive Test and Analysis on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-picks-leading-roku-models-for-ultimate-home-entertainment-featured-by-zdnet/"><u>Expert Picks: Leading Roku Models for Ultimate Home Entertainment | Featured by ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-top-gear-picks-with-tom-the-definitive-resource-on-advanced-hardware/"><u>Explore Top Gear Picks with Tom - The Definitive Resource on Advanced Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-discovering-files-saved-through-download-manager-on-android-phones-and-tablets/"><u>Guide: Discovering Files Saved Through Download Manager on Android Phones & Tablets</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-x-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone X After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/overcoming-handheld-vibration-secure-your-gopro-movies-for-2024/"><u>Overcoming Handheld Vibration Secure Your GoPro Movies for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/rapid-assembly-of-google-image-mosaics/"><u>Rapid Assembly of Google Image Mosaics</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/le-and-relish-continuous-playback-of-youtube-on-tv-for-2024/"><u>Recycle and Relish Continuous Playback of YouTube on TV for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-now-why-switching-from-your-outdated-android-device-is-essential/"><u>Upgrade Now: Why Switching From Your Outdated Android Device Is Essential</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-make-the-change-discover-5-compelling-reasons-to-go-for-a-google-phone-and-android/"><u>Why Make the Change? Discover 5 Compelling Reasons to Go for a Google Phone and Android</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-the-end-of-samsung-messages-could-spell-trouble-for-android-users/"><u>Why the End of Samsung Messages Could Spell Trouble for Android Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlock-fast-video-trimming-in-windows-11-apps/"><u>[New] 2024 Approved Unlock Fast Video Trimming in Windows 11 Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-obtaining-professional-photo-banners/"><u>[New] Mastering the Art of Obtaining Professional Photo Banners</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-engaging-visuals-meet-smooth-play-with-lgs-4k-freesync-tv/"><u>[Updated] Engaging Visuals Meet Smooth Play with LG's 4K FreeSync TV</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-skyrocketing-to-million-dollar-views-best-hashtags-for-2024/"><u>[Updated] Skyrocketing to Million-Dollar Views Best Hashtags for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1-rutube/"><u>1. Rutubeの動画ダウンロードと保存ガイド</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-tier-text-transitions-reels/"><u>2024 Approved Top-Tier Text Transitions Reels</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1342639-9781934588864-alien-crash-at-roswell/"><u>Alien Crash at Roswell | Free Book</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-explore-and-download-50-free-youtube-banners/"><u>In 2024, Explore & Download 50 FREE YouTube Banners</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862669261-intel-driven-two-14-inch-displays-experience-the-acemagic-x1-laptop-for-under-900/"><u>Intel Driven, Two 14-Inch Displays: Experience the Acemagic X1 Laptop for Under $900!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862711835-lenovo-thinkpad-t14s-launches-with-stunning-features-qualcomm-snapdragon-x-elite-processor-impressive-32gb-ram-and-a-whopping-1tb-ssd/"><u>Lenovo ThinkPad T14s Launches with Stunning Features: Qualcomm Snapdragon X Elite Processor, Impressive 32GB RAM & a Whopping 1TB SSD!</u></a></li>
+<li><a href="https://techidaily.com/mastering-system-recovery-the-definitive-4-step-process-for-a-clean-windows-10-installation/"><u>Mastering System Recovery: The Definitive 4-Step Process for a Clean Windows 10 Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-toms-equipment-examination-discover-top-notch-hardware-picks/"><u>The Tom's Equipment Examination: Discover Top-Notch Hardware Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-secrets-of-high-end-systems-with-toms-expertise/"><u>Unlocking the Secrets of High-End Systems with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-high-tech-secrets-in-toms-compreh/"><u>Unveiling High-Tech Secrets in Tom's Compreh</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-best-in-hardware-join-toms-journey/"><u>Unveiling the Best in Hardware – Join Tom’s Journey</u></a></li>
 </ul></div>
 

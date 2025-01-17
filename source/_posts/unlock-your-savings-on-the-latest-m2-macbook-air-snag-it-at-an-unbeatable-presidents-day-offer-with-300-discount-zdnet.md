@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Savings on the Latest M2 MacBook Air - Snag It at an Unbeatable President's Day Offer with $300 Discount | ZDNet
-date: 2024-12-03T05:35:14.151Z
-updated: 2024-12-05T07:21:25.343Z
+date: 2025-01-10T00:37:45.741Z
+updated: 2025-01-16T19:11:31.218Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,20 +146,24 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-best-drawing-apps-for-chromebook/"><u>[New] FREE Best Drawing Apps for Chromebook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-building-a-repository-of-metaverse-comedy-artifacts/"><u>[Updated] Building a Repository of Metaverse Comedy Artifacts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mastering-sound-selecting-mics-for-varied-youtube-formats/"><u>[Updated] In 2024, Mastering Sound Selecting Mics for Varied YouTube Formats</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-note-30-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Note 30 5G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/crash-proof-your-intel-gaming-rig-developers-in-game-warning-and-fix-for-13th14th-gen-cpu-users/"><u>Crash-Proof Your Intel Gaming Rig: Developer's In-Game Warning and Fix for 13Th/14th Gen CPU Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-asus-touchpad-driver-download-and-installation-tips-for-windows-11-users/"><u>Effortless ASUS Touchpad Driver Download & Installation Tips for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-pc-upgraded-install-latest-nvidia-geforce-rtx-2060-gpu-drivers/"><u>Get Your PC Upgraded: Install Latest Nvidia GeForce RTX 2060 GPU Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovo-thinkpad-t430-quick-driver-downloads-for-windows-1087/"><u>Lenovo ThinkPad T430: Quick Driver Downloads for Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/next-gen-powerhouse-amds-flagship-zen-5-processor-dominates-rendering-tests-outshining-ryzen-9-7950x-by-24/"><u>Next-Gen Powerhouse: AMD’s Flagship Zen 5 Processor Dominates Rendering Tests, Outshining Ryzen 9 7950X by 24%</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimize-your-gaming-with-kinemaster-usage-tips-and-comparisons-with-best-online-games-for-2024/"><u>Optimize Your Gaming with KineMaster Usage Tips & Comparisons with Best Online Games for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/quick-steps-for-igtv-on-instagram-stories/"><u>Quick Steps for IGTV on Instagram Stories</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-acquiring-and-updating-your-hid-keyboards-software/"><u>Step-by-Step Guide: Acquiring & Updating Your HID Keyboard's Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamlining-processes-adding-tracks-to-your-custom-youtube-collection/"><u>Streamlining Processes Adding Tracks to Your Custom YouTube Collection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-unveiling-the-latest-hardware-insights/"><u>Tom's Tech Review: Unveiling the Latest Hardware Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-riddle-tips-and-tricks-to-fix-facetime-screen-issues/"><u>Unraveling the Riddle: Tips and Tricks to Fix FaceTime Screen Issues</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-choose-from-the-finest-7-android-browsers-without-ads/"><u>[New] In 2024, Choose From the Finest 7 Android Browsers Without Ads</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-personalizing-interactions-deepening-connections-with-viewers/"><u>[New] Personalizing Interactions Deepening Connections with Viewers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience/"><u>[New] The Ultimate Monitor List for an Immersive Xbox Series X Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-9-essential-apps-for-pulling-youtube-videos-android/"><u>[Updated] 2024 Approved 9 Essential Apps for Pulling YouTube Videos (Android)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-launching-into-the-spotlight-instagram-lives/"><u>2024 Approved Launching Into the Spotlight Instagram Lives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5yq55p6c55qe44gq5pig5yop6kaw6ig0ic0g44oj44op44kk44ow44os44kz44o844oa44o85yuv55s744gu5yan55sf5rov/"><u>効果的な映像視聴 - ドライブレコーダー動画の再生法</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-price-premium-4tb-samsung-980-pro-nvme-m2-ssd-at-just-007gb-top-rated-for-pcie-gen4/"><u>Best Price: Premium 4TB Samsung 980 PRO NVMe M.2 SSD at Just $0.07/GB - Top-Rated for PCIe Gen4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-and-evaluation-of-wd-sn740-oem-class-m2-2280-nvme-ssd-now-with-a-capacity-upgrade-to-2tb/"><u>Comprehensive Analysis & Evaluation of WD SN740 OEM-Class M.2 2280 NVMe SSD, Now with a Capacity Upgrade to 2TB</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-evaluation-of-the-patriot-viper-vp4300-lite-ssd-with-4tb-capacity/"><u>Comprehensive Evaluation of the Patriot Viper VP4300 Lite SSD with 4TB Capacity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-pny-rp6-usb-c-ssd-assessment-adequate-performance-with-room-for-improvement/"><u>Comprehensive PNY RP6# USB-C SSD Assessment - Adequate Performance with Room for Improvement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-testing-of-the-updated-corsair-mp700-pro-se-solid-state-drive/"><u>Comprehensive Testing of the Updated Corsair MP700 Pro SE Solid State Drive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-unmatched-storage-and-speed-nextorage-releases-ultimate-8tb-ssd-at-just-849-for-gaming-enthusiasts/"><u>Discover Unmatched Storage and Speed: Nextorage Releases Ultimate 8TB SSD at Just $849 for Gaming Enthusiasts!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-top-notch-performance-samsungs-990-evo-2tb-ssd-at-just-129-unbeatable-discounted-price/"><u>Experience Top-Notch Performance: Samsung's 990 EVO 2TB SSD at Just $129 - Unbeatable Discounted Price</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unparalleled-performance-the-latest-msi-spatium-m580-frozr-arrives-a-cutting-edge-pcie-50-ssd-boasting-remarkable-speeds-of-up-to-146gbs-read-and1/"><u>Experience Unparalleled Performance - The Latest MSI Spatium M580 Frozr Arrives: A Cutting-Edge PCIe 5.0 SSD Boasting Remarkable Speeds of Up to 14.6GB/S Read & 12.7GB/S Write</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/explore-how-kioxias-innovative-light-speed-ssds-break-barriers-with-cpu-connections-beyond-40m-using-optical-technology/"><u>Explore How Kioxia's Innovative Light-Speed SSDs Break Barriers with CPU Connections Beyond 40M Using Optical Technology</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-google-pixel-fold-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Google Pixel Fold</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-activate-and-customize-zooms-virtual-screen-mode/"><u>In 2024, How to Activate and Customize Zoom's Virtual Screen Mode</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-quick-step-to-cutting-edge-gif-creation-from-vimeo/"><u>In 2024, The Quick-Step to Cutting Edge GIF Creation From Vimeo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtube-ventures-steps-for-monetizing-content/"><u>In 2024, YouTube Ventures Steps for Monetizing Content</u></a></li>
 </ul></div>
 

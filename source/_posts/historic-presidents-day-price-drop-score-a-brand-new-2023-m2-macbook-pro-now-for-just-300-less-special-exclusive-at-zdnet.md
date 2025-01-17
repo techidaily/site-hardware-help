@@ -1,7 +1,7 @@
 ---
 title: "Historic President's Day Price Drop: Score a Brand New 2023 M2 MacBook Pro Now for Just $300 Less - Special Exclusive at ZDNet!"
-date: 2024-12-01T23:59:56.618Z
-updated: 2024-12-05T06:40:57.010Z
+date: 2025-01-12T19:01:21.566Z
+updated: 2025-01-17T02:17:05.883Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Amazon's October Prime Day event is here, and with its arrival, many laptops are
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,22 +146,16 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-enhancing-gaming-the-ultimate-xbox-screen-recorders-guide-for-2024/"><u>[New] Enhancing Gaming The Ultimate Xbox Screen Recorder's Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-elevate-your-social-storytelling-with-added-musicality/"><u>[New] In 2024, Elevate Your Social Storytelling with Added Musicality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-maximizing-screen-space-the-art-of-close-up-views/"><u>[New] Maximizing Screen Space The Art of Close Up Views</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-goofy-flick-an-analysis-of-the-goofy-movie/"><u>[Updated] In 2024, Goofy Flick An Analysis of 'The Goofy Movie'</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-swift-technique-coding-images-for-youtube-channel-thumbnails/"><u>[Updated] Swift Technique Coding Images for YouTube Channel Thumbnails</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/crucial-queries-every-consumer-should-consider-when-acquiring-smart-household-technology/"><u>Crucial Queries Every Consumer Should Consider When Acquiring Smart Household Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-future-of-sound-with-jabras-advanced-noise-canceling-earphones/"><u>Discover the Future of Sound with Jabra's Advanced Noise-Canceling Earphones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-top-benefits-of-choosing-a-tenkeyless-keyboard-why-its-time-to-switch/"><u>Discover the Top Benefits of Choosing a Tenkeyless Keyboard: Why It's Time to Switch!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elevate-your-home-security-with-the-yale-approach-lock-the-ideal-smart-solution-for-apartment-entryways/"><u>Elevate Your Home Security with the Yale Approach Lock: The Ideal Smart Solution for Apartment Entryways</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/eliminating-the-annoying-white-noise-in-my-speakers-a-step-by-step-fix/"><u>Eliminating the Annoying White Noise in My Speakers: A Step-by-Step Fix</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enduring-legacy-of-the-90s-the-classic-techs-we-still-rely-on-today/"><u>Enduring Legacy of the 90S: The Classic Techs We Still Rely On Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-experience-with-these-5-fantastic-gadgets-and-add-ons/"><u>Enhance Your PC Experience with These 5 Fantastic Gadgets and Add-Ons</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/evaluating-the-nanoleaf-umbra-cup-innovative-tech-or-just-an-office-diversion/"><u>Evaluating the Nanoleaf Umbra Cup - Innovative Tech or Just an Office Diversion?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/from-legacy-systems-to-modern-windows-the-win7-10-shift/"><u>From Legacy Systems to Modern Windows: The Win7-10 Shift</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/les-meilleurs-remplacants-dadobe-after-effects-solutions-gratuites-et-payantes-a-explorer/"><u>Les Meilleurs Remplaçants D'Adobe After Effects : Solutions Gratuites Et Payantes À Explorer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sjcam-s6-legend-action-camera-complete-review/"><u>SJCam S6 Legend Action Camera Complete Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-12-no-cost-film-streamers-watch-movies-on-the-go/"><u>Top 12 No-Cost Film Streamers: Watch Movies on the Go</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-the-best-10-cost-free-photo-hosters/"><u>[New] Ultimate Guide to the Best 10 Cost-Free Photo Hosters</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-professional-obs-edits-the-ultimate-top-5-guide/"><u>[Updated] 2024 Approved Professional OBS Edits The Ultimate Top 5 Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-analysis-from-toms-gadget-hub/"><u>Expert Analysis From Tom's Gadget Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-analysis-on-the-chilly-and-expensive-gigabyt-b650-aorus-elite-ax-board-with-extra-usb-ports/"><u>Expert Analysis on the Chilly and Expensive Gigabyt B650 Aorus Elite AX Board with Extra USB Ports</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-entry-level-beast-3-monitor-compatible-gigabyte-b760m-ds3h-micro-atx-review/"><u>Exploring the Entry-Level Beast: 3-Monitor Compatible Gigabyte B760M DS3H Micro ATX Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-computing-with-toms-hardware-insights/"><u>Exploring the Latest in Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/high-performance-meets-efficient-heat-dissipation-review-of-asuss-rog-maximus-z790-formula-motherboard/"><u>High Performance Meets Efficient Heat Dissipation: Review of Asus's ROG Maximus Z790 Formula Motherboard</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-a34-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy A34 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-checklist-12-must-have-cameras-for-vlogging-professionals/"><u>In 2024, The Ultimate Checklist 12 Must-Have Cameras for Vlogging Professionals</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-made-winterral-ambiance/"><u>Tailor-Made WinTerral Ambiance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Full Scoop on Apple’s October Event Highlights and Surprises | In-Depth Coverage by ZDNET
-date: 2025-01-07T21:12:02.813Z
-updated: 2025-01-10T16:53:46.878Z
+date: 2025-01-15T17:09:39.038Z
+updated: 2025-01-16T23:23:43.573Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ If the low battery life wasn't enough, the computer has a tendency to run hot. W
 Even during regular use, the keyboard retained some heat, although not nearly as bad as during heavy gaming. The cooling vents are located on the bottom, so it seems the heat gets trapped underneath.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,20 +120,16 @@ If you looking for a portable gaming laptop, the Blade 14 is a middle-tier optio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-rising-above-vimeo-10-next-level-editing-applications/"><u>[New] Rising Above Vimeo 10 Next-Level Editing Applications</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-behind-the-scenes-with-filmora-top-10-must-haves/"><u>[Updated] Behind the Scenes with Filmora Top 10 Must-Haves</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-tools-for-broadcasting-professionals/"><u>2024 Approved Advanced Tools for Broadcasting Professionals</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-virtual-adventure-awaits-with-these-top-12-pc-clickers/"><u>2024 Approved Virtual Adventure Awaits with These Top 12 PC Clickers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/a-beginners-guide-to-no-cost-countdown-usage-for-2024/"><u>A Beginner's Guide to No-Cost Countdown Usage for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-hl2280dw-driver-software-download-supports-win11-win10-win8-and-win7/"><u>Brother HL2280DW Driver Software Download - Supports Win11, Win10, Win8 & Win7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974078070-easy-access-to-up-to-date-kodak-printer-drivers-download-now/"><u>Easy Access to Up-to-Date Kodak Printer Drivers – Download Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-ricoh-mp-c3003-printing-solutions-driver-downloads-available-now/"><u>Get Your Ricoh MP C3003 Printing Solutions - Driver Downloads Available Now!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keep-your-canon-mx490-running-smoothly-with-the-newest-windows-compatible-drivers-heres-how/"><u>Keep Your Canon MX490 Running Smoothly with the Newest Windows-Compatible Drivers - Here's How!</u></a></li>
-<li><a href="https://howto.techidaily.com/oneplus-11-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 11 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/steal-the-show-top-steelseries-drivers-and-settings-for-windows-11-get-it-here/"><u>Steal the Show: Top SteelSeries Drivers & Settings for Windows 11 - Get It Here</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-adding-files-to-zip-archives-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Adding Files to Zip Archives on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-best-10-final-cut-pro-plugins-ever/"><u>The Best 10 Final Cut Pro Plugins Ever</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-to-the-most-recent-tp-link-80211ac-wifi-driver-compatible-with-windows-versions-1187/"><u>Upgrade to the Most Recent TP-Link 802.11Ac WiFi Driver - Compatible with Windows Versions 11/8/7</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-the-art-of-asmr-filmmaking-techniques/"><u>[New] In 2024, Decoding the Art of ASMR Filmmaking Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-minimalist-approach-to-podcast-livestream/"><u>2024 Approved Minimalist Approach to Podcast Livestream</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-compatibility-of-synaptics-touchpadmouse-with-windows-11-systems/"><u>Effective Solutions for Compatibility of Synaptics Touchpad/Mouse with Windows 11 Systems</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/1716465703098-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-official-nvidia-drivers-for-your-geforce-rtx-3070-ti-on-microsofts-win-1087-platforms/"><u>Get Official NVIDIA Drivers for Your GeForce RTX 3070 Ti on Microsoft's Win 10/8/7 Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-fresh-install-geforce-rtx-3070-drivers-on-windows-1110-systems/"><u>How to Update or Fresh Install GeForce RTX 3070 Drivers on Windows 11/10 Systems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-shareable-podcast-episodes-on-instagram-platforms/"><u>In 2024, Shareable Podcast Episodes on Instagram Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastery-of-electronics-and-gadgets-through-toms-hardware-reviews/"><u>Mastery of Electronics and Gadgets Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/preventing-compression-artifacts-after-output/"><u>Preventing Compression Artifacts After Output</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-perfect-pocket-partner-for-your-workouts-samsung-galaxy-fit2/"><u>The Perfect Pocket Partner for Your Workouts - Samsung Galaxy Fit2</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-walkthrough-creating-a-new-account-for-your-oculus-quest-or-quest-2/"><u>Ultimate Walkthrough: Creating a New Account for Your Oculus Quest or Quest 2</u></a></li>
 </ul></div>
 

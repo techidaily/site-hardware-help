@@ -1,7 +1,7 @@
 ---
 title: Scarcity of Real-World Testing Revealed by Top Benchmark Author on Qualcomm's Copilot+ PC – Just 56 Windows-Arm Devices Assessed Recently
-date: 2024-08-13T12:51:10.425Z
-updated: 2024-08-14T12:51:10.425Z
+date: 2025-01-09T16:52:19.952Z
+updated: 2025-01-16T19:28:40.825Z
 tags:
   - cpu
 categories:
@@ -28,8 +28,9 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -40,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -56,4 +54,19 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-10-best-tags-analyzing-apps-fb-twt-and-ig-platforms/"><u>[New] 2024 Approved 10 Best Tags Analyzing Apps FB, Twt & IG Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-from-concept-to-completion-using-magix-video-pro-x/"><u>[New] 2024 Approved From Concept to Completion Using Magix Video Pro X</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-effortless-video-streams-youtube-loops-for-television-viewers-for-2024/"><u>[New] Effortless Video Streams YouTube Loops for Television Viewers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-puzzles-to-peril-the-gaming-genres-progression/"><u>2024 Approved From Puzzles to Peril The Gaming Genre's Progression</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/aggressive-monitoring-and-management-of-blood-glucose-levels-to-miteate-the-impact-on-immune-function/"><u>Aggressive Monitoring and Management of Blood Glucose Levels to Miteate the Impact on Immune Function.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-hp-printer-drivers-compatible-with-windows-10-and-11-easy-download-and-installation-guide/"><u>Free HP Printer Drivers Compatible with Windows 10 and 11: Easy Download & Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062763197-instant-connection-boost-with-quick-adb-driver-access/"><u>Instant Connection Boost with Quick ADB Driver Access!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-cycling-how-photo-chromatic-lenses-transformed-my-ride-experience-a-comprehensive-review/"><u>Revolutionizing Cycling: How Photo-Chromatic Lenses Transformed My Ride Experience - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-and-quick-download-of-canon-mg3620-printer-drivers-heres-how/"><u>Secure and Quick Download of Canon MG3620 Printer Drivers - Here's How!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-role-of-technology-in-modern-map-making-eg-gis-systems-digital-cartography/"><u>The Role of Technology in Modern Map-Making (E.g., GIS Systems, Digital Cartography);</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-your-logitech-c615-master-driver-fixes-here/"><u>Troubleshooting Your Logitech C615? Master Driver Fixes Here!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-full-potential-of-the-new-iphone-15-why-it-impresses-even-hardcore-users-zdnet/"><u>Unlocking the Full Potential of the New iPhone 15: Why It Impresses Even Hardcore Users | ZDNET</u></a></li>
+</ul></div>
 

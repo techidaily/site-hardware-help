@@ -1,7 +1,7 @@
 ---
 title: "Discover the Surprising Secrets: Lenovo's Portable Laptop with Stealthy Trackpoint & More | Unveiled by Tech Experts"
-date: 2025-01-05T08:07:31.691Z
-updated: 2025-01-11T04:31:07.338Z
+date: 2025-01-11T19:25:12.928Z
+updated: 2025-01-17T01:10:49.007Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,20 +218,15 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-speed-boost-for-vimeo-videos/"><u>[New] Ultimate Speed Boost for Vimeo Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-designing-powerful-youtube-screens-a-step-by-step-guide/"><u>[Updated] 2024 Approved Designing Powerful YouTube Screens A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-expansion-at-wallet-friendly-costs-for-2024/"><u>[Updated] Channel Expansion at Wallet-Friendly Costs for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-dark-side-of-digital-content-profitability/"><u>2024 Approved The Dark Side of Digital Content Profitability</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/advanced-methods-for-recording-in-adobe-presenter-for-2024/"><u>Advanced Methods for Recording in Adobe Presenter for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/banish-blurry-footage-keeping-your-gopro-crisp-for-2024/"><u>Banish Blurry Footage Keeping Your GoPro Crisp for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-intels-fastest-nvme-drivers-today-step-by-step-tutorial-inside/"><u>Download Intel's Fastest NVMe Drivers Today – Step-by-Step Tutorial Inside</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978768075-download-microsoft-windows-8-plus-amd-radeon-gpu-support-for-free/"><u>Download Microsoft Windows 8 + AMD Radeon GPU Support for Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-logitech-brio-webcam-up-and-running-on-windows-os-1087/"><u>Get Your Logitech BRIO Webcam Up and Running on Windows OS (10/8/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-the-newest-canon-mg3n-driver-version-free-download-instructions/"><u>Getting the Newest Canon MG3n Driver Version – Free Download Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-access-to-the-zebra-gk420d-printer-driver-hassle-free-download/"><u>Instant Access to the Zebra GK420d Printer Driver – Hassle-Free Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722962233469-microencapsulation-is-a-technique-where-healing-agents-are-released-upon-crack-formation-through-broken-microcapsules-in-the-concrete-mix/"><u>Microencapsulation Is a Technique Where Healing Agents Are Released upon Crack Formation Through Broken Microcapsules in the Concrete Mix</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-slow-booting-problems-in-windows-7-with-easy-troubleshooting-steps/"><u>Overcoming Slow Booting Problems in Windows 7 with Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steam-disk-write-error-troubleshooting-guide/"><u>Steam Disk Write Error Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-pc-download-the-latest-intel-wireless-ax2-drivers-for-windows-1110/"><u>Update Your PC: Download the Latest Intel Wireless AX2# Drivers for Windows 11/10</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/treamline-your-income-youtubes-new-rules/"><u>[New] Streamline Your Income YouTube's New Rules</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-live-streaming-showdown-obs-vs-wirecast-faceoff/"><u>In 2024, Live Streaming Showdown OBS vs Wirecast Faceoff</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-technology-seas-with-expertise-from-toms-gear-hub/"><u>Navigating Technology Seas with Expertise From Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-digital-world-through-toms-hardware-lens/"><u>Navigating the Digital World Through Tom's Hardware Lens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-tech-landscape-with-insights-from-toms-hardware/"><u>Navigating the Tech Landscape with Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-wisdom/"><u>Navigating the World of Gadgets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unlocking-the-secrets-of-ios-visual-data-repository-for-2024/"><u>Unlocking the Secrets of IO's Visual Data Repository for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/wmi-overload-fix-win1011-performance-boost/"><u>WMI Overload Fix: Win10/11 Performance Boost</u></a></li>
 </ul></div>
 

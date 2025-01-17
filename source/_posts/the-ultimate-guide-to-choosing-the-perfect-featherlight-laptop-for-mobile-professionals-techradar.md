@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Choosing the Perfect Featherlight Laptop for Mobile Professionals | TechRadar
-date: 2025-01-10T09:25:35.448Z
-updated: 2025-01-10T23:40:30.487Z
+date: 2025-01-13T17:08:24.010Z
+updated: 2025-01-16T20:31:46.081Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ From Apple's industry-leading [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TS
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -100,10 +104,6 @@ The Zenbook Duo challenged what a laptop could look like with its dual-screen fo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CRD1QRF4%2Fref%3Dasc%5Fdf%5FB0CRD1QRF41728212400000%3Fcreative%3D395261%26creativeASIN%3DB0CRD1QRF4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f64b335-552a-4991-a84d-741b89c5e7ab%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -112,18 +112,18 @@ Kyle Kucharski/ZDNET
 * [Lenovo IdeaPad 1](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Ryzen5-5500U-1920x1080-Storage%2Fdp%2FB0CJB5N9BQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f64b335-552a-4991-a84d-741b89c5e7ab%7Cdtp&dtb=1) for $389 (save $61): Lenovo's IdeaPads are designed to be accessible, well-rounded laptops for a diverse range of users, and the IdeaPad 1 is a solid, affordable option. The 8GB of RAM and 512 GB of memory on board are an accessible configuration for a machine that's well-equipped for the basics at a price that you can't argue with.
 * [Asus Chromebook CM14 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-Anti-Glare-1366x768-CM1402CM2A-DS44%2Fdp%2FB0CJS1399P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f64b335-552a-4991-a84d-741b89c5e7ab%7Cdtp&dtb=1) for $168 ($110 off) - Asus' CM14 is a sleek and lightweight Chromebook that comes loaded with the streamlined ChromeOS to get the basics done on an efficient machine. And for this price, you can't ask for a more affordable device.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals both before and after those days. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
@@ -131,7 +131,7 @@ Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -147,7 +147,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -215,20 +215,14 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-strategies-for-secure-unmarked-photography-procurement/"><u>[New] Strategies for Secure, Unmarked Photography Procurement</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/access-the-most-recent-nvidia-geforce-940mx-driver-version-here-for-free/"><u>Access the Most Recent NVIDIA GeForce 940MX Driver Version Here for Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-latest-hp-officejet-pro-er-driver-software-for-windows-operating-systems-win11108/"><u>Download Latest HP OfficeJet Pro Er Driver Software for Windows Operating Systems [Win11/10/8]</u></a></li>
-<li><a href="https://article-posts.techidaily.com/dynamic-editing-mastering-effects-on-tiktok-content-for-2024/"><u>Dynamic Editing Mastering Effects on TikTok Content for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/easy-steps-to-build-engaging-flipbooks-featuring-your-companys-story-and-visual-identity/"><u>Easy Steps to Build Engaging FlipBooks Featuring Your Company's Story and Visual Identity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-and-fast-downloads-of-dells-latitude-e6420-peripheral-drivers-for-enhanced-performance/"><u>Effortless and Fast Downloads of Dell's Latitude E6420 Peripheral Drivers for Enhanced Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-brother-hl-l2380dw-drivers-for-windows-direct-download-link/"><u>Get the Latest Brother HL-L2380DW Drivers for Windows - Direct Download Link</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972922297-get-the-latest-brother-mfc-7360n-drivers-and-easy-compatibility-with-windows-1087/"><u>Get the Latest Brother MFC-7360N Drivers & Easy Compatibility with Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-epson-wf-3520-software-fresh-driver-downloads-and-compatibility-with-windows-os/"><u>Latest Epson WF-3520 Software: Fresh Driver Downloads and Compatibility with Windows OS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mastering-ps4-the-ultimate-guide-to-capturing-your-games-for-2024/"><u>Mastering PS4 The Ultimate Guide to Capturing Your Games for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/overcoming-dialect-divides-in-partnerships/"><u>Overcoming Dialect Divides in Partnerships</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-10t-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Realme 10T 5G</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/resolving-dvd-shrinks-due-to-insufficient-space-a-step-by-step-guide/"><u>Resolving 'DVD Shrinks Due to Insufficient Space': A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-overcoming-windows-update-problem-0x80n007001f/"><u>Step-by-Step Solution for Overcoming Windows Update Problem 0X80n007001f</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/verbesserung-und-rekonstruktion-von-fotografien-in-extremer-detailqualitat-4k-8k-bis-hin-zu-10k-auf-google-mit-hilfe-von-winxvideo-kunstlicher-intelligenz.m80/"><u>Verbesserung Und Rekonstruktion Von Fotografien in Extremer Detailqualität - 4K, 8K, Bis Hin Zu 10K Auf Google Mit Hilfe Von WinxVideo-Künstlicher Intelligenz</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-inexpensive-vlogging-tools-listed-for-2024/"><u>[New] Essential, Inexpensive Vlogging Tools Listed for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-solve-non-playing-fb-videos-on-iphone/"><u>[New] In 2024, Solve Non-Playing FB Videos on iPhone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-essential-collection-of-high-speed-monitor-tools/"><u>[New] In 2024, The Essential Collection of High-Speed Monitor Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-maximizing-shot-stability-on-drones-a-comprehensible-guide/"><u>[Updated] 2024 Approved Maximizing Shot Stability on Drones A Comprehensible Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-latest-compute-powerhouse-the-zen-5-cpu-ryzen-7-9700x-stored-for-launch-as-enthusiast-claims-early-possession-retail-ready-stockpile-confirmed-in-wareh3/"><u>AMD's Latest Compute Powerhouse, the Zen 5 CPU Ryzen 7 9700X, Stored for Launch as Enthusiast Claims Early Possession – Retail Ready Stockpile Confirmed in Warehouses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mg3600-driver-installation-step-by-step-guide-and-updates/"><u>Canon MG3600 Driver Installation: Step-by-Step Guide & Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/create-compelling-compositions-with-iphone-the-power-of-leading-lines-for-2024/"><u>Create Compelling Compositions with iPhone The Power of Leading Lines for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-canon-mg3022-printer-drivers-keep-your-printer-updated/"><u>Download Latest Canon MG3022 Printer Drivers - Keep Your Printer Updated</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-dell-inspiron-15-device-drivers-on-windows-11/"><u>How to Update Dell Inspiron 15 Device Drivers on Windows 11</u></a></li>
 </ul></div>
 

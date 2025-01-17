@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Seasonal Bargains: Top Discounts on iPads, Televisions, Computers & Beyond Exclusive"
-date: 2025-01-03T18:27:44.156Z
-updated: 2025-01-10T18:42:15.425Z
+date: 2025-01-14T22:42:32.440Z
+updated: 2025-01-16T19:26:10.319Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ This list will be updated throughout the month, so check back to find the latest
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday deals: ZDNET experts' top 20 picks
 
 1. [Apple AirPods Pro 2 with USB-C charging case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Generation-Cancelling-Transparency-Personalized%2Fdp%2FB0CHWRXH8B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $199 (save $50 at Amazon)
@@ -55,6 +51,10 @@ This list will be updated throughout the month, so check back to find the latest
 19. [HP Victus 15L gaming desktop](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0346st-49n24av-1): $480 (save $400 at HP)
 20. [Roku Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09T4VZDYV%2Fref%3Dcm%5Fgf%5Fadbo%5Fd%5Fp0%5Fe0%5Fqd0%5Ffu24jf571EvEqYFicc8R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $90 (save $10 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday deals under $25
 
 Maria Diaz/ZDNET
@@ -65,10 +65,6 @@ Maria Diaz/ZDNET
 * [INIU Portable Charger](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FINIU-High-Speed-Flashlight-Powerbank-Compatible%2Fdp%2FB07CZDXDG8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $18 (save $12 at Amazon)
 * [Kasa Smart Plug Ultra Mini (2 pack)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKasa-Smart-Required-Certified-EP10P2%2Fdp%2FB091FXQQMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $12 (save $8 at Amazon)
 * [Windows 11 Pro](https://www.stacksocial.com/sales/microsoft-windows-11-pro?utm%5Fsource%3Dzdnet.com%26utm%5Fmedium%3Dreferral%26utm%5Fcampaign%3Dmicrosoft-windows-11-pro%26utm%5Fterm%3Dscsf-572750%26utm%5Fcontent%3Da0x1P000004Im9wQAC%26scsonar%3D1%26aid%3Da-ceempx7z&sa=D&source=docs&ust=1686856045303167&usg=AOvVaw3GdVuYpgozg%5FgfSi8QlrTM): $25 (save $175 at Stack Social)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday deals under $50
 
@@ -92,10 +88,6 @@ June Wan/ZDNET
 * [DeWalt 20V Max 1/2 inch cordless drill with battery and charger](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDEWALT-Cordless-Battery-Included-DCD777D1%2Fdp%2FB0C3TGRLLM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $99 (save $60 at Amazon)
 * [Canon Ivy 2 Mini Photo Printer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BGM5XPQZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $69 (save $30 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday deals under $200
 
 Maria Diaz/ZDNET
@@ -106,7 +98,7 @@ Maria Diaz/ZDNET
 * [Bose SoundLink Flex Bluetooth Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB099TJGJ91%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $119 (save $30 at Amazon)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday deals under $500
@@ -141,6 +133,10 @@ Jason Hiner/ZDNET
 * [Apple iPad Mini (A15 chip, 8.3-inch, 256GB):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1) $540 (save $110 at Amazon with coupon)
 * [Apple iPad Air (M1 chip, 10.9-inch, 64GB, Wi-Fi + Cellular):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Air-5th-Generation%2Fdp%2FB09V3JWQKB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1) $650 (save $100 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday robot vacuum deals
 
 Beth Mauder/ZDNET
@@ -153,6 +149,10 @@ Beth Mauder/ZDNET
 * [Shark IQ Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-IQ-Robot-Self-Empty-XL-Vacuum-with-Self-Empty-Base-Home-Mapping-RV1002AE-New%2F875128326&subId1=zd-__COM_CLICK_ID__-dtp): $249 (save $351 at Walmart)
 * [iRobot Roomba 694 robot vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FiRobot-Vacuum-Wi-Fi-Connectivity-Carpets-Self-Charging%2Fdp%2FB08SP5GYJP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $159 (save $116 at Amazon)
 * [Shark AI Ultra Self-Empty Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-AI-Ultra-Self-Empty-Robot-Vacuum-Bagless-60-Day-Capacity-Base-Precision-Home-Mapping-Perfect-for-Pet-Hair-Wi-Fi-AV2511AE%2F1883965277&subId1=zd-__COM_CLICK_ID__-dtp): $298 (save $301 at Walmart)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday TV deals
 
@@ -191,6 +191,10 @@ Jada Jones/ZDNET
 * [Sennheiser HD 650 stereo reference headphones](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F310010-REG%2FSennheiser%5FHD%5F650%5FHD650%5FReference%5FClass.html): $400 (save $100 at B&H Photo)
 * [Samsung Galaxy Buds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Wireless-Bluetooth-Wing-Tip-Assistant%2Fdp%2FB0CF7GYNW2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $70 (save $30 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday phone deals
 
 Jason Hiner/ZDNET
@@ -202,10 +206,6 @@ Jason Hiner/ZDNET
 * [Samsung Galaxy Z Fold5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D47773%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.samsung.com%252Fus%252Fsmartphones%252Fgalaxy-z-fold5%252Fbuy%252Fgalaxy-z-fold5-512gb-unlocked-sm-f946uzkexaa%252F): Up to $1,000 instant trade-in credit at Samsung
 * [Samsung Galaxy A54 128GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Factory-Unlocked-Android-Smartphone%2Fdp%2FB0BSLR2L5R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $399 (save $50 at Amazon)
 * [Samsung Galaxy S23 FE 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Unlocked-Smartphone-Processor-Graphite%2Fdp%2FB0CD8NF62Z%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $560 (save $100 at Amazon)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday laptop deals
 
@@ -219,7 +219,7 @@ Jason Hiner/ZDNET
 * [Lenovo LOQ Tower Intel Edition](https://go.shopyourlikes.com/pi/bc82422a965d3574bb1afda3dd1ab5b7fb336893?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $650 (save $380 at Lenovo)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday tablet deals
@@ -307,17 +307,17 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-cost-effective-growth-tactic-for-youtube-fanbases/"><u>[New] In 2024, Cost-Effective Growth Tactic for YouTube Fanbases</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-picks-for-free-virtual-conferencing-and-screensharing-software-for-2024/"><u>[New] Top Picks for FREE Virtual Conferencing & Screensharing Software for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-comprehensive-reference-for-efficient-screenshotting-with-zd-softwares-tools-for-2024/"><u>[Updated] Comprehensive Reference for Efficient Screenshotting with ZD Software's Tools for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-digital-dynamo-women-the-fastest-growing-female-channel-owners/"><u>[Updated] In 2024, Digital Dynamo Women The Fastest-Growing Female Channel Owners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-framefixer-editor/"><u>[Updated] In 2024, FrameFixer Editor</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/boost-your-gpus-power-expert-tips-from-yl-software-for-better-performance/"><u>Boost Your GPU's Power: Expert Tips From YL Software for Better Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-your-zexmte-bluetooth-device-driver-for-windows-versions-xpvista7/"><u>Download Your ZexMTE Bluetooth Device Driver for Windows Versions (XP/Vista/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-install-of-corsair-void-pro-graphics-card-drivers-on-your-windows-machine-free-guide-included/"><u>Effortless Install of Corsair Void Pro Graphics Card Drivers on Your Windows Machine – Free Guide Included</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-sound-blaster-z-drivers-installed-on-windows-11-step-by-step/"><u>Get Your Sound Blaster Z Drivers Installed on Windows 11 - Step by Step</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-savvy-saving-with-20-best-free-storage-services-up-to-1tb/"><u>In 2024, Savvy Saving with 20 Best Free Storage Services, Up To 1TB</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-complete-mutism-a-guide-to-reactivating-sounds-in-skyrim/"><u>Overcoming Complete Mutism: A Guide to Reactivating Sounds in Skyrim</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972846272-updated-msi-z370-a-pro-motherboard-drivers-download-today/"><u>Updated MSI Z370-A Pro Motherboard Drivers: Download Today</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-step-by-step-strategies-for-discord-video-streamers-for-2024/"><u>[New] Step-By-Step Strategies for Discord Video Streamers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726218692809-mp3mpeg-movavi/"><u>在網路上免費MP3到MPEG格式轉換 - 利用Movavi影片編輯工具</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-ways-to-repair-lgs-unrecognized-hardware-in-windows-os-windows-1087/"><u>Effective Ways to Repair LG's Unrecognized Hardware in Windows OS (Windows 10/8/7)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-6-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 6 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-virality-understanding-what-makes-triller-different-from-tiktok/"><u>In 2024, Beyond Virality Understanding What Makes Triller Different From TikTok</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-guide-smoothly-installing-the-surface-dock-driver-in-just-a-few-steps/"><u>Instant Access Guide: Smoothly Installing the Surface Dock Driver in Just a Few Steps</u></a></li>
+<li><a href="https://win-studio.techidaily.com/rescuing-your-data-from-accidental-deletion-with-windows-defender-effective-solutions-and-strategies/"><u>Rescuing Your Data From Accidental Deletion with Windows Defender: Effective Solutions and Strategies</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/romance-and-its-roots-in-language-culture/"><u>Romance and Its Roots in Language Culture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solution-maternal-screenings-can-detect-and-treat-syphilis-early-reducing-the-risk-of-transmission-to-the-fetus-and-preventing-serious-birth-defects-or-stil190/"><u>Solution: Maternal Screenings Can Detect and Treat Syphilis Early, Reducing the Risk of Transmission to the Fetus and Preventing Serious Birth Defects or Stillbirth.</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/solving-the-printer-in-error-state-issue-a-comprehensive-guide-by-yl-computing/"><u>Solving the 'Printer in Error State' Issue: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-solving-startech-driver-problems-for-windows-11-8-and-7-users/"><u>Troubleshooting and Solving StarTech Driver Problems for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/whole-viewpoint-vs-multiplanar-imaging-techniques/"><u>Whole Viewpoint vs Multiplanar Imaging Techniques</u></a></li>
 </ul></div>
 

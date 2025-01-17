@@ -1,7 +1,7 @@
 ---
 title: Slash Your Budget! Get the MacBook Pro 16-Inch M1 Max From B&H Photo | ZDNET Deal Alert!
-date: 2024-11-28T00:49:17.322Z
-updated: 2024-12-04T21:27:07.067Z
+date: 2025-01-12T22:14:14.206Z
+updated: 2025-01-16T19:43:29.772Z
 tags:
   - laptops
 categories:
@@ -20,7 +20,7 @@ Apple product deals are rare, but this 20% discount on a MacBook Air is unheard 
 **Read the review: [M1 MacBook Air review](https://www.zdnet.com/article/m1-macbook-air-long-term-review/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -28,7 +28,7 @@ Apple product deals are rare, but this 20% discount on a MacBook Air is unheard 
 [![2020-03-19-at-2-39-54-pm.jpg](https://www.zdnet.com/a/img/resize/80ba392bacc4388899c436d9acd4d00f04d5645c/2020/03/19/ff6c9504-c35e-4cb6-a83c-f51c18669916/2020-03-19-at-2-39-54-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best laptop with the longest battery life The laptops on this list can keep you online and working longer when you need to be unplugged.  Read now](https://www.zdnet.com/article/best-battery-life-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The laptop comes packed with 256GB of storage and 8GB RAM, so you can quickly work through websites, documents, and more. Plus, you can stay focused for hours on end thanks to the long battery life, which lasts up to 18 hours on a single charge. 
@@ -69,20 +69,17 @@ The backlit keyboard enables you to log on in any environment. You can even Face
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-transform-your-broadcasts-5-advanced-recording-methods-web/"><u>[Updated] Transform Your Broadcasts 5 Advanced Recording Methods Web</u></a></li>
-<li><a href="https://extra-information.techidaily.com/break-free-from-periscope-unique-mobile-video-apps-for-smartphones/"><u>Break Free From Periscope Unique Mobile Video Apps for Smartphones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/converting-images-into-harmonious-videography/"><u>Converting Images Into Harmonious Videography</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-t2-pro-5g-by-drfone-android/"><u>How to Bypass FRP from Vivo T2 Pro 5G?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-8-tips-to-create-attractive-instagram-unboxing-reels/"><u>In 2024, 8 Tips to Create Attractive Instagram Unboxing Reels</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quadcopter-mechanics-decoded-flight-patterns-and-functionality-for-2024/"><u>Quadcopter Mechanics Decoded Flight Patterns & Functionality for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsungs-latest-contender-the-galaxy-buds-3-pro-vs-apples-airpods-pro/"><u>Samsung's Latest Contender: The Galaxy Buds 3 Pro Vs. Apple's AirPods Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/say-goodbye-to-steam-link-woes-explore-smooth-streaming-via-free-alternatives-moonlight-and-sunshine-awaits/"><u>Say Goodbye to Steam Link Woes! Explore Smooth Streaming via Free Alternatives – Moonlight and Sunshine Awaits!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/should-your-portable-computer-come-with-separate-graphic-chips-for-enhanced-performance/"><u>Should Your Portable Computer Come with Separate Graphic Chips for Enhanced Performance?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sonos-pledges-improvement-reinstating-classic-app-attributes/"><u>Sonos Pledges Improvement, Reinstating Classic App Attributes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/spotting-trouble-6-critical-warnings-that-showcase-bad-computer-cable-arrangement/"><u>Spotting Trouble: 6 Critical Warnings That Showcase Bad Computer Cable Arrangement</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-resolving-tilt-errors-in-your-steam-deck-console/"><u>Step-by-Step Guide: Resolving Tilt Errors in Your Steam Deck Console</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-setting-up-google-play-services-on-your-amazon-fire-device/"><u>Step-by-Step Guide: Setting Up Google Play Services on Your Amazon Fire Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-fix-windows-11-assistive-application/"><u>Strategies to Fix Windows 11 Assistive Application</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-compilation-ringtone-renaissance-sites-for-2024/"><u>Ultimate Compilation Ringtone Renaissance Sites for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-mastering-twitter-videos-a-beginners-tutorial/"><u>[New] Mastering Twitter Videos A Beginner's Tutorial</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862825815-from-retro-to-revolutionary-how-a-classic-crt-monitor-managed-extreme-70-groove-refresh-rate-at-the-expense-of-resolution/"><u>From Retro to Revolutionary: How a Classic CRT Monitor Managed Extreme 70 Groove Refresh Rate at the Expense of Resolution.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862785823-game-monitors-reimagined-the-all-new-gen-2-samsung-55-odyssey-at-record-low-prices/"><u>Game Monitors Reimagined: The All-New Gen 2 Samsung 55 Odyssey at Record Low Prices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y77t-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y77t PC | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-6s-plusipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 6s Plus/iPad Without Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-and-value-in-a-nutshell-affordable-gaming-mothers/"><u>Quality and Value in a Nutshell: Affordable Gaming Mothers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamlessly-convert-your-3g2-videos-to-high-quality-flv-no-cost-using-simplevideoconverter/"><u>Seamlessly Convert Your 3G2 Videos to High-Quality FLV - No Cost, Using SimpleVideoConverter!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862818552-steal-the-deal-acers-34-wqhd-curved-monitor-for-a-steal-at-just-200-newegg-exclusive/"><u>Steal the Deal: Acer's 34 WQHD Curved Monitor for a Steal at Just $200 - Newegg Exclusive!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862837847-title-top-review-experience-exceptional-precision-with-the-asus-rog-strix-xg27acs-qhd-gaming-monitor/"><u>Title: Top Review: Experience Exceptional Precision with the Asus ROG Strix XG27ACS QHD Gaming Monitor.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unique-selling-points-of-chatgpt-for-companies/"><u>Unique Selling Points of ChatGPT for Companies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862783431-unleash-the-ultimate-gaming-experience-incredible-value-of-innocns-high-definition-27-240hz-ips-monitor-for-199/"><u>Unleash the Ultimate Gaming Experience: Incredible Value of Innocn's High-Definition 27 240Hz IPS Monitor for $199!</u></a></li>
 </ul></div>
 

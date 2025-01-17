@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's Yoga Book Ninespot: Transforming the Future of Multi-Functional Devices with Its Revolutionary Dual Screens | Insights"
-date: 2025-01-05T18:05:40.755Z
-updated: 2025-01-11T08:05:31.528Z
+date: 2025-01-13T23:42:32.803Z
+updated: 2025-01-16T17:45:05.032Z
 tags:
   - laptops
 categories:
@@ -39,6 +39,10 @@ Before you rush out and buy one today, let's take a closer look at my experience
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Display               | 2x 13.3-inch OLED displays with 2800x1800 resolution            |
@@ -52,6 +56,10 @@ Before you rush out and buy one today, let's take a closer look at my experience
 | Dimensions and weight | 11.78 x 8.03 x 0.63-inches, 3.15 pounds                         |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What's new with this model
 
@@ -97,10 +105,6 @@ I thoroughly enjoy the design of the Yoga Book 9i. Its looks and feels like a la
 
 For comparison, the [Dell XPS 13](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fcty%2Fpdp%2Fspd%2Fxps-13-9315-laptop%2Fxn9315fyvnh%3F) weighs 2.59 pounds, and the [13-inch MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) weighs in at 2.7 pounds. So it's not terribly far off, but it does feel bulkier. Perhaps the fact that you need to carry around the Folio Stand which bundles in the keyboard and stylus, along with a mouse, has left me feeling like it's a lot to manage. Because it is. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  2\. The folio stand is fantastic
 
 Jason Cipriani/ZDNET
@@ -116,7 +120,7 @@ For example, you can place the bottom screen on the stand, with the displays sta
 When you're ready to pack up, the folio stand folds down into itself, giving you a place to store the keyboard and the stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. It's got plenty of power
@@ -134,10 +138,6 @@ But, still, all of that hardware equates to a laptop that was capable of handlin
 I spent most of my time on the Yoga Book 9i doing typical computing tasks; browsing the web, streaming videos and music, writing, and a couple of quick photo edits. Even when doing all of that, moving windows between the displays, and relying on a digital trackpad for the full-sized keyboard, I never noticed the Yoga Book 9i slowing down. 
 
 With a price tag of [$2,000 for the base configuration](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-book-9i-2-in-1-13-3-2-8k-dual-screen-oled-touch-laptop-intel-core-i7-1355u-with-16gb-memory-512gb-ssd-tidal-teal%2F6533947.p%3FskuId%3D6533947&publisher_slug=itechdaily19598&exclusive=1), you're paying a premium when compared to other laptops from the likes of Dell or Acer, but you're also getting a second screen and all of the accessories in the box. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What I'd like to see in the next model
 
@@ -167,10 +167,6 @@ When using the Yoga Book 9i on a daily basis, I would occasionally get nearly 7 
 
 Perhaps the most frustrating aspect of the Yoga Book 9i's battery life is the lack of standby battery with the laptop closed and sitting idle on a desk. If I unplugged it at 100% charge and set the laptop aside on my desk, the battery would be completely drained within a couple of days. I double-checked my settings to ensure the laptop is going to sleep, and I don't see anything off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3\. Less bloatware wouldn't hurt anyone
 
 There's a lot to like about the Yoga Book 9i, but here's one thing I'm certain most people won't like: Spending $2,000 or more on a laptop that has all sorts of fancy features and capabilities, only to find McAfee LiveSafe preinstalled. Anti-virus software is a must-have, sure, but preinstalling it is nothing more than adding bloatware to a device that users have spent a lot of money on. 
@@ -180,7 +176,7 @@ What's more is that as you near the end of the trial -- that you never even opte
 [Buy the Lenovo Yoga Book 9i $1,999 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-book-9i-2-in-1-13-3-2-8k-dual-screen-oled-touch-laptop-intel-core-i7-1355u-with-16gb-memory-512gb-ssd-tidal-teal%2F6533947.p%3FskuId%3D6533947&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Bottom line
@@ -188,6 +184,10 @@ What's more is that as you near the end of the trial -- that you never even opte
 The [$2,000 Yoga Book 9i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-book-9i-2-in-1-13-3-2-8k-dual-screen-oled-touch-laptop-intel-core-i7-1355u-with-16gb-memory-512gb-ssd-tidal-teal%2F6533947.p%3FskuId%3D6533947&publisher_slug=itechdaily19598&exclusive=1) is available to preorder right now. Overall, it's a solid laptop, but one that you'll likely find yourself having to do a lot of mental gymnastics in order to use it without any of the traditional input methods. 
 
 Lenovo took a chance with the Yoga Book 9i by not only building something that goes against what everyone thinks a laptop should be due to complacency but by actually selling it to customers. As I said earlier, it sure feels like something from the future. But that also means it feels very much like a first-generation product with some drawbacks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Should I buy one?
 
@@ -227,24 +227,19 @@ If you're someone who loves using new tech that's not fully baked, and you're in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-dive-deep-into-the-world-of-facebook-story-creation-expert-advice-inside/"><u>[New] In 2024, Dive Deep Into the World of Facebook Story Creation Expert Advice Inside</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-master-the-art-of-recording-youtube-videos-without-spending/"><u>[New] In 2024, Master the Art of Recording YouTube Videos Without Spending</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-best-youtube-video-reaction-ideas/"><u>[Updated] 2024 Approved Best YouTube Video Reaction Ideas</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-resolution-of-pci-secure-data-handler-controller-difficulties/"><u>Effective Resolution of PCI Secure Data Handler Controller Difficulties</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-intel-integrated-graphics-software-for-windows-11-installation-tutorial/"><u>Get the Latest Intel Integrated Graphics Software for Windows 11: Installation Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-graphics-up-to-speed-instant-geforce-gtx-460-windows-drivers/"><u>Get Your Graphics Up to Speed: Instant GeForce GTX 460 Windows Drivers!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-nvidia-rtx-2070-super-gpu-drivers-for-windows-operating-systems/"><u>How to Get the Newest NVIDIA RTX 2070 Super GPU Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-v29e-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on V29e</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crack-the-code-of-tinders-elite-profiles-with-these-tricks/"><u>In 2024, Crack the Code of Tinder's Elite Profiles with These Tricks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leap-into-the-future-with-strategic-technology-enhancements/"><u>In 2024, Leap Into the Future with Strategic Technology Enhancements</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-wacom-intuos-warty-art-pen-tablet-drivers-on-windows-full-compatibility-ensured/"><u>Installing Wacom Intuos Warty Art Pen Tablet Drivers on Windows - Full Compatibility Ensured!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovo-x260-thinkpad-essential-driver-downloads-and-troubleshooting-for-windows-11-users/"><u>Lenovo X260 (ThinkPad) Essential Driver Downloads and Troubleshooting for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-hp-printing-software-downloads-compatible-with-windows-1087/"><u>Official HP Printing Software Downloads Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-install-the-latest-epson-et-4550-printer-drivers-on-your-pc/"><u>Quick and Simple Guide: Install the Latest Epson ET-4550 Printer Drivers on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-correcting-the-corrupt-disk-error-for-smooth-steam-gaming/"><u>Step-by-Step Tutorial: Correcting the 'Corrupt Disk' Error for Smooth Steam Gaming</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-downloading-and-playing-thrustmasters-t300-on-modern-windows-operating-systems/"><u>Ultimate Guide: Downloading and Playing Thrustmaster's T300 on Modern Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-and-update-your-hp-laserjet-m506-printer-drivers-with-ease/"><u>Upgrade and Update Your HP LaserJet M506 Printer Drivers with Ease</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-premier-selector-master-your-video-grabs/"><u>[New] 2024 Approved The Premier Selector Master Your Video Grabs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-twitch-and-friendly-networks-efficient-crossposting/"><u>[New] 2024 Approved Twitch and Friendly Networks Efficient Crossposting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-the-world-of-insta-influencers-5-pivotal-moves-and-results/"><u>[Updated] In 2024, Navigating the World of Insta Influencers 5 Pivotal Moves and Results</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-obs-high-encoding-how-to-fix-for-2024/"><u>[Updated] OBS High Encoding - How to Fix for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-discord-screen-share-fixing-no-audio-output-problem/"><u>Effective Solutions for Discord Screen Share - Fixing No Audio Output Problem</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962132130-get-your-gigabyte-audio-drivers-now-free-offer/"><u>Get Your Gigabyte Audio Drivers Now – FREE Offer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-ricoh-printer-drivers-installed-on-your-windows-pc/"><u>How To Get The Latest Ricoh Printer Drivers Installed On Your Windows PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtube-shorts-monetization-how-to-make-money-on-youtube-shorts/"><u>In 2024, YouTube Shorts Monetization How to Make Money on YouTube Shorts?</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/professional-dvd-conversion-made-easy-with-official-winx-platinum-ripper-transform-your-dvd-collection-into-high-definition-mp4-files-swiftly/"><u>Professional DVD Conversion Made Easy with Official WinX Platinum Ripper – Transform Your DVD Collection Into High-Definition MP4 Files Swiftly</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-chaos-dive-into-idle-realms/"><u>Quiet Chaos: Dive Into Idle Realms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rtx-2080-updated-drivers-download-latest-version-compatible-with-win10win7win8/"><u>RTX 2080 Updated Drivers: Download Latest Version Compatible with Win10/Win7/Win8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969907642-update-to-newest-nvidia-drivers-for-windows-10-simple-steps-and-links/"><u>Update to Newest NVIDIA Drivers for Windows 10: Simple Steps & Links!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgraded-brother-mfc-7360n-printer-support-effortless-driver-download-and-update-for-all-windows-versions/"><u>Upgraded Brother MFC-7360N Printer Support: Effortless Driver Download and Update for All Windows Versions</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-poco-m6-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Poco M6 Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

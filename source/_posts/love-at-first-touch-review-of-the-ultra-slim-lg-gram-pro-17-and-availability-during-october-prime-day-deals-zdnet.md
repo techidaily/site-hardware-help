@@ -1,7 +1,7 @@
 ---
 title: "Love at First Touch: Review of the Ultra-Slim LG Gram Pro 17 & Availability During October Prime Day Deals - ZDNet"
-date: 2025-01-06T07:51:36.593Z
-updated: 2025-01-11T11:20:18.032Z
+date: 2025-01-11T02:10:52.183Z
+updated: 2025-01-16T19:04:14.576Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -80,7 +76,7 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727866800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day Chromebook deals
@@ -99,10 +95,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -117,6 +109,10 @@ Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -135,27 +131,31 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -230,21 +230,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlock-10-passport-images-at-no-cost-desktopweb/"><u>[New] Unlock 10 Passport Images at No Cost – Desktop/Web</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-easing-into-frame-focus/"><u>[Updated] In 2024, Easing Into Frame Focus</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-6-plus-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 6 Plus iCloud Activation Lock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-rx-5700-xt-driver-download-for-windows-111087/"><u>AMD RX 5700 XT Driver Download for Windows 11/10/8/7</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/cambia-da-ape-a-aiff-senza-costi-utilizzando-il-servizio-online-di-conversione-di-movavi/"><u>Cambia Da .ape a .aiff Senza Costi Utilizzando Il Servizio Online Di Conversione Di Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/encountered-water-inside-iphone-charger-jack-discover-effective-remedies-and-repair-techniques/"><u>Encountered Water Inside iPhone Charger Jack? Discover Effective Remedies and Repair Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-windows-10-bluetooth-connectivity-problems-solved/"><u>Fixing Windows 10 Bluetooth Connectivity Problems - Solved!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-driver-version-for-epson-tm-t88v-printer-compatible-with-windows-systems/"><u>Get the Newest Driver Version for EPSON TM-T88V Printer - Compatible with Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guaranteed-compatibility-quick-download-of-dell-sound-driver-software/"><u>Guaranteed Compatibility: Quick Download of Dell Sound Driver Software</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-c50-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-and-use-insignias-usb-adapter-driver-for-monitor-connection/"><u>How to Get and Use Insignia's USB Adapter Driver for Monitor Connection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-lenovo-power-management-drivers-easily/"><u>How To Update Lenovo Power Management Drivers Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-your-pcs-visual-performance-with-the-newest-intel-iris-xe-drivers-for-win-1011/"><u>Improve Your PC’s Visual Performance with the Newest Intel Iris Xe Drivers for Win 10/11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-16-decision-guide-insider-perspectives-editors/"><u>IPhone 16 Decision Guide: Insider Perspectives Editors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-2024-cloud-services-for-minimum-spend/"><u>Optimal 2024 Cloud Services for Minimum Spend</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-8-plus-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Plus Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unleash-creativity-with-these-top-10-instagram-reel-apps-for-2024/"><u>[New] Unleash Creativity with These Top 10 Instagram Reel Apps for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagrams-filter-arsenal-for-revamping-your-archive/"><u>[Updated] 2024 Approved Instagram's Filter Arsenal for Revamping Your Archive</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-reverse-films-on-android/"><u>[Updated] The Ultimate Guide to Reverse Films on Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-techniques-in-utilizing-the-seagate-backup-plus-drive-effectively/"><u>Advanced Techniques in Utilizing the Seagate Backup Plus Drive Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/anticipated-debut-of-arrow-lake-s-cpu-from-intel-in-early-winter/"><u>Anticipated Debut of Arrow Lake-S CPU From Intel in Early Winter</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-elite-ergonomic-wrist-rest-solutions-for-optimal-typing/"><u>Discover Elite Ergonomic Wrist Rest Solutions for Optimal Typing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-lenovo-thinkpad-x260-drivers-for-windows-10/"><u>Download and Update Lenovo ThinkPad X260 Drivers for Windows 10</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/elevate-yourself-mastering-personal-development-and-achieving-happiness-with-abc-strategies-via-massmail-applications/"><u>Elevate Yourself : Mastering Personal Development and Achieving Happiness with ABC Strategies via MassMail Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-logitech-c525-webcam-driver-on-windows-1087/"><u>How to Update Your Logitech C525 Webcam Driver on Windows 10/8/7</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-6-minecraft-oriental-house-ideas-you-should-try/"><u>In 2024, Top 6 Minecraft Oriental House Ideas You Should Try</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-hardware-analysis-with-tomtechexperts/"><u>In-Depth Hardware Analysis with TomTechExperts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-illusions-leveraging-gpt-in-crafting-immersive-dandd-worlds/"><u>Interactive Illusions: Leveraging GPT in Crafting Immersive D&D Worlds</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/legacy-architecture-lost-understanding-the-implications-of-llvm-dropping-3dnow-instruction-support-from-amd/"><u>Legacy Architecture Lost: Understanding the Implications of LLVM Dropping 3DNow! Instruction Support From AMD</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-tips-navigating-without-watching-edgenuity-content/"><u>Pro Tips Navigating Without Watching Edgenuity Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-your-free-samsung-m2020-drivers-today/"><u>Step-by-Step Guide to Downloading Your Free Samsung M2020 Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-with-fresh-rtx-ebytes-for-windows-11-windows-7-and-8/"><u>Update Your PC with Fresh RTX Ebytes for Windows 11, Windows 7 & 8</u></a></li>
 </ul></div>
 

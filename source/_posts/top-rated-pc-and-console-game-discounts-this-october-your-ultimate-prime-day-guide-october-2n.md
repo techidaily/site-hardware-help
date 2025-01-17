@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated PC and Console Game Discounts This October: Your Ultimate Prime Day Guide (October 2N°)"
-date: 2024-11-29T23:04:27.802Z
-updated: 2024-12-05T07:16:29.760Z
+date: 2025-01-14T23:27:48.708Z
+updated: 2025-01-17T01:21:15.000Z
 tags:
   - laptops
 categories:
@@ -99,10 +99,6 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -134,6 +130,10 @@ ZDNET
 * [Gran Turismo 7 standard edition for $41 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGran-Turismo-7-PlayStation-5%2F443954076%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The definitive racing sim is back on PS5 with an all-new solo campaign, over 420 cars to unlock, and over 90 tracks to master.
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 * [Madden NFL 25 for $48 (save $23)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMadden-NFL-25-PlayStation-5%2Fdp%2FB0D3PGHSM3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): The latest entry in the popular franchise features physics-based tackling, a rebalanced player system, and refreshed franchise mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -173,10 +173,6 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $66 (save $14 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -192,6 +188,10 @@ Kyle Kucharski/ZDNET
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -201,6 +201,10 @@ Lenovo
 * [Asus ROG Zephyrus G16 for $2,300 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-zephyrus-g16-16-oled-240hz-gaming-laptop-intel-core-ultra-9-32gb-lpddr5x-nvidia-geforce-rtx-4080-1tb-ssd-eclipse-gray%2F6570223.p%3FskuId%3D6570223&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This high-end gaming laptop has a 16-inch OLED display capable of a 240Hz refresh rate and 2560 x 1600 resolution. It's also built with an Intel Core Ultra 9 CPU and Nvidia RTX 4080 graphics card.
 * [Razer Blade 18 for $4,050 (save $450 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-blade-18-18-gaming-laptop-qhd-300hz-mini-led-intel-core-i9-nvidia-geforce-rtx-4090-32gb-ram-2tb-ssd-black%2F6580403.p%3FskuId%3D6580403&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A premium grade creator laptop featuring an 18-inch mini LED display with a 300Hz refresh rate and 2560 x 1600 resolution. It's built with a 14th gen Intel Core i9 CPU, Nvidia RTX 4090 graphics card, 32GB of RAM, and a 2TB SSD.
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
 
@@ -226,11 +230,11 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $810 (save $114 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
@@ -240,16 +244,12 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -317,20 +317,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-unlocking-creative-power-for-youtube-intros-in-imovie-for-2024/"><u>[Updated] Unlocking Creative Power for YouTube Intros in iMovie for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-visual-journey-app-performance-analysis/"><u>[Updated] Visual Journey App Performance Analysis</u></a></li>
-<li><a href="https://win-top.techidaily.com/1-free-methods-to-transcode-mxf-video-formats-a-step-by-step-guide/"><u>1. Free Methods to Transcode MXF Video Formats: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-ideal-operating-temperatures-for-modern-graphics-cards-understanding-safe-heat-levels/"><u>1. Ideal Operating Temperatures for Modern Graphics Cards: Understanding Safe Heat Levels</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-rog-ally-compatible-with-valves-steamos-a-perfect-match-for-gamers/"><u>ASUS ROG Ally Compatible with Valve's SteamOS: A Perfect Match for Gamers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/beyond-coding-daily-life-applications-of-keyboard-macros/"><u>Beyond Coding: Daily Life Applications of Keyboard Macros</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/can-microsofts-artificial-intelligence-revive-the-windows-mobile-experience/"><u>Can Microsoft's Artificial Intelligence Revive the Windows Mobile Experience?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972453113-get-the-latest-realtek-graphics-card-drivers-for-windows-10-here/"><u>Get the Latest Realtek Graphics Card Drivers for Windows 10 Here!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhance-your-social-presence-with-easy-fb-video-upload-pc-and-android/"><u>In 2024, Enhance Your Social Presence with Easy FB Video Upload, PC & Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggles-guide-to-sign-insign-out/"><u>In 2024, Giggles Guide to Sign-In/Sign-Out</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-streamlining-the-process-simplified-setup-of-tiktok-livestreams-from-desktop/"><u>In 2024, Streamlining the Process Simplified Setup of TikTok Livestreams From Desktop</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-logitech-keys-to-go-2-initial-thoughts-and-in-depth-product-analysis/"><u>Unveiling the Logitech Keys-To-Go 2: Initial Thoughts and In-Depth Product Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-you-might-skip-adding-liquid-coolers-to-your-amd-processor/"><u>Why You Might Skip Adding Liquid Coolers to Your AMD Processor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/worlddirect-innovates-introducing-a-revolutionary-new-6tb-portable-ssd/"><u>WorldDirect Innovates: Introducing a Revolutionary New 6TB Portable SSD</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-artful-expression-on-tablets-leading-ios-drawers/"><u>[Updated] Artful Expression on Tablets Leading iOS Drawers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-five-leading-pc-tools-for-sonys-ps1-experience/"><u>[Updated] In 2024, The Five Leading PC Tools for Sony's PS1 Experience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-youtube-tv-everything-you-need-to-know/"><u>2024 Approved YouTube TV - Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-conscious-gaming-with-asrocks-b760m-pro-rs-robust-m2-capabilities-included/"><u>Budget-Conscious Gaming with ASRock's B760M Pro RS - Robust M.2 Capabilities Included</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-hardware-mastery-with-toms-expert-reviews/"><u>Dive Into Hardware Mastery with Tom's Expert Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-mastermind-user-friendly-motherboards-to-streamline-your-custom-pc-craftsmanship/"><u>DIY MasterMind: User-Friendly Motherboards to Streamline Your Custom PC Craftsmanship</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-gear-analysis-by-toms-technology-hub-unveiling-the-best-in-pc-components/"><u>Expert Gear Analysis by Tom's Technology Hub - Unveiling the Best in PC Components</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/infusing-realism-in-spark-ar-worlds-via-application-of-luts-for-2024/"><u>Infusing Realism in Spark AR Worlds via Application of LUTs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-world-of-9gag-memes-made-easy/"><u>Navigating the World of 9GAG Memes Made Easy</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-and-easy-tutorial-restore-accidentally-deleted-files-from-your-network-storage/"><u>Quick & Easy Tutorial: Restore Accidentally Deleted Files From Your Network Storage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-to-resolve-photoshops-scratch-disk-full-problem/"><u>Step-by-Step Fixes to Resolve Photoshop’s ‘Scratch Disk Full’ Problem</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Files: Snag the High-Capacity 4TB Samsung T5 SSD for Just 50%% Less at Amazon | Tech News From ZDNET"
-date: 2025-01-09T01:59:41.456Z
-updated: 2025-01-11T07:48:51.059Z
+date: 2025-01-13T18:36:24.592Z
+updated: 2025-01-16T17:36:52.519Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,20 +166,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/aximizing-impact-with-tailored-youtube-cards-and-ends-for-2024/"><u>[New] Maximizing Impact with Tailored Youtube Cards and Ends for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-resource-on-affordable-webinars-on-youtube-for-2024/"><u>[New] The Ultimate Resource on Affordable Webinars on Youtube for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-webcam-innovations-for-enhanced-connectivity-for-2024/"><u>[Updated] Webcam Innovations for Enhanced Connectivity for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-immersing-in-your-favorite-talk-shows/"><u>2024 Approved Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Immersing in Your Favorite Talk Shows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-corsair-icue-for-windows-1110/"><u>Download | Corsair iCUE for Windows 11/10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-epson-tm-t88v-printer-drivers-for-windows-latest-version/"><u>Download and Update EPSON TM-T88V Printer Drivers for Windows - Latest Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-perfect-print-quality-with-updated-drivers-for-the-epson-v39-on-windows-7810/"><u>Ensure Perfect Print Quality with Updated Drivers for the Epson V39 on Windows 7/8/10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-canon-mg3000-printer-software-and-latest-firmware-updates/"><u>Free Canon MG3000 Printer Software and Latest Firmware Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-lenovo-x1-carbon-ready-on-windows-10-or-7-with-these-easy-to-follow-driver-download-instructions/"><u>Get Your Lenovo X1 Carbon Ready on Windows 10 or 7 with These Easy-to-Follow Driver Download Instructions</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-8t-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 8T 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-m404n-driver-downloads-and-updates-get-set-for-flawless-printing-performance/"><u>HP LaserJet Pro M404n Driver Downloads and Updates: Get Set for Flawless Printing Performance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-stable-shooting-ultimate-iphoneandroid-tripod-hits/"><u>In 2024, Stable Shooting Ultimate iPhone/Android Tripod Hits</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/the-perfect-timeline-expert-tips-on-holiday-marketing-email-strategy-with-massmail-insights/"><u>The Perfect Timeline: Expert Tips on Holiday Marketing Email Strategy with MassMail Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-408-error-causes-solutions-and-prevention/"><u>Understanding the 408 Error: Causes, Solutions and Prevention</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/2024pc-fps60/"><u>スムーズな動画キャプチャを実現!「2024新刊PCビデオ録画ソフト」 - FPS60にも対応した最良の選択肢</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-art-of-package-revelation-amplifying-initial-impressions/"><u>[New] In 2024, The Art of Package Revelation Amplifying Initial Impressions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-proven-approaches-to-securing-photo-and-video-borders/"><u>[Updated] In 2024, Proven Approaches to Securing Photo & Video Borders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-unboxing-logitechs-professional-4k-pro-webcam-for-2024/"><u>[Updated] Ultimate Unboxing Logitech's Professional 4K Pro Webcam for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-f15-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy F15 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-boosting-engagement-the-key-to-successful-tiktok-unpack-videos/"><u>2024 Approved Boosting Engagement The Key to Successful TikTok Unpack Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extreme-quality-top-5-for-slow-motion-precision/"><u>2024 Approved Extreme Quality Top 5 for Slow Motion Precision</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-powered-youtubes-new-feature-quick-video-previews-and-summaries/"><u>AI Powered YouTube's New Feature: Quick Video Previews & Summaries</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-compatible-drivers-for-epson-v50-printerscanner-model/"><u>Download Compatible Drivers for Epson V50^ Printer/Scanner Model</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elan-smbus-driver-the-ultimate-download-and-update-solution-for-your-windows-device/"><u>ELAN SMBus Driver - The Ultimate Download & Update Solution for Your Windows Device!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-strategies-for-choosing-valheim-crops-for-2024/"><u>Expert Strategies for Choosing Valheim Crops for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-official-epson-wf-2540-drivers-now-supported-by-windows-operating-systems/"><u>Get the Official Epson WF-2540 Drivers Now – Supported by Windows Operating Systems!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-x100-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo X100 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-downloading-broadcom-bluetooth-driver-for-windows-users/"><u>Step-by-Step Instructions for Downloading Broadcom Bluetooth Driver for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-your-ultimate-guide-to-hardware/"><u>Tom's Tech Hub: Your Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tough-market-conditions-lead-to-intels-16-billion-setback-in-cpu-and-foundry-business-sectors/"><u>Tough Market Conditions Lead to Intel's $1.6 Billion Setback in CPU and Foundry Business Sectors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-asus-pce-ac56-drivers-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Troubleshooting and Fixing ASUS PCE-AC56 Drivers on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-user-download-and-easily-upgrade-to-latest-synaptic-drivers/"><u>Windows User? Download and Easily Upgrade to Latest Synaptic Drivers!</u></a></li>
 </ul></div>
 

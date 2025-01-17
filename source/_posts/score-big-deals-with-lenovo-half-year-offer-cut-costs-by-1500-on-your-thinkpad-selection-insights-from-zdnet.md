@@ -1,7 +1,7 @@
 ---
 title: "Score Big Deals with Lenovo Half-Year Offer: Cut Costs by $1,500 on Your ThinkPad Selection – Insights From ZDNet"
-date: 2025-01-07T21:02:19.208Z
-updated: 2025-01-10T23:23:43.157Z
+date: 2025-01-09T21:26:52.539Z
+updated: 2025-01-16T21:50:19.498Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,21 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-a-guide-to-winning-at-game-capturing-with-win10/"><u>[Updated] A Guide to Winning at Game Capturing with Win10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-instagram-writers-and-broadcasters-podcast-sharing-explained/"><u>[Updated] Instagram’ Writers & Broadcasters Podcast Sharing Explained</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-quick-start-mastering-ez-grabbers-downloading-and-usage-for-2024/"><u>[Updated] Quick Start Mastering EZ Grabber's Downloading & Usage for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-visualize-your-workflow-top-free-screen-recorders-for-pc-and-mac-for-2024/"><u>[Updated] Visualize Your Workflow - Top Free Screen Recorders for PC & Mac for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-for-chronological-disruption-in-acting/"><u>2024 Approved Innovative Methods for Chronological Disruption in Acting</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-walkthrough-lenovo-dock-upgrade-freshest-drivers-installation-steps/"><u>Comprehensive Walkthrough: Lenovo Dock Upgrade - Freshest Drivers Installation Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-intel-iris-xe-driver-for-optimal-performance-on-windows-11/"><u>Download Updated Intel Iris Xe Driver for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-the-latest-amd-rx-480-graphics-card-software/"><u>Effortless Installation: Get the Latest AMD RX 480 Graphics Card Software</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-atheros-driver-software-for-windows-systems-here/"><u>Get the Latest Atheros Driver Software for Windows Systems Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-ati-radeon-hd-3450-graphics-card-drivers-with-just-one-click/"><u>Get the Newest AMD ATI Radeon HD 3450 Graphics Card Drivers with Just One Click</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-13-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 13 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y36-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y36 Device</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-note-30-vip-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Note 30 VIP Phone FRP Lock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-intel-dynamic-platform-and-thermal-framework-driver-setup-fixed/"><u>Mastering Intel Dynamic Platform & Thermal Framework Driver Setup: Fixed!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/successful-guide-installing-the-latest-dell-mouse-driver/"><u>Successful Guide: Installing the Latest Dell Mouse Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-epson-wf-3720-with-our-comprehensive-driver-download-guide/"><u>Update Your Epson WF 3720 with Our Comprehensive Driver Download Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-navigating-download-land-free-photo-frames/"><u>[New] Navigating Download Land Free Photo Frames</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-tech-driven-drones-the-rise-of-syma-x8c/"><u>[New] Tech-Driven Drones – The Rise of Syma X8C</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-ios-movie-experience-top-8-free-plus-paid-picks/"><u>[New] The Ultimate iOS Movie Experience Top 8 Free + Paid Picks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-mastering-images-in-your-instagram-profile/"><u>[Updated] 2024 Approved Mastering Images in Your Instagram Profile</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-smbus-driver-fast-simple-steps-inside/"><u>Download and Update AMD SMBus Driver Fast: Simple Steps Inside</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-motorola-razr-40-ultra-lock-screen-password-by-drfone-android/"><u>How To Change Motorola Razr 40 Ultra Lock Screen Password?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-digging-deep-into-facebooks-short-video-shift-the-2023-scenario/"><u>In 2024, Digging Deep Into Facebook's Short Video Shift The 2023 Scenario</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-thinkpad-driver-updates-at-your-fingertips-safe-fast-and-100-secure/"><u>Lenovo ThinkPad Driver Updates at Your Fingertips – Safe, Fast & 100% Secure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722961634913-mpow-bluetooth-driver-download-and-update-windows-10-8-7/"><u>MPOW Bluetooth Driver Download & Update - Windows 10, 8, 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-through-top-tier-processors-to-find-your-ultimate-gaming-companion/"><u>Navigate Through Top-Tier Processors to Find Your Ultimate Gaming Companion</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966783589-seamless-driver-management-for-your-microsoft-surface-book-get-and-upgrade-with-ease/"><u>Seamless Driver Management for Your Microsoft Surface Book – Get & Upgrade with Ease!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/specify-that-youre-using-a-windows-operating-system-and-select-windows-11-as-the-version/"><u>Specify that You're Using a Windows Operating System and Select Windows 11 as the Version.</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-pdf-documents-online-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>The best electronic signature way to sign PDF documents online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-selection-top-6-must-play-mario-party-classics-on-your-computer/"><u>Ultimate Selection: Top 6 Must-Play Mario Party Classics on Your Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-intels-triple-panther-lake-variants-set-for-laptop-release-post-luna-lake/"><u>Upcoming Intel's Triple Panther Lake Variants Set for Laptop Release Post-Luna Lake</u></a></li>
 </ul></div>
 

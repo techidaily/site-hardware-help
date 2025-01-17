@@ -1,7 +1,7 @@
 ---
 title: Unleashing Creativity with the New Apple MacBook Pro 16-Inch M2 Max Chip | Expert Review - ZDNET
-date: 2025-01-08T11:09:20.511Z
-updated: 2025-01-11T10:00:57.376Z
+date: 2025-01-11T18:38:13.489Z
+updated: 2025-01-16T23:12:15.930Z
 tags:
   - laptops
 categories:
@@ -44,7 +44,7 @@ Instead, I enlisted the help of [Tom Filip](https://www.flip-cam.com/), a produc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -62,15 +62,15 @@ Instead, I enlisted the help of [Tom Filip](https://www.flip-cam.com/), a produc
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new with this model
 
 On the surface level, much of the new MacBook Pro's hardware has been carried over from the [2021 models](https://www.zdnet.com/article/apple-16-inch-macbook-pro-m1-max-late-2021-review-apple-supercharges-its-flagship-laptop/), including the firm and sturdy aluminum chassis, 1080p FaceTime camera notched up top, finger-grease-loving keyboard, and side-firing speakers that remain the best that I've heard on a laptop. That means budget and size preference remain the two most important factors when deciding between the 14-inch and 16-inch MacBooks.
 
 What's changed this year mostly stems from within, including upgrades to the processor, connectivity, and battery life, as broken down below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. M2 Max wins where M1 was already winning
 
@@ -90,10 +90,6 @@ To editors, the telltale sign of a competent machine is whether or not it can pl
 
 As for export times? We saw the M2 Max model beating out Filip's M1 Max by 20 to 30 seconds in each trial. Once you take those aforementioned deadlines into account, the quicker speeds can mean the difference between an occupied computer and moving on to thumbnails.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Faster, more capable connectivity across the board
 
 Don't let the thin display fool you. The M2 Max MacBook Pro weighs nearly five pounds.
@@ -108,10 +104,6 @@ While video editors like Philip may not stress the "faster internet" bit, being 
 
 The 2023 MacBook Pro also gets a bump with the more stable Bluetooth 5.3 and more versatile HDMI 2.1\. The latter of which was the most appealing upgrade to Filip, who was already extending his MacBook onto a [34-inch LG 5K monitor](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1382968-REG%2Flg%5F34wk95u%5F34%5Fnano%5Fips.html%2F%3F), but has long considered kicking it to an [8K display](https://www.zdnet.com/home-and-office/home-entertainment/samsungs-odyssey-g9-gaming-monitor-family-adds-oled-8k-models/) for future-proofing. If and when that happens -- we both chuckle at the idea of pixels we can't even fully conceptualize on a desktop screen -- the Apple laptop will be more than able of supporting the higher resolution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Battery life that impresses everyone
 
 The MacBook deck retains the dual firing speakers and force touch trackpad.
@@ -125,12 +117,16 @@ Remember the 38-core GPU that I mentioned earlier? Part of its lift involves upp
 When deciding between the [M2 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and [M2 Max variants](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), users should note that while the latter is more powerful, it comes at the cost of an hour or two of endurance. Despite that, you're looking at roughly 14 hours of battery life on the M2 Pro versus 12 hours on the M2 Max, which is promising no matter which of the two you end up buying.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What we'd like to see in the next model
 
 For the work that both Filip and I do, there's not much to complain about with the M2 Max, 16-inch MacBook Pro -- performance-wise, at least. The laptop starts at [$3,499](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), which I'll applaud Apple for retaining the 2021's M1 Max price tag. Considering the price, here are two nitpicks that would make the larger MacBook experience even better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. A lighter form factor
 
@@ -163,6 +159,10 @@ In future models, I'd love to see the company either shrink the notch so it's no
 The latest MacBook Pro is a testament to Apple's golden age of mobile computing. While most of the innovating happened with the now two-year-old, [M1 MacBook Pros](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-8%E2%80%91core-14%E2%80%91core%2Fdp%2FB09JQSLL92%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4a8b2844-8b7b-4d32-8328-3ef262b4a648%7Cdtp&dtb=1), the M2 variants absolutely deliver where it matters to both Filip's (thanks again, Tom!) and my workflows while offering a more future-proof system. 
 
 Reviewing the M2 Max MacBook Pro side-by-side with its predecessor also demonstrated just how capable the latter was. To fall only seconds behind when it came to processing and exporting footage, the M1-powered machines should still be considered for shoppers who want a great-value MacBook.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -202,22 +202,22 @@ That's why if you already have an [M1-powered MacBook Pro](https://buy.geni.us/P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ow-to-flip-your-video-collection-in-a-flash/"><u>[New] How to Flip Your Video Collection in a Flash</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-irreversible-steps-for-a-fixed-tiktok-exit/"><u>[Updated] Irreversible Steps for a Fixed TikTok Exit</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-from-camera-lens-to-screen-your-step-by-step-guide-to-gopro-video-mastery/"><u>2024 Approved From Camera Lens to Screen Your Step-by-Step Guide to GoPro Video Mastery</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-proficient-content-tagging-made-simple-the-best-7-budget-friendly-online-taggification-apps-reviewed/"><u>2024 Approved Proficient Content Tagging Made Simple The Best 7 Budget-Friendly Online Taggification Apps Reviewed</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210724679-9781737421108-divine-mother-azna/"><u>Divine Mother Azna | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-latest-updates-for-canoscan-lide-220-software/"><u>Download and Latest Updates for CanoScan LiDE 220 Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-ralink-network-drivers-on-windows-easy-step-by-step-guide/"><u>Download and Update Ralink Network Drivers on Windows: Easy Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-deskjet-2700-printer-software-2024-installation-guide-and-updates/"><u>Download the Latest HP Deskjet 2700 Printer Software 2024: Installation Guide and Updates</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/everybody-profits-from-new-gpt-data/"><u>Everybody Profits From New GPT Data</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-startech-device-drivers-on-windows-11-8-and-7-complete-guide/"><u>How to Fix StarTech Device Drivers on Windows 11, 8 & 7 - Complete Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-inshot-pc-editing-made-easy/"><u>Mastering Inshot PC Editing Made Easy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-installation-of-intel-dynamic-and-thermal-framework-fixes-for-common-failures/"><u>Mastering the Installation of Intel Dynamic & Thermal Framework: Fixes for Common Failures</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-effortless-install-of-acer-predator-xb271hu-graphics-drivers-get-started-now/"><u>Quick & Effortless Install of Acer Predator XB271HU Graphics Drivers – Get Started Now</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-google-pixel-fold-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Google Pixel Fold Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-battle-of-streamers-chromecast-vs-roku-which-wins-the-showdown/"><u>The Battle of Streamers: Chromecast Vs. Roku - Which Wins the Showdown?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixes-for-mouse-driver-issues-in-windows-7-environments/"><u>Troubleshooting and Fixes for Mouse Driver Issues in Windows 7 Environments</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-resolving-graphics-driver-errors/"><u>Troubleshooting Guide: Resolving Graphics Driver Errors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-the-art-of-oral-explanitations-and-slides/"><u>[New] Mastering the Art of Oral Explanitations & Slides</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-instagram-analysts-handbook-decoding-engagement-and-reach/"><u>[Updated] The Instagram Analyst's Handbook Decoding Engagement and Reach</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-90-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor 90 Unlock Without Password</u></a></li>
+<li><a href="https://fox-links.techidaily.com/fine-tuning-zoom-visuals-top-techniques/"><u>Fine-Tuning Zoom Visuals Top Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-video-card-driver-updates-free-download/"><u>Get the Latest Video Card Driver Updates – Free Download</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-much-wealth-can-you-generate-on-youtube-using-cpm-for-2024/"><u>How Much Wealth Can You Generate on YouTube Using CPM for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-ralink-rt3290-driver-issues-in-various-versions-of-windows/"><u>How to Fix Ralink RT3290 Driver Issues in Various Versions of Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-x6-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-c22-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia C22 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-electronics-with-toms-device-digest/"><u>In-Depth Analysis of Electronics with Tom’s Device Digest</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-corsair-icue-available-for-free-download-windows-compatibility-and-tutorials/"><u>Latest Version of Corsair iCUE Available for Free Download: Windows Compatibility & Tutorials</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-steam-game-files-encryption-issue/"><u>Resolved: Fixing the Steam Game Files Encryption Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fixes-to-common-windows-10-bluetooth-driver-compatibility-concerns/"><u>Step-by-Step Fixes to Common Windows 10 Bluetooth Driver Compatibility Concerns</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-installing-the-dell-mouse-software/"><u>Step-by-Step Guide: Successfully Installing the Dell Mouse Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-prowess-at-its-finest-discover-top-gear-tips-from-toms-hardware/"><u>Tech Prowess at Its Finest: Discover Top Gear Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-11-compatible-how-to-download-and-update-your-amd-radeon-hd-7870-graphics-card-drivers/"><u>Windows 11 Compatible - How to Download & Update Your AMD Radeon HD 7870 Graphics Card Drivers</u></a></li>
 </ul></div>
 

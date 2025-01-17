@@ -1,7 +1,7 @@
 ---
 title: Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available | ZDNET Insider Tips
-date: 2025-01-10T06:35:29.948Z
-updated: 2025-01-10T23:39:35.656Z
+date: 2025-01-14T00:05:41.705Z
+updated: 2025-01-17T00:17:24.111Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,24 +75,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-igtv-presence-secrets-to-skyrocketing-subscribers/"><u>[New] Elevate Your IGTV Presence Secrets to Skyrocketing Subscribers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-keeping-secrets-on-screen-tips-for-private-content-reduction/"><u>[New] Keeping Secrets on Screen Tips for Private Content Reduction</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-world-wonders-with-these-top-10-videos-for-2024/"><u>[Updated] Discover World Wonders with These Top 10 Videos for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-immersive-experience-keepers-fb-live-2023/"><u>[Updated] In 2024, Immersive Experience Keepers FB Live 2023</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-from-fast-life-to-leisrances-iphone-slow-motion-tips/"><u>2024 Approved From Fast Life to Leisrances IPhone Slow Motion Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-hl-l2350dw-how-to-download-the-latest-printing-software-version/"><u>Brother HL-L2350DW: How to Download the Latest Printing Software Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mg2520-driver-download-and-update-for-windows/"><u>Canon MG2520 Driver Download & Update for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-epson-wf-2750-printing-software-drivers-ready/"><u>Download & Install the Epson WF-2750 Printing Software - Drivers Ready</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-sas-drivers-compatible-with-windows-11-8-and-7/"><u>Download and Update SAS Drivers Compatible with Windows 11, 8, and 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-obtaining-and-installing-intel-serial-controller-drivers/"><u>Easy Guide to Obtaining & Installing Intel Serial Controller Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-going-with-your-epson-workforce-ds-30-downloading-compatible-drivers-for-windows-1087/"><u>Get Going with Your Epson WorkForce DS-30: Downloading Compatible Drivers for Windows 10/8/7</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-se-2022-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone SE (2022) without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-11-pro-max-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 11 Pro Max Device from iCloud</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-download-and-setup-of-logitech-drivers-for-pcs/"><u>Instant Download & Setup of Logitech Drivers for PCs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/joyfuljourney-sign-up-share-and-create-fun-videos-for-2024/"><u>JoyfulJourney Sign Up, Share and Create Fun Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-logitech-g602-audio-drivers-for-windows-operating-systems/"><u>Latest Logitech G602 Audio Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sound-blaster-audigy-fx-driver-installation-step-by-step-guide-with-images/"><u>Sound Blaster Audigy FX Driver Installation: Step-by-Step Guide with Images</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/speedy-upgrade-leading-android-video-tuners-for-2024/"><u>Speedy Upgrade Leading Android Video Tuners for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-11-proplus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme 11 Pro+ Screen | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-10-best-no-cost-videocalling-tools-with-shared-display-for-2024/"><u>[New] 10 Best No-Cost Videocalling Tools with Shared Display for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-seamless-media-exchange-transferring-facebook-content-to-whatsapp/"><u>[New] Seamless Media Exchange Transferring Facebook Content to WhatsApp</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-navigating-the-launch-of-tiktok-videos-from-pc/"><u>[Updated] 2024 Approved Navigating the Launch of TikTok Videos From PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtubes-creator-hub-explained-simply/"><u>[Updated] 2024 Approved YouTube's Creator Hub Explained Simply</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-detailed-instructions-mastering-the-art-of-uploading-vr-media-to-fb/"><u>[Updated] In 2024, Detailed Instructions Mastering the Art of Uploading VR Media to FB</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-comprehensive-guide-correcting-issues-with-amd-rx-560-graphics-card-drivers-in-windows-111087/"><u>A Comprehensive Guide: Correcting Issues with AMD RX 560 Graphics Card Drivers in Windows 11/10/8/7</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/boost-your-computers-power-and-response-time-with-these-essential-hardware-improvements-guided-by-yl-computing-experts/"><u>Boost Your Computer's Power and Response Time with These Essential Hardware Improvements – Guided by YL Computing Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/devhome-unveiled-a-deep-dive-into-w11s-core/"><u>DevHome Unveiled: A Deep Dive Into W11's Core</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-intel-raid-controller-drivers-for-latest-windows-systems/"><u>Download and Install Intel RAID Controller Drivers for Latest Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-hp-driver-downloads-and-setup-get-started-today/"><u>Effortless HP Driver Downloads and Setup - Get Started Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-getting-your-hands-on-sound-blaster-z-drivers-compatible-with-windows-10/"><u>Guide to Getting Your Hands-On Sound Blaster Z Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-a2-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo A2</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-refresh-the-software-of-your-logitech-m310-mouse-with-updated-drivers/"><u>How to Refresh the Software of Your Logitech M310 Mouse with Updated Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-fresh-amd-ryzen-3-2200g-graphics-card-drivers-today/"><u>Install Fresh AMD Ryzen 3 2200G Graphics Card Drivers Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-i9-and-i7-processors-experience-significant-warframe-performance-issues-developer-insights/"><u>Intel's I9 and I7 Processors Experience Significant Warframe Performance Issues: Developer Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-of-samsung-m2070fw-driver-software-begin-today/"><u>Seamless Installation of Samsung M2070FW Driver Software - Begin Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computing-world-in-depth-electronics-analysis/"><u>Tom's Computing World: In-Depth Electronics Analysis</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y56-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y56 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-download-vn-video-editor-for-mac-or-explore-mac-friendly-alternatives/"><u>Updated In 2024, Download VN Video Editor for Mac or Explore Mac-Friendly Alternatives</u></a></li>
 </ul></div>
 

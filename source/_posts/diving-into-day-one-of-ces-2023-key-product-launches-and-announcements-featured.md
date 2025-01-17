@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Day One of CES 2023: Key Product Launches and Announcements Featured"
-date: 2025-01-08T05:15:14.494Z
-updated: 2025-01-10T20:38:49.842Z
+date: 2025-01-15T01:46:56.895Z
+updated: 2025-01-16T21:56:22.450Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ Whether you've been busy with the kids or catching up with the daily news on you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -27,7 +27,7 @@ Whether you've been busy with the kids or catching up with the daily news on you
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We've been on the ground for the second day of the [largest tech conference in the US](https://www.zdnet.com/article/zdnets-guide-to-ces-what-is-it-and-who-can-attend/), bringing you the best of the announcements. 
@@ -42,15 +42,15 @@ And, if you're still waiting to hear from some major companies, keep checking ba
 
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 LG
 
 While LG unveiled its [new line of C, G, and Z OLED models](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/), it also launched a surprise wireless plug-and-play 97-inch TV. It comes with Zero Connect and One Wall Design for a flush wall experience – no wires needed.
 
 Read our [first look at the M3 OLED TV here](https://www.zdnet.com/home-and-office/home-entertainment/lg-97-inch-oled-tv-m3-ces-2023/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Asus debuts all-new laptops across the board
 
@@ -59,10 +59,6 @@ Asus
 In addition to a new line of [eco-friendly laptops for workers and students](https://www.zdnet.com/article/asus-unveils-two-sustainably-designed-laptops-for-business-executives-and-students/), Asus released information regarding its gaming Chromebook, the Vibe CX34\. It also debuted a 3D OLED laptop that consumers can use sans 3D glasses.
 
 Check the [high-end specs of the Vibe CX34 Chromebook here](https://www.zdnet.com/article/asus-new-vibe-cx34-gaming-chromebook-brings-some-high-end-specs/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The year of the smart toilet sensor
 
@@ -78,6 +74,10 @@ MSI
 
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Roku and Hisense offer new models and upgrades
 
 Roku
@@ -85,6 +85,10 @@ Roku
 While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-hisense-unveils-new-u6k-u7k-and-u8k-tvs/) with ULED X technology, Roku announced that it's entering the smart TV game with a new line of Roku panels. 
 
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Samsung adds new security software with Knox Matrix
 
@@ -111,10 +115,6 @@ Bird Buddy
 You're used to indoor appliances with smart features, but now with the Bird Buddy hummingbird feeder, you'll be able to track who's coming to snack at your feeding stations. Don't worry -- while they're not squirrel-proof, they're designed to handle a visit from both feathered and furry friends.
 
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## HyperX debuts new gaming mice
 
@@ -170,20 +170,22 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-apk-masterclass-enjoy-funimate-on-android/"><u>[Updated] In 2024, APK Masterclass Enjoy Funimate on Android</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nce-engagement-and-its-impact-on-youtube-performance-for-2024/"><u>Audience Engagement and Its Impact on YouTube Performance for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/vering-top-10-must-watch-business-video-hubs/"><u>Discovering Top 10 Must-Watch Business Video Hubs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/dissecting-popularity-ten-facts-about-reels-unmasked-for-2024/"><u>Dissecting Popularity Ten Facts About Reels, Unmasked for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-canon-printer-software-mp560-drivers-fast-simple-steps/"><u>Download and Update Canon Printer Software: MP560 Drivers - Fast, Simple Steps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-play-8t-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor Play 8T Lock Screen Password?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-audio-enhancements-expertly-curated-soundbar-selection-for-2n4/"><u>Leading Audio Enhancements: Expertly Curated Soundbar Selection for 2N4</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/reliable-and-protected-sades-headset-software-for-windows-get-your-free-download-now/"><u>Reliable and Protected Sades Headset Software for Windows - Get Your Free Download Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-updating-broadcom-netlink-gigabit-ethernet-driver-on-windows-11/"><u>Step-by-Step Instructions for Updating Broadcom NETLink Gigabit Ethernet Driver on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969149636-step-by-step-tutorial-update-your-scansnap-printers-with-new-windows-drivers-easily/"><u>Step-by-Step Tutorial: Update Your ScanSnap Printers with New Windows Drivers Easily!</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/traverse-times-tapestry-with-public-domain-art/"><u>Traverse Time's Tapestry with Public Domain Art</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-software-on-canon-mg2900-easy-driver-download-guide/"><u>Update Software on Canon MG2900 | Easy Driver Download Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-printers-software-free-drivers-for-epson-l3150-compatible-with-win-1087/"><u>Update Your Printer's Software: Free Drivers for Epson L3150 Compatible with Win 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updated-guide-installing-canon-pixma-mx49er-drivers-on-window-systems/"><u>Updated Guide: Installing Canon PIXMA MX49er Drivers on Window Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-access-premium-imagery-no-copyright-restrictions/"><u>[New] In 2024, Access Premium Imagery, No Copyright Restrictions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-from-camera-to-feed-instagram-video-upload-on-desktop/"><u>[Updated] 2024 Approved From Camera to Feed Instagram Video Upload on Desktop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-engage-viewers-from-the-start-mobile-film-techniques-for-thumbnails/"><u>[Updated] In 2024, Engage Viewers From the Start Mobile Film Techniques for Thumbnails</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/achieve-a-superior-gaming-experience-on-your-dell-g3-by-refreshing-system-drivers/"><u>Achieve a Superior Gaming Experience on Your Dell G3 by Refreshing System Drivers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/drone-cinematography-guide/"><u>Drone Cinematography Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-canon-dr-c225-drivers-on-microsofts-latest-operating-systems-windows-11-10-and-8/"><u>Easy Installation of Canon DR-C225 Drivers on Microsoft's Latest Operating Systems (Windows 11, 10 & 8)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-1087/"><u>Get the Latest NVIDIA GeForce RTX 3090 Drivers: Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-sound-blaster-z-drivers-for-optimal-performance-in-windows-11/"><u>Latest Sound Blaster Z Drivers for Optimal Performance in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-c615-drivers-speedy-and-easy-repair-techniques-revealed/"><u>Logitech C615 Drivers: Speedy & Easy Repair Techniques Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-brother-hl-2280dw-drivers-and-softwares-for-all-windows-versions-free-download/"><u>Quick Guide: Brother HL-2280DW Drivers & Softwares for All Windows Versions [Free Download]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-voice-fixing-audio-malfunctions-on-zoom-for-computers/"><u>Revive Your Voice: Fixing Audio Malfunctions on Zoom for Computers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/s-ultimate-guide-to-online-stop-motion-creation-top-picks/"><u>S Ultimate Guide to Online Stop Motion Creation Top Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975652901-steal-the-show-top-steelseries-drivers-and-settings-for-windows-11-get-it-here/"><u>Steal the Show: Top SteelSeries Drivers & Settings for Windows 11 - Get It Here!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-for-downloading-pinterest-videos-as-mp3s-for-2024/"><u>Techniques for Downloading Pinterest Videos as MP3s for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-secrets-behind-top-performers-in-online-forums-like-reddit/"><u>The Secrets Behind Top Performers in Online Forums Like Reddit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-fixing-issues-with-realtek-rtl873b-drivers-on-your-pc/"><u>Troubleshooting Guide: Fixing Issues with Realtek RTL87#3B Drivers on Your PC</u></a></li>
 </ul></div>
 

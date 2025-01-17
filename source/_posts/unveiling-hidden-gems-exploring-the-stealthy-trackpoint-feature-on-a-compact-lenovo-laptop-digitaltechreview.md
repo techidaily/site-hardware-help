@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden Gems: Exploring the Stealthy Trackpoint Feature on a Compact Lenovo Laptop | DigitalTechReview"
-date: 2025-01-07T23:41:46.875Z
-updated: 2025-01-11T10:17:26.720Z
+date: 2025-01-14T01:49:50.618Z
+updated: 2025-01-16T19:03:24.669Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,21 +106,16 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-elevate-your-cinematic-voice-with-these-top-text-strategies/"><u>[New] 2024 Approved Elevate Your Cinematic Voice with These Top Text Strategies</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-from-iphone-images-jpeg-png-guided-conversion-to-pdfs/"><u>[New] 2024 Approved From iPhone Images (JPEG, PNG) - Guided Conversion to PDFs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-ideal-websites-for-painless-jpeg-to-gif-changeover/"><u>[New] In 2024, Ideal Websites for Painless JPEG to GIF Changeover</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-implementing-soft-decline-in-logic-pro-audio/"><u>[New] In 2024, Implementing Soft Decline in Logic Pro Audio</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-iconic-acting-snapshot-review/"><u>[Updated] Iconic Acting Snapshot Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-download-guide-to-installing-intel-iris-graphics-software-on-win10-or-win11/"><u>Easy Download Guide to Installing Intel Iris Graphics Software on Win10 or Win11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-on-clearing-out-memory-dump-files-in-windows-10-operating-system/"><u>Expert Advice on Clearing Out Memory Dump Files in Windows 10 Operating System</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/free-techniques-for-turning-youtube-watching-into-a-screenshot-for-2024/"><u>Free Techniques for Turning YouTube Watching Into a Screenshot for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-rx-amodriver-software-compatible-with-all-windows-versions/"><u>Get the Newest AMD RX amoDriver Software: Compatible with All Windows Versions</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-oppo-a58-4g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo A58 4G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-epson-v60-scan-now-fresh-drivers-available/"><u>Install Epson V60# Scan-Now! - Fresh Drivers Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968690413-mrs-provides-metabolic-profiles-that-help-differentiate-between-types-of-brain-lesions-including-tumors-and-neurodegenerative-diseases/"><u>MRS Provides Metabolic Profiles that Help Differentiate Between Types of Brain Lesions, Including Tumors and Neurodegenerative Diseases</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-asus-pce-ac56-driver-conflicts-on-windows-1187-your-ultimate-fix/"><u>Overcoming ASUS PCE-AC56 Driver Conflicts on Windows 11/8/7 – Your Ultimate Fix</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-minimum-width-of-scaffold-platforms-should-be-at-least-18-inches-as-per-osha-standards/"><u>The Minimum Width of Scaffold Platforms Should Be at Least 18 Inches as per OSHA Standards.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/there-must-be-no-clear-right-choice-in-the-situation/"><u>There Must Be No Clear Right Choice in the Situation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-s23-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy S23 Device</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-elite-writes-on-10-free-video-transcript-extractors/"><u>[New] In 2024, Elite' Writes on 10 Free Video Transcript Extractors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-persona-design-a-beginners-compreraniary-guide/"><u>2024 Approved Metaverse Persona Design A Beginner's Compreraniary Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-0x800704b3-error-a-comprehensive-guide/"><u>Decoding Windows' 0X800704B3 Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/guide-correcting-issues-with-unsupported-device-drivers/"><u>Guide: Correcting Issues with Unsupported Device Drivers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-a1x-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo A1x 5G FRP Without Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-tech-maze-expert-advice-from-toms-hardware/"><u>Navigating the Tech Maze: Expert Advice From Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-tech-insights-from-toms-hardware-experts/"><u>Navigating the World of Tech: Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/omnipresent-iptv-networking-model/"><u>Omnipresent IPTV Networking Model</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-and-power-up-smart-strategies-for-modern-devices-according-to-tom/"><u>Optimize and Power Up: Smart Strategies for Modern Devices, According to Tom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/precision-analysis-and-guides-on-latest-computer-components-by-tom/"><u>Precision Analysis and Guides on Latest Computer Components by Tom</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-130-music-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia 130 Music without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

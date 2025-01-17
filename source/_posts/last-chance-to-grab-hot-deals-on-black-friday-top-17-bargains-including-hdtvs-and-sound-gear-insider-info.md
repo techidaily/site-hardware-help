@@ -1,7 +1,7 @@
 ---
 title: "Last Chance to Grab Hot Deals on Black Friday: Top 17 Bargains Including HDTVs and Sound Gear - Insider Info"
-date: 2025-01-05T09:56:23.838Z
-updated: 2025-01-11T03:41:44.179Z
+date: 2025-01-14T20:48:31.859Z
+updated: 2025-01-16T19:33:49.403Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Cyber Monday 2023 Dell deals
 
 * [Dell OptiPlex 7000 7090 Intel Core i7 desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7090-business-desktops-workstations%252Fp%252F1VK-0001-6G7A2) for $939 (save $230)
@@ -38,10 +42,6 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 * [Dell WD15 Monitor Dock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMonitor-Adapter-USB-C-450-AEUO-7FJ4J%2Fdp%2FB01MU4SNK5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1) for $82 (save $118)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1) for $230 (save $100)  
 ---  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Cyber Monday 2023 Dell deals
 
@@ -101,7 +101,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell laptop deals
@@ -115,6 +115,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 5635](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-5000-5635-Laptop%2Fdp%2FB09BW611ZP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1): $700 (save $300)
 * [Dell Precision 3580 mobile workstation](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1770261-REG%2Fdell%5F5d74g%5F15%5F6%5Fprecision%5F3580%5Fmobile.html): $1390 (save $1000)
 * [Dell Inspiron 16 Plus](https://www.anrdoezrs.net/click-9041660-15679772-1700503970000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,000 (save $650)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell desktop deals
 
@@ -135,7 +139,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was Black Friday 2023?
@@ -144,10 +148,6 @@ Black Friday 2023 was on November 24, 2023\.
 
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Cyber Monday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -155,7 +155,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best Cyber Monday deals?
@@ -228,19 +228,16 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-unveiling-top-10-camcorders-in-depth-reviews/"><u>[New] 2024 Approved Unveiling Top 10 Camcorders In-Depth Reviews</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-igtv-content-expansion-direct-sharing-on-facebook-platform/"><u>[New] In 2024, IGTV Content Expansion Direct Sharing on Facebook Platform</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-mastering-monetization-a-beginners-guide-to-facebook-revenue-for-2024/"><u>[New] Mastering Monetization A Beginner’s Guide to Facebook Revenue for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-sades-headset-drivers-for-windows-ensuring-100-security/"><u>Easy Installation of Sades Headset Drivers for Windows - Ensuring 100% Security</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-charm-of-classic-design-with-the-withings-move-an-in-depth-smartwatch-analysis/"><u>Exploring the Charm of Classic Design with The Withings Move - An In-Depth Smartwatch Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-creative-webcam-drivers-for-your-windows-computer-download-and-installation-guide/"><u>Get the Latest Creative Webcam Drivers for Your Windows Computer – Download & Installation Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-intel-iris-xe-graphics-driver-for-windows-1011-fast/"><u>Get the Latest Intel Iris Xe Graphics Driver for Windows 10/11 - Fast!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-official-hp-deskjet-2755e-drivers-for-your-windows-pc-direct-download-links/"><u>Get the Official HP DeskJet 2755E Drivers for Your Windows PC: Direct Download Links</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-bring-the-beat-home-add-songs-to-your-inshot-app/"><u>In 2024, Bring the Beat Home Add Songs to Your InShot App</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/kinemasters-transition-playbook-for-cinematic-excellence-for-2024/"><u>Kinemaster’s Transition Playbook for Cinematic Excellence for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/premium-designers-stellar-instagram-hlv-page-builders/"><u>Premium Designers Stellar Instagram HLV Page Builders</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-c53-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme C53 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/top-9-innovations-in-the-latest-windows-11-updates/"><u>Top 9 Innovations in the Latest Windows 11 Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-intel-uhd-graphics-driver-now-compatible-with-windows-10-and-11/"><u>Update Your Intel UHD Graphics Driver Now - Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-guide-to-vlogging-with-12-best-flip-screen-cameras/"><u>[New] 2024 Approved The Ultimate Guide to Vlogging with 12 Best Flip-Screen Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-streamlining-slide-decks-audio-integration-techniques-for-2024/"><u>[New] Streamlining Slide Decks Audio Integration Techniques for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-quantifying-a-days-video-consumption-in-gb/"><u>[Updated] Quantifying a Day's Video Consumption in GB</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unveiling-the-latest-in-sony-blu-ray-s6700-for-2024/"><u>[Updated] Unveiling the Latest in Sony Blu-Ray S6700 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-update-or-download-acer-aspire-drivers-for-windows-systems/"><u>Easy Steps to Update or Download Acer Aspire Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-experience-with-nvidias-latest-windows-game-ready-graphics-drivers/"><u>Enhance Your Gaming Experience with NVIDIA's Latest Windows Game Ready Graphics Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-huion-tablet-software-compatible-with-windows-operating-systems/"><u>Get the Latest Huion Tablet Software Compatible with Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972883794-improve-visual-experience-on-windows-pcs-asus-driver-downloads-available-now/"><u>Improve Visual Experience on Windows PCs - ASUS Driver Downloads Available Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-newest-drivers-for-your-epson-xp-330-printer/"><u>Install the Newest Drivers for Your Epson XP-330 Printer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/windowcut-film-maker-for-2024/"><u>WindowCut Film Maker for 2024</u></a></li>
 </ul></div>
 

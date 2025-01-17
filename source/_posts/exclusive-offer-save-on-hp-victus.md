@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on HP Victus"
-date: 2025-01-04T18:28:15.735Z
-updated: 2025-01-10T18:44:03.103Z
+date: 2025-01-10T19:53:40.129Z
+updated: 2025-01-16T16:28:39.488Z
 tags:
   - laptops
 categories:
@@ -95,11 +95,11 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1) 
 
-## Alternative laptop deals
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Alternative laptop deals
 
 ### Amazon laptop deals
 
@@ -128,7 +128,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Buy laptop deals
@@ -140,6 +140,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Lenovo Flex 5i 14-inch FHD touchscreen 2-in-1 laptop deal for $380 (save $170) $380 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-5i-14-fhd-touchscreen-2-in-1-laptop-intel-core-i3-1215u-with-8gb-memory-intel-uhd-graphics-256gb-ssd-storm-grey%2F6571566.p%3FskuId%3D6571566&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Apple MacBook deals
 
@@ -153,6 +157,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -164,10 +172,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What specifications do I need to look for in a laptop?
 
@@ -192,10 +196,6 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 
 ZDNET experts split out the latest and greatest deals for you below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best deals by retailer
 
 * [The best Amazon deals](https://www.zdnet.com/article/amazon-deals/)
@@ -204,7 +204,7 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best deals by category
@@ -257,21 +257,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-step-by-step-revamping-the-look-of-your-tiktok-screenshots/"><u>[New] In 2024, Step-by-Step Revamping the Look of Your TikTok Screenshots</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-setup-guide-for-your-new-intel-dual-band-ac-7260-wireless-network-card/"><u>[Seamless Setup Guide] for Your New Intel Dual-Band AC 7260 Wireless Network Card.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-activate-windows-xp-movie-creation-toolkit/"><u>[Updated] Activate Windows XP Movie Creation Toolkit</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-calculating-youtubes-income-potential-with-cpm-rates/"><u>[Updated] In 2024, Calculating YouTube's Income Potential with CPM Rates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mx49eb-printer-driver-updates-available-seamless-compatibility-with-windows-operating-systems/"><u>Canon MX49eb Printer Driver Updates Available - Seamless Compatibility with Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-asus-precision-clickpad-drivers-for-pc-compatible-with-windows-os/"><u>Download ASUS Precision ClickPad Drivers for PC - Compatible with Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-your-razer-mamba-drivers-now/"><u>Effortless Installation: Get Your Razer Mamba Drivers Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/finding-solutions-for-non-responsive-windows-service-management-suite/"><u>Finding Solutions for Non-Responsive Windows Service Management Suite</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/garmin-vivosmart-4-review/"><u>Garmin Vivosmart 4 Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ignite-a-sizzling-online-presence-with-these-instagram-9-strategies/"><u>Ignite a Sizzling Online Presence with These Instagram #9 Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nvidia-rtx-2080-fresh-driver-download-options-for-windows-operating-systems/"><u>NVIDIA RTX 2080: Fresh Driver Download Options for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977139303-step-by-step-instructions-for-downloading-your-canon-mg3620-drivers-safe-and-sound/"><u>Step-by-Step Instructions for Downloading Your Canon MG3620 Drivers - Safe & Sound</u></a></li>
-<li><a href="https://win11.techidaily.com/terminal-and-powershell-delving-into-their-distinct-uses/"><u>Terminal and PowerShell: Delving Into Their Distinct Uses</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-legacy-of-yahoo-messenger-and-insights-into-what-led-to-its-closure/"><u>The Legacy of Yahoo! Messenger and Insights Into What Led to Its Closure</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975521775-top-charts-today-on-groove-stay-up-to-date-with-current-hit-songs-that-are-sure-to-keep-your-spirits-high/"><u>Top Charts Today on Groove: Stay Up-to-Date with Current Hit Songs that Are Sure to Keep Your Spirits High</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-every-piece-of-apples-ai-innovations-from-the-latest-wwdc/"><u>Unveiling Every Piece of Apple's AI Innovations From the Latest WWDC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-choosing-livestream-software-the-obs-vs-streamlabs-dilemma/"><u>[Updated] In 2024, Choosing Livestream Software The OBS Vs. Streamlabs Dilemma</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-canon-printer-drivers-for-windows-11-and-older-versions-windows-8-7-get-downloaded-now/"><u>Compatible Canon Printer Drivers for Windows 11 and Older Versions (Windows 8, 7) - Get Downloaded Now!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/die-besten-16-kostenlosen-grafikprogramme-zum-erstellen-von-logos-auf-einem-pc-mit-movavi/"><u>Die Besten 16 Kostenlosen Grafikprogramme Zum Erstellen Von Logos Auf Einem PC Mit Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-steps-to-download-and-keep-your-epson-ds-510-printer-software-updated/"><u>Effective Steps to Download and Keep Your Epson DS-510 Printer Software Updated</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-wf-2630-driver-download-for-windows-71081/"><u>Epson WF 2630 Driver Download for Windows 7/10/8.1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-brother-mfc-j480dw-printer-on-a-windows-computer-with-latest-drivers/"><u>How to Update Your Brother MFC-J480DW Printer on a Windows Computer with Latest Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-gaming-experience-fresh-with-the-latest-rtx-2060-super-drivers-for-windows-11-download-now/"><u>Keep Your Gaming Experience Fresh with the Latest RTX 2060 Super Drivers for Windows 11 - Download Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-blowout-secure-your-home-with-a-4-camera-setup-and-lighting-for-80-at-blink/"><u>Labor Day Blowout: Secure Your Home with a 4-Camera Setup and Lighting for $80 at Blink!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/primetracking-ptgl300ma-personal-gps-tracker-review/"><u>PrimeTracking PTGL300MA Personal GPS Tracker Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/quantity-of-videos-on-128gb-storage-media-for-2024/"><u>Quantity of Videos on 128GB Storage Media for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-online-account-access-restored-fixing-the-online-login-not-available-error/"><u>Resolved: Online Account Access Restored - Fixing the 'Online Login Not Available' Error</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solution-for-hp-officejet-pro-6970-printer-driver-errors/"><u>Step-by-Step Solution for HP OfficeJet Pro 6970 Printer Driver Errors</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-10-video-converters-for-windows-1110-safe-reliable-and-speedy-solutions/"><u>Top 10 Video Converters for Windows 11/10: Safe, Reliable, and Speedy Solutions</u></a></li>
 </ul></div>
 

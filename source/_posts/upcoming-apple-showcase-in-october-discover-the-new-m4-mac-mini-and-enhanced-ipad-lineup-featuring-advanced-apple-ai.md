@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Showcase in October: Discover the New M4 Mac Mini & Enhanced iPad Lineup Featuring Advanced Apple AI"
-date: 2025-01-03T20:14:14.245Z
-updated: 2025-01-10T22:19:08.363Z
+date: 2025-01-09T21:44:16.848Z
+updated: 2025-01-16T16:44:38.876Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,22 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-youtube-ad-revenue-recent-policy-insights/"><u>[New] Unlock YouTube Ad Revenue Recent Policy Insights</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-worlds-best-5-streaming-videography-tools/"><u>[New] World's Best 5 Streaming Videography Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-charismatic-oratory-study-part-8/"><u>[Updated] 2024 Approved Charismatic Oratory Study Part 8</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-videography-essentials-7-free-audio-choices/"><u>[Updated] In 2024, YouTube Videography Essentials - 7 Free Audio Choices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-tailoring-content-to-trends-organic-growth-strategies-for-youtubers/"><u>[Updated] Tailoring Content to Trends Organic Growth Strategies for YouTubers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210254257-9781398702073-astrosex-libra/"><u>Astrosex: Libra | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/audio-technica-user-manual-the-process-of-driver-update-explained/"><u>Audio Technica User Manual: The Process of Driver Update Explained</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-hl-l2350dw-fresh-printer-driver-software-available-for-download-now/"><u>Brother HL-L2350DW: Fresh Printer Driver Software Available for Download Now</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/comprehensive-sandisk-data-rescue-manual-effective-techniques-and-procedures/"><u>Comprehensive Sandisk Data Rescue Manual: Effective Techniques and Procedures</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-your-windows-with-newest-fingerprint-drivers-heres-how/"><u>Download & Update Your Windows with Newest Fingerprint Drivers - Here's How!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-canon-mx340-printer-drivers-for-windows-10-8-and-eight/"><u>Download Canon MX340 Printer Drivers for Windows 10, 8 & Eight</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968037522-easy-to-download-epson-wf-2630-printer-driver-for-microsoft-windows-update-now/"><u>Easy to Download Epson WF-2630 Printer Driver for Microsoft Windows - Update Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970206534-efficient-scanning-printing-and-copying-on-toshiba-machines-secure-your-windows-driver-today/"><u>Efficient Scanning, Printing & Copying on Toshiba Machines - Secure Your Windows Driver Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-fixing-malfunctioning-hp-monitor-drivers-on-your-window-1187-pc/"><u>Guide to Fixing Malfunctioning HP Monitor Drivers on Your Window 11/8/7 PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-your-logitech-mx-master-complete-setup-instructions/"><u>Installing Your Logitech MX Master: Complete Setup Instructions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-16-hp-laptop-offers-on-holidays-techradar/"><u>Top 16 HP Laptop Offers on Holidays | TechRadar</u></a></li>
-<li><a href="https://win-premium.techidaily.com/top-8-free-photo-editing-software-of-2024-a-comprehensive-guide/"><u>Top 8 Free Photo-Editing Software of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-expert-tips-for-procuring-unlocked-picture-frame-videos/"><u>[New] Expert Tips for Procuring Unlocked Picture Frame Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-harvest-hangout-top-10-agri-games-to-enjoy-together-for-2024/"><u>[New] The Ultimate Harvest Hangout Top 10 Agri-Games to Enjoy Together for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cinema-craftsmanship-unleashed-youtube-green-screens-101-for-2024/"><u>[Updated] Cinema Craftsmanship Unleashed Youtube Green Screens 101 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/auditory-augmentation-for-win11-clips/"><u>Auditory Augmentation for Win11 Clips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargar-y-convertir-videos-gratis-a-formato-mp4-con-conversor-de-video-online/"><u>Descargar Y Convertir Videos Gratis a Formato MP4 Con Conversor De Video Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-epson-xrp-330-printers-latest-driver-software/"><u>Download & Install Epson XRP-330 Printer's Latest Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asus-atk0110-acpi-drivers-at-no-cost/"><u>Download ASUS ATK0110 ACPI Drivers at No Cost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-thrustmaster-t300-racing-wheel-software-compatible-with-windows-11-and-10/"><u>Download Thrustmaster T300 Racing Wheel Software Compatible with Windows 11 and 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-download-of-brother-hl-3170cdw-printer-software-tools/"><u>Effortless Download of Brother HL-3170CDW Printer Software Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/exclusive-list-of-top-8-wallpapers-for-macbooks/"><u>Exclusive List of Top 8 Wallpapers for MacBooks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-features-of-chatgpt-copilot-an-in-depth-guide/"><u>Exploring the Features of ChatGPT Copilot: An In-Depth Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-quick-and-easy-online-photo-cropping-hacks/"><u>In 2024, Quick and Easy Online Photo Cropping Hacks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-update-or-install-intels-ax2-groovy-wireless-driver-for-the-latest-windows-operating-systems/"><u>Step by Step Guide to Update or Install Intel's AX2 Groovy Wireless Driver for the Latest Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-updating-your-audio-technica-speaker-driver-software/"><u>Ultimate Guide: Updating Your Audio-Technica Speaker Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-canon-eos-d-series-software-free-downloads-and-instructions/"><u>Update Your Canon EOS D-Series Software – Free Downloads and Instructions</u></a></li>
 </ul></div>
 

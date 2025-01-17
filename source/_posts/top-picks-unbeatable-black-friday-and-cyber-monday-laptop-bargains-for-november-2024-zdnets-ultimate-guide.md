@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: Unbeatable Black Friday & Cyber Monday Laptop Bargains for November 2024 - ZDNet's Ultimate Guide"
-date: 2024-12-02T17:24:10.988Z
-updated: 2024-12-04T21:38:23.064Z
+date: 2025-01-09T19:30:09.097Z
+updated: 2025-01-16T17:00:24.868Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -90,7 +86,7 @@ Dell/ZDNET
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C47065100-4b72-4d10-9ba8-936345e6db51%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best gaming laptops under $1,000
@@ -101,10 +97,6 @@ Asus/ZDNET
 * [Asus ROG Strix G17](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HV382D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C47065100-4b72-4d10-9ba8-936345e6db51%7Cdtp&dtb=1) (2022) for $949 ($250 off) - The ROG Strix G17 from Asus' 2022 lineup is marked down significantly to make room for the 2024 models, but that doesn't mean this machine can't handle high-end gaming. It's got 16GB of RAM and an Nvidia GeForce RTX 3050 GPU and bold design, all for under $1,000\.
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C47065100-4b72-4d10-9ba8-936345e6db51%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C47065100-4b72-4d10-9ba8-936345e6db51%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best laptops for photo editing
 
@@ -122,6 +114,10 @@ Kyle Kucharski/ZDNET
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C47065100-4b72-4d10-9ba8-936345e6db51%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Buy laptop deals
 
 * [Asus ROG Strix Scar 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-strix-scar-17-3-240hz-gaming-laptop-wqhd-amd-ryzen-9-x3d-with-32gb-memory-nvidia-geforce-rtx-4090-2tb-ssd-off-black%2F6564531.p%3FskuId%3D6564531&publisher_slug=itechdaily19598&exclusive=1) for $3,000 (save $700): This high-end gaming laptop is built with an AMD Ryzen 9 X3D processor, 32GB of RAM, a 2TB SSD, and Nvidia GeForce RTX 4090 graphics card.
@@ -136,20 +132,20 @@ Kyle Kucharski/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -163,6 +159,10 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -230,20 +230,19 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-20-must-experience-sandbox-game-innovations-for-2024/"><u>[New] 20 Must-Experience Sandbox Game Innovations for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-twitter-visual-content-proportions-for-2024/"><u>[New] Twitter Visual Content Proportions for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-online-presence-with-expert-streaming-guide-for-2024/"><u>[Updated] Elevate Your Online Presence with Expert Streaming Guide for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/critics-slash-humane-ai-game-surprisingly-innovative-concepts-inside/"><u>Critics Slash 'Humane AI' Game: Surprisingly Innovative Concepts Inside</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/determining-a-mechanical-keyboards-volume-prior-to-acquisition-tips-and-tricks/"><u>Determining a Mechanical Keyboard's Volume Prior to Acquisition: Tips & Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-charm-of-high-quality-thermal-label-printing-fall-in-love-with-efficiency/"><u>Discover the Charm of High-Quality Thermal Label Printing - Fall in Love with Efficiency</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-android-auto-and-carplay-in-your-car-a-step-by-step-guide/"><u>Effortless Installation of Android Auto and CarPlay in Your Car: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/evaluating-the-capabilities-of-switchbot-universal-remote-control-more-than-just-an-all-purpose-device/"><u>Evaluating the Capabilities of SwitchBot Universal Remote Control: More Than Just an All-Purpose Device?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-tech-savings-alert-snag-top-value-products-like-lg-flux-tv-latest-google-pixel-7-and-the-new-dji-mini-ebird-series/"><u>Exclusive Tech Savings Alert! Snag Top Value Products Like LG Flux TV, Latest Google Pixel 7, and the New DJI Mini Ebird Series</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expand-your-storage-capacity-samsungs-new-high-capacity-flash-drives/"><u>Expand Your Storage Capacity: Samsung's New High-Capacity Flash Drives</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-record-vimeo/"><u>In 2024, How to Record Vimeo?</u></a></li>
-<li><a href="https://facebook.techidaily.com/new-era-of-private-conversations-facebooks-encrypted-instagram-dms-messenger-calls-rollout/"><u>New Era of Private Conversations: Facebook's Encrypted Instagram DMs, Messenger Calls Rollout.</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streaming-showdown-is-streamlabs-or-obs-your-best-choice-for-2024/"><u>Streaming Showdown Is Streamlabs or OBS Your Best Choice for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-discreet-gaming-talk-on-series-sx/"><u>The Art of Discreet Gaming Talk on Series S/X</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-a-beginners-key-to-mastering-social-media-metrics-for-2024/"><u>[New] A Beginner's Key to Mastering Social Media Metrics for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-leveraging-camera-roll-for-social-media-step-by-step-guide/"><u>[Updated] Leveraging Camera Roll for Social Media - Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-data.techidaily.com/1-diagnosing-and-troubleshooting-pc-components-a-guide-by-yl-computing/"><u>1. Diagnosing and Troubleshooting PC Components: A Guide by YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/die-top-12-werkzeuge-zum-konvertieren-von-dvdvod-vob-in-scharfes-mp4-letzte-auswahl-der-tools-2023/"><u>Die Top-12-Werkzeuge Zum Konvertieren Von DVD/VOD-VOB in Scharfes MP4: Letzte Auswahl Der Tools 2023</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y100i-power-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone/"><u>How to View Instagram Stories Anonymously on PC, Android, and iPhone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-edge-40-neo-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-computer-systems-the-ultimate-guide-by-toms-hardware-specialists/"><u>Mastering Computer Systems: The Ultimate Guide by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-gear-the-ultimate-guide-to-top-notch-equipment/"><u>Tom's Tech Gear: The Ultimate Guide to Top-Notch Equipment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-computer-system-insights/"><u>Tom's Tech Reviews - Comprehensive Computer System Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-guide-and-analysis/"><u>Tom's Tech Reviews: Comprehensive Guide & Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-latest-gadgets/"><u>Tom's Tech Reviews: Expert Insights on Latest Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-hardware-analysis/"><u>Tom's Tech Reviews: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-new-convenience-adjusting-settings-on-roku-tv-via-touchscreen-options/"><u>Unlocking New Convenience: Adjusting Settings on Roku TV via Touchscreen Options</u></a></li>
 </ul></div>
 

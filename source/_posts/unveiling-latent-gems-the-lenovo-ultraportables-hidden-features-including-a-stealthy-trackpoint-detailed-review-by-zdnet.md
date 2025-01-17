@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review by ZDNet"
-date: 2025-01-04T21:53:23.443Z
-updated: 2025-01-11T06:10:50.278Z
+date: 2025-01-11T02:19:56.155Z
+updated: 2025-01-17T00:41:47.513Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,22 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-enhancing-dialogue-guidelines-for-subscriber-relations-for-2024/"><u>[New] Enhancing Dialogue Guidelines for Subscriber Relations for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-skys-limit-broken-by-djis-pro-drone-review/"><u>[Updated] 2024 Approved The Sky's Limit Broken by DJI’s Pro Drone Review</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-swift-and-smooth-ipad-recordings/"><u>[Updated] In 2024, The Ultimate Guide to Swift and Smooth iPad Recordings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-x-recorder-download-for-pc-for-2024/"><u>[Updated] X-Recorder Download for PC for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-nic-drivers-here-immediate-download-available/"><u>Get Your Gigabyte NIC Drivers Here - Immediate Download Available!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-speakers-up-and-running-with-our-free-driver-downloads/"><u>Get Your HP Speakers Up and Running with Our Free Driver Downloads!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-smoothly-get-the-dell-mouse-driver-installed-common-problems-solved/"><u>How To Smoothly Get the Dell Mouse Driver Installed: Common Problems Solved</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-magic-5-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Magic 5 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-a-mesh-wi-fi-system-right-for-your-home-or-business-pros-and-cons/"><u>Is a Mesh Wi-Fi System Right for Your Home or Business? [Pros & Cons]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/masterful-motherboard-tweaks-quickly-updating-asus-maximus-x-hero-drivers/"><u>Masterful Motherboard Tweaks: Quickly Updating ASUS Maximus X Hero Drivers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/propel-your-brand-with-a-10-step-blueprint-for-top-smm-performance/"><u>Propel Your Brand with a 10-Step Blueprint for Top SMM Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-newest-amd-drivers-for-windows-users/"><u>Step-by-Step Installation of Newest AMD Drivers for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-updated-drivers-for-windows-maximizing-performance-with-amd-vega-56/"><u>Step-by-Step Installation of Updated Drivers for Windows: Maximizing Performance with AMD Vega 56</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-layout-and-distribution-of-system-components-like-nozzles-or-sprinkler-heads-are-optimized-using-computational-modeling-for-effective-agent-delivery/"><u>The Layout and Distribution of System Components, Like Nozzles or Sprinkler Heads, Are Optimized Using Computational Modeling for Effective Agent Delivery.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-brother-scanner-drivers-now-compatible-with-windows-os/"><u>Update Your Brother Scanner Drivers Now – Compatible with Windows OS!</u></a></li>
-<li><a href="https://win-online.techidaily.com/maksimizaciya-seo-s-pomoshyu-alternativnyh-instrumentov-k-ubersuggest-izuchenie-klyuchevyh-slov-v-uproshennom-poryadke-webmarkstech-solutions/"><u>Максимизация SEO С Помощью Альтернативных Инструментов К Ubersuggest: Изучение Ключевых Слов В Упрощенном Порядке | WebMarksTech Solutions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-creative-video-text-top-10-edition/"><u>[New] Creative Video Text Top 10 Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-post-vlc-media-player-landscape-analysis/"><u>[New] Post-VLC Media Player Landscape Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-enhance-experience-using-your-logitech-webcam-properly/"><u>[Updated] 2024 Approved Enhance Experience Using Your Logitech Webcam Properly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unfolding-the-world-on-iphone-perfect-fb-video-sharing/"><u>[Updated] In 2024, Unfolding the World on iPhone Perfect FB Video Sharing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-masterful-color-transformations-with-free-and-paid-luts-for-cameras-for-2024/"><u>[Updated] Masterful Color Transformations with Free & Paid LUTs for Cameras for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-essential-techniques-to-compress-and-adjust-iphone-videos/"><u>2024 Approved Essential Techniques to Compress and Adjust iPhone Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-smooth-win11-meetings-via-zoom/"><u>2024 Approved Expert Tips for Smooth Win11 Meetings via Zoom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-for-the-best-behringer-usb-audio-driver-download-latest-firmware-update/"><u>Direct Links for the Best Behringer USB Audio Driver Download | Latest Firmware Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-brother-hl-l2350dw-printer-drivers-updates-available/"><u>Download the Latest Brother HL-L2350DW Printer Drivers: Updates Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-optimize-your-rtx-2080-on-windows-1178/"><u>Download Updated Drivers: Optimize Your RTX 2080 on Windows 11/7/8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficient-video-capture-at-your-fingertips-easycap-driver-downloads-on-demand/"><u>Efficient Video Capture at Your Fingertips - EasyCap Driver Downloads On Demand!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/re-best-asmr-apps-both-sides-of-the-os-for-2024/"><u>Explore Best ASMR Apps, Both Sides of the OS for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-intel-network-adapter-drivers-for-widows-11-10-and-7-users/"><u>Free Download: Intel Network Adapter Drivers for Widows 11, 10 and 7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-quickly-get-the-latest-drivers-for-your-samsung-laptop-under-windows-os/"><u>How to Quickly Get the Latest Drivers for Your Samsung Laptop Under Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-compatible-drivers-for-samsung-850-evo-storage-device-instant-access/"><u>Latest Compatible Drivers for Samsung 850 EVO Storage Device – Instant Access!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-upgrades-sm-bus-controller-driver-version-update-for-dell-systems/"><u>Latest Upgrades: SM Bus Controller Driver Version Update for Dell Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978560357-top-quality-epson-inkjet-t180xl-replacement-cartridges-on-ebay-buy-now/"><u>Top Quality Epson Inkjet T180XL Replacement Cartridges on eBay - Buy Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-unrecognized-usb-devices-in-windows-11-expert-tips/"><u>Troubleshooting Unrecognized USB Devices in Windows 11 – Expert Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-brain-power-with-second-language-acquisition-at-50plus/"><u>Unlocking Brain Power with Second Language Acquisition at 50+</u></a></li>
 </ul></div>
 

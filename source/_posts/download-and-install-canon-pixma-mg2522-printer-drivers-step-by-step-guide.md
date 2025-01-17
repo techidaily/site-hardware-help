@@ -1,7 +1,7 @@
 ---
 title: "Download and Install Canon PIXMA MG2522 Printer Drivers: Step-by-Step Guide"
-date: 2024-08-13T12:50:53.338Z
-updated: 2024-08-14T12:50:53.338Z
+date: 2025-01-10T21:54:20.132Z
+updated: 2025-01-17T01:40:11.871Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 If you bought a Thrustmaster T150 racing wheel at home but it doesn’t work properly, you may need to update its driver.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why you need Thrustmaster T150 driver?
 
  Drivers are software components that make devices and the operating system talk to each other. Both system and device are updating to catch up with the changing world, so is drivers. If the operating system changes the way it speaks to devices and drivers haven’t updated, devices can’t receive correct commands and cause problems.
@@ -27,8 +28,9 @@ If you bought a Thrustmaster T150 racing wheel at home but it doesn’t work pro
  That’s why most of the problems can be solved by installing/updating drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to update Thrustmaster T150 driver?
 
  There are two ways you can update your driver: manually and automatically.
@@ -44,14 +46,17 @@ OR
 1. Go to the[Thrustmaster support website](http://support.thrustmaster.cn/en/kb/3979-en/) .
 2. Type the model name and click the search button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the product you have.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Download the driver and install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/download-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **Option 2 – Automatically update drivers**
@@ -65,15 +70,12 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -89,8 +91,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +98,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-screencastify-a-comprehensive-recording-how-to/"><u>[New] 2024 Approved Screencastify A Comprehensive Recording How-To</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-sound-of-success-tailoring-audio-for-instagram-content-for-2024/"><u>[New] The Sound of Success Tailoring Audio for Instagram Content for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-creating-captivating-360-footage-for-social-media-sharing/"><u>[Updated] 2024 Approved Creating Captivating 360 Footage for Social Media Sharing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-audio-upheavals-top-rhythmic-disruptors-for-devices-for-2024/"><u>[Updated] Audio Upheavals Top Rhythmic Disruptors for Devices for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frame-perfection-ultimate-picks-for-photographic-lenses/"><u>2024 Approved Frame Perfection Ultimate Picks for Photographic Lenses</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-safely-updating-lenovos-bluetooth-drivers-on-windows-7-and-10-devices/"><u>Complete Guide to Safely Updating Lenovo's Bluetooth Drivers on Windows 7 & 10 Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-fast-top-wireless-network-card-driver-software/"><u>Download Fast: Top Wireless Network Card Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-compatible-drivers-for-your-ricoh-mp-c3003-all-in-one-printer/"><u>Find & Download Compatible Drivers for Your Ricoh MP C3003 All in One Printer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-repair-techniques-to-restore-true-colors-and-fix-distorted-displays-on-computers/"><u>Guide: Repair Techniques to Restore True Colors and Fix Distorted Displays on Computers</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-max-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro Max iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/swift-access-to-brother-hl-3170cdw-driver-software/"><u>Swift Access to Brother HL-3170cdw Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973156951-the-ultimate-resource-how-to-secure-and-update-your-lenovo-thinkpad-t42-compatible-with-windows/"><u>The Ultimate Resource: How to Secure & Update Your Lenovo ThinkPad T42, Compatible with Windows</u></a></li>
+</ul></div>
 

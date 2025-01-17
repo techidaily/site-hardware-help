@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Personalized DNS Settings on Your Chromebook: A Step-by-Step Guide and Its Advantages"
-date: 2024-11-30T09:54:36.433Z
-updated: 2024-12-04T23:25:38.591Z
+date: 2025-01-14T23:56:11.943Z
+updated: 2025-01-16T19:48:10.515Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,20 +120,20 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-ppt-recording-techniques/"><u>[New] 2024 Approved Mastering PPT Recording Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-reviving-classic-cinema-a-guide-to-watching-vintage-dvds-on-new-apple-m-series-macbooks-techradar/"><u>1. Reviving Classic Cinema: A Guide to Watching Vintage DVDs on New Apple M-Series MacBooks | TechRadar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-advanced-tips-with-toms-electronic-compass/"><u>Discover Advanced Tips with Tom's Electronic Compass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-asus-drivers-and-tools-latest-graphics-software-for-windows-pcs/"><u>Download ASUS Drivers & Tools: Latest Graphics Software for Windows PCs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-issue-why-cant-i-start-battlefield-4-on-my-computer/"><u>Fixing the Issue: Why Can't I Start Battlefield 4 on My Computer?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-earning-potential-unveiled-youtube-adsense-earning-per-thousand-video-observations/"><u>In 2024, Earning Potential Unveiled YouTube AdSense Earning per Thousand Video Observations</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-15-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 15 Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-announces-major-layoffs-over-15k-jobs-cut-amidst-meteor-lake-production-setbacks-and-dividend-halt/"><u>Intel Announces Major Layoffs: Over 15K Jobs Cut Amidst Meteor Lake Production Setbacks and Dividend Halt</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigate-the-world-of-components-at-tomhardwaremastery/"><u>Navigate the World of Components at TomHardwareMastery</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-how-to-safeguard-your-work-saving-fcp-projects-like-a-pro/"><u>New 2024 Approved How to Safeguard Your Work Saving FCP Projects Like a Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-guide-displaylink-drivers-for-windows-10/"><u>Quick & Easy Installation Guide: DisplayLink Drivers for Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-start-guide-to-downloading-the-most-recent-nvidia-geforce-gtx-460-driver-for-windows-users/"><u>Quick Start Guide to Downloading the Most Recent nVidia GeForce GTX 460 Driver for Windows Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/securesync-experts-analysis/"><u>SecureSync Experts Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-get-your-wacom-intuos-pro-working-on-windows-10/"><u>Step-by-Step Tutorial to Get Your Wacom Intuos Pro Working on Windows 10</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-5-video-marketing-effective-tagging-techniques-for-2024/"><u>[New] Top 5 Video Marketing Effective Tagging Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-enhancing-video-appeal-mac-thumbnails-tutorial/"><u>[Updated] In 2024, Enhancing Video Appeal Mac Thumbnails Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-the-best-performance-out-of-your-intel-hardware-driver-update-guide/"><u>Getting the Best Performance Out of Your Intel Hardware - Driver Update Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-13c-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi 13C Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maxio-unveils-high-speed-china-made-ssd-controllers-up-to-148gbs-with-pcie-5-technology/"><u>Maxio Unveils High-Speed China-Made SSD Controllers, Up to 14.8GB/S with PCIe 5 Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/meet-kioxias-game-changing-solid-state-drives-harnessing-the-power-of-light-for-superior-performance-and-extended-reach-to-processors-over-40m/"><u>Meet Kioxia's Game-Changing Solid State Drives: Harnessing the Power of Light for Superior Performance and Extended Reach to Processors over 40M</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-computer-world-the-comprehensive-guide-by-tom/"><u>Navigating Computer World: The Comprehensive Guide by Tom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-technology-through-toms-lens/"><u>Navigating Technology Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-hardware-with-expert-insights-from-tom-your-go-to-resource-for-gadget-comparisons-and-buying-advice/"><u>Navigating the World of Hardware with Expert Insights From Tom - Your Go-To Resource for Gadget Comparisons and Buying Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-generation-of-solid-state-storage-how-wds-qlc-drives-surpass-last-years-tlc-by-over-16-sn5000s-vs-sn740/"><u>New Generation of Solid-State Storage: How WD's QLC Drives Surpass Last Year's TLC by Over 16% (SN5000S Vs. SN740)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pickus-triumph-in-android-photo-editing-a-comprehensible-review/"><u>PickU's Triumph in Android Photo Editing – A Comprehensible Review</u></a></li>
+<li><a href="https://win-latest.techidaily.com/securely-transfer-hot-movies-and-porn-from-mofos-as-high-quality-videos-mp4-mov-avi/"><u>Securely Transfer Hot Movies and Porn From Mofos as High-Quality Videos (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unlocking-enigmas-ranked-puzzle-experiences-explored/"><u>Unlocking Enigmas Ranked Puzzle Experiences Explored</u></a></li>
 </ul></div>
 

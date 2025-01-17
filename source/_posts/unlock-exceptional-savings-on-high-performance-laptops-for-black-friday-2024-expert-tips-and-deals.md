@@ -1,7 +1,7 @@
 ---
 title: Unlock Exceptional Savings on High-Performance Laptops for Black Friday 2024 | Expert Tips & Deals
-date: 2024-11-27T18:21:39.505Z
-updated: 2024-12-04T20:16:59.206Z
+date: 2025-01-11T16:14:55.011Z
+updated: 2025-01-16T20:05:54.604Z
 tags:
   - laptops
 categories:
@@ -77,7 +77,7 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f760df1-a9e4-46e4-85d2-5c9b6db3c0a2%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for students
@@ -98,10 +98,6 @@ Asus/ZDNET
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f760df1-a9e4-46e4-85d2-5c9b6db3c0a2%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f760df1-a9e4-46e4-85d2-5c9b6db3c0a2%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best laptops for photo editing
 
 * [Acer Chromebook Spin 714](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CP714-1WN-53M9-i5-1235U-1920x1200-Keyboard%2Fdp%2FB0BJH9LGK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f760df1-a9e4-46e4-85d2-5c9b6db3c0a2%7Cdtp&dtb=1) for $545 ($227 off): If you're looking for a good sale price on a convertible 2-in-1, Acer's Chromebook Spin 714 brings all the light efficiency of a Chromebook to a portable form factor. This is a great editing device if you often use Google Photos. Also, with a new purchase, you get Gemini Advanced, 2TB of cloud storage, and more free for three months.
@@ -118,10 +114,6 @@ Kyle Kucharski/ZDNET
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f760df1-a9e4-46e4-85d2-5c9b6db3c0a2%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy laptop deals
 
 * [Asus ROG Strix Scar 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-strix-scar-17-3-240hz-gaming-laptop-wqhd-amd-ryzen-9-x3d-with-32gb-memory-nvidia-geforce-rtx-4090-2tb-ssd-off-black%2F6564531.p%3FskuId%3D6564531&publisher_slug=itechdaily19598&exclusive=1) for $3,000 (save $700): This high-end gaming laptop is built with an AMD Ryzen 9 X3D processor, 32GB of RAM, a 2TB SSD, and Nvidia GeForce RTX 4090 graphics card.
@@ -134,22 +126,26 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -163,6 +159,10 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -230,18 +230,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/say-adios-al-lag-in-forza-horizon-5-estas-herramientas-y-consejos-mejoraran-tu-experiencia-de-juego/"><u>¡Say Adiós Al Lag in Forza Horizon 5! Estas Herramientas Y Consejos Mejorarán Tu Experiencia De Juego</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-strategies-for-uploading-and-live-streaming-past-videos-on-facebook-for-2024/"><u>[Updated] Strategies for Uploading and Live Streaming Past Videos on Facebook for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-changing-printer-behavior-on-windows/"><u>Avoiding Changing Printer Behavior on Windows</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/design-and-develop-an-engaging-online-sales-catalogue-with-flipbuilder-tools/"><u>Design and Develop an Engaging Online Sales Catalogue with FlipBuilder Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-update-your-razer-graphicscontroller-drivers-for-windows-11-to-vista-users/"><u>Download Update Your Razer Graphics/Controller Drivers for Windows 11 to Vista Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-geforce-rtx-2070-driver-for-multiple-winsrs-10-8-and-7-systems-supported/"><u>Download Updated Geforce RTX 2070 Driver for Multiple WinSrs: 10, 8, and 7 Systems Supported!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-samsung-phone-connections-how-to-update-your-usb-driver-seamlessly/"><u>Mastering Samsung Phone Connections: How to Update Your USB Driver Seamlessly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-installation-of-insignias-usb-vga-adapter-drivers-included/"><u>Quick Installation of Insignia's USB VGA Adapter: Drivers Included</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-resolution-for-realtek-alc887-audio-driver-glitches-on-pc/"><u>Step-by-Step Resolution for Realtek ALC887 Audio Driver Glitches on PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-gadget-hub-navigating-through-top-notch-hardware-by-tom/"><u>The Ultimate Gadget Hub: Navigating Through Top-Notch Hardware by Tom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-review-destination-for-enthusiasts-discover-toms-hardware/"><u>The Ultimate Review Destination for Enthusiasts – Discover Tom's Hardware</u></a></li>
-<li><a href="https://video-capture.techidaily.com/tiktok/"><u>TikTok向け動画変換ガイド: 簡単な手順で始めよう</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-improving-graphics-in-forza-horizon-5-with-driver-updates/"><u>Troubleshooting and Improving Graphics in Forza Horizon 5 with Driver Updates</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movaviweb-cafaif/"><u>「Movaviで簡単！無料WEB CAF形式からAIFファイルへの変換ガイド」</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/classroom-visuals-cutting-edge-video-edits-for-teachers/"><u>Classroom Visuals Cutting Edge Video Edits for Teachers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-raspberry-pi-4-efficiency-with-windows-11-expert-overclocking-techniques-revealed/"><u>Enhance Raspberry Pi 4 Efficiency with Windows 11 - Expert Overclocking Techniques Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-computer-systems-with-toms-hardware-experts-in-depth-guides-and-analysis/"><u>Exploring Computer Systems with Tom's Hardware Experts: In-Depth Guides & Analysis</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>In 2024, Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-evaluation-of-clipcreator-editor-updated/"><u>In-Depth Evaluation of ClipCreator Editor - Updated</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-reviews-by-toms-computer-gear-hub/"><u>In-Depth Reviews by Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-sound-troubleshooting-a-step-by-step-guide-to-resolving-audio-problems-on-windows-10/"><u>Mastering Sound Troubleshooting: A Step-by-Step Guide to Resolving Audio Problems on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-raptor-lake-processors-might-fall-short-of-6ghz-despite-rumored-upgrades/"><u>New 'Raptor Lake' Processors Might Fall Short of 6GHz Despite Rumored Upgrades</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964462424-thrilling-breakthrough-in-pc-performance-ddr5-memory-hit-9058mhz-with-ryzen-clockwork-latest-bios-update-secrets-revealed/"><u>Thrilling Breakthrough in PC Performance: DDR5 Memory Hit 9058MHz with Ryzen Clockwork - Latest BIOS Update Secrets Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-broadcasts-with-manycam-top-tier-virtual-webcams-and-live-video-editors-unveiled/"><u>Transform Your Broadcasts with ManyCam: Top-Tier Virtual Webcams and Live Video Editors Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-technology-insights-with-tom-comprehensive-hardware-analysis/"><u>Unveiling Technology Insights with Tom - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-gadgets-with-tom-expert-hardware-evaluations/"><u>Unveiling the Latest Gadgets with Tom - Expert Hardware Evaluations</u></a></li>
 </ul></div>
 

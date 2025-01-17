@@ -1,7 +1,7 @@
 ---
 title: "Fast Mac Guidance: Steps to Take When Laptop Cooling Fans Constantly Run - Insights From ZDNet"
-date: 2024-12-04T00:06:36.247Z
-updated: 2024-12-04T22:47:23.227Z
+date: 2025-01-09T22:37:33.403Z
+updated: 2025-01-16T21:55:52.254Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Here are a few simple things you can try that might save you a trip to the Apple
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -41,6 +41,10 @@ But first, consider: It might be normal. Laptops get hot, and MacBooks are no ex
 If you're running a resource-heavy application such as Photoshop, or have a browser with loads of tabs open, then the fans might very well be just doing their job. After all, without them, your Mac could quickly wither and die. 
 
 Another heavy load for MacBooks is using [external monitors](https://www.zdnet.com/article/best-monitor/), because these stress the GPU, which in turn means that the fans need to run more often. Not reassured? Keep reading. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Is your Mac hot or not?
 
@@ -61,7 +65,7 @@ Still worried? Then I'd suggest a reboot.
 It's possible that an application -- or maybe even the operating system -- has crashed and is going rogue. The quickest way to fix this is with a reboot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset your Intel-based Mac
@@ -69,10 +73,6 @@ It's possible that an application -- or maybe even the operating system -- has c
 If you're still experiencing this problem and you don't think that it's normal (that is, you've rebooted and you're not running anything that's hammering at the CPU or GPU that much) and you have an Intel-based Mac, then I recommend that you try resetting the SMC and PRAM. (This does not work on the new Apple Silicon Macs -- I'll get to those in a bit.)
 
 Don't worry, it's a lot easier than it sounds -- oh, and you won't lose any data doing this!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Reset SMC (System Management Controller)
 
@@ -84,21 +84,21 @@ This one tip can fix a whole raft of Mac issues. However, how you go about doing
 
 **Also:** [**How to make your MacBook battery run all day**](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset PRAM (Parameter RAM)
 
 To reset the PRAM you need to hold down COMMAND and OPTION and P and R while powering on the system. Here's another of those times when a spare arm (or an assistant) comes in handy! Keep holding down the four buttons for about 20 seconds, and you'll hear [the "WALL-E" startup chime](https://www.youtube.com/watch?v=bBmM4VM8Bv8) or see the Apple logo a couple of times. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Restart your Apple Silicon Mac
 
 For these newer M1- and M2-powered Macs, resetting the SMC and PRAM doesn't work, and all Apple recommends doing is restarting the computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Oh, one more thing ... dust!
 
@@ -140,17 +140,15 @@ Hold the nozzle an inch or so away from the vents and only use the suction brief
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-photo-editing-essentials-cut-out-unwanted-borders-smoothly/"><u>[New] In 2024, Photo Editing Essentials Cut Out Unwanted Borders Smoothly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-divergence-in-dungeons-classic-and-hybrid-games/"><u>[Updated] In 2024, Divergence in Dungeons Classic and Hybrid Games</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/5pa55rov44gr44ki44kl44kk44oz44k44o844on44od44oi5lia5pmc44ov44kh44kk44or44gu6jih55sfic0g44or44k944kz44oz44ks5ps55zae44gz44kl57ch5y2y44gq44og44kv44ol44od44kv.73/"><u>方法によるインターネット一時ファイルの蘇生 - パソコンを改善する簡単なテクニック</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-insights-from-toms-computer-review-top-picks-for-enthusiasts/"><u>Expert Insights From Tom's Computer Review - Top Picks for Enthusiasts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-apex-legends-wont-load-issues-fast-effective-solutions/"><u>Fix Apex Legends Won't Load Issues Fast – Effective Solutions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/ftdi-bus-system-error-driver-mismatch-causes-memory-integrity-failure/"><u>FTDI Bus System Error: Driver Mismatch Causes Memory Integrity Failure</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fetch-the-newest-canoscan-lide-220-drivers-step-by-step-instructions/"><u>How to Fetch the Newest CanoScan LiDE 220 Drivers: Step-by-Step Instructions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y78t-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y78t to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-m34-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy M34 FRP Bypass</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/italian-dialogues-key-phrases-to-enhance-your-visit/"><u>Italian Dialogues: Key Phrases to Enhance Your Visit</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-hp-beats-sound-card-issues-on-windows-10-8-and-7-a-comprehensive-fix-guide/"><u>Resolving HP Beats Sound Card Issues on Windows 10, 8 & 7 – A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/this-title-focuses-on-the-impressive-achievement-of-scoring-over-108000-points-while-also-explaining-that-it-is-achieved-through-multi-threading-tests-using65/"><u>This Title Focuses on the Impressive Achievement of Scoring over 108,000 Points, While Also Explaining that It Is Achieved Through Multi-Threading Tests Using the CPU-Z Benchmark.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-seeking-the-perfect-cut-choose-between-filmora-or-democreator-for-2024/"><u>[New] Seeking the Perfect Cut? Choose Between Filmora or Democreator for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-collaboration-merging-the-benefits-of-zoom-and-skype/"><u>Enhancing Collaboration Merging the Benefits of ZOOM and SKYPE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-electronics-with-tom-unbiased-hardware-analysis-and-comparisons/"><u>Exploring Electronics with Tom: Unbiased Hardware Analysis & Comparisons</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-efficient-ways-to-delete-previewed-content-from-youtubes-queue/"><u>In 2024, Efficient Ways to Delete Previewed Content From YouTube's Queue</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-top-5-captivating-videos-from-the-world-of-fb/"><u>In 2024, Top 5 Captivating Videos From the World of FB</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-hardware-insights-by-tom-top-picks-and-professional-assessments/"><u>In-Depth Hardware Insights by Tom: Top Picks & Professional Assessments</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-airflow-design-centralized-fans-and-centrifugal-techniques-ensure-superior-pc-cooling-efficiency/"><u>Innovative Airflow Design: Centralized Fans and Centrifugal Techniques Ensure Superior PC Cooling Efficiency</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mastering-image-editing-adding-captions-and-annotations-with-ease/"><u>Mastering Image Editing: Adding Captions & Annotations with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-steam-display-fixes-on-microsoft-os/"><u>Mastering Steam Display Fixes on Microsoft OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/purchase-your-ideal-corsair-atx-mid-tower-at-unbeatable-discounts/"><u>Purchase Your Ideal Corsair ATX Mid Tower at Unbeatable Discounts</u></a></li>
 </ul></div>
 

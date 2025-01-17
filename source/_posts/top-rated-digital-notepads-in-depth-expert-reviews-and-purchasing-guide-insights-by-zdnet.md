@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Digital Notepads: In-Depth Expert Reviews & Purchasing Guide - Insights by ZDNet"
-date: 2025-01-08T16:24:57.774Z
-updated: 2025-01-10T17:11:06.243Z
+date: 2025-01-10T02:06:07.035Z
+updated: 2025-01-16T20:10:45.436Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ We prioritized machines that scored well in durability, portability, and of cour
 
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf6d86123-7c0d-4dd0-b3a2-759d36d51cb2%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best laptop for college in 2024
 
 Show less 
@@ -46,6 +42,10 @@ Cons
 * Uninspiring speakers
 
 ## Apple MacBook Air M3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best college laptop overall
 
@@ -77,10 +77,14 @@ Cons
 * Middling battery life
 * No HDMI or USB-A ports
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HP Dragonfly Pro Chromebook
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Chromebook for college
@@ -143,7 +147,15 @@ Cons
 * Has a tendency to run warm
 * Bloatware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus ROG Zephyrus G14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best college laptop for gaming
 
@@ -170,11 +182,11 @@ Cons
 * Expensive
 * Comes with multiple supporting parts
 
-## Lenovo Yoga Book 9i
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Lenovo Yoga Book 9i
 
 ### Best 2-in-1 convertible laptop for college
 
@@ -201,10 +213,6 @@ The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zd
 | Acer Aspire Go 15           | $299              | Intel Core i3-N305, Intel UHD        | 8GB, 128GB                  | 3.75             |
 | Asus ROG Zephyrus G14       | $1,600            | AMD Ryzen 9, GeForce RTX 4070        | 32GB, 1TB SSD               | 3.3              |
 | Lenovo YogaBook 9i          | $1,999            | Intel Core Ultra 155U, Intel Iris Xe | 16GB, 512GB                 | 3.15             |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which is the right laptop for college for you?
 
@@ -235,7 +243,7 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing a laptop for college
@@ -249,10 +257,6 @@ These are the factors that I weighed when selecting the best laptops for college
 * **Portability:** Carrying around a heavy laptop all day while on campus is a tough ask. That's why all five of these laptops were considered to be light enough to be carried around a full day at school, the heaviest of which (the Acer Aspire Go 15) is only 3.7 pounds.
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is mostly limited to mid-range devices.
@@ -260,10 +264,6 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also: [The best security keys you can buy: Expert tested](https://www.zdnet.com/article/best-security-key/)**
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's the difference between a Chromebook and a Windows or Mac laptop?
 
@@ -317,18 +317,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-art-and-craft-of-documentary-writing/"><u>[Updated] 2024 Approved The Art and Craft of Documentary Writing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-quick-tips-for-posting-videos-on-instagram/"><u>[Updated] Quick Tips for Posting Videos on Instagram</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-swift-shadowing-secrets/"><u>2024 Approved Swift Shadowing Secrets</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-moto-g84-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Moto G84 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-consumer-contentment-masterful-unboxing-tactics-for-2024/"><u>Crafting Consumer Contentment Masterful Unboxing Tactics for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/enhanced-user-experience-with-policy-update/"><u>Enhanced User Experience with Policy Update</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-ralink-rt3290-wi-fi-drivers-on-windows-11-8-and-7-a-complete-guide/"><u>Fixing Ralink RT3290 Wi-Fi Drivers on Windows 11, 8 & 7: A Complete Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-oppo-find-n3-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo Find N3 Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oneplus-nord-n30-se-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock OnePlus Nord N30 SE Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978458102-logitech-m510-driver-update-guide/"><u>Logitech M510 – Driver Update Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/playful-escape-the-ultimate-relief-list/"><u>Playful Escape The Ultimate Relief List</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-of-dell-latitude-e6420-device-drivers/"><u>Quick and Easy Installation of Dell Latitude E6420 Device Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-complete-elan-smbus-driver-setup-and-latest-version-for-windows-systems/"><u>Resolved: Complete ELAN SMBus Driver Setup & Latest Version for Windows Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-rated-switch-capture-cards-revealed/"><u>[Updated] 2024 Approved Top-Rated Switch Capture Cards Revealed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-essential-tips-for-ordering-photos-on-iphone-with-icloud-backup-for-2024/"><u>[Updated] Essential Tips for Ordering Photos on iPhone, With iCloud Backup for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-android-screen-recorder-options-list/"><u>[Updated] Ultimate Android Screen Recorder Options List</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/affluent-online-broadcasting-houses/"><u>Affluent Online Broadcasting Houses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-troubleshooting-guide-for-i2c-peripheral-controller-interfacing-drives/"><u>Effortless Troubleshooting Guide for I2C Peripheral Controller Interfacing Drives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-e-online-converter-de-video-wmv-para-avi-com-o-software-do-moviemaker-facil/"><u>Gratis E Online: Converter De Vídeo WMV Para AVI Com O Software Do MovieMaker - Fácil!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-windows-drivers-and-support-files-for-your-brother-hl-l2340dw-laser-printer/"><u>How to Get the Latest Windows Drivers and Support Files for Your Brother HL-L2340DW Laser Printer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-zbook-15-g3-user-guide-how-to-find-and-apply-windows-drivers-easily/"><u>HP ZBook 15 G3 User Guide: How to Find and Apply Windows Drivers Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-audio-interface-drivers-for-microsoft-windows-get-your-free-downloads/"><u>Latest Audio Interface Drivers for Microsoft Windows - Get Your FREE Downloads!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/perfect-methods-to-refresh-dell-webcam-drivers-effectively/"><u>Perfect Methods to Refresh Dell Webcam Drivers Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revamp-your-dell-xps-15-performance-with-easy-driver-updates-for-windows-users/"><u>Revamp Your Dell XPS 15 Performance with Easy Driver Updates for Windows Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/triple-trouble-how-to-handle-three-tubes-of-content-at-once-for-2024/"><u>Triple Trouble How to Handle Three Tubes of Content at Once for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-motorola-edge-40-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Edge 40 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

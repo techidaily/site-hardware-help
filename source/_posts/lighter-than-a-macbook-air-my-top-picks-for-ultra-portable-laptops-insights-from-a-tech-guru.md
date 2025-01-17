@@ -1,7 +1,7 @@
 ---
 title: "Lighter Than a MacBook Air: My Top Picks for Ultra-Portable Laptops - Insights From a Tech Guru"
-date: 2025-01-05T18:44:05.572Z
-updated: 2025-01-10T18:34:37.791Z
+date: 2025-01-09T21:47:58.695Z
+updated: 2025-01-16T18:32:11.303Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ I tested the [IdeaPad Flex 5i's](https://go.shopyourlikes.com/pi/6dcf690a69011d7
 I should warn you that this laptop can run a little warm. The [IdeaPad Flex 5i](https://go.shopyourlikes.com/pi/6dcf690a69011d7d576626ac887f56b098db1cfa?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) comes equipped with a 13th Gen Intel Core i3-1315U processor. Its performance won't make the hardware run hot by itself. Instead, the bottom-firing ventilation port likely restricts proper airflow, making things toastier than they should be.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -118,22 +118,22 @@ You can purchase the [IdeaPad Flex 5i on Best Buy for $500](https://shop-links.c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-capture-it-right-essential-camera-lenses-for-video-blogging-for-2024/"><u>[New] Capture It Right Essential Camera Lenses for Video Blogging for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-iphones-best-camera-combo-utilities/"><u>[Updated] IPhone's Best Camera Combo Utilities</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigating-retro-facebook-stories-pcmobile-guide/"><u>[Updated] Navigating Retro Facebook Stories PC/Mobile Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-logitech-gaming-wheel-drivers-for-windows-1087/"><u>Download & Install Logitech Gaming Wheel Drivers for Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-thrustmaster-t300-driver-software-compatible-with-windows-10-and-11/"><u>Download Thrustmaster T300 Driver Software - Compatible with Windows 10 & 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-logitech-g502-gaming-mouse-software-update/"><u>Easy Installation Guide: Logitech G502 Gaming Mouse Software Update</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Nubia Red Magic 9 Pro+.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-mfp-m428fdw-driver-for-windows-11107/"><u>HP LaserJet Pro MFP M428fdw Driver for Windows 11/10/7</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>In 2024, Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-samsung-galaxy-s23plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Samsung Galaxy S23+ to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-youtubes-profit-distribution-to-content-makers/"><u>In 2024, YouTube's Profit Distribution to Content Makers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-new-driver-versions-on-dell-2330d-and-2330dn-printers/"><u>Installing New Driver Versions on Dell 2330D and 2330DN Printers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keep-your-lenovo-running-smoothly-with-updated-drivers-download-guide-for-windows-10-users/"><u>Keep Your Lenovo Running Smoothly with Updated Drivers: Download Guide for Windows 10 Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/imensions-youtube-titles-and-images-that-work-for-2024/"><u>Key Dimensions YouTube Titles & Images That Work for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-guide-to-updating-your-canon-mp560-printers-software/"><u>Quick Guide to Updating Your Canon MP560 Printer's Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-guide-simple-steps-to-transforming-wma-files-into-wav-format/"><u>Seamless Guide: Simple Steps to Transforming WMA Files Into WAV Format</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updated-mpow-usb-bluetooth-driver-secure-download-for-windows-1187-platforms-now-available/"><u>Updated MPOW USB Bluetooth Driver - Secure Download for Windows 11/8/7 Platforms Now Available</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-your-guide-to-flawless-images-on-android-our-selection-of-top-editors/"><u>2024 Approved Your Guide to Flawless Images on Android Our Selection of Top Editors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-sound-clarity-across-all-genres-using-cutting-edge-wireless-speakers-pcmag/"><u>Experience Unmatched Sound Clarity Across All Genres Using Cutting-Edge Wireless Speakers | PCMag</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-zte-axon-40-lite-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For ZTE Axon 40 Lite by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-av1-essentials-for-the-uninitiated/"><u>In 2024, AV1 Essentials For the Uninitiated</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-returning-calls-a-guide-to-reaching-out-to-unknown-numbers/"><u>Mastering the Art of Returning Calls: A Guide to Reaching Out to Unknown Numbers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/precision-gadget-insights-by-tom-the-ultimate-guide-to-premium-tech/"><u>Precision Gadget Insights by Tom: The Ultimate Guide to Premium Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-fusion-of-premium-style-and-advanced-chips-discover-asus-new-zenbook-s-and-tuf-a14-with-top-tier-processors/"><u>The Fusion of Premium Style & Advanced Chips: Discover Asus' New ZenBook S and TUF A14 with Top-Tier Processors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-tutorial-for-spreading-playlists/"><u>The Ultimate Tutorial for Spreading Playlists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-review-in-depth-analysis-of-latest-tech/"><u>Tom's Computer Review: In-Depth Analysis of Latest Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-your-guide-to-computer-hardware/"><u>Tom's Tech Hub: Your Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-analysis-of-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Analysis of Latest Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-gadget-insights/"><u>Tom's Tech Review: Comprehensive Gadget Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-equipment/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Equipment</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ling-the-secrets-to-youtube-success-titles-and-tags/"><u>Unveiling the Secrets to Youtube Success Titles & Tags</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-condense-your-clips-a-beginners-guide-to-creating-time-lapse-videos/"><u>Updated Condense Your Clips A Beginners Guide to Creating Time Lapse Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-x90s-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo X90S Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

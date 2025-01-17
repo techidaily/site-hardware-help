@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking Student Laptops: Comprehensive Reviews & Tests by Experts - ZDNet"
-date: 2025-01-04T02:41:21.333Z
-updated: 2025-01-11T07:21:44.440Z
+date: 2025-01-11T00:02:34.642Z
+updated: 2025-01-16T19:35:17.111Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ Furthermore, this has been a big year for laptop releases, with lots of new mode
 
 My pick for the best laptop under $1,000 overall is the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-Storage-Midnight%2Fdp%2FB0CB73MSX4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6d1dd109-1447-4f5a-8340-382144317f59%7Cdtp&dtb=1), thanks to its solid performance, portability, and HD display. With the March release of the [M3 MacBook Air](https://www.zdnet.com/article/m3-macbook-air-review/), the previous M2 model received a price cut. This is great news because the device is well known for its portability and awesome performance -- but not for its affordability. Of course, the M2 MacBook Air isn't the only option out there. With this in mind, check out my top picks for the best laptops under $1,000.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best laptops under $1,000 of 2024
 
 Show less 
@@ -40,11 +44,11 @@ Pros
 Cons 
 * Shorter battery life
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple M2 MacBook Air
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best laptop under $1,000 overall
 
@@ -72,10 +76,6 @@ Pros
 Cons 
 * Heavy
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## HP Victus 15
 
 ### Best laptop under $1,000 for gaming
@@ -102,7 +102,15 @@ Pros
 Cons 
 * Dim display
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lenovo Yoga 7i 2-in1
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best 2-in-1 laptop under $1,000
 
@@ -162,10 +170,14 @@ Pros
 Cons 
 * Expensive configurations
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HP Pavilion Plus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best screen for a laptop under $1,000
@@ -259,15 +271,7 @@ Cons
 * Accessories sold separately
 * Limited ports
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Surface Pro 9
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best graphic design laptop
 
@@ -302,10 +306,6 @@ With all big decisions comes a lot of research. Thankfully, we did a lot of the 
 | Asus Vivobook 15             | $729                       | Intel Core o7-1255U     | 15.6 inches     | 1 TB             |
 | Microsoft Surface Pro 9      | $779                       | 12th Gen Intel Core i7  | 13 inches       | 256 GB           |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which is the right laptop under $1,000 for you?
 
 The best laptop is the one that meets your needs. There isn't a one-size-fits-all computer. The MacBook Air, as great as it is, is a bad pick for people who want a gaming laptop. Mac hardware just isn't built for that. Small laptops aren't recommended for those who are looking for a large screen.
@@ -322,10 +322,6 @@ Read the chart below to find out which device works best for you.
 | Acer Aspire 3                                | The best value laptop under $1,000\. It's a solid work machine capable of tackling multiple types of tasks and can up to 11 hours on a single charge.                               |
 | Asus Vivobook 15                             | The best work laptop under $1,000\. It's a lightweight laptop that boasts serious muscle as evident by its 40GB of RAM and 12th-Intel Core CPU.                                     |
 | Microsoft Surface Pro 9                      | A fantastic graphic design laptop. The Surface Pro 9 doubles as a tablet with a stunning hi-res screen, with a battery that can last all day.                                       |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Factors to consider when choosing a laptop under $1,000:
 
@@ -347,7 +343,7 @@ Once all that is done, we come to a consensus on the best ones that will suit a 
 To learn more about our laptop testing process, be sure to visit [this extensive article](https://www.zdnet.com/article/how-we-test-laptops/) on the topic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which laptop brand is the best and cheapest?
@@ -371,7 +367,7 @@ Most people would say that you need to replace a laptop when you begin to experi
 There are other factors to consider, such as constant errors. Constant crashes and random restarts are signs that the hard drive is failing. Additionally, exceptionally loud cooling fans are another sign that the device is nearing its final days. You can certainly try to fix the laptop yourself, but you'll need a lot of experience in computer repair to get things done right -- or risk damaging the hardware. You're better off buying a new machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can a Chromebook do everything a laptop can?
@@ -387,6 +383,10 @@ Additionally, Chromebooks have limited storage space and processing power compar
 The laptops in the list go for under $1,000 consistently. However, finding other devices that go below this price point during big sales is possible. These tend to occur on major holidays or sales events like the 4th of July and Memorial Day. Of course, computers can sell for pennies during the year's biggest sales weekend: Black Friday going into Cyber Monday.
 
 There are a few other times of the year when you can score discounts on devices. Depending on the company, manufacturers may slash prices during the beginning of the year or around October. It's around this time that manufacturers are preparing to launch their new generation of hardware or have already done so. MacBooks, for example, can go for pretty cheap during this time. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative laptops under $1,000 worth considering?
 
@@ -466,22 +466,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/everaging-jump-cuts-to-improve-video-flow/"><u>[New] Leveraging Jump Cuts to Improve Video Flow</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-become-a-pixlr-wizard-10-easy-tricks-for-exceptional-edits/"><u>[Updated] Become a Pixlr Wizard 10 Easy Tricks for Exceptional Edits</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-essential-tips-for-crop-and-export-videos-for-instagram/"><u>[Updated] In 2024, Essential Tips for Crop & Export Videos for Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-metaversal-musings-a-preamble-of-inspirational-thoughts/"><u>[Updated] Metaversal Musings A Preamble of Inspirational Thoughts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-y78-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo Y78 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/centrino-advanced-n-6205-intel-chip-support-fresh-driver-downloads-at-your-service/"><u>Centrino Advanced-N 6205 Intel Chip Support: Fresh Driver Downloads at Your Service!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-simplify-scansnap-drivers-for-windows-made-easy/"><u>Download and Simplify: ScanSnap Drivers for Windows Made Easy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028096365-dvdiso/"><u>DVDのコピープロテクトを解除してISOファイル作成手順</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-microsofts-new-audio-drivers-now-direct-links-and-step-by-step-instructions-for-windows-users/"><u>Get Microsoft's New Audio Drivers Now - Direct Links and Step-by-Step Instructions for Windows Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-12rwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus 12Rwith/without a PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-address-hp-beats-audio-driver-errors-in-windows-os-versions-10-8-and-n-5/"><u>How to Successfully Address HP Beats Audio Driver Errors in Windows OS Versions: 10, 8 and N-5</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-210-new-driver-releases-to-improve-graphics-and-compatibility-for-windows-10-systems/"><u>NVIDIA GeForce 210: New Driver Releases to Improve Graphics and Compatibility for Windows 10 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-guide-amd-rx-navigate-the-downloads-installs-and-updates-of-the-drivers-for-your-radeon-rx-580/"><u>Quick Guide: AMD RX Navigate the Downloads, Installs, and Updates of the Drivers for Your Radeon RX 580</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ps5-evaluation-discovering-if-its-worth-your-money-today/"><u>The PS5 Evaluation: Discovering if It's Worth Your Money Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tips-for-finding-and-setting-up-toshibe-printercopier-drivers-in-windows-os/"><u>Tips for Finding and Setting up Toshibe Printer/Copier Drivers in Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-updating-and-downloading-rndis-drivers-on-windows-systems/"><u>Ultimate Guide: Updating and Downloading RNDIS Drivers on Windows Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unparalleled-tech-for-capturing-live-screens-and-videos/"><u>[Updated] 2024 Approved Unparalleled Tech for Capturing Live Screens & Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969235239-efficient-and-fast-internet-download-killer-e2500-network-adapter-drivers-now/"><u>Efficient and Fast Internet: Download [Killer] E2500 Network Adapter Drivers Now!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1111018-9781583946244-entheogens-and-the-development-of-culture/"><u>Entheogens and the Development of Culture | Free Book</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/magicard-rio-pro-driver-fresh-download-now-available-for-windows-users-windows-10-81-7/"><u>Magicard Rio Pro Driver: Fresh Download Now Available for Windows Users (Windows 10 / 8.1 / 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sandisk-driver-downloads-made-simple-perfect-for-windows-11-users/"><u>SanDisk Driver Downloads Made Simple: Perfect for Windows 11 Users!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977854520-step-by-step-guide-to-get-the-latest-amd-vega-graphics-card-drivers-for-seamless-gaming/"><u>Step-by-Step Guide to Get the Latest AMD Vega Graphics Card Drivers – For Seamless Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-the-secrets-of-cinematic-visuals-on-windows-10-for-2024/"><u>Unraveling the Secrets of Cinematic Visuals on Windows 10 for 2024</u></a></li>
 </ul></div>
 

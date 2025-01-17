@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air Discounted: Purchase the Newest Model for Just $280 – Shop Now at ZDNet!"
-date: 2024-11-30T04:55:24.421Z
-updated: 2024-12-05T07:36:27.246Z
+date: 2025-01-11T01:49:51.032Z
+updated: 2025-01-16T23:23:09.315Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,21 +146,21 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-journey-into-whatsapps-call-ecosystem/"><u>[New] Journey Into WhatsApp's Call Ecosystem</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-analytics-top-tools-for-enhanced-performance-insights-for-2024/"><u>[New] Mastering Instagram Analytics Top Tools for Enhanced Performance Insights for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagrams-peak-moments-a-how-to-guide/"><u>[Updated] 2024 Approved Mastering Instagram's Peak Moments A How-To Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tailoring-trending-topics-to-endings/"><u>2024 Approved Tailoring Trending Topics to Endings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016887234-audio-malfunction-post-windows-11-update-easy-solutions-unveiled/"><u>Audio Malfunction Post-Windows 11 Update? Easy Solutions Unveiled</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-mp4-trimming-tools-top-picks/"><u>Free MP4 Trimming Tools Top Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-paid-ai-enhancement-justifiable-cost-wise/"><u>Is Paid AI Enhancement Justifiable Cost-Wise?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-7-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-reasons-to-skip-amazon-when-purchasing-sd-memory-cards/"><u>Top Reasons to Skip Amazon When Purchasing SD Memory Cards</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-ipad-pro-gadgets-and-enhancements-for-2e-2024-edition/"><u>Top-Rated iPad Pro Gadgets and Enhancements for 2E - 2024 Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-cleaning-routines-this-prime-day-unveiling-narwals-advanced-robotic-vacuums-and-automatic-mops-at-irresistible-prices/"><u>Transform Cleaning Routines This Prime Day – Unveiling Narwal's Advanced Robotic Vacuums and Automatic Mops at Irresistible Prices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-rooms-mood-with-the-govee-rgbif-pro-floor-lamp-an-in-depth-review-of-aesthetics-and-sound-capabilities/"><u>Transform Your Room's Mood with the Govee RGBIF Pro Floor Lamp - An In-Depth Review of Aesthetics and Sound Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-gamers-guide-to-the-msi-optimum-vision-revel-in-qd-oled-brilliance-reviewed/"><u>Ultimate Gamer's Guide to the MSI Optimum Vision: Revel in QD-OLED Brilliance Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-locating-lost-or-concealed-airtags-and-bluetooth-tracker-devices/"><u>Ultimate Guide to Locating Lost or Concealed AirTags and Bluetooth Tracker Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-ranking-of-the-highest-quality-fire-tv-devices-on-amazon/"><u>Ultimate Ranking of the Highest Quality Fire TV Devices on Amazon</u></a></li>
-<li><a href="https://win-blog.techidaily.com/winning-the-battle-against-paladins-crashes-advanced-tricks-and-fixes-for-gaming-victory/"><u>Winning the Battle Against Paladins Crashes: Advanced Tricks & Fixes for Gaming Victory</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oost-engagement-crafting-effective-thumbnails/"><u>[New] Boost Engagement Crafting Effective Thumbnails</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-huaweis-built-in-recorder-screen-capture-for-mate-and-p-series/"><u>[New] Huawei's Built-In Recorder Screen Capture for Mate and P Series</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-focused-growth-instagrams-must-use-tags-to-watch-out-for/"><u>[New] In 2024, Focused Growth Instagram's Must-Use Tags to Watch Out For</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-quick-profile-retrieval-on-facebook/"><u>[New] Mastering Quick Profile Retrieval on Facebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-voice-over-advantage-elevating-video-quality/"><u>[Updated] In 2024, The Voice-Over Advantage Elevating Video Quality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhancing-chrome-performance-for-hd-facebook-content/"><u>2024 Approved Enhancing Chrome Performance for HD Facebook Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-best-premiere-plans-free-for-pros/"><u>2024 Approved Unveiling the Best Premiere Plans, FREE for Pros</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/8-free-instagram-story-savers-save-instagram-stories-without-limits-for-2024/"><u>8 Free Instagram Story Savers-Save Instagram Stories without Limits for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-latest-tech-in-depth-reviews-at-toms-hardware/"><u>Navigating the Latest Tech: In-Depth Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pioneering-technology-insights-from-toms-digital-world/"><u>Pioneering Technology Insights From Tom's Digital World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/powerful-performance-on-screen-the-definitive-gigabyte-aorus-oled-monitor-guide-with-rich-colors-and-dynamic-range/"><u>Powerful Performance on Screen: The Definitive Gigabyte Aorus OLED Monitor Guide with Rich Colors & Dynamic Range</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/retro-computer-monitor-reaches-impressive-700hz-by-lowering-resolution-to-120p/"><u>Retro Computer Monitor Reaches Impressive 700Hz by Lowering Resolution to 120P</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reviews-of-viewsonic-xg2n328-2k-oled-a-look-at-its-brilliance-and-vivid-colors/"><u>Reviews of ViewSonic XG2n328-2k OLED - A Look at Its Brilliance & Vivid Colors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsungs-odyssey-g9-the-new-ultrawide-49-oled-now-at-an-unprecedented-discount/"><u>Samsung's Odyssey G9: The New UltraWide 49 OLED Now at an Unprecedented Discount</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/shop-the-sale-32-gs32q-qhd-display-with-rapid-refresh-rate-of-170hz-from-gigabyte-for-199/"><u>Shop the Sale - 32 GS32Q QHD Display with Rapid Refresh Rate of 170Hz From Gigabyte for $199</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-a24-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy A24 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

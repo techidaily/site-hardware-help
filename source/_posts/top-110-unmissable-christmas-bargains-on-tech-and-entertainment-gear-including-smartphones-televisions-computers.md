@@ -1,7 +1,7 @@
 ---
 title: Top 110 Unmissable Christmas Bargains on Tech & Entertainment Gear – Including Smartphones, Televisions, Computers
-date: 2024-11-28T10:55:08.041Z
-updated: 2024-12-05T01:32:35.372Z
+date: 2025-01-12T02:57:45.467Z
+updated: 2025-01-17T00:35:57.102Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ This list will be updated throughout the month, so check back to find the latest
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday deals: ZDNET experts' top 20 picks
 
 1. [Apple AirPods Pro 2 with USB-C charging case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Generation-Cancelling-Transparency-Personalized%2Fdp%2FB0CHWRXH8B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $199 (save $50 at Amazon)
@@ -55,6 +51,10 @@ This list will be updated throughout the month, so check back to find the latest
 19. [HP Victus 15L gaming desktop](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0346st-49n24av-1): $480 (save $400 at HP)
 20. [Roku Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09T4VZDYV%2Fref%3Dcm%5Fgf%5Fadbo%5Fd%5Fp0%5Fe0%5Fqd0%5Ffu24jf571EvEqYFicc8R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $90 (save $10 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday deals under $25
 
 Maria Diaz/ZDNET
@@ -67,7 +67,7 @@ Maria Diaz/ZDNET
 * [Windows 11 Pro](https://www.stacksocial.com/sales/microsoft-windows-11-pro?utm%5Fsource%3Dzdnet.com%26utm%5Fmedium%3Dreferral%26utm%5Fcampaign%3Dmicrosoft-windows-11-pro%26utm%5Fterm%3Dscsf-572750%26utm%5Fcontent%3Da0x1P000004Im9wQAC%26scsonar%3D1%26aid%3Da-ceempx7z&sa=D&source=docs&ust=1686856045303167&usg=AOvVaw3GdVuYpgozg%5FgfSi8QlrTM): $25 (save $175 at Stack Social)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday deals under $50
@@ -79,10 +79,6 @@ Artie Beaty/ZDNET
 * [Anker Nano Power Bank (30W)](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=43469&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa1259-built-in-cable-power-bank-10000mah): $40 (save $10 with on-site coupon)
 * [Sonic Origins Plus, PlayStation 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSonic-Origins-Plus-PlayStation-5%2Fdp%2FB0BZFCRLDW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $28 (save $12 at Amazon)
 * [Fossil Men's Ingram Leather RFID-Blocking Bifold Wallet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFossil-Mens-Bifold-Wallet-Black%2Fdp%2FB018ZMVPQC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $30 (save $30 at Amazon)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday deals under $100
 
@@ -123,6 +119,10 @@ Jason Cipriani/ZDNET
 * [Nest Learning Thermostat](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNest-Learning-Thermostat-3rd-Generation-White%2F120823467&subId1=zd-__COM_CLICK_ID__-dtp): $215 (save $34 at Walmart)
 * [Google Next x Yale Smart Lock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNest-Yale-Satin-Nickel-Connect%2Fdp%2FB07BH6K3NT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $261 (save $39 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday Apple deals
 
 Jason Hiner/ZDNET
@@ -137,10 +137,6 @@ Jason Hiner/ZDNET
 * [Apple iPad Mini (A15 chip, 8.3-inch, 256GB):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1) $540 (save $110 at Amazon with coupon)
 * [Apple iPad Air (M1 chip, 10.9-inch, 64GB, Wi-Fi + Cellular):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Air-5th-Generation%2Fdp%2FB09V3JWQKB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1) $650 (save $100 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday robot vacuum deals
 
 Beth Mauder/ZDNET
@@ -153,10 +149,6 @@ Beth Mauder/ZDNET
 * [Shark IQ Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-IQ-Robot-Self-Empty-XL-Vacuum-with-Self-Empty-Base-Home-Mapping-RV1002AE-New%2F875128326&subId1=zd-__COM_CLICK_ID__-dtp): $249 (save $351 at Walmart)
 * [iRobot Roomba 694 robot vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FiRobot-Vacuum-Wi-Fi-Connectivity-Carpets-Self-Charging%2Fdp%2FB08SP5GYJP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $159 (save $116 at Amazon)
 * [Shark AI Ultra Self-Empty Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-AI-Ultra-Self-Empty-Robot-Vacuum-Bagless-60-Day-Capacity-Base-Precision-Home-Mapping-Perfect-for-Pet-Hair-Wi-Fi-AV2511AE%2F1883965277&subId1=zd-__COM_CLICK_ID__-dtp): $298 (save $301 at Walmart)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday TV deals
 
@@ -207,6 +199,10 @@ Jason Hiner/ZDNET
 * [Samsung Galaxy A54 128GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Factory-Unlocked-Android-Smartphone%2Fdp%2FB0BSLR2L5R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $399 (save $50 at Amazon)
 * [Samsung Galaxy S23 FE 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Unlocked-Smartphone-Processor-Graphite%2Fdp%2FB0CD8NF62Z%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $560 (save $100 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday laptop deals
 
 Jason Hiner/ZDNET
@@ -229,6 +225,10 @@ Maria Diaz/ZDNET
 * [Samsung Galaxy Tab A8](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-a8-10-5-64gb-wi-fi-gray%2F6492905.p%3FskuId%3D6492905&publisher_slug=itechdaily19598&exclusive=1): $200 (save $80 at Best Buy)
 * [Samsung Galaxy Tab S6 Lite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Android-Lasting-Included-Speakers%2Fdp%2FB09WYWJ46K%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $200 (save $150 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -236,7 +236,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -307,20 +307,18 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-demystifying-macos-capture-feature-for-professional-use/"><u>2024 Approved Demystifying macOS Capture Feature for Professional Use</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-revamping-screen-recording-a-critical-look-at-camstudios-new-features/"><u>2024 Approved Revamping Screen Recording - A Critical Look at CamStudio's New Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diablo-immortal-pc-release-delayed-uncover-the-reasons-behind-the-postponement/"><u>Diablo Immortal PC Release Delayed: Uncover the Reasons Behind The Postponement</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/from-invisible-to-iconic-top-strategies-for-standout-facebook-profiles-for-2024/"><u>From Invisible to Iconic Top Strategies for Standout Facebook Profiles for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-breakthroughs-in-ergonomic-office-design-for-high-efficiency/"><u>In 2024, Breakthroughs in Ergonomic Office Design for High Efficiency</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oneplus-ace-2v-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to OnePlus Ace 2V Phones? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-s18-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo S18 Phones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/recognizing-the-red-flags-top-6-indications-of-a-failing-graphics-card/"><u>Recognizing the Red Flags: Top 6 Indications of a Failing Graphics Card</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/retro-gaming-made-easy-why-the-xboxs-clear-backed-controller-is-ideal/"><u>Retro Gaming Made Easy: Why the Xbox's Clear-Backed Controller Is Ideal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rising-against-the-competition-in-depth-analysis-of-the-rog-ally-x-mid-generation-update-and-our-expectations-for-whats-next/"><u>Rising Against the Competition: In-Depth Analysis of the ROG Ally X Mid-Generation Update and Our Expectations for What's Next</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/save-money-with-smart-locks-cheaper-alternative-to-professional-locksmith-services/"><u>Save Money with Smart Locks: Cheaper Alternative to Professional Locksmith Services</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solution-guide-troubleshooting-a-non-responsive-laptop-trackpad/"><u>Solution Guide: Troubleshooting a Non-Responsive Laptop Trackpad</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-hidden-costs-of-budget-smartphones-with-fragile-glass-how-durability-impacts-your-wallet/"><u>The Hidden Costs of Budget Smartphones with Fragile Glass - How Durability Impacts Your Wallet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-10-advantages-of-opting-for-a-discrete-mechanical-keyboard/"><u>Top 10 Advantages of Opting for a Discrete Mechanical Keyboard</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1726030266621-youtube/"><u>YouTube接続エラーの解決方法 - トラブルシューティングガイド</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-navigating-color-grading-a-look-at-luts-significance/"><u>[New] In 2024, Navigating Color Grading A Look at LUT's Significance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ions-innovation-showcased-action-camera-review-of-pro-3-model/"><u>[New] ION's Innovation Showcased Action Camera Review of Pro 3 Model</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-cheapest-4k-dslrmirrorless-cameras-and-camcorders/"><u>[Updated] 2024 Approved Cheapest 4K DSLR/Mirrorless Cameras and Camcorders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y77t-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y77t Unlock Without Password</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125560-9781609252083-ayurveda-wisdom/"><u>Ayurveda Wisdom | Free Book</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-mini-official-method-to-unlock-your-iphone-13-mini-by-drfone-ios/"><u>How To Unlock iPhone 13 mini Official Method to Unlock Your iPhone 13 mini</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-gadget-gurus-corner-trusted-advice-from-toms-hardware/"><u>The Gadget Guru's Corner: Trusted Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-your-guide-to-the-latest-hardware/"><u>Tom's Tech Insights - Your Guide to the Latest Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-exploring-advanced-hardware/"><u>Tom's Tech Insights: Exploring Advanced Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-insights-on-computer-components/"><u>Tom's Tech Review: In-Depth Insights on Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-insights-on-the-latest-hardware/"><u>Tom's Tech Reviews: In-Depth Insights on the Latest Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guides-and-tutorials-by-toms-hardware-experts/"><u>Ultimate Guides and Tutorials by Tom's Hardware Experts</u></a></li>
 </ul></div>
 

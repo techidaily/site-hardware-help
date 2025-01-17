@@ -1,7 +1,7 @@
 ---
 title: Will MSI’s Steam Deck Challenge Established Players in the Battle for Handheld Gaming Supremacy? [ZDNet]
-date: 2024-12-04T00:22:23.841Z
-updated: 2024-12-04T18:07:23.387Z
+date: 2025-01-11T21:12:16.601Z
+updated: 2025-01-17T00:33:04.628Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -35,6 +35,10 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -94,7 +98,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell laptop holiday deals
@@ -105,10 +109,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 16 Plus](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Finspiron-16-plus-laptop%2Fspd%2Finspiron-16-7630-laptop%2Fusichbts7630gbkt): $1,100 (save $350)
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $1,071 (save $429)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell desktop holiday deals
 
 * [Alienware Aurora R15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAlienware-Aurora-R15-Gaming-Desktop%2Fdp%2FB0C2VX6HN8%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $2,800 (save $350)
@@ -118,10 +118,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Optiplex 7080 Intel i5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7080-business-desktops-workstations%252Fp%252F1VK-0001-6GXW7) for $520 (save $179)
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell monitor holiday deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $180 (save $40)
@@ -129,7 +125,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $297 (save $33)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -137,6 +133,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -210,22 +210,18 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-independent-creators-playbook-earning-big-without-ads-on-youtube/"><u>[New] 2024 Approved The Independent Creator’s Playbook Earning Big Without Ads on YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-dissecting-digital-dynamics-comparative-channel-analysis/"><u>[Updated] Dissecting Digital Dynamics Comparative Channel Analysis</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-perfecting-your-audio-presence-in-video-creations/"><u>[Updated] In 2024, Perfecting Your Audio Presence in Video Creations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-insert-audio-files-into-powerpoint-sequences-for-2024/"><u>[Updated] Insert Audio Files Into PowerPoint Sequences for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-innovations-boosting-scholarly-exploration/"><u>AI Innovations: Boosting Scholarly Exploration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-bing-and-chatgpt-when-is-gpt-5-due/"><u>Beyond Bing and ChatGPT: When Is GPT-5 Due?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-ai-help-you-survive-when-lost-in-nature/"><u>Can AI Help You Survive When Lost in Nature?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-chatgpt-legal-hurdles-fresh-insights-into-google-news-redesign-and-enhancing-mobile-internet-access-abroad/"><u>Overcoming ChatGPT Legal Hurdles: Fresh Insights Into Google News Redesign & Enhancing Mobile Internet Access Abroad</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-selection-of-2024s-most-innovative-ereaders-on-the-market/"><u>The Ultimate Selection of 2024'S Most Innovative eReaders on the Market</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tivo-television-sets-set-to-hit-american-markets-in-upcoming-spring-season/"><u>TiVO Television Sets Set to Hit American Markets in Upcoming Spring Season</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-camera-lighting-equipment-for-professional-photoshoots/"><u>Top Rated Camera Lighting Equipment for Professional Photoshoots</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-boomboxes-a-comprehensive-list/"><u>Top-Rated Boomboxes : A Comprehensive List</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-heat-conductive-pastes-a-buyers-guide/"><u>Top-Rated Heat Conductive Pastes : A Buyer's Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transforming-e-waste-into-riches-the-story-of-a-uk-coin-producer/"><u>Transforming E-Waste Into Riches: The Story of a UK Coin Producer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-the-leading-bluetooth-converters-for-this-year/"><u>Ultimate Guide to Choosing the Leading Bluetooth Converters for This Year</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-picking-your-ideal-aio-gpucpu-cooling-solution/"><u>Ultimate Guide to Picking Your Ideal AIO GPU/CPU Cooling Solution</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unveiling-the-best-10-online-background-variant-software-for-2024/"><u>Unveiling the Best 10 Online Background Variant Software for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-comprehensive-review-of-ios-free-video-editing-apps/"><u>[New] 2024 Approved Comprehensive Review of iOS Free Video Editing Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elevate-your-shots-the-ultimate-action-cam-accessory-list/"><u>[New] Elevate Your Shots The Ultimate Action Cam Accessory List</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-8-techniques-for-high-quality-pc-audio-documentation/"><u>[Updated] 8 Techniques for High-Quality PC Audio Documentation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-gopro-spectrum-an-intensive-feature-by-feature-comparison/"><u>[Updated] GoPro Spectrum An Intensive Feature-By-Feature Comparison</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-smart-8-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Smart 8 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-cutting-edge-computers-and-tech-a-journey-with-toms-hardware/"><u>Exploring Cutting-Edge Computers & Tech - A Journey With Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-hardware-with-toms-gadget-reviewz/"><u>Exploring Hardware with Tom’s Gadget Reviewz</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-technology-with-toms-hardware-your-trusted-resource-for-pc-enthusiasts/"><u>Exploring Technology with Tom's Hardware - Your Trusted Resource for PC Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/game-changer-alert-snag-a-monster-sized-999-39-lg-ultragear-wqhd-curved-monitor-from-amazon-right-now/"><u>Game Changer Alert: Snag a Monster-Sized $999, 39” LG Ultragear WQHD Curved Monitor From Amazon Right Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-inside-scoop-advanced-computer-reviews-by-toms-hardware-experts/"><u>Get Inside Scoop: Advanced Computer Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-react-record-edit-top-apps-for-creating-viral-content/"><u>New In 2024, React, Record, Edit Top Apps for Creating Viral Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rhyme-fight-poets-vs-virtual-intelligence-woolly-side/"><u>Rhyme Fight - Poets vs Virtual Intelligence, Woolly Side</u></a></li>
 </ul></div>
 

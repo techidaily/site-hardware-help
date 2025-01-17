@@ -1,7 +1,7 @@
 ---
 title: HP Unveils Latest Lineup of AI-Enhanced Spectre Notebooks at CES, Complementing High-Tech Accessories - ZDNet
-date: 2025-01-09T11:28:33.341Z
-updated: 2025-01-10T17:34:21.794Z
+date: 2025-01-13T17:17:15.761Z
+updated: 2025-01-16T16:56:49.226Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-summit-elite-production-space-25/"><u>[New] 2024 Approved Summit Elite Production Space 25</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>[New] 2024 Approved Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-3-pinnacle-phones-for-professional-video-capture/"><u>[New] In 2024, 3 Pinnacle Phones for Professional Video Capture</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-unleash-your-creativity-the-leading-phone-apps-for-image-stickers/"><u>[New] Unleash Your Creativity The Leading Phone Apps for Image Stickers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-capturing-the-world-in-full-circle-experts-360-cams-review-2023/"><u>2024 Approved Capturing the World in Full Circle - Expert's 360 Cams Review, 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplified-editing-for-clean-cut-canvas-photos/"><u>2024 Approved Simplified Editing for Clean-Cut Canvas Photos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964818955-boost-your-pc-experience-download-the-microsoft-wireless-mouse-5000-drivers-today/"><u>Boost Your PC Experience - Download the Microsoft Wireless Mouse 5000 Drivers Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-hp-deskjet-3702-printer-drivers/"><u>Download and Install the Latest HP DeskJet 3702 Printer Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-upgraded-pl2303-driver-software-on-windows-machines/"><u>Download and Install Upgraded PL2303 Driver Software on Windows Machines</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-guide-updating-to-the-latest-epson-perfection-scansnap-driver-versions-supporting-windows-7-8-and-10/"><u>Easy Install Guide: Updating to the Latest Epson Perfection ScanSnap Driver (Versions Supporting Windows 7, 8 & 10)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/engage-in-worldwide-english-pearson-edition/"><u>Engage in Worldwide English: Pearson Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-deskjet-3755-driver-software-windows-compatible-v6-free-download/"><u>Get the Newest HP DeskJet 3755 Driver Software Windows Compatible (V6) – Free Download</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-steam-disk-write-error-easily/"><u>How To Fix Steam Disk Write Error Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-logitech-c920-camera-drivers-on-windows-11-10-and-8/"><u>How to Update Your Logitech C920 Camera Drivers on Windows 11, 10 & 8</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-5-ways-to-record-facetime-calls/"><u>In 2024, 5 Ways to Record FaceTime Calls</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-bare-bones-budget-friendly-best-5-windows-10-recording-apps/"><u>In 2024, Bare-Bones, Budget-Friendly Best 5 Windows 10 Recording Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovo-x1-carbon-driver-installation-made-easy-for-windows-11-and-windows/"><u>Lenovo X1 Carbon Driver Installation Made Easy for Windows 11 and Windows 지원자</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-guide-amd-ati-radeon-hd-4200-graphics-card-drivers/"><u>Quick & Easy Installation Guide: AMD ATI Radeon HD 4200 Graphics Card Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solve-your-usb-recognition-problems-in-windows-10-effective-solutions/"><u>Solve Your USB Recognition Problems in Windows 10 - Effective Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-to-success-top-hashtags-for-6-figure-views-on-youtube/"><u>[New] In 2024, Elevate to Success Top Hashtags for 6-Figure Views on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-accelerate-yt-growth-strategies-for-1kplus-subscribers/"><u>[Updated] Accelerate YT Growth Strategies for 1K+ Subscribers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-secrets-for-striking-fb-video-promos/"><u>2024 Approved Secrets for Striking FB Video Promos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-lenovo-ideapad-100-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update Lenovo IdeaPad 100 Drivers for Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-set-up-quick-guide-to-accessing-windows-updates/"><u>Get Set Up: Quick Guide to Accessing Windows Updates</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-pitfalls-a-guide-to-why-you-shouldnt-use-chatgpt-from-your-macs-software-marketplace/"><u>Navigating the Pitfalls: A Guide to Why You Shouldn't Use ChatGPT From Your Mac’s Software Marketplace</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-with-the-latest-rtx-2060-driver-for-windows-111087-systems/"><u>Update Your PC with the Latest RTX 2060 Driver for Windows 11/10/8/7 Systems</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-the-most-efficient-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>Updated The Most Efficient Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/xerox-phaser-630-driver-installation-for-various-windows-versions-10-8-and-7/"><u>Xerox Phaser 630 Driver Installation for Various Windows Versions (10, 8 & 7)</u></a></li>
 </ul></div>
 

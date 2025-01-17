@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Pick for the Best Multi-Tasking Powerhouse - A Favorite Amongst Testers with Robust Build Quality!
-date: 2024-11-27T21:00:09.941Z
-updated: 2024-12-05T08:28:19.567Z
+date: 2025-01-14T19:39:10.977Z
+updated: 2025-01-17T01:19:50.143Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,18 +112,24 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-beginner-to-expert-in-funimate/"><u>[Updated] In 2024, From Beginner to Expert in Funimate</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-natures-canvas-your-ultimate-guide-to-free-screen-template-downloads/"><u>[Updated] In 2024, Nature's Canvas Your Ultimate Guide to Free Screen Template Downloads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared/"><u>2024 Approved Immerse in Pixel Worlds The Best PC VR Playback Titles Compared</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/a-guide-to-excellence-with-zd-soft-screen-capture/"><u>A Guide to Excellence with ZD Soft Screen Capture</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-sony-xperia-5-v-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Sony Xperia 5 V</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/is-intel-headed-towards-a-fate-similar-to-nokias-decline/"><u>Is Intel Headed Towards a Fate Similar to Nokia's Decline?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-best-of-both-worlds-free-and-paid-3d-animation-software-options/"><u>New 2024 Approved The Best of Both Worlds Free and Paid 3D Animation Software Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-poor-television-sound-quality-effective-alternatives-and-techniques-available-now/"><u>Overcoming Poor Television Sound Quality: Effective Alternatives and Techniques Available Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pixel-9-pro-launched-ahead-of-schedule-by-google/"><u>Pixel 9 Pro Launched Ahead of Schedule by Google</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c32-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C32 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-runtime-errors-fixing-error-0xc00000e9-with-ease/"><u>Troubleshooting Windows Runtime Errors – Fixing Error 0xC00000E9 with Ease</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-display-clarity-comparing-1080p-144-monitor-showdown-the-clear-distinctions-between-1080p-1440p-and-4k-screens/"><u>Understanding Display Clarity: Comparing 1080P, 144 Monitor Showdown: The Clear Distinctions Between 1080P, 1440P & 4K Screens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-allure-of-apples-latest-creation-the-high-end-ipad-pro-m4/"><u>Unveiling the Allure of Apple's Latest Creation: The High-End iPad Pro (M4)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-navigating-social-media-how-to-proficiently-record-live-on-fb/"><u>[New] 2024 Approved Navigating Social Media How to Proficiently Record Live on FB</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-assembling-an-original-identification-alphanumeric/"><u>[New] In 2024, Assembling an Original Identification Alphanumeric</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-iphone-camera-quality-with-hdr/"><u>[New] Maximizing iPhone Camera Quality with HDR</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-illuminate-your-content-creation/"><u>[Updated] Illuminate Your Content Creation</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-a-critical-look-at-sns-hdrs-potential-and-alternatives/"><u>[Updated] In 2024, A Critical Look at SNS HDR's Potential & Alternatives</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-peering-into-pixels-with-polaroids-camplus-action-device/"><u>[Updated] In 2024, Peering Into Pixels with Polaroid's Cam+ Action Device</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-innovation-unveiled-5-cutting-edge-webcams-with-sound-tech/"><u>[Updated] Innovation Unveiled 5 Cutting-Edge Webcams With Sound Tech</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pro-tips-15-expertly-chosen-tripods-for-gopro-cameras-for-2024/"><u>[Updated] Pro Tips 15 Expertly Chosen Tripods for GoPro Cameras for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-gigabyte-b76/"><u>Comprehensive Gigabyte B76</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-top-tech-picks-at-toms-hardware-store/"><u>Discover Top Tech Picks at Tom's Hardware Store</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhanced-reliability-msi-boards-now-aligned-with-intel-i9-power-recommendations-to-combat-crashing-issues-during-ongoing-investigations/"><u>Enhanced Reliability: MSI Boards Now Aligned with Intel I9 Power Recommendations to Combat Crashing Issues During Ongoing Investigations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unprecedented-performance-with-msis-innovative-z79n-zero-project-motherboards-pioneers-of-the-new-camm2-ram-technology-for-desktop-systems/"><u>Experience Unprecedented Performance with MSI's Innovative Z79n Zero Project Motherboards – Pioneers of the New CAMM2 RAM Technology for Desktop Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-evaluation-white-ice-finish-on-the-powerful-maxsun-z79d5-atx-with-multiple-m2-supports/"><u>Expert Evaluation: White Ice Finish on the Powerful MaxSun Z79#D5 ATX with Multiple M.2 Supports</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-toms-hardware-insights/"><u>Exploring Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-achieving-professional-audio-in-home-recording-studios/"><u>In 2024, Achieving Professional Audio in Home Recording Studios</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-world-of-electronics-a-toms-hardware-tour/"><u>Inside the World of Electronics - A Tom's Hardware Tour</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-wave-of-bios-updates-from-amd-allies-tackles-the-persistent-logofailure-challenge-head-on/"><u>Latest Wave of BIOS Updates From AMD Allies Tackles the Persistent LogoFailure Challenge Head-On</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/look-for-disciplinary-changes-at-school-contact-their-school-if-necessary-to-get-a-better-understanding-of-any-disciplinary-issues-or-changes-in-behavior-fr74/"><u>Look for Disciplinary Changes at School: Contact Their School if Necessary to Get a Better Understanding of Any Disciplinary Issues or Changes in Behavior From Teachers and Staff Who See Your Child on a Daily Basis.</u></a></li>
 </ul></div>
 

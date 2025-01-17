@@ -1,7 +1,7 @@
 ---
 title: Intel's Profits Plunge by $1.6B Amidst Challenges in the Data Center CPU & Foundry Segments
-date: 2024-08-13T12:50:57.549Z
-updated: 2024-08-14T12:50:57.549Z
+date: 2025-01-09T19:08:24.841Z
+updated: 2025-01-16T22:13:24.974Z
 tags:
   - cpu
 categories:
@@ -28,8 +28,9 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -40,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -56,4 +54,20 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-shrinking-volume-levels-seamlessly-in-lumafusion/"><u>[New] 2024 Approved Shrinking Volume Levels Seamlessly in Lumafusion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-10-leading-flv-to-youtube-video-converters/"><u>[New] In 2024, 10 Leading FLV to YouTube Video Converters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-speech-recognition-made-accessible-transforming-audio-to-text-with-ease-in-microsoft-word-for-2024/"><u>[New] Speech Recognition Made Accessible Transforming Audio to Text with Ease in Microsoft Word for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-navigating-day-to-day-streams-key-dos-and-donts/"><u>2024 Approved Navigating Day-to-Day Streams Key Do's & Don'ts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazon-kindle-vs-amazon-fire-tablets-understanding-the-key-distinctions/"><u>Amazon Kindle Vs. Amazon Fire Tablets - Understanding the Key Distinctions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-the-allure-of-sham-youtube-audience-for-2024/"><u>Beware the Allure of Sham YouTube Audience for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-experience-with-new-gtx-980-ti-driver-download/"><u>Enhance Your Gaming Experience with New GTX 980 Ti Driver Download</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11-stop-background-programs/"><u>Mastering Window 11: Stop Background Programs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/proven-paths-to-owning-successful-monetized-youtubes/"><u>Proven Paths to Owning Successful Monetized Youtubes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolve-beats-audio-compatibility-issues-in-hp-laptops-with-this-comprehensive-guide-windows-11-8-and-7/"><u>Resolve Beats Audio Compatibility Issues in HP Laptops with This Comprehensive Guide (Windows 11, 8 & 7)</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-nvidia-quadro-rtx-4000-graphics-card-software/"><u>Update NVIDIA Quadro RTX 4000 Graphics Card Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-intel-raid-drivers-today-supports-windows-11-10-8-and-7/"><u>Update Your Intel RAID Drivers Today! Supports Windows 11, 10, 8 & 7</u></a></li>
+</ul></div>
 

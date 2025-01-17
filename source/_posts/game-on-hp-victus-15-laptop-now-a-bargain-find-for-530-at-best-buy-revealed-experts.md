@@ -1,7 +1,7 @@
 ---
 title: Game On! HP Victus 15 Laptop Now a Bargain Find for $530 at Best Buy, Revealed Experts
-date: 2024-11-29T10:22:14.833Z
-updated: 2024-12-05T00:14:11.863Z
+date: 2025-01-11T18:34:52.357Z
+updated: 2025-01-17T01:24:59.226Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 GPU and a screen capable of a 144Hz refre
 With 8GB of RAM, a 512GB SSD, and a 12th-gen Intel Core i5 processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-easy-entry-level-choices-for-gopro-accessories-for-2024/"><u>[New] Easy Entry-Level Choices for GoPro Accessories for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ow-to-captivate-audience-attention-with-your-yt-shorts/"><u>[New] How to Captivate Audience Attention with Your YT Shorts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-through-limitations-with-top-video-editor-alternatives-for-2024/"><u>[Updated] Cutting Through Limitations with Top Video Editor Alternatives for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premier-sound-pivot-for-podcast-masters/"><u>[Updated] Premier Sound Pivot for Podcast Masters</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-google-meets-potential-on-youtube-with-this-guide/"><u>[Updated] Unlock Google Meet's Potential on YouTube with This Guide</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-downloading-videos-directly-to-iphoneipad-youtubes-quick-guide/"><u>In 2024, Downloading Videos Directly to iPhone/iPad - YouTube's Quick Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 with IMEI Code?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ratatouille/"><u>Ratatouille</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-apples-new-policy-on-refunding-malfunctioning-butterfly-keyboard-laptops/"><u>Resolved: Apple's New Policy on Refunding Malfunctioning Butterfly Keyboard Laptops</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/review-of-the-sonos-ace-falling-for-high-end-bluetooth-earphones-with-unmatched-sound-quality/"><u>Review of the Sonos ACE: Falling for High-End Bluetooth Earphones with Unmatched Sound Quality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/reviving-gaming-glory-the-case-for-a-wii-u-inspired-controller-on-the-nintendo-switch/"><u>Reviving Gaming Glory: The Case for a Wii U-Inspired Controller on the Nintendo Switch</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-and-googles-upcoming-smartphones-highlighted-in-the-latest-tech-weekly-digest/"><u>Samsung & Google's Upcoming Smartphones Highlighted in the Latest Tech Weekly Digest</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-unveils-revolutionary-galaxy-z-flip-6-the-next-generation-of-foldable-technology/"><u>Samsung Unveils Revolutionary Galaxy Z Flip 6: The Next Generation of Foldable Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/say-goodbye-to-battery-woes-the-perfect-timing-for-buying-the-latest-portable-power-station/"><u>Say Goodbye to Battery Woes - The Perfect Timing for Buying the Latest Portable Power Station!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/shipping-delays-hit-galaxy-buds-3-pro-due-to-faulty-earpieces/"><u>Shipping Delays Hit Galaxy Buds 3 Pro Due to Faulty Earpieces</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/should-you-invest-in-applecareplus-for-your-new-device/"><u>Should You Invest in AppleCare+ for Your New Device?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/top-10-digital-storefronts-for-exquisite-presentation-boxes-for-2024/"><u>Top 10 Digital Storefronts for Exquisite Presentation Boxes for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-fast-and-fun-the-quick-guide-to-taking-screenshots-on-chromebook-for-2024/"><u>[New] Fast & Fun The Quick Guide to Taking Screenshots on Chromebook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-toolwiz-photosapp-overview-a-complete-analysis-and-future-prospects/"><u>[Updated] Toolwiz PhotosApp Overview - A Complete Analysis and Future Prospects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-phantom-slow-motion-camera-guide/"><u>2024 Approved Phantom Slow Motion Camera Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/expert-techniques-for-file-recovery-post-sudden-computer-shutdown-a-comprehensive-guide/"><u>Expert Techniques for File Recovery Post Sudden Computer Shutdown - A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/high-quality-fb-videos-for-ff-browser-users/"><u>High-Quality FB Videos for FF Browser Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x50iplus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X50i+ Phone?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/spot-the-difference-a-bargain-chinese-seller-reveals-quirky-2k-display-with-thor-and-darth-vader-design-for-only-139/"><u>Spot the Difference: A Bargain Chinese Seller Reveals Quirky 2K Display with Thor & Darth Vader Design for Only $139</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tailored-interaction-on-a-single-display-introducing-jdis-2vd-screen-that-provides-two-personalized-touch-experiences/"><u>Tailored Interaction on a Single Display - Introducing JDI's 2VD Screen that Provides Two Personalized Touch Experiences</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-most-advanced-and-best-quality-pc-displays-on-the-market-202-text/"><u>The Most Advanced and Best Quality PC Displays on the Market, 202 [TEXT]</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ew-wave-of-youtube-channel-titles-perfect-for-vloggers-limited-to-156-characters/"><u>The New Wave of YouTube Channel Titles Perfect for Vloggers (Limited to 156 Characters)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-gear-expert-reviews-and-advice/"><u>Tom's Computer Gear: Expert Reviews and Advice</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio/"><u>Updated In 2024, The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio</u></a></li>
 </ul></div>
 

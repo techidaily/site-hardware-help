@@ -1,7 +1,7 @@
 ---
 title: "Discovering a Game-Changer: A Light Laptop That Makes MacBook Air Seem Heavy - GadgetGuru Chronicles"
-date: 2024-12-02T18:58:41.350Z
-updated: 2024-12-04T23:17:09.182Z
+date: 2025-01-16T02:31:11.318Z
+updated: 2025-01-16T23:16:10.115Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ It's entirely possible I encountered some random bug and is not indicative of th
 I did manage to get the Smart Auto feature up and running. It allows users to reallocate resources from different areas of the computer to whatever app you're using at the time to boost performance. Or if you want a certain app to get the boost at all times, Smart Auto also lets you target specific software. It was a nifty little tool that I got a lot of enjoyment out of. You likely will, too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -118,21 +118,22 @@ For the smaller, 13-inch size that I tested, you can buy the Intel Core Ultra i5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-tips-for-high-quality-vr-gametime-recordings/"><u>[New] Tips for High-Quality VR Gametime Recordings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-batman-arkham-knight-crashing-fatal-error/"><u>[Quick Fix] Batman Arkham Knight Crashing/ Fatal Error</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-journey-through-updates-unveiling-lg-bp550-new/"><u>[Updated] Journey Through Updates Unveiling LG BP550 New</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/advanced-sector-solutions-navigating-the-smart-industry/"><u>Advanced Sector Solutions - Navigating the Smart Industry</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/affordable-android-chat-options-rated-top-ten/"><u>Affordable Android Chat Options Rated Top Ten</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-intel-i82579-chipset-drivers-for-free-simple-and-fast-installation-guide/"><u>Download Intel I82579 Chipset Drivers for Free - Simple & Fast Installation Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-samsung-m2020-printer-drivers-complete-guide/"><u>Download Samsung M2020 Printer Drivers: Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-ricoh-printer-drivers-for-windows-operating-systems/"><u>Effortless Installation of Ricoh Printer Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-updated-epson-l3110-drivers-for-windows-operating-systems-win11107/"><u>Free Download: Updated Epson L3110 Drivers for Windows Operating Systems (Win11/10/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-drivers-for-your-netgear-wifi-adapter-efficiently/"><u>How to Install Updated Drivers for Your NETGEAR WiFi Adapter Efficiently</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-video-quality-freshly-released-usb-to-hdmi-driver-patches-available-for-download/"><u>Improve Video Quality: Freshly Released USB-to-HDMI Driver Patches Available for Download</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-rethinking-recipes-squared-up-tutorials-for-youtube-and-facebook-success/"><u>In 2024, Rethinking Recipes Squared-Up Tutorials for YouTube and Facebook Success</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-visionary-graphics-best-cards-in-4k-space/"><u>In 2024, Visionary Graphics Best Cards in 4K Space</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-the-potential-of-instagrams-filters-a-modern-guide-2e23/"><u>Unlocking the Potential of Instagram's Filters - A Modern Guide (2E23)</u></a></li>
-<li><a href="https://win-help.techidaily.com/unveiling-the-truth-understanding-the-mrbeast-giveaways-hoax-and-protecting-yourself/"><u>Unveiling the Truth: Understanding the MrBeast Giveaways Hoax & Protecting Yourself</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-arduino-hardware-new-usb-driver-options-for-pcs/"><u>Update Your Arduino Hardware: New USB Driver Options for PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-on-blending-real-and-digital-environments-in-webcasts/"><u>[New] Expert Tips on Blending Real and Digital Environments in Webcasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitgrabber-mobile-app-for-downloading-tweets-videos/"><u>[New] TwitGrabber Mobile App for Downloading Tweets' Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-match-image-taking-and-music-merging-technology/"><u>[Updated] Best Match Image Taking & Music Merging Technology</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/beam-wise-video-setups-expert-strategies-to-shine/"><u>Beam-Wise Video Setups Expert Strategies to Shine</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-upload-horizontal-videos-to-igtv/"><u>How to Upload Horizontal Videos to IGTV</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-note-30-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix Note 30 FRP Without Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-insights-from-toms-gadget-hub-stay-ahead-in-todays-technology-market/"><u>Innovative Insights From Tom's Gadget Hub: Stay Ahead in Today's Technology Market</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/jon-bach-of-puget-systems-reviews-top-tier-workstation-setups-for-power-users/"><u>Jon Bach of Puget Systems Reviews Top-Tier Workstation Setups for Power Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-save-locations-windows-xp78-errors/"><u>Overcoming Save Locations: Windows XP/7/8 Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/shrink-your-gifs-with-ease-discover-the-best-movavi-programs-ranked-1-6-for-ultimate-image-slimming-solutions/"><u>Shrink Your GIFs with Ease! Discover the Best Movavi Programs Ranked #1-#6 for Ultimate Image Slimming Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Hub: Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-insights-from-toms-hardware/"><u>Tom's Tech Review: Comprehensive Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-pc-building-sets-and-accessories-ideal-presents-of-2019/"><u>Top PC Building Sets & Accessories - Ideal Presents of 2019</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-solutions-de-clonage-de-ssd-corsair-trouvez-le-meilleur-logiciel/"><u>Top Solutions De Clonage De SSD Corsair: Trouvez Le Meilleur Logiciel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-key-pc-vocabulary-through-toms-hardware-dictionary-explained/"><u>Understanding Key PC Vocabulary Through Tom's Hardware Dictionary Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-world-of-electronics-with-tom-a-guide-to-top-ranked-devices/"><u>Unveiling the World of Electronics with Tom - A Guide to Top-Ranked Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/winner-announcement-2016-first-quarter-competition-by-toms-hardware-on-pc-system-construction/"><u>Winner Announcement: 2016 First Quarter Competition by Tom's Hardware on PC System Construction</u></a></li>
 </ul></div>
 

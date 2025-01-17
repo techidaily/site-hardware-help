@@ -1,7 +1,7 @@
 ---
 title: "What's in Store for Tech Enthusiasts: Anticipating Apple's October Reveals – Next-Gen M4 Mac Mini, Revamped iPads & AI Developments – Expert Analysis"
-date: 2025-01-09T08:46:18.347Z
-updated: 2025-01-10T23:59:06.686Z
+date: 2025-01-10T19:04:51.101Z
+updated: 2025-01-17T00:10:40.110Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,22 +118,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-quick-tips-for-posting-videos-on-instagram/"><u>[New] In 2024, Quick Tips for Posting Videos on Instagram</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970966029-brother-mfc-7360n-update-and-install-printer-drivers-on-windows-1087-with-ease/"><u>Brother MFC 7360N - Update & Install Printer Drivers on Windows 10/8/7 with Ease!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-toshiba-printer-software-for-windows-complete-guide/"><u>Download & Update Toshiba Printer Software for Windows: Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-nvme-driver-installation-for-windows-users-everything-you-need-to-know/"><u>Easy NVMe Driver Installation for Windows Users: Everything You Need to Know</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elite-series-for-engaging-typographic-movement/"><u>Elite Series for Engaging Typographic Movement</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-guide-to-enjoying-lesbian-gay-bisexual-and-transgender-films-on-netflix-in-jul-2024/"><u>Essential Guide to Enjoying Lesbian, Gay, Bisexual & Transgender Films on Netflix in Jul 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/evga-graphics-driver-setup-and-download-for-windows-pcs/"><u>EVGA Graphics Driver Setup & Download for Windows PCs</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/experience-music-creation-with-tulip-the-budget-friendly-micropython-powered-computer-only-59/"><u>Experience Music Creation with Tulip: The Budget-Friendly MicroPython-Powered Computer - Only $59</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-gt-neo-5-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme GT Neo 5 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-behind-the-scenes-to-the-best-free-meme-designs/"><u>In 2024, Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-haunting-actions-high-definition-cams/"><u>In 2024, Haunting Actions High Definition Cams</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Why does the pokemon go battle league not available On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-logitech-brio-hd-camera-driver-for-windows-10-and-11-users/"><u>Latest Logitech BRIO HD Camera Driver for Windows 10 & 11 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revitalize-your-webcam-functionality-update-its-driver-in-windows-10/"><u>Revitalize Your Webcam Functionality - Update Its Driver in Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-activating-and-using-razer-mouse-drivers-in-windows/"><u>Step-by-Step Tutorial: Activating and Using Razer Mouse Drivers in Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rt-of-economy-streamlining-youtube-videos-for-2024/"><u>The Art of Economy Streamlining YouTube Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-and-repairing-igfxem-unit-failures-successfully-detected/"><u>Understanding and Repairing igfxEM Unit Failures Successfully Detected</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-pip-on-microsoft-edge/"><u>[New] Master the Art of PIP on Microsoft Edge</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-using-vlc-for-videos/"><u>[New] Ultimate Guide Using VLC for Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ultimate-slomo-videography-tool-assessment/"><u>[Updated] Ultimate SloMo Videography Tool Assessment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corsair-k70-full-driver-setup-and-download-instructions-online-now/"><u>Corsair K70 Full Driver Setup and Download Instructions Online Now</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/exclusive-list-top-10-live-streaming-networks-ranked/"><u>Exclusive List Top 10 Live Streaming Networks Ranked</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-ultimate-guide-to-the-behringer-usb-midi-driver/"><u>Free Download: Ultimate Guide to the Behringer USB MIDI Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-canon-mp280-up-and-running-on-windows-free-downloads-for-10-8-and-7-users/"><u>Get Your Canon MP280 Up and Running on Windows - Free Downloads for 10, 8 & 7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-qualcomm-atheros-ar3011-bluetooth-30-driver-here-for-free-download/"><u>Get Your Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Here for Free [Download]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlb-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlb document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-moto-g-stylus-5g-2023-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Moto G Stylus 5G (2023) Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/self-healing-concrete-contains-healing-agents-that-react-when-exposed-to-air-or-water-through-cracks-leading-to-crack-sealing/"><u>Self-Healing Concrete Contains Healing Agents that React when Exposed to Air or Water Through Cracks, Leading to Crack Sealing</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/windows-7hdd/"><u>Windows 7用外部HDDへの自動バックアップ手順</u></a></li>
 </ul></div>
 

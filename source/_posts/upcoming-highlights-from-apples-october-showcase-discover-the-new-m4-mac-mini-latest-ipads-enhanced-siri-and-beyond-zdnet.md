@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Highlights From Apple's October Showcase: Discover the New M4 Mac Mini, Latest iPads, Enhanced Siri & Beyond | ZDNet"
-date: 2025-01-06T06:44:15.768Z
-updated: 2025-01-11T03:38:48.438Z
+date: 2025-01-15T20:41:58.060Z
+updated: 2025-01-16T16:08:05.470Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,18 +118,19 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-years-ultimate-yt-story-creators-list/"><u>[Updated] 2024 Approved Year's Ultimate YT Story Creators List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-raw-to-ready-a-comprehensive-instruction-manual-for-picture-posting-on-youtube/"><u>[Updated] From Raw to Ready A Comprehensive Instruction Manual for Picture Posting on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tech-savvy-apps-for-artful-picture-presentation/"><u>2024 Approved Top Tech-Savvy Apps for Artful Picture Presentation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970790934-asus-maximus-x-hero-driver-maintenance-made-simple-and-swift-update-procedures-inside/"><u>ASUS Maximus X Hero Driver Maintenance Made Simple and Swift – Update Procedures Inside!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-microsoft-drivers-downloading-and-updating-for-windows-11-8-and-7/"><u>Easy Guide: Microsoft Drivers Downloading & Updating for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-method-to-install-new-asus-touchpad-drivers-for-laptops-running-windows-11/"><u>Easy Method to Install New ASUS Touchpad Drivers for Laptops Running Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/efficiently-uninstalling-programs-on-a-kindle-fire-a-comprehensive-tutorial/"><u>Efficiently Uninstalling Programs on a Kindle Fire - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-resolving-technical-hiccups-in-your-tiktok-experience/"><u>Expert Advice: Resolving Technical Hiccups in Your TikTok Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-p1007-drivers-easy-installation-guide/"><u>Get the Newest HP P1007 Drivers - Easy Installation Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-13-mini-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 13 mini</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-restoring-macos-sierra-to-os-x-10101-environment/"><u>In 2024, Restoring MacOS Sierra to OS X 10.10.1 Environment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solutions-to-overcome-windows-related-problems-for-intels-integrated-graphics-card-hd-graphics-630-edition/"><u>Solutions to Overcome Windows-Related Problems for Intel's Integrated Graphics Card - HD Graphics 630 Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-unlocking-the-best-free-tools-for-high-quality-podcast-recording-in-todays-market/"><u>Updated 2024 Approved Unlocking the Best Free Tools for High-Quality Podcast Recording in Todays Market</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-quick-guide-to-precision-photo-backdrop-clean-up-for-2024/"><u>[Updated] Quick Guide to Precision Photo Backdrop Clean-Up for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-capturing-your-ps4-gaming-sessions-with-ease/"><u>Complete Guide: Capturing Your PS4 Gaming Sessions with Ease</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-hottest-gaming-laptop-offers-for-2e24/"><u>Discover the Hottest Gaming Laptop Offers for 2E24</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-advanced-hardware-solutions-through-toms-innovation-lens/"><u>Discovering Advanced Hardware Solutions Through Tom's Innovation Lens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-deep-into-the-world-of-high-performance-laptops-with-our-review-of-the-asus-zenbook-s1-6-where-we-thoroughly-examine-and-test-its-capabilities-when-pow16/"><u>Dive Deep Into the World of High-Performance Laptops with Our Review of the Asus Zenbook S1 6, Where We Thoroughly Examine and Test Its Capabilities when Powered by the Advanced AMD Ryzen AI 9 HX 370 CPU.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-the-game-world-grab-lenovos-powerhouse-legion-slim-5-rtx-4060-gpu-at-an-unbeatable-price-of-899/"><u>Dive Into the Game World: Grab Lenovo's Powerhouse Legion Slim 5, RTX 4060 GPU at an Unbeatable Price of $899</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-the-world-of-computing-with-toms-hardware-solutions/"><u>Dive Into the World of Computing with Tom’s Hardware Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-get-the-hp-omen-transcend-14-laptop-with-rtx-gpu-and-oled-display-at-300-off/"><u>Exclusive Deal: Get the HP Omen Transcend 14 Laptop with RTX GPU & OLED Display at $300 Off</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/youtube-earning-predictors/"><u>Free YouTube Earning Predictors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-optimal-list-of-10-excellent-spotify-audio-recorders/"><u>In 2024, Optimal List of 10 Excellent Spotify Audio Recorders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-technological-advancement-with-this-guide-for-2024/"><u>Master the Art of Technological Advancement with This Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-groundbreaking-ios-16-enhancements-justifying-the-shift-from-your-older-iphone-expert-insights/"><u>Top 4 Groundbreaking iOS 16 Enhancements Justifying the Shift From Your Older iPhone: Expert Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-how-much-electricity-a-windowed-computer-guzzles/"><u>Understanding How Much Electricity a Windowed Computer Guzzles</u></a></li>
 </ul></div>
 

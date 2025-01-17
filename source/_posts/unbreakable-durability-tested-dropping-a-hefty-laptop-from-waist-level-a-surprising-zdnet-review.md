@@ -1,7 +1,7 @@
 ---
 title: "Unbreakable Durability Tested: Dropping a Hefty Laptop From Waist Level - A Surprising ZDNet Review"
-date: 2025-01-07T07:10:47.395Z
-updated: 2025-01-11T02:38:07.301Z
+date: 2025-01-15T19:23:10.768Z
+updated: 2025-01-17T01:13:49.401Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -128,7 +128,7 @@ Kyle Kucharski/ZDNET
 In the end, both are solid choices, but the battery life on the unit with the Snapdragon is impossible to ignore. That, and the fact that this is a forward-looking device with AI functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -167,21 +167,21 @@ I'd recommend this laptop to freelancers, remote and hybrid workers, and anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-browse-and-download-top-free-extractors-for-your-pinterest-content/"><u>[New] Browse & Download Top Free Extractors for Your Pinterest Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail-for-2024/"><u>[New] Cutting-Edge Techniques for Private YT Content Dissemination in Gmail for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-diy-guide-to-custom-instagram-tones-for-2024/"><u>[New] DIY Guide to Custom Instagram Tones for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-mavic-air-ushers-in-new-era-confronting-dji-sparks-legacy/"><u>[New] Mavic Air Ushers in New Era, Confronting DJI Spark’s Legacy</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elevate-photoshoots-select-your-ideal-background-viewer/"><u>[Updated] 2024 Approved Elevate Photoshoots Select Your Ideal Background Viewer</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-eager-ears-entertainment-where-to-download-laughable-rings-for-2024/"><u>[Updated] Eager-Ears Entertainment Where to Download Laughable Rings for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-review-of-mp4-capture-tools-for-2024/"><u>[Updated] Essential Review of MP4 Capture Tools for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-xp-420-printer-driver-installation-and-updates-guide/"><u>Download the Latest Epson XP-420 Printer Driver: Installation and Updates Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-intel-uhd-graphics-software-for-windows-11-systems/"><u>Get the Newest Intel UHD Graphics Software for Windows 11 Systems</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-introduction-to-soft-starting-sounds-in-audition/"><u>In 2024, Introduction to Soft-Starting Sounds in Audition</u></a></li>
-<li><a href="https://fox-where.techidaily.com/masterful-creation-of-ssrs-reports-using-optimized-resource-settings-interface/"><u>Masterful Creation of SSRS Reports Using Optimized Resource Settings Interface</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722958535246-qualcomm-atheros-ar938x-chipset-free-drivers-downloaded-with-simple-steps/"><u>Qualcomm Atheros AR938X Chipset: Free Drivers Downloaded with Simple Steps!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-installation-of-microsoft-ergo-keyboard-easily-driver-downloads-available-now/"><u>Quick Installation of Microsoft Ergo Keyboard Easily - Driver Downloads Available Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-method-to-overcome-lenovo-hardware-interface-driver-issues/"><u>Seamless Method to Overcome Lenovo Hardware Interface Driver Issues</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-fresh-driver-downloads-and-updates-for-hp-officejet-ex-product-4655/"><u>The Ultimate Guide: Fresh Driver Downloads & Updates for HP OfficeJet eX (Product 4655)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-your-wacom-intuos-potential-secure-reliable-drivers-on-windows-for-a-fully-operational-drawing-experience/"><u>Unleash Your Wacom Intuos Potential: Secure Reliable Drivers on Windows for a Fully-Operational Drawing Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-beats-and-bands-how-to-upload-music-online/"><u>[New] 2024 Approved Beats & Bands How to Upload Music Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-seamless-iphone-photos-sorting-and-icloud-backup-management/"><u>[New] Strategies for Seamless iPhone Photos Sorting & iCloud Backup Management</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-captivate-viewers-designing-engaging-youtube-trailers-with-filmora/"><u>[Updated] Captivate Viewers Designing Engaging YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-mastering-voice-changes-in-psgames/"><u>[Updated] In 2024, Mastering Voice Changes in PSGames</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029668000-5/"><u>「無料編集ソフトリスト」 - 有名人気の5つの録音編集プログラム</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-achieve-uniqueness-with-character-vocal-changes-in-free-fire-at-zero-price/"><u>2024 Approved Achieve Uniqueness with Character Vocal Changes in Free Fire, at Zero Price</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-6s-plus-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 6s Plus? Complete Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-the-updated-dell-xps-13-9345-timeless-aesthetics-meets-enhanced-performance/"><u>In-Depth Analysis of the Updated Dell XPS 13 (9345): Timeless Aesthetics Meets Enhanced Performance</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/innovating-action-filming-yi-4ks-impact-on-cinema-for-2024/"><u>Innovating Action Filming Yi 4K's Impact on Cinema for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-and-snapdragon-showdown-who-wins-when-it-comes-to-elite-battery-life-for-laptops/"><u>Intel and Snapdragon Showdown: Who Wins When It Comes to Elite Battery Life for Laptops?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-driven-two-14-inch-displays-experience-the-acemagic-x1-laptop-for-under-900/"><u>Intel Driven, Two 14-Inch Displays: Experience the Acemagic X1 Laptop for Under $900</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-a-game-changing-mainboard-new-framework-partners-with-deepcomputing-to-harness-the-power-of-risc-v-in-their-latest-jh7110-laptop-board/"><u>Introducing a Game-Changing Mainboard: New Framework Partners with DeepComputing to Harness the Power of RISC-V in Their Latest JH7110 Laptop Board</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-technology-choices-with-guidance-from-toms-hardware/"><u>Mastering Technology Choices with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-technology-choices-a-deep-dive-into-hardware-with-toms-experts/"><u>Mastering Technology Choices: A Deep Dive Into Hardware with Tom's Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-game-with-alienware-m1-r2-review-powerhouse-pc-and-clicky-keys-showdown/"><u>Mastering the Game with Alienware M1# R2 Review: Powerhouse PC and Clicky Keys Showdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-tech-talk-microsoft-acquires-blizzard-diving-into-ai-artistry-and-cutting-edge-translation-tools-podcast/"><u>The Tech Talk: Microsoft Acquires Blizzard - Diving Into AI Artistry and Cutting-Edge Translation Tools [Podcast]</u></a></li>
 </ul></div>
 

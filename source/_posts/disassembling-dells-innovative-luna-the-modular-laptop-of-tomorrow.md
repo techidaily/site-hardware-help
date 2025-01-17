@@ -1,7 +1,7 @@
 ---
 title: "Disassembling Dell's Innovative Luna: The Modular Laptop of Tomorrow?"
-date: 2024-11-29T03:49:51.128Z
-updated: 2024-12-05T06:47:10.962Z
+date: 2025-01-11T23:19:40.571Z
+updated: 2025-01-17T01:36:32.408Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -109,7 +109,7 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,22 +148,24 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ecoding-the-revised-youtube-earnings-criteria-for-2024/"><u>[New] Decoding the Revised YouTube Earnings Criteria for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-selecting-sacred-sounds-for-smartphone-ringtones/"><u>[New] Selecting Sacred Sounds for Smartphone Ringtones</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-ranked-guide-to-premium-iosdesktop-video-change-tools-for-2024/"><u>[Updated] Ranked Guide to Premium iOS/Desktop Video Change Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-color-grading-in-final-cut-pro/"><u>2024 Approved How to Color Grading in Final Cut Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-tips-for-crafting-vhs-images-on-computers-for-2024/"><u>Advanced Tips for Crafting VHS Images on Computers for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-humor-image-processor/"><u>In 2024, Best Humor Image Processor</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-x9b-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor X9b? Try These Fixes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-end-of-an-era-how-googles-new-ai-revolutionizes-the-role-of-the-original-google-assistant/"><u>The End of an Era: How Google's New AI Revolutionizes the Role of the Original 'Google Assistant'</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-heat-of-tech-understanding-why-high-performance-phones-stay-cool-unlike-pcs/"><u>The Heat of Tech: Understanding Why High-Performance Phones Stay Cool, Unlike PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-13-creative-ideas-reimagining-the-life-of-your-retired-android-device/"><u>Top 13 Creative Ideas: Reimagining the Life of Your Retired Android Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transforming-mobile-photography-a-guide-on-converting-photos-to-pdf-on-android-devices/"><u>Transforming Mobile Photography: A Guide on Converting Photos to PDF on Android Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/trouble-downloading-images-from-gmail-on-your-android-device-discover-the-quick-solutions/"><u>Trouble Downloading Images From Gmail on Your Android Device? Discover the Quick Solutions!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-burner-phones-benefits-and-situations-for-using-disposable-numbers/"><u>Understanding Burner Phones: Benefits & Situations for Using Disposable Numbers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-customization-how-to-install-and-manage-lock-screen-widgets-on-android-devices/"><u>Unlocking Customization: How to Install and Manage Lock Screen Widgets on Android Devices</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-know-you-can-add-luts-for-cinematic-color-grading-on-your-smartphones-with-vn-editor-you-can-you-can-add-luts-choose-the-option/"><u>Updated 2024 Approved Do You Know You Can Add LUTs for Cinematic Color Grading on Your Smartphones? With VN Editor You Can, You Can Add LUTs. Choose the Option VN LUTs Free Download</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-reality-engineering-in-business-applications/"><u>Virtual Reality Engineering in Business Applications</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-the-hmd-skyline-stands-out-unparalleled-ease-in-phone-repairs/"><u>Why the HMD Skyline Stands Out: Unparalleled Ease in Phone Repairs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-5-essential-gameplay-cams-for-live-streamers/"><u>[New] 2024 Approved Top 5 Essential Gameplay Cams for Live Streamers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-pros-picks-6-superior-background-cleaners-for-your-photos/"><u>[New] In 2024, Pro's Picks – 6 Superior Background Cleaners for Your Photos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-essential-guide-to-transferring-tunes-across-platforms-for-2024/"><u>[New] The Essential Guide to Transferring Tunes Across Platforms for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-in-depth-look-at-high-quality-minecraft-recordings/"><u>[Updated] In 2024, In-Depth Look at High-Quality Minecraft Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-tips-for-uncovering-missing-exclusive-photos/"><u>[Updated] In 2024, Tips for Uncovering Missing Exclusive Photos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-evaluations-by-tom-the-hardware-hub/"><u>Comprehensive Evaluations by Tom: The Hardware Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-cutting-edge-asus-expertbook-p5-with-intel-core-i7-and-lunar-lake-technology-inside/"><u>Discover the Cutting-Edge ASUS ExpertBook P5 with Intel Core I7 and Lunar Lake Technology Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-top-tier-computing-hardware-insights-at-toms-digital-workbench/"><u>Discover Top-Tier Computing Hardware Insights at Tom's Digital Workbench</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortless-dvd-conversion-to-mkv-format-on-windows-11-and-10/"><u>Effortless DVD Conversion to MKV Format on Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-asus-rog-zephyrus-g16-bargain-save-big-with-advanced-intel-processor-stunning-nvidia-graphics-and-240hz-oled-visuals-get-it-for-250-less/"><u>Exclusive ASUS ROG Zephyrus G16 Bargain: Save Big with Advanced Intel Processor, Stunning NVIDIA Graphics and 240Hz OLED Visuals – Get It for $250 Less</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862702293-exclusive-deal-m3-macbook-air-with-16gb-ram-and-13-display-now-at-just-1149/"><u>Exclusive Deal: M3 MacBook Air with 16GB RAM and 13 Display Now at Just $1,149!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-versatile-video-tools-for-linux-windows-and-macos-for-2024/"><u>Free, Versatile Video Tools for Linux, Windows & MacOS for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-huawei-nova-y71-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Huawei Nova Y71 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-mastering-access-free-picturing-content-streams/"><u>In 2024, Mastering Access Free Picturing Content Streams</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862727008-memorial-day-memories-asus-tuf-a15-gaming-laptop-at-an-unbeatable-price-of-just-658-in-2n4/"><u>Memorial Day Memories: ASUS TUF A15 Gaming Laptop at an Unbeatable Price of Just $658 in 2N4!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862731130-msi-bravo-with-rtx-4060-gpu-unbeatable-gaming-performance-under-1000/"><u>MSI Bravo with RTX 4060 GPU: Unbeatable Gaming Performance Under $1,000!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862702166-the-latest-review-on-the-powerful-asus-zenbook-s16-featuring-thorough-testing-of-the-amd-ryzen-ai-9-hx-370-processor/"><u>The Latest Review on the Powerful Asus Zenbook S16, Featuring Thorough Testing of the AMD Ryzen AI 9 HX 370 Processor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862704811-toms-tech-reviews-in-depth-hardware-evaluations/"><u>Tom's Tech Reviews - In-Depth Hardware Evaluations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/wpcs-combine-the-aesthetic-appeal-of-wood-with-the-durability-and-maintenance-benefits-of-plastics-creating-materials-that-resist-moisture-decay-and-insect-280/"><u>WPCs Combine the Aesthetic Appeal of Wood with the Durability and Maintenance Benefits of Plastics, Creating Materials that Resist Moisture, Decay, and Insect Damage.</u></a></li>
 </ul></div>
 

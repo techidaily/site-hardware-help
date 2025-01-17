@@ -1,7 +1,7 @@
 ---
 title: Cyber Week Blowout! Get the Microsoft Surface Pro 8 for $600 Less Post-Black Friday - Exclusive ZDNET Deal
-date: 2024-12-01T16:24:33.400Z
-updated: 2024-12-04T20:59:57.228Z
+date: 2025-01-10T23:23:24.410Z
+updated: 2025-01-17T00:59:52.968Z
 tags:
   - laptops
 categories:
@@ -32,7 +32,7 @@ The lowest price point available is $799 for a platinum model with an Intel Evo 
 **Read on:** [Microsoft Surface Pro 8 for Business review: Still in love](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,24 +77,18 @@ ZDNET is also keeping an eye out for other tablet deals on the market in the run
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-big-waters-better-views-top-5-fishing-cams-for-2024/"><u>[New] Big Waters, Better Views - Top 5 Fishing Cams for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>[Updated] 2024 Approved 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-streamlight-solutions-best-for-video-illumination/"><u>[Updated] 2024 Approved Streamlight Solutions Best for Video Illumination</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-banish-discord-connectivity/"><u>[Updated] Banish Discord Connectivity</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-cloud-data-economy-comparison-saving-tips-and-price-leaders/"><u>[Updated] Cloud Data Economy Comparison, Saving Tips & Price Leaders</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-film-star-access-pass-talent-release-for-2024/"><u>[Updated] Film Star Access Pass - Talent Release for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-autoplay-youtube-videos-on-facebook-in-2024/"><u>[Updated] How to Autoplay Youtube Videos on Facebook, In 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/choosing-the-perfect-app-platform-amazon-kids-or-google-kids-space-for-children/"><u>Choosing the Perfect App Platform: Amazon Kids or Google Kids Space for Children</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-breakdown-how-the-samsung-galaxy-s23-ultra-balances-flawless-functionality-with-subtle-sophistication/"><u>Comprehensive Breakdown: How the Samsung Galaxy S23 Ultra Balances Flawless Functionality with Subtle Sophistication</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-benefits-of-switching-to-a-paperwhite-phone-why-opt-for-e-ink-technology/"><u>Discover the Benefits of Switching to a Paperwhite Phone: Why Opt for E-Ink Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ideal-childrens-tablets-of-23-a-comprehensive-ranking/"><u>Discover the Ideal Children's Tablets of 2^3 - A Comprehensive Ranking</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhancing-mobile-video-playback-comparing-30-fps-with/"><u>Enhancing Mobile Video Playback: Comparing 30 FPS With</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhancing-your-photography-why-upgrading-your-phones-camera-is-a-must/"><u>Enhancing Your Photography: Why Upgrading Your Phone's Camera Is a Must</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-e-ink-cellphones-a-personal-guide-on-choosing-sustainable-and-comfortable-tech/"><u>Exploring E-Ink Cellphones: A Personal Guide on Choosing Sustainable & Comfortable Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/future-samsung-phone-models-compatible-with-the-advanced-galaxy-ai-system/"><u>Future Samsung Phone Models Compatible with the Advanced Galaxy AI System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-ready-samsungs-latest-one-ui-version-61-rollout-scheduled-for-late-march/"><u>Get Ready: Samsung's Latest One UI Version 6.1 Rollout Scheduled for Late March</u></a></li>
-<li><a href="https://fox-http.techidaily.com/maximizing-your-gameplay-overcoming-fps-drops-in-resident-evil-village-on-pc/"><u>Maximizing Your Gameplay: Overcoming Fps Drops in Resident Evil Village on PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210500806-9781644115619-radical-regeneration/"><u>Radical Regeneration | Free Book</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/troubleshooting-apple-tv-for-facebook-content/"><u>Troubleshooting Apple TV for Facebook Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pcs-premier-ps3-clones-2023-edition/"><u>[New] 2024 Approved PC's Premier PS3 Clones - 2023 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/20-most-memorable-anime-series-intros/"><u>20 Most Memorable Anime Series Intros</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-conversations-demystified-exploring-the-8-problematic-areas-of-gpt/"><u>AI Conversations Demystified: Exploring the 8 Problematic Areas of GPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-app-crashes-how-to-fix-and-prevent-unplanned-closures/"><u>COD Modern Warfare 3 App Crashes: How To Fix & Prevent Unplanned Closures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/e-your-learning-best-15-science-yt-experts/"><u>Curate Your Learning Best 15 Science YT Experts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-savvy-upgrades-transforming-a-broken-lenovo-keyboard-into-a-high-tech-gaming-rig-with-custom-case-and-mechanical-switches/"><u>Tech Savvy Upgrades: Transforming a Broken Lenovo Keyboard Into a High-Tech Gaming Rig with Custom Case and Mechanical Switches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-essentials-of-artificial-intelligence-desktops-are-they-worth-it/"><u>The Essentials of Artificial Intelligence Desktops: Are They Worth It?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-high-performance-computers-by-toms-review-center/"><u>The Ultimate Guide to High-Performance Computers by Tom’s Review Center</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-in-depth-computer-insights/"><u>Tom's Tech Hub: In-Depth Computer Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-the-ultimate-guide/"><u>Tom's Tech Hub: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-unraveling-the-latest-in-hardware/"><u>Tom's Tech Insights: Unraveling the Latest in Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/youtube4kpc/"><u>YouTubeの高解像度4K動画PCでダウンロードテクニック</u></a></li>
 </ul></div>
 

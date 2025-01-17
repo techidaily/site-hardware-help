@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Revelations at Apple's October Showcase: Unveiling the M4 Mac Mini, Latest iPad Lineup, Enhanced AI Capabilities & Beyond - Insights From ZDNet"
-date: 2025-01-05T22:25:11.680Z
-updated: 2025-01-11T08:46:43.791Z
+date: 2025-01-11T23:39:16.713Z
+updated: 2025-01-16T18:36:05.540Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,17 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-viral-visionaries-hashes-that-transform-short-videos-into-hits/"><u>[New] 2024 Approved Viral Visionaries Hashes that Transform Short Videos Into Hits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-ultimate-guide-bulk-conversion-from-flac-to-wav-on-windows/"><u>1. Ultimate Guide: Bulk Conversion From FLAC to WAV on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-pcs-visual-capabilities-with-an-instant-nvidia-gtx-1660-driver-refresh/"><u>Boost Your PC's Visual Capabilities with an Instant NVIDIA GTX 1660 Driver Refresh</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-compatible-hp-printer-drivers-for-seamless-printing/"><u>Download & Install Compatible HP Printer Drivers for Seamless Printing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-to-overcome-vpn-connection-error-800-on-clients-and-servers/"><u>Effective Strategies to Overcome VPN Connection Error 800 on Clients and Servers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-innovations-at-todays-wwdc-breakthroughs-with-apple-ai-advanced-siri-capabilities-and-the-launch-of-ios-18-gizmocentral/"><u>Exploring Innovations at Today's WWDC: Breakthroughs with Apple AI, Advanced Siri Capabilities, and the Launch of iOS 18 | GizmoCentral</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-up-and-running-with-pioneer-dj-ddj-sx2-streamlined-driver-download-process/"><u>Get Up & Running with Pioneer DJ DDJ-SX2: Streamlined Driver Download Process</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/steps-to-install-toshiba-printing-software-on-windows-pc/"><u>Steps to Install Toshiba Printing Software on Windows PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-error-code-19-in-windows-systems-explained/"><u>The Ultimate Fix for Error Code #19 in Windows Systems Explained</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-update-printing-devices-on-windows-11-missing-driver-solutions/"><u>Troubleshoot & Update Printing Devices on Windows 11 – Missing Driver Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/uncover-the-secrets-to-endless-hours-in-game-mode-with-our-detailed-mavix-m-9-chair-test-a-true-comfort-guide-for-gamers/"><u>Uncover the Secrets to Endless Hours in Game Mode with Our Detailed Mavix M 9 Chair Test - A True Comfort Guide for Gamers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-editing-experience-workshop-for-2024/"><u>[New] Editing Experience Workshop for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-review-utilizing-googles-voice-recognition-in-word-processing/"><u>[Updated] Full Review Utilizing Google's Voice Recognition in Word Processing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-studio-tips-the-pathway-to-impressive-time-lapse-video/"><u>[Updated] GoPro Studio Tips The Pathway to Impressive Time Lapse Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-uniform-iptv-system-utilization/"><u>[Updated] In 2024, Uniform IPTV System Utilization</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-best-of-the-best-8-mirrorless-cameras-for-live-streaming/"><u>[Updated] The Best of the Best 8 Mirrorless Cameras for Live Streaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976529966-download-elgato-software-fast-simple-and-speedy-solution/"><u>Download Elgato Software Fast – Simple and Speedy Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-ricoh-mp-c3003-printer-driver-software/"><u>Download the Latest Ricoh MP C3003 Printer Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-download-and-installation-of-lenovo-ideapad-100-drivers-windows-10-compatible/"><u>Easy Download & Installation of Lenovo IdeaPad 100 Drivers (Windows 10 Compatible)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-updated-pci-hardware-drivers-for-all-major-windows-versions/"><u>Get Updated PCI Hardware Drivers for All Major Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-brother-mfc-l2690dw-printing-up-and-running-with-new-driver-downloads/"><u>Get Your Brother MFC-L2690DW Printing Up and Running with New Driver Downloads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovativescreens-newrecorderx-reviewed-and-rated-for-2024/"><u>InnovativeScreens' NewRecorderX Reviewed & Rated for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-golf-with-magicard-rio-pro-driver-fresh-release-supports-win817-systems/"><u>Master Golf with Magicard Rio Pro Driver - Fresh Release Supports Win/8.1/7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-review-gear-and-software-insights/"><u>Tom's Computer Review: Gear & Software Insights</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-3-premium-tools-for-converting-m3u8-streams-to-mp4mp3-formats-online-and-offline-solutions/"><u>Top 3 Premium Tools for Converting M3U8 Streams to MP4/MP3 Formats: Online & Offline Solutions</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-free-disk-imaging-programs-for-seagate-drives-on-windows-xp-vista-included/"><u>Top Free Disk Imaging Programs For Seagate Drives on Windows (XP, Vista Included)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/your-guide-to-intels-latest-extended-warranties-enhanced-protection-for-13gen14gen-core-i5-i7-and-i9-cpus/"><u>Your Guide to Intel's Latest Extended Warranties: Enhanced Protection for 13Gen/14Gen Core I5, I7 & I9 CPUs</u></a></li>
 </ul></div>
 

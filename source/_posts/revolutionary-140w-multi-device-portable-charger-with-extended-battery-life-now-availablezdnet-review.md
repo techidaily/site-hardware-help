@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 140W Multi-Device Portable Charger with Extended Battery Life - Now Available![ZDNet Review]
-date: 2024-11-27T17:02:15.257Z
-updated: 2024-12-04T18:41:49.255Z
+date: 2025-01-13T21:53:58.384Z
+updated: 2025-01-17T00:30:08.896Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Jack Wallen/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 [ZDNET Recommends Baseus 140W Portable Charger This portable charger packs a 24000mAh battery for plenty of charges. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3594bbf8-78b1-4bd7-99c3-66ac94315a67%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -60,7 +60,7 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 * 18-month warranty.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My experience
@@ -88,7 +88,7 @@ One thing to keep in mind is that I charged the tablet with the slower-charged U
 According to the specs, the power bank allows for fast charging of an iPhone 15 Pro Max to 56% and a MacBook Pro 16" laptop to 55% in just 30 minutes. My MacBook Pro is a 13" with an M1 chip and I was able to go from 63-100% in about 20 minutes. Of course, using the fast charge with the MacBook Pro alone consumed about 25% of the charge from the bank. It's pretty easy to conclude that if you're only charging phones, you'll get even more life from a full charge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -127,16 +127,21 @@ Although it took considerable time to get this bank to a full charge, the result
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-securely-preserve-your-instagram-content-on-iphone/"><u>2024 Approved Securely Preserve Your Instagram Content on iPhone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-s18-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo S18</u></a></li>
-<li><a href="https://win-top.techidaily.com/gunstige-alternativen-zu-seagates-disk-wizard-expertenbewertungen-und-nutzungsanleitungen/"><u>Günstige Alternativen Zu Seagate's Disk Wizard - Expertenbewertungen Und Nutzungsanleitungen</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-pro-level-7-cameras-perfect-for-professional-broadcasting-vloggers/"><u>In 2024, Pro-Level 7 Cameras Perfect for Professional Broadcasting Vloggers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-virtual-speedway-selection-top-5-picks-revealed/"><u>In 2024, Virtual Speedway Selection Top 5 Picks Revealed</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/lenovo-to-global-audience-unveil-your-new-favorite-companion-the-yoga-ai-portable-pc-just-as-reliable-with-a-nod-to-the-legacy-of-the-neo-ultra-line/"><u>Lenovo to Global Audience: Unveil Your New Favorite Companion - The Yoga AI Portable PC – Just as Reliable with a Nod to the Legacy of the Neo Ultra Line</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pre-order-now-ryzen-5-9600x-in-canada-availability-and-pricing-update/"><u>Pre-Order Now: Ryzen 5 9600X in Canada - Availability & Pricing Update</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-dell-g15-gpu-drivers-downloading-and-installing-on-windows-machines/"><u>Step-by-Step Guide: Dell G15 GPU Drivers Downloading & Installing on Windows Machines</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-cpu-drivers-on-windows-pcs/"><u>Step-by-Step Guide: Updating Your CPU Drivers on Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965407730-they-must-account-for-complex-dynamics-such-as-boilingcondensation-and-temperature-glideeby/"><u>They Must Account for Complex Dynamics Such as Boiling/Condensation and Temperature glide.eby</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-modern-businesses-cant-resist-our-advanced-thermal-label-printers-a-match-made-for-productivity/"><u>Why Modern Businesses Can't Resist Our Advanced Thermal Label Printers: A Match Made for Productivity</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-reddits-hidden-gems-6-tactics-that-transform-beginners-into-titans/"><u>[New] In 2024, Reddit's Hidden Gems 6 Tactics That Transform Beginners Into Titans</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-step-by-step-streaming-on-discord-tips-to-engage-and-retain-viewers/"><u>[Updated] 2024 Approved Step-by-Step Streaming on Discord Tips to Engage and Retain Viewers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-streamlining-social-signals-with-tiktok-and-linktree-bio-mix/"><u>[Updated] Streamlining Social Signals with TikTok and Linktree Bio Mix</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comparing-powerhouses-samsungs-latest-laptop-vs-macbook-pro-in-a-showdown-gadget-review-blog/"><u>Comparing Powerhouses: Samsung's Latest Laptop Vs. MacBook Pro in a Showdown | Gadget Review Blog</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-x-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone X</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-setting-and-changing-personalized-iphone-tones/"><u>In 2024, Setting & Changing Personalized iPhone Tones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-nokia-c210-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Nokia C210 Phone Pattern Lock</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/lost-data-restoration-a-comprehensive-guide-to-retrieving-deleted-files-from-your-android-tablet/"><u>Lost Data Restoration: A Comprehensive Guide to Retrieving Deleted Files From Your Android Tablet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-computer-systems-expert-reviews-by-toms-hardware-specialists/"><u>Mastering Computer Systems: Expert Reviews by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-hardware-with-tom-in-depth-analysis-and-expert-advice/"><u>Mastering Hardware with Tom: In-Depth Analysis and Expert Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-technology-choices-through-toms-hardware-evaluations/"><u>Mastering Technology Choices Through Tom's Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-art-of-computer-components-with-toms-hardware-wisdom/"><u>Mastering the Art of Computer Components with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-market-an-in-depth-look-at-asuss-certified-supermom-csm-b760m-ct-motherboard/"><u>Mastering the Market: An In-Depth Look at Asus's Certified Supermom (CSM) B760M-CT Motherboard</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-launches-critical-agesa-12nv-bios-update-to-address-amds-zen-2-zero-day-vulnerability/"><u>MSI Launches Critical AGESA 1.2.nv BIOS Update to Address AMD's Zen 2 Zero-Day Vulnerability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-high-tech-world-with-toms-equipment-experts/"><u>Navigating High-Tech World with Tom's Equipment Experts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-gopro-potential-model-by-model-insight-for-2024/"><u>Unlocking Gopro Potential Model By Model Insight for 2024</u></a></li>
 </ul></div>
 

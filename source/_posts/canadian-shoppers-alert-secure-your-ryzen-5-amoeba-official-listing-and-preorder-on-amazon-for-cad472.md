@@ -1,7 +1,7 @@
 ---
 title: "Canadian Shoppers Alert: Secure Your Ryzen 5 Amoeba - Official Listing & Preorder on Amazon for CAD$472"
-date: 2024-08-13T12:53:44.135Z
-updated: 2024-08-14T12:53:44.135Z
+date: 2025-01-12T21:13:25.862Z
+updated: 2025-01-17T00:31:55.109Z
 tags:
   - cpu
 categories:
@@ -43,8 +43,9 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,14 +54,11 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,4 +67,22 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-high-altitude-heroes-aerospaces-persistent-innovations-top-10/"><u>[Updated] 2024 Approved High Altitude Heroes Aerospace's Persistent Innovations (Top 10)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-designing-dramatic-beginnings-in-podcasts/"><u>[Updated] Designing Dramatic Beginnings in Podcasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-mfc-9130cw-secure-and-easy-printer-software-download/"><u>Brother MFC-9130CW - Secure and Easy Printer Software Download</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-regions-locked-unlocking-dvd-region-codes-on-windows-pcs-windows-1187-support-guide/"><u>DVD Regions Locked? Unlocking DVD Region Codes on Windows PCs - Windows 11/8/7 Support Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-audio-experience-install-logitech-g-pro-drivers-on-any-version-of-windows-today/"><u>Elevate Your Audio Experience: Install Logitech G PRO Drivers on Any Version of Windows Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-secure-hp-deskjet-2n-2755e-driver-downloads-for-optimal-performance-on-windows-systems/"><u>Fast and Secure HP Deskjet 2N 2755E Driver Downloads for Optimal Performance on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-latest-gigabyte-network-adapter-drivers-free-download/"><u>Get Your Latest Gigabyte Network Adapter Drivers - Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722961618700-guide-to-smoothly-updating-hp-device-drivers-easy-download-and-install/"><u>Guide to Smoothly Updating HP Device Drivers – Easy Download & Install</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-economic-strategies-for-youtube-marketing/"><u>In 2024, Economic Strategies for YouTube Marketing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-lava-blaze-2-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Lava Blaze 2 5G Phone Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-lava-yuva-3-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Lava Yuva 3 Pro Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-neato-d10-robot-vacuum-analysis-insights-from-zdnet/"><u>In-Depth Neato D10 Robot Vacuum Analysis - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-surface-pro-4-drivers-download-and-install-in-windows/"><u>Microsoft Surface Pro 4 Drivers Download & Install in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-to-fix-and-update-your-elan-smbus-driver-in-windows/"><u>Step-by-Step Instructions to Fix and Update Your ELAN SMBus Driver in Windows</u></a></li>
+</ul></div>
 

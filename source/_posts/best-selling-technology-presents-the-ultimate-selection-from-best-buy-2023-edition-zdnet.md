@@ -1,7 +1,7 @@
 ---
 title: "Best-Selling Technology Presents: The Ultimate Selection From Best Buy - 2023 Edition | ZDNet"
-date: 2024-12-03T23:09:05.848Z
-updated: 2024-12-04T23:31:09.123Z
+date: 2025-01-14T16:28:23.584Z
+updated: 2025-01-16T18:50:05.934Z
 tags:
   - laptops
 categories:
@@ -35,6 +35,10 @@ Cons
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## G.Skill RipJaws S5
 
 ### Best RAM overall
@@ -60,14 +64,10 @@ Pros
 Cons 
 * No heat spreader
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Corsair Vengeance SODIMM DDR5
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best RAM for laptops
@@ -95,7 +95,7 @@ Cons
 * May not be compatible with some newer DDR5-enabled motherboards
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## G.Skill Trident Z RGB
@@ -124,11 +124,11 @@ Cons
 * Very pricey
 * Not suited for everyday users
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Kingston Fury Renegade Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best RAM for servers
 
@@ -152,6 +152,10 @@ Cons
 * No heat spreader
 
 ## Patriot Memory Signature Line
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best budget RAM
 
@@ -203,6 +207,10 @@ You can absolutely use all four RAM slots on your motherboard, but there's a cav
 
 If one pair of RAM sticks are rated for lower clock speeds than the other, your computer will try to match all four RAM to the lower speed. Usually this doesn't cause major issues, but you may see some stuttering while playing demanding games or multitasking in work programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is 64GB of RAM too much?
 
 For most people, 64GB of RAM is absolutely overkill. Even for a decent gaming PC, most users won't need more than 16GB. Content creators who use streaming or recording software while playing games and creative professionals who work in 3D modeling or video programs may need 64GB of RAM to help render finished videos, photos, and models (and some workstations have up to 128GB of RAM, but these are usually reserved for PC rigs used for professional filmmaking, game production, or super-computing).
@@ -221,6 +229,10 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-ram/Design: Mini Listicle)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Kingston Beast Fury DDR4
 
 This pair of 16GB (32GB total) RAM sticks from Kingston are a DDR4 form-factor, which means that you can save a bit of cash while still getting great memory performance for work and gaming.
@@ -233,10 +245,6 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-ram/Design: Mini Listicle)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Crucial DDR5 Pro
 
 The Crucial DDR5 Pro 5600 RAM is a great choice for upgrading office PCs, with their minimalist heatsink design and support for Intel XMP 3.0 motherboards.
@@ -248,10 +256,6 @@ Show less
 [View now at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-32gb-288-pin-ddr5-sdram%252Fp%252FN82E16820009033)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-ram/Design: Mini Listicle)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Gigabyte Aorus DDR5 5200
 
@@ -284,10 +288,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 * [The best Android phones you can buy (including a surprise pick)](https://www.zdnet.com/article/best-android-phone/ "The best Android phones you can buy (including a surprise pick)")
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/ "The best robot vacuum and mop combos (and if they're worth the money)")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###   
 
 ###
@@ -307,24 +307,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-13-simple-ways-to-document-webinars-cost-free/"><u>[New] In 2024, 13 Simple Ways to Document Webinars Cost-Free</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-keep-it-real-keep-it-right-tips-for-authentic-daily-videos/"><u>[Updated] In 2024, Keep It Real, Keep It Right Tips for Authentic Daily Videos</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c02-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262290090-amd-confirms-on-schedule-release-the-ryzen-5000xt-series-arrives-this-month/"><u>AMD Confirms On-Schedule Release: The Ryzen 5000XT Series Arrives This Month!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968343770-approach-assess-how-ssi-affects-structural-response-to-earthquakes/"><u>Approach: Assess How SSI Affects Structural Response to Earthquakes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/beyond-repair-intels-mainline-non-k-core-processors-suffer-crashing-fiasco-no-recall-in-the-works/"><u>Beyond Repair: Intel's Mainline Non-K Core Processors Suffer Crashing Fiasco, No Recall in the Works</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-strategies-for-repairing-common-oculus-tech-problems-this-year/"><u>Comprehensive Strategies for Repairing Common Oculus Tech Problems This Year</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/diy-driver-update-for-epsons-wf-n20-series-wf-7620-a-user-friendly-guide-compatible-with-all-windows-versions/"><u>DIY Driver Update for Epson's WF-N20 Series (WF-7620): A User-Friendly Guide Compatible with All Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-seamless-connectivity-with-updated-netgear-adapter-drivers-download-now/"><u>Ensure Seamless Connectivity with Updated NETGEAR Adapter Drivers - Download Now!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-acer-monitor-up-to-date-with-compatible-screen-drivers-here/"><u>Get Your Acer Monitor Up-to-Date with Compatible Screen Drivers Here!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-samsung-galaxy-s23plus-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy S23+ FRP In 3 Different Ways</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-drivers-without-an-internet-connection-in-windows/"><u>Installing Drivers Without an Internet Connection in Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-wmvwma/"><u>Movavi - 簡単な方法でWMV/WMAファイルを自由に変換：無料アプリ</u></a></li>
-<li><a href="https://driver-install.techidaily.com/repair-solving-windows-problems-with-hp-laserjet-pro-400-driver/"><u>Repair: Solving Windows Problems with HP LaserJet Pro 400 Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speed-up-your-printing-direct-link-to-download-samsung-m2070fw-drivers/"><u>Speed Up Your Printing: Direct Link to Download Samsung M2070FW Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-amds-zen-5-architecture-a-high-performance-115w-desktop-cpu-transformed-for-mobile-use-insights-on-the-rumored-ryzen-strix-halo-with-advanced-16-c54/"><u>Unveiling AMD's Zen 5 Architecture: A High-Performance 115W Desktop CPU Transformed for Mobile Use - Insights on the Rumored Ryzen Strix Halo with Advanced 16 Cores and RDNA iGPU</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-graphics-experience-amd-rx-6800-xt-driver-downloads-for-multiple-windows-versions-11-10-8-and-7/"><u>Upgrade Your Graphics Experience - AMD RX 6800 XT Driver Downloads for Multiple Windows Versions (11, 10, 8, and 7)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/video-length-converting-hours-to-gb-storage-for-2024/"><u>Video Length Converting Hours to GB Storage for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/data-aathalna-ka-hal-karana-bhara-harada-dasaka-ka-athara-panaramalna-janakara-kasa-parapata-kara/"><u>डेटा आंदोलन को हल करना: बाहरी हार्ड डिस्क के अंदर पुनर्मिलन जानकारी कैसे प्राप्त करें</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-changing-file-types-for-mac-snapshots/"><u>[New] In 2024, Step-by-Step Changing File Types for Mac Snapshots</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/75497329-updated-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[Updated] How Does YouTube Count Views? It's Not as Simple as You Think</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-getting-started-with-iphone-speech-recordings/"><u>2024 Approved Getting Started with iPhone Speech Recordings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-proven-principles-to-skyrocket-your-online-presence-novice-style/"><u>5 Proven Principles to Skyrocket Your Online Presence, Novice Style</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-computers-performance-on-a-budget-15-affordable-upgrades-for-less-than-50/"><u>Boost Your Computer's Performance on a Budget: 15 Affordable Upgrades for Less than $50</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/building-your-dream-gaming-setup-with-a-liquid-cooled-desktop-pc-an-in-depth-guide-by-toms-hardware/"><u>Building Your Dream Gaming Setup with a Liquid-Cooled Desktop PC – An In-Depth Guide by Tom's Hardware</u></a></li>
+<li><a href="https://win-special.techidaily.com/de-tweede-top-tips-voor-kopieerend-kopieeren-van-harde-schijf-op-je-del-laptop-zonder-installeren-van-het-besturings-systeem/"><u>De Tweede Top-Tips Voor Kopieerend Kopieeren Van Harde Schijf Op Je Del-Laptop Zonder Installeren Van Het Besturings Systeem</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-guide-to-screen-zooming-on-microsoft-teams/"><u>Expert Guide to Screen Zooming on Microsoft Teams</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-perform-a-successful-drivers-refresh-on-usb-serial-controllers/"><u>How to Perform a Successful Drivers Refresh on USB Serial Controllers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-asuss-cutting-edge-rog-evangelion-lineup-with-powerhouse-model-asuka/"><u>Introducing ASUS’s Cutting-Edge ROG Evangelion Lineup with Powerhouse Model, Asuka</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-update-intels-suspension-of-the-thunder-bay-multi-chip-module-announced/"><u>Latest Update: Intel's Suspension of the Thunder Bay Multi-Chip Module Announced</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-technology-with-toms-hardware-experts-top-picks-and-reviews/"><u>Navigating Technology with Tom's Hardware Experts: Top Picks & Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964472842-snag-a-steelseries-atx-mid-tower-with-massive-savings-undercutting-the-market/"><u>Snag a SteelSeries ATX Mid Tower with Massive Savings Undercutting the Market</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-tom-hardware-guide-in-depth-analysis-of-todays-top-technology-products/"><u>The Tom Hardware Guide: In-Depth Analysis of Today's Top Technology Products</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-in-depth-hardware-reviews-and-advice/"><u>Tom's Tech Insights: In-Depth Hardware Reviews & Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-hardware/"><u>Tom's Tech Reviews: Expert Insights on Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-laptop-picks-for-2eplus4-thoroughly-evaluated-by-tech-aficionados-zdnet/"><u>Top-Ranking Laptop Picks for 2E+4: Thoroughly Evaluated by Tech Aficionados | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vmwares-elite-tools-fusion-and-workstation-pro-are-now-100-complimentary-get-set-up-with-our-detailed-directions-cnet/"><u>VMware's Elite Tools, Fusion and Workstation Pro, Are Now 100% Complimentary - Get Set Up With Our Detailed Directions | CNET</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-xr-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone XR</u></a></li>
 </ul></div>
 

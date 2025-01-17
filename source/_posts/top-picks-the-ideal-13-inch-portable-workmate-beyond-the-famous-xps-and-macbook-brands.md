@@ -1,7 +1,7 @@
 ---
 title: Top Picks - The Ideal 13-Inch Portable Workmate, Beyond the Famous XPS and MacBook Brands
-date: 2024-12-01T04:29:06.159Z
-updated: 2024-12-04T22:30:02.568Z
+date: 2025-01-15T00:02:19.602Z
+updated: 2025-01-16T23:25:29.228Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,18 +122,14 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-globally-renowned-earning-content-creator/"><u>[New] In 2024, Globally Renowned Earning Content Creator</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-realtime-av-enthusiasts-community/"><u>[New] RealTime AV Enthusiasts Community</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-to-app-reviews-by-az-capture/"><u>[New] Ultimate Guide to App Reviews by AZ Capture</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-infographic-insight-whats-hot-on-23-social-sphere/"><u>[Updated] In 2024, Infographic Insight What's Hot on '23 Social Sphere</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-pixelation-portraiture-sketching-a-playful-virtual-emblem/"><u>[Updated] In 2024, Pixelation Portraiture Sketching a Playful Virtual Emblem</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-6s-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 6s Activation Lock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/5-2500u-quick-driver-installation-process/"><u>5 2500U | Quick Driver Installation Process</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722953982951-arduino-mastery-secure-your-mega-2560-drivers-in-a-flash/"><u>Arduino Mastery: Secure Your Mega 2560 Drivers in a Flash!</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-xs-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone XS for Free? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-12-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 12 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-canon-ip110-drivers-for-seamless-printing-on-windows-systems-win11win10win8win7-supported/"><u>Install Canon iP110 Drivers for Seamless Printing on Windows Systems - Win11/Win10/Win8/Win7 Supported</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/next-generation-kirin-chip-to-embrace-apple-m-series-and-intel-core-microarchitecture-strategies/"><u>Next-Generation Kirin Chip to Embrace Apple M-Series & Intel Core Microarchitecture Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-universal-acceptance-that-human-rights-are-fundamental-to-all-societies/"><u>The Universal Acceptance that Human Rights Are Fundamental to All Societies.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-5-cinematiccamera-tips-of-2024/"><u>[New] Top 5 Cinematic/Camera Tips Of 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-shopping-guide-to-the-best-websites-for-box-enigmas/"><u>2024 Approved Exclusive Shopping Guide to the Best Websites for Box Enigmas</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-hidden-features-of-the-youtube-creator-space/"><u>In 2024, Unlock Hidden Features of the YouTube Creator Space</u></a></li>
+<li><a href="https://win-answers.techidaily.com/is-the-4k-video-downloader-secure-and-reliable/"><u>Is the 4K Video Downloader Secure and Reliable?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-msi-developments-z790-motherboard-malfunction-linked-to-pch-chip-defects-confirmed-impact-on-limited-production-run/"><u>Latest MSI Developments: Z790 Motherboard Malfunction Linked to PCH Chip Defects – Confirmed Impact on Limited Production Run</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-the-charge-amd-unveils-80-motherboard-chipset-lineup-tailored-for-ryzen-9000-cpu-series-introducing-new-era-beyond-intel/"><u>Leading the Charge: AMD Unveils 80지팀 Motherboard Chipset Lineup Tailored for Ryzen 9000 CPU Series, Introducing New Era Beyond Intel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-computing-gear-expert-insights-on-latest-hardware-via-toms-hardware/"><u>Mastering Computing Gear: Expert Insights on Latest Hardware via Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maxsuns-latest-release-intel-arrow-lake-and-amd-ryzen-9000-motherboards-discover-the-list-of-31-innovative-models-across-five-novel-unrevealed-chipsets-all-100/"><u>Maxsun's Latest Release: Intel Arrow Lake and AMD Ryzen 9000 Motherboards - Discover the List of 31 Innovative Models Across Five Novel Unrevealed Chipsets, All Under PCIe 800 Series Label</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ering-in-play-a-step-by-step-to-thriving-gaming-channels-for-2024/"><u>Pioneering in Play A Step-by-Step to Thriving Gaming Channels for 2024</u></a></li>
 </ul></div>
 

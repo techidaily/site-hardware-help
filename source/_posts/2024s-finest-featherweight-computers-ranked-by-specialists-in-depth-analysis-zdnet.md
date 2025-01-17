@@ -1,7 +1,7 @@
 ---
 title: 2024'S Finest Featherweight Computers Ranked by Specialists | In-Depth Analysis - ZDNET
-date: 2024-11-28T17:32:03.676Z
-updated: 2024-12-05T10:07:33.700Z
+date: 2025-01-12T01:38:42.648Z
+updated: 2025-01-16T22:49:18.955Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the best lightweight laptop right now?
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
@@ -45,15 +49,7 @@ Cons
 * 8GB of RAM on base model is limiting
 * Built-in speakers could be stronger
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple MacBook Air M3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
 
@@ -84,7 +80,7 @@ Cons
 * Loud fans
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Swift Go 14
@@ -116,6 +112,10 @@ Cons
 * Comes pre-loaded with bloatware
 
 ## Asus ROG Zephyrus G14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
 
@@ -149,7 +149,7 @@ Cons
 ## LG Gram Pro 17
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop with a 17" display
@@ -197,10 +197,6 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best lightweight laptop?
 
 The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take on almost anything you throw at it, and the entire package weighs just 2.7 pounds. 
@@ -212,6 +208,10 @@ The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zd
 | ASUS ROG Zephyrus G14 | $1600             | AMD Ryzen 9 8945HS, GeForce RTX 4060             | 16GB, 1TB                   | 3.31             |
 | LG Gram Pro 17        | $1299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050 | 16GB, 1TB                   | 2.7              |
 | Lenovo X1 Carbon      | $2263             | Intel Core Ultra 5 125U, Intel Arc Graphics      | 16GB, up to 1TB             | 2.4              |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which is the right lightweight laptop for you?
 
@@ -226,7 +226,7 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test lightweight laptops
@@ -254,7 +254,7 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does having a lightweight laptop matter?
@@ -335,22 +335,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-precision-mixing-techniques-with-logics-audio-fading/"><u>[New] Precision Mixing Techniques with Logic's Audio Fading</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-samsungs-advanced-2023-bd-j5900-reviewed-here/"><u>[New] Samsung's Advanced 2023 BD-J5900 Reviewed Here</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-easy-steps-to-document-video-calls/"><u>2024 Approved Easy Steps to Document Video Calls</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/acer-chromebook-15-review-decent-chromebook-with-a-big-screen/"><u>Acer Chromebook 15 Review: Decent Chromebook With a Big Screen</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-hp-laptop-driver-updates-for-windows/"><u>Download & Install Latest HP Laptop Driver Updates for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-logitech-g910-mouse-driver-update-and-installation-guide-for-pc-users/"><u>Download the Logitech G910 Mouse Driver: Update and Installation Guide for PC Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-get-your-hp-officejet-3830-printing-online-in-windows/"><u>Easy Steps to Get Your HP OfficeJet 3830 Printing Online in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elevate-your-gameplay-with-amds-new-titans-the-ryzen-5-9600x-and-ryzen-7-9700x-on-zen-5-in-depth-performance-review/"><u>Elevate Your Gameplay with AMD's New Titans - The Ryzen 5 9600X and Ryzen 7 9700X on Zen 5: In-Depth Performance Review</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-gt-10-pro-lock-screen-password-by-drfone-android/"><u>How To Change Infinix GT 10 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-ultimate-list-top-10-high-res-4k-cameras-in-smartphones/"><u>In 2024, Ultimate List Top 10 High-Res 4K Cameras in Smartphones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-epson-ds-530-printer-drivers-on-your-windows-10-x64-pc-get-them-here/"><u>Install Epson DS-^530 Printer Drivers on Your Windows 10 (X64) PC - Get Them Here</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/precision-zooms-for-peak-snapchat-performance-for-2024/"><u>Precision Zooms for Peak Snapchat Performance for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/secure-update-hp-officejet-pro-9015-drivers-downloads/"><u>Secure Update: HP OfficeJet Pro 9015 Drivers Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solving-your-hp-screen-driver-complications-on-windows-pc-platforms/"><u>Solving Your HP Screen Driver Complications on Windows PC Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-tackle-non-functioning-mic-with-xbox/"><u>Strategies to Tackle Non-Functioning Mic with Xbox</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-in-depth-computer-component-reviews/"><u>Tom's Tech Insights: In-Depth Computer Component Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/visit-the-manufacturers-official-website-to-find-the-most-recent-drivers-compatible-with-your-system-eg-dell-or-hp-download-all-essential-drivers-related-to148/"><u>Visit the Manufacturer's Official Website to Find the Most Recent Drivers Compatible with Your System, E.g., Dell or HP. Download All Essential Drivers Related to USB Ports and Chipset Firmware Updates if Available</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-overcoming-technical-challenges-with-fb-live-videos/"><u>[Updated] 2024 Approved Overcoming Technical Challenges with FB Live Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-new-wins-for-windows-11-users/"><u>2024 Approved New Wins for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722899134378-all-about-the-next-android-unlocking-rumors-on-release-date-costs-and-tech-specs-for-android-16-stay-informed-now/"><u>All About the Next Android: Unlocking Rumors on Release Date, Costs and Tech Specs for Android 16 - Stay Informed Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compact-and-portable-model-0-the-flamingo-pc-case-with-folding-design-for-mini-itx-systems/"><u>Compact & Portable Model 0: The Flamingo PC Case with Folding Design for Mini-ITX Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-exceptional-cooling-at-only-69-the-montech-air-903-max-pc-case-a-superior-choice-for-enthusiasts/"><u>Experience Exceptional Cooling at Only $69 - The Montech Air 903 Max PC Case: A Superior Choice for Enthusiasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/from-fixed-frame-to-fluid-motion-live-photo-transformation-for-2024/"><u>From Fixed Frame to Fluid Motion Live Photo Transformation for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-11-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 11 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-gadgets-with-tom-your-guide-to-cutting-edge-hardware/"><u>Navigating the World of Gadgets with Tom - Your Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-your-ultimate-guide-to-hardware-and-gadgets/"><u>Tom's Tech Hub: Your Ultimate Guide to Hardware and Gadgets</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-proven-video-growth-enhancers/"><u>Top 8 Proven Video Growth Enhancers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-gaming-rigs-in-2-2024-options-from-just-500-to-over-4k/"><u>Top-Rated Gaming Rigs in 2지킨 2024: Options From Just $500 to Over $4K</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unboxing-the-nzxt-h6-flow-rgb-a-flashy-and-eccentric-pc-enclosure-reviewed/"><u>Unboxing the NZXT H6 Flow RGB: A Flashy and Eccentric PC Enclosure Reviewed</u></a></li>
 </ul></div>
 

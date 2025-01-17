@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart with ZDNet"
-date: 2025-01-06T22:16:13.301Z
-updated: 2025-01-11T04:54:31.045Z
+date: 2025-01-14T18:47:00.703Z
+updated: 2025-01-17T01:39:54.480Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,17 +81,24 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-join-the-social-scene-facebook-live-streams-on-roku-tv/"><u>[New] In 2024, Join The Social Scene Facebook Live Streams on Roku TV</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-fcp-tutorial-for-new-users/"><u>[New] Ultimate FCP Tutorial for New Users</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-excellence-in-mac-video-capturing-top-5-alternatives-to-bandicam/"><u>[Updated] 2024 Approved Excellence in Mac Video Capturing Top 5 Alternatives to Bandicam</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/daily-routines-for-beating-nyts-power-network/"><u>Daily Routines for Beating NYT's Power Network</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-hp-scanning-software-for-windows-systems-explained/"><u>Easy Installation of HP Scanning Software for Windows Systems Explained</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-nikon-d850-vs-d7500-features-for-2024/"><u>Exploring Nikon D850 Vs D7500 Features for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-logiteche-webcam-up-and-running-on-windows-with-a-complimentary-driver-download/"><u>Get Your Logiteche Webcam Up and Running on Windows with a Complimentary Driver Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-windows-compatible-creative-cam-driver-downloads/"><u>Latest Windows Compatible Creative Cam Driver Downloads</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-new-era-top-tier-vr-exercise-machines/"><u>Navigating the New Era Top-Tier VR Exercise Machines</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-through-newest-amd-driver-releases-on-your-windows-pc/"><u>Navigating Through Newest AMD Driver Releases on Your Windows PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-step-by-step-process-to-empty-out-entire-inbox-in-the-gmail-app/"><u>Ultimate Step-by-Step Process to Empty Out Entire Inbox in the Gmail App</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-your-traffic-ethically-youtubes-best-practices/"><u>[New] 2024 Approved Elevate Your Traffic Ethically YouTube's Best Practices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-2024-slomotion-app-an-exhaustive-evaluation/"><u>[New] 2024 SloMotion App An Exhaustive Evaluation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outubes-monetization-milestone-500-subscribers-achieved/"><u>[New] YouTube's Monetization Milestone 500 Subscribers Achieved</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-yuneecs-breakthrough-in-high-res-aerial-vision/"><u>[New] Yuneec's Breakthrough in High-Res Aerial Vision</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-scansnap-s1100-driver-quickly-and-easily/"><u>[UPDATE] Scansnap S1100 Driver | Quickly & Easily</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos/"><u>[Updated] 2024 Approved Craft the Perfect Stream A Comprehensive Guide to YouTube’s Full-Rotation Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-integrate-srt-into-windowsmacos-operations/"><u>[Updated] In 2024, Integrate SRT Into Windows/macOS Operations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-step-by-step-guide-to-understanding-vr-technology/"><u>[Updated] In 2024, Step-by-Step Guide to Understanding VR Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-detailed-walkthrough-for-enhancing-your-computer-with-updated-intel-centrino-advanced-n-e-6235-wireless-network-driver-updates/"><u>A Detailed Walkthrough for Enhancing Your Computer with Updated Intel Centrino Advanced-N E 6235 Wireless Network Driver Updates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/bandicam-a-user-centric-review-and-guide/"><u>Bandicam A User-Centric Review & Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968737223-download-and-install-hp-officejet-5255-printer-drivers-latest-version/"><u>Download & Install HP OfficeJet 5255 Printer Drivers - Latest Version</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-reno-11-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo Reno 11 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-release-of-magiccards-rio-pro-driver-for-windows-systems-secure-your-copy-today/"><u>Latest Release of Magiccard's Rio Pro Driver for Windows Systems: Secure Your Copy Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-battery-driver-error-resolved-for-enhanced-acpi-standards-support/"><u>Microsoft Battery Driver Error Resolved for Enhanced ACPI Standards Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/monitoring-and-early-detection/"><u>Monitoring and Early Detection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pathway-to-peak-performance-chatgpts-wellbe-point-of-view/"><u>Pathway to Peak Performance: ChatGPT's Wellbe Point of View</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-refreshing-your-microsoft-mouse-software-in-windows/"><u>Step-by-Step Guide to Refreshing Your Microsoft Mouse Software in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solutions-for-a-broken-samsung-blu-ray-media-center/"><u>Step-by-Step Solutions for a Broken Samsung Blu-Ray Media Center</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-support-for-your-legion-5-pro-latest-laptop-driver-downloads-and-setup/"><u>Ultimate Support for Your Legion 5 Pro - Latest Laptop Driver Downloads and Setup</u></a></li>
 </ul></div>
 

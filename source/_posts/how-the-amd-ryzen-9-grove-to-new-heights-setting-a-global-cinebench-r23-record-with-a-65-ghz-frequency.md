@@ -1,7 +1,7 @@
 ---
 title: How the AMD Ryzen 9 Grove to New Heights, Setting a Global Cinebench R23 Record with a 6.5 GHz Frequency
-date: 2024-08-13T12:50:37.981Z
-updated: 2024-08-14T12:50:37.981Z
+date: 2025-01-13T00:22:33.199Z
+updated: 2025-01-16T21:34:02.970Z
 tags:
   - cpu
 categories:
@@ -48,8 +48,9 @@ The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a
  With just 10 days to go before the official launch of the Ryzen 9000 desktop chips, it’s plausible that some retailers already have them in stock. However, we’re unsure of what to make of these Ryzen 9000 listings. PC21.fr seems to be a legitimate PC parts retailer and we could add the processor into our cart. But the 24-to-48-hour shipping time might sound unrealistic, especially as the chips haven’t officially launched yet. These listings might even be breaking a couple of NDAs with AMD and could lead to headaches for buyers if this was a listing mistake. So, we suggest holding off on buying these processors until after the official launch and MSRPs are known.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -58,14 +59,11 @@ The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -74,4 +72,22 @@ The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-steady-craft-fights-against-camera-jiggles/"><u>[New] Steady Craft Fights Against Camera Jiggles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-2023-online-facebook-video-to-mp3-converters/"><u>[Updated] 2024 Approved 2023 Online Facebook Video to MP3 Converters</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-image-merging-techniques/"><u>[Updated] 2024 Approved Mastering Image Merging Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-hp-printer-drivers-download-now/"><u>Easy Guide to Installing HP Printer Drivers - Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-brother-mfc-7360n-drivers-now-compatible-with-windows-11-8-and-7-download-here/"><u>Get the Latest Brother MFC-7360N Drivers Now! Compatible with Windows 11, 8 & 7 - Download Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-official-hp-photosmart-c6189-all-in-one-printer-driver-here-free-downloads-available/"><u>Get the Official HP Photosmart C6189 All-in-One Printer Driver Here – Free Downloads Available</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-11-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-hd-graphics-520-driver-update-enhance-your-system-with-just-a-few-clicks/"><u>Intel HD Graphics 520 Driver Update - Enhance Your System with Just a Few Clicks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-mouse-settings-a-guide-to-microsoft-drivers-update-for-windows-users/"><u>Mastering Mouse Settings: A Guide to Microsoft Drivers Update for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-sound-management-overcoming-powerpoint-audible-challenges/"><u>Mastering Sound Management: Overcoming PowerPoint Audible Challenges</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unlock-fcps-full-potential-top-5-editing-secrets-revealed/"><u>New Unlock FCPs Full Potential Top 5 Editing Secrets Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-for-hewlett-packard-speaker-systems-with-no-cost-drivers/"><u>Quick Setup for Hewlett-Packard Speaker Systems with No Cost Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-of-eternal-return-the-resilience-saga-continues/"><u>Unraveling the Mystery of 'Eternal Return': The Resilience Saga Continues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-7-network-adapter-driver-issues-solved/"><u>Windows 7 Network Adapter Driver Issues [SOLVED]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1723003001978-xcom-2-stability-enhancements-for-windows-users-no-more-crashes/"><u>XCOM 2 Stability Enhancements for Windows Users - No More Crashes!</u></a></li>
+</ul></div>
 

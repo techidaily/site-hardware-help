@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Exclusive: Save $460 on the Microsoft Surface Pro 8 | Top Deals at ZDNet"
-date: 2025-01-06T10:37:56.843Z
-updated: 2025-01-11T04:04:23.982Z
+date: 2025-01-13T17:39:16.948Z
+updated: 2025-01-17T02:25:01.987Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
@@ -79,10 +79,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727866800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -90,6 +86,10 @@ Asus/ZDNET
 * [Acer Chromebook Plus 514 for $319 (Save $80)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Chromebook-Plus-Laptop-Google%2Fdp%2FB0CX28KX1N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This Chromebook Plus from Acer is a step up from other Chromebooks, with a Full-HD touchscreen and Google's Gemini. It also comes with 2TB of cloud storage free for 12 months.
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
 
@@ -115,7 +115,7 @@ Lenovo/ZDNET
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
@@ -135,6 +135,10 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When is Amazon Prime Day 2024?
@@ -145,13 +149,13 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -162,10 +166,6 @@ We also looked over customer reviews to find out what matters to real people who
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,20 +230,20 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>[New] In 2024, From Zip to Sub Transforming Compressed Texts to SRT Format</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage-for-2024/"><u>[Updated] Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/apowersoft-recording-software-overview-for-2024/"><u>Apowersoft Recording Software Overview for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conversion-gratuita-de-archivos-vob-a-formato-mp4-online-con-eficiencia-guia-de-movavi/"><u>Conversión Gratuita De Archivos VOB a Formato MP4 Online Con Eficiencia - Guía De Movavi</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/discover-the-leading-edge-the-ultimate-guide-to-20-superior-metadata-editors-including-movavis-expertise/"><u>Discover the Leading Edge: The Ultimate Guide to 20 Superior Metadata Editors , Including Movavi's Expertise</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-smbus-drivers-fast-track/"><u>Download and Update AMD SMBus Drivers - Fast Track</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-lenovo-ideapad-100-drivers-for-windows-10-download-guide-and-update-instructions/"><u>Get the Newest Lenovo IdeaPad 100 Drivers for Windows 10 - Download Guide and Update Instructions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-redmi-note-12t-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Redmi Note 12T Pro?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-update-your-dell-sound-cards-driver-for-optimal-performance/"><u>How to Seamlessly Update Your Dell Sound Card's Driver for Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-all-in-one-printer-compatibility-with-windows-free-drivers-available/"><u>HP All-in-One Printer Compatibility with Windows - Free Drivers Available</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revamp-your-clicks-updating-logitech-m310s-drivers-a-step-by-step-guide/"><u>Revamp Your Clicks: Updating Logitech M310's Drivers - A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/2-free-youtube-thumbnail-makers-filmora/"><u>Top 12 Free YouTube Thumbnail Makers - Filmora</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-made-easy-overcoming-driver-woes-for-your-logitech-c615-microphone/"><u>Troubleshooting Made Easy: Overcoming Driver Woes for Your Logitech C615 Microphone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updating-epson-xp-640-drivers-a-step-by-step-guide-for-windows-users/"><u>Updating Epson XP-640 Drivers: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-channel-charisma-standing-out-with-strategic-telegram-promotion/"><u>[New] 2024 Approved Channel Charisma Standing Out with Strategic Telegram Promotion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-tips-for-itunes-podcast-enrollment/"><u>[New] 2024 Approved Tips for iTunes Podcast Enrollment</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-discover-the-top-8-instagram-management-tools-for-iphone-and-android/"><u>[New] Discover the Top 8 Instagram Management Tools for iPhone and Android</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-revelation-of-effortless-background-elimination-in-photopea/"><u>[Updated] Revelation of Effortless Background Elimination in Photopea</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024vlciso/"><u>「2024」におけるVLC再生時のISOファイル不正認識:トラブルシューティングガイド</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cost-effective-and-crystal-clear-an-in-depth-look-at-pruveeos-f5-1080p-dashcam/"><u>Cost-Effective and Crystal Clear: An In-Depth Look at Pruveeo's F5 1080P Dashcam</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/detailed-reviews-and-buying-guides-for-hardware-enthusiasts-at-toms-digital-world/"><u>Detailed Reviews and Buying Guides for Hardware Enthusiasts at Tom's Digital World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-5-premier-cost-free-tools-for-ai-powered-image-synthesis/"><u>Explore 5 Premier, Cost-Free Tools for AI-Powered Image Synthesis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971842541-get-the-latest-lenovo-t430-graphics-and-chipset-drivers-for-windows-users-on-any-os/"><u>Get the Latest Lenovo T430 Graphics and Chipset Drivers for Windows Users on Any OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-ensure-optimal-gaming-and-work-by-keeping-your-ati-radeon-drivers-up-to-date-on-a-windows-pc/"><u>How To Ensure Optimal Gaming and Work by Keeping Your ATI Radeon Drivers Up-to-Date on a Windows PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reimagining-editing-processes-the-revolutionary-world-of-magix-video-pro-x/"><u>In 2024, Reimagining Editing Processes The Revolutionary World of Magix Video Pro X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-laptop-chips-encounter-reliability-concerns-amidst-ongoangs-crash-related-problems-in-recent-evaluations/"><u>Intel Laptop Chips Encounter Reliability Concerns Amidst Ongoangs Crash-Related Problems in Recent Evaluations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/total-system-collapses-game-publisher-accuses-defective-intel-processors-selling-faulty-13th-and-14th-gen-chips/"><u>Total System Collapses: Game Publisher Accuses Defective Intel Processors, Selling Faulty 13Th and 14Th Gen Chips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubling-revelations-for-zen-5-chipset-cracked-wafer-images-and-solvent-leftovers-from-ryzen-9000-dl-manufacturing-process/"><u>Troubling Revelations for Zen 5 Chipset: Cracked Wafer Images and Solvent Leftovers From Ryzen 9000 DL Manufacturing Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/your-ultimate-guide-downloading-and-setting-up-the-epson-wf-3540-printer-driver-in-windows/"><u>Your Ultimate Guide: Downloading and Setting Up the Epson WF-3540 Printer Driver in Windows</u></a></li>
 </ul></div>
 

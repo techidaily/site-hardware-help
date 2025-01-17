@@ -1,7 +1,7 @@
 ---
 title: "Corporate Insights: In-Depth Microsoft Surface Pro 8 Evaluation on ZDNet"
-date: 2025-01-07T04:36:01.045Z
-updated: 2025-01-11T00:54:19.445Z
+date: 2025-01-15T16:21:36.598Z
+updated: 2025-01-17T02:36:42.006Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,10 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Processor       | 12th-Gen Intel Core i5 or Core i7                                                          |
@@ -54,7 +58,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How's the build quality?
@@ -75,10 +79,6 @@ Michael Gariffo/ZDNET
 
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Features and ports
 
 That one on the top is the Surface Connect Port, not an SD card reader slot, which it so closely resembles.
@@ -88,7 +88,7 @@ Michael Gariffo/ZDNET
 Microsoft's port selection on the Surface Laptop 5 is very middle-of-the-road. That's a good thing. It acknowledges that plenty of USB-A peripherals still exist, so it includes a single USB-A port. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -144,7 +144,7 @@ This might be forgivable in a budget model. But even the base config [Surface La
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -170,7 +170,7 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 [Microsoft Surface Laptop 5 $1,095 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -227,24 +227,17 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/immediate-access-hp-photosmart-7520/"><u>[Immediate Access] - HP Photosmart 지원자체: 7520 기기 드라이버</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-covert-story-consumption-5-must-try-apps/"><u>[New] 2024 Approved Covert Story Consumption 5 Must-Try Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-libertycam-studio-a-user-friendly-review/"><u>[New] LibertyCam Studio A User-Friendly Review</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/avigating-netflix-and-youtubers-how-jake-paul-succeeded/"><u>[New] Navigating Netflix & YouTubers How Jake Paul Succeeded</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-rapid-reach-videos-that-immediately-amass-views/"><u>[Updated] Rapid Reach Videos that Immediately Amass Views</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inversion-workshop/"><u>2024 Approved Inversion Workshop</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-melding-melodies-with-memories-in-cyberspace/"><u>2024 Approved Melding Melodies with Memories in Cyberspace</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/25-must-use-german-phrases/"><u>25 Must-Use German Phrases</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/access-the-official-corsair-h80i-v2-high-airflow-liquid-cpu-cooler-driver-download/"><u>Access the Official Corsair H80i v2 High Airflow Liquid CPU Cooler Driver Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-troubleshooting-for-lg-printer-driver-compatibility-with-various-versions-of-windows/"><u>Comprehensive Troubleshooting for LG Printer Driver Compatibility with Various Versions of Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-guide-amd-graphics-drivers-available-for-download/"><u>Easy Install Guide: AMD Graphics Drivers Available for Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970958621-get-acquainted-with-the-new-features-of-the-updated-logitech-extreme-3d-driver-software/"><u>Get Acquainted with the New Features of the Updated Logitech Extreme 3D Driver Software.</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y17s-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y17s to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-your-canon-pro-100-on-windows-in-one-simple-step/"><u>Install Your Canon PRO 100 on Windows in One Simple Step</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-the-art-of-correcting-bcm2045a0-driver-glitches-quick-fix-strategies-revealed/"><u>Master the Art of Correcting BCM20#45A0 Driver Glitches: Quick Fix Strategies Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneer-dj-enthusiasts-rejoice-download-the-ddj-sx2-controller-driver-swiftly/"><u>Pioneer DJ Enthusiasts Rejoice: Download the DDJ-SX2 Controller Driver Swiftly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/techkey-bluetooth-adapter-free-driver-download-for-pc-win-1078/"><u>Techkey Bluetooth Adapter: Free Driver Download for PC - Win 10/7/8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-21st-century-challenges-like-climate-change-pandemics-and-cyber-warfare-demand-new-solutions-that-extend-beyond-the-scope-of-liberal-capitalism/"><u>The 21St-Century Challenges Like Climate Change, Pandemics, and Cyber Warfare Demand New Solutions that Extend Beyond the Scope of Liberal Capitalism</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-future-of-home-viewing-a-comprehensive-review-of-the-tcl-32s325-roku-enabled-smart-tv-2019/"><u>The Future of Home Viewing: A Comprehensive Review of the TCL 32S325 Roku-Enabled Smart TV (2019)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-30-awesome-tiktok-inspired-finds-on-amazon-dont-miss-them-for-2024/"><u>[Updated] 30 Awesome TikTok-Inspired Finds on Amazon – Don’t Miss Them for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-engineering-video-excerpts-for-online-platforms/"><u>[Updated] Engineering Video Excerpts for Online Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-prime-ppts-to-clipmaker-for-2024/"><u>[Updated] Prime PPTs to ClipMaker for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-razer-driver-software-latest-version-available-for-windows-operating-systems/"><u>Compatible Razer Driver Software: Latest Version Available for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-logitech-c27e-webcam-driver-for-windows-10-and-11/"><u>How to Get the Latest Logitech C27e Webcam Driver for Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-1320-drivers-free-download-and-installation-instructions-for-windows-users/"><u>HP LaserJet 1320 Drivers: Free Download & Installation Instructions for Windows Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-honor-90-lite-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Honor 90 Lite Phone? Unlock It Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-characteristics-of-premium-gaming-mice/"><u>Key Characteristics of Premium Gaming Mice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-updates-improving-your-dells-system-management-bus-controller/"><u>Latest Updates: Improving Your Dell's System Management Bus Controller</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/modernize-your-tablet-interface-with-the-latest-wacom-cintiq-driver-upgrade/"><u>Modernize Your Tablet Interface with the Latest Wacom Cintiq Driver Upgrade</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-read-this-article-to-get-a-fair-and-unbiased-guide-on-top-five-mod-editors-the-article-will-illustrate-the-features-pros-and-cons-of-each-/"><u>New 2024 Approved Read This Article to Get a Fair and Unbiased Guide on Top Five MOD Editors. The Article Will Illustrate the Features, Pros and Cons of Each of the Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-poco-x6-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Poco X6 Pro</u></a></li>
 </ul></div>
 

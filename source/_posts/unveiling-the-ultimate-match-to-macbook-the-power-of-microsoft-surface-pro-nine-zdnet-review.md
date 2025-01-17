@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Match to MacBook: The Power of Microsoft Surface Pro Nine | ZDNet Review"
-date: 2025-01-03T21:35:49.018Z
-updated: 2025-01-11T11:00:11.372Z
+date: 2025-01-11T21:52:07.738Z
+updated: 2025-01-16T17:01:00.923Z
 tags:
   - laptops
 categories:
@@ -60,7 +60,7 @@ I've been using the Surface Laptop Studio 2 for just under a week, and I can con
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A much-needed performance upgrade
@@ -104,7 +104,7 @@ Max Buondonno/ZDNET
 The Intel NPU also powers Microsoft's Windows Studio effects, which help to improve the quality of video and audio during calls. This includes keeping your head centered in the frame as you move around, blurring the background, maintaining eye contact with adaptive corrections to your eyes, and minimizing background noise. All of these features worked well in my testing, and made for a more enjoyable video chatting experience. You'll just have to live with a sub-par webcam: while the field of view is nice and wide for automatic framing, the Full HD resolution doesn't feel very sharp and generally looks blurry, even in good lighting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Gorgeous hardware and a unique screen
@@ -128,7 +128,7 @@ It opens a realm of possibilities for creatives who want more precise control ov
 Speaking of comfortability, the keyboard on the Surface Laptop Studio 2 might be one of my favorites. It has 1.3 millimeters of travel and plenty of satisfying bounce, which helps to make it very comfortable to use for long periods of time. Part of me wishes the keys were slightly curved at the top instead of being totally flat, but that's just a personal preference.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The trackpad is a little different, and so are the ports
@@ -143,13 +143,13 @@ It's also what Microsoft calls the "most inclusive" trackpad ever thanks to Adap
 
 In addition, there are more ports on the Surface Laptop Studio 2, including a USB-A port and a microSD card slot. They sit alongside the dual Thunderbolt 4 ports, Surface Connector, and a 3.5mm headphone jack. I would've liked to see a full-size SD card reader as well, but any extra IO is welcome in my book.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Battery life is…fine
 
 Microsoft says it improved the battery life on the Surface Laptop Studio 2, but it's not very noticeable. I didn't run any endless 4K video loops or scroll a webpage until it died, but I did use the machine for my everyday workload on a full charge, and all I got was just under six hours of use. This was after writing the copy for a variety of reviews and news pieces in Google Chrome, playing Spotify, using Photoshop and Lightroom occasionally, and watching YouTube.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -160,7 +160,7 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 [ZDNET RECOMMENDS Microsoft Surface Laptop Studio 2 Microsoft delivers a solid experience with the Studio 2, one that's still as unique as it was the first time around. View at Microsoft](https://www.microsoft.com/en-us/store/configure/surface-laptop-studio-2/8rqr54krf1dz)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -182,22 +182,22 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-captivating-cuts-10-essential-filmora-edits-everyone-loves/"><u>[New] Captivating Cuts 10 Essential Filmora Edits Everyone Loves</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-essentials-of-making-engaging-youtube-shorts/"><u>[New] In 2024, The Essentials of Making Engaging YouTube Shorts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ps3-experience-on-pc-leading-emulators-guide/"><u>[New] PS3 Experience on PC Leading Emulators Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solved-amd-rx-560-driver-issue-on-windows-111087/"><u>[Solved] AMD RX 560 Driver Issue on Windows 11/10/8/7</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-instagram-antithesis-video-reversal-explained/"><u>[Updated] In 2024, The Instagram Antithesis Video Reversal Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-10-online-subtitle-editors/"><u>2024 Approved The Best 10 Online Subtitle Editors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-hp-deskjet-ink-advantage-3700-printer-drivers/"><u>Download & Update HP Deskjet Ink Advantage 3700 Printer Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-gigabyte-wb867d-motherboard-drivers-latest-version/"><u>Download GIGABYTE WB867D Motherboard Drivers - Latest Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974384488-easy-access-to-thrustmaster-t150-controller-drivers-download-now/"><u>Easy Access to Thrustmaster T150 Controller Drivers – Download Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-intel-iris-xe-graphics-driver-update-now-compatible-with-windows-11/"><u>Get Your Intel® Iris XE Graphics Driver Update Now – Compatible with Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nokia-g42-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nokia G42 5G</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-upconversion-unveiled-sdr-to-hdri-a-complete-guide/"><u>In 2024, Upconversion Unveiled SDR to HDRI - A Complete Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-xml-file-bible-for-fcpx-creators/"><u>New In 2024, The XML File Bible for FCPX Creators</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/obtain-pl2303-compatible-driver-software-for-your-windows-machine/"><u>Obtain PL2303 Compatible Driver Software for Your Windows Machine</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-download-wacom-intuos-pro-device-driver-for-windows-10-users/"><u>Quick Download: Wacom Intuos Pro Device Driver for Windows 10 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simplified-instructions-for-canon-pro-100-windows-driver-one-click-setup/"><u>Simplified Instructions for Canon PRO 100 Windows Driver [One-Click Setup]</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12t-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12T Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-film-makers-guide-to-selecting-between-hero-and-cube-videos/"><u>[New] Film Maker's Guide to Selecting Between Hero and Cube Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-visual-clarity-for-remote-communications-with-ease-for-2024/"><u>[New] Mastering Visual Clarity for Remote Communications with Ease for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-tips-for-youtube-audio-optimization/"><u>[Updated] In 2024, Essential Tips for YouTube Audio Optimization</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-vimeo-vs-youtube-dissecting-the-streamers-choices/"><u>[Updated] Vimeo vs YouTube Dissecting the Streamers' Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/becoming-a-pro-in-video-enhancement-vce-22-guide-for-2024/"><u>Becoming a Pro in Video Enhancement - VCE 2.2 Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-your-pc/"><u>Download & Install Atheros Network Adapter Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-ds-530-printer-drivers-for-windows-10-64-bit/"><u>Download the Latest Epson DS-530 Printer Drivers for Windows 10 (64-Bit)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-your-acer-device-free-wi-fi-driver-download-now/"><u>Fast Track Your Acer Device - Free Wi-Fi Driver Download Now</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-the-art-of-fcp-freedom/"><u>In 2024, Mastering the Art of FCP Freedom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-advanced-color-grading-techniques-using-luts-for-2024/"><u>Navigating Advanced Color Grading Techniques Using LUTs for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snapdragon-xs-elite-graphics-processor-not-activated-in-latest-linux-fixes-impact-of-optional-oem-key-signature-implementation/"><u>Snapdragon X's Elite Graphics Processor Not Activated in Latest Linux Fixes: Impact of Optional OEM Key Signature Implementation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-dilemma-computer-unable-to-shut-down-under-windows-11-fixed/"><u>Solve the Dilemma: Computer Unable to Shut Down Under Windows 11 (FIXED)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-on-downloading-your-dell-mouses-software-needs/"><u>Step-by-Step Guide on Downloading Your Dell Mouse's Software Needs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-download-pack-for-nexiq-usb-link-2-drivers-beginner-friendly/"><u>Ultimate Download Pack for Nexiq USB-Link 2 Drivers - Beginner Friendly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-downloading-and-updating-the-brother-mfc-7860dw-printer-driver/"><u>Ultimate Guide: Downloading and Updating the Brother MFC-7860DW Printer Driver</u></a></li>
+<li><a href="https://win-net.techidaily.com/uncover-the-hidden-functionality-of-google-chromes-latest-power-saving-tools/"><u>Uncover the Hidden Functionality of Google Chrome's Latest Power-Saving Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-compatible-logitech-g602-speaker-driver-download-guide/"><u>Windows Compatible Logitech G602 Speaker Driver Download Guide</u></a></li>
 </ul></div>
 

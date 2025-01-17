@@ -1,7 +1,7 @@
 ---
 title: "Ace Your Game Collection on Prime Day 2024: Exclusive Oct. Deals Curated by ZDNET"
-date: 2025-01-05T16:54:48.075Z
-updated: 2025-01-10T20:54:03.279Z
+date: 2025-01-15T20:41:58.568Z
+updated: 2025-01-16T20:45:29.635Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ ZDNET's favorite security key is the [Yubico YubiKey 5 NFC](https://buy.geni.us/
 ZDNET has tested many security keys throughout the years and frequently tracks market developments and changes. We often use security keys ourselves and lean upon our personal experience to shape our recommendations. Below, you will find our top picks for security keys today. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best security keys of 2024
@@ -49,14 +49,10 @@ Cons
 * Technical knowledge may be required
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Yubico YubiKey 5 NFC
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best security key overall
 
@@ -87,10 +83,6 @@ Cons
 
 ## Thetis Fido U2F Security Key
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best security key for durability
 
 The FIDO2 is a USB-A key that functions with the latest Chrome browser and operating systems such as Windows, macOS, or Linux. This option also has backward compatibility with online services complying with U2F protocols.
@@ -120,10 +112,6 @@ Cons
 
 ## Yubico YubiKey 5 Nano
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best security key for travel
 
 The Yubico YubiKey 5 Nano is a discreet, tiny security key that provides the features you need to lock your devices and services while you're on the road. The key supports PCs and other devices via USB-A and is compatible with the Yubico Authenticator app. However, keep in mind that there is no USB-C support. 
@@ -149,6 +137,10 @@ Pros
 
 Cons 
 * Only supports FIDO protocols
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Yubico Security Key C NFC
 
@@ -180,14 +172,10 @@ Cons
 * May need to download additional drivers
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Kensington Verimark Fingerprint Key
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The best security key for biometrics
 
@@ -214,10 +202,6 @@ Pros
 
 Cons 
 * No biometrics
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Google Titan security key
 
@@ -266,7 +250,7 @@ However, investing in a higher-end brand may be wise if you already use security
 | Google Titan security key           | An affordable, multi-platform key suitable for Chrome-supporting services, Android, and iOS apps that can store up to 250 passkeys.                              |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing a security key
@@ -297,6 +281,10 @@ Our main criteria for selecting these security keys are:
 
 A security key is a physical device that generates a unique code used with a password to authenticate your identity when logging into a website or application. It uses public-key cryptography and is more secure than traditional 2FA methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does FIDO mean?
 
 The FIDO Alliance consortium has developed open standards for authentication protocols. The authentication standard is based on public key cryptography. 
@@ -307,6 +295,10 @@ Devices that are FIDO certified allow users to quickly sign into their accounts 
 
 SMS is open to SIM hijacking, while a physical key cannot be copied or the data intercepted. Think about it this way: 2FA verification codes sent via SMS messaging may be intercepted if your smartphone has been infected with malware, including spyware, but unless an attacker has your physical security key in their hand, they cannot grab the code required to access your account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How many security keys do I need?
 
 We recommend purchasing at least two -- one that you use day-to-day and one to keep as a backup. For example, you can keep one in your home office or attached to a keychain if you're on the road, while one is stashed safely away to cover you if you lose your primary key. 
@@ -315,9 +307,17 @@ We recommend purchasing at least two -- one that you use day-to-day and one to k
 
 Security keys are one of the best authentication methods on the market today and they have very little exploitable attack surface, making them difficult to 'hack' in any way. While there are cases of keys being cloned for academic purposes, as security keys are not constantly connected to the Internet, you don't have to worry about the most common attack vectors having any impact on them. Just keep your key in a safe place.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do security keys prevent phishing?
 
 In layman's terms, security keys use encryption and security tokens that only work on genuine websites rather than fake phishing domains. Public and private keys work together to authenticate a user session, but the private key is held on the physical device, reducing the attack surface. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative security keys worth considering?
 
@@ -367,24 +367,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-expert-picks-best-7-video-streaming-apps-to-take-your-youtube-game-upward-iosandroid/"><u>[New] 2024 Approved Expert Picks Best 7 Video Streaming Apps to Take Your YouTube Game Upward (iOS/Android)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-ultimate-guide-to-timing-your-wedding-in-10-top-apps/"><u>[New] Ultimate Guide to Timing Your Wedding, in 10 Top Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-home-sweet-habitat-6-basic-mc-dwellings-demystified/"><u>[Updated] 2024 Approved Home Sweet Habitat 6 Basic MC Dwellings Demystified</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ideal-ringtone-hunt-prime-downloads/"><u>[Updated] 2024 Approved Ideal Ringtone Hunt Prime Downloads</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-techniques-for-harmonious-crossfades-in-tracks/"><u>2024 Approved Unveiling Techniques for Harmonious Crossfades in Tracks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-moto-g24-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-amd-radeon-r9-series-driver-download-and-setup-for-windows-users/"><u>Easy Steps: AMD Radeon R9 Series Driver Download and Setup for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-fixes-for-the-logitech-f710-connectivity-challenge-on-different-windows-platforms/"><u>Effortless Fixes for the Logitech F710 Connectivity Challenge on Different Windows Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-criteria-for-selecting-the-perfect-projector-a-comprehensive-guide/"><u>Essential Criteria for Selecting the Perfect Projector: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975766520-get-the-latest-asrock-ab350-pro4-drivers-for-windows-no-cost/"><u>Get the Latest ASRock AB350 Pro4 Drivers for Windows - No Cost!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969702251-get-your-zebra-gk420d-printer-up-and-running-secure-the-latest-drivers-here/"><u>Get Your Zebra GK420D Printer Up and Running – Secure the Latest Drivers Here</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/innovative-strategies-for-keeping-a-log-of-whatsapp-calls-for-2024/"><u>Innovative Strategies for Keeping a Log of WhatsApp Calls for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-guide-to-fast-and-hassle-free-scansnap-s510-drivers-installation/"><u>Latest Guide to Fast and Hassle-Free ScanSnap S510 Drivers Installation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210011990-9781071515563-meditazione-pochi-passi-per-il-successo-nella-tua-vita/"><u>Meditazione: Pochi Passi Per Il Successo Nella Tua Vita | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/newly-released-compatible-realtek-bluetooth-drivers-for-windows-1110-computers/"><u>Newly Released: Compatible Realtek Bluetooth Drivers for Windows 11/10 Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speedy-elgato-driver-setup-smooth-swift-downloads-for-seamless-performance/"><u>Speedy Elgato Driver Setup - Smooth, Swift Downloads for Seamless Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-fresh-driver-update-for-epson-wf-7720-on-microsofts-os/"><u>Step-by-Step Guide: Fresh Driver Update for Epson WF-7720 on Microsoft's OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-fresh-install-of-epson-tm-t88v-driver-software-for-windows-systems/"><u>Update or Fresh Install of EPSON TM-T88V Driver Software for Windows Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-professional-filming-made-simple-the-essentials-of-logitech-webcam-setup/"><u>[New] 2024 Approved Professional Filming Made Simple The Essentials of Logitech Webcam Setup</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-laughing-through-the-metaverse-making-your-own-humor/"><u>[New] Laughing Through the Metaverse Making Your Own Humor</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-to-excellence-in-producing-educational-videos-for-2024/"><u>[Updated] Step-by-Step to Excellence in Producing Educational Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-banishing-static-like-motion-in-aerial-videos/"><u>2024 Approved Banishing Static-Like Motion in Aerial Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-driving-force-racing-wheels-driver-software-for-windows-operating-systems-windows-7810-download-here/"><u>Compatible Driving Force Racing Wheels Driver Software for Windows Operating Systems (Windows 7/8/10) - Download Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-updating-your-acer-display-with-current-drivers/"><u>Complete Guide: Updating Your Acer Display with Current Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-stylus-nx420-printer-driver-for-windows-7-8-and-10/"><u>Download the Latest Epson Stylus NX420 Printer Driver for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-or-updating-intels-raid-software-on-windows-devices-windows-111087/"><u>Easy Guide to Installing or Updating Intel's RAID Software on Windows Devices (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-your-channels-profits-with-impactful-and-effective-trailers-for-2024/"><u>Elevating Your Channels' Profits with Impactful and Effective Trailers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-install-your-mouses-driver-on-a-windows-7-system/"><u>How to Easily Install Your Mouse's Driver on a Windows 7 System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-sony-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Sony </u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-ms-error-for-co-users/"><u>Overcoming Windows MS Error for Co-Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-rtl8723be-wireless-card-fixing-driver-glitches-and-errors/"><u>Realtek RTL8723BE Wireless Card: Fixing Driver Glitches and Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-print-jobs-with-updated-brother-hl-l2350dw-printer-drivers-download-today/"><u>Secure Your Print Jobs with Updated Brother HL-L2350DW Printer Drivers - Download Today!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-poco-m6-pro-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Poco M6 Pro 5G FRP</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-elevate-your-videos-a-beginners-guide-to-using-ken-burns-effect-in-final-cut-pro/"><u>Updated In 2024, Elevate Your Videos A Beginners Guide to Using Ken Burns Effect in Final Cut Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-your-razer-blackwidows-drivers-a-step-by-step-guide/"><u>Updating Your Razer BlackWidow's Drivers: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

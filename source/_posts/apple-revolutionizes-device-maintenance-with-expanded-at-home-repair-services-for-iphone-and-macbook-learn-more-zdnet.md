@@ -1,7 +1,7 @@
 ---
 title: Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More | ZDNET
-date: 2025-01-09T10:10:42.450Z
-updated: 2025-01-11T04:02:23.171Z
+date: 2025-01-11T01:21:15.273Z
+updated: 2025-01-16T22:20:08.037Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ However, the new slimline design also came with a chunky price increase of $200/
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price & options
@@ -53,7 +53,7 @@ The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design & features
@@ -73,7 +73,7 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 Image: Cliff Joseph / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -89,7 +89,7 @@ You are paying for that extra performance, of course, so the M1 version of the M
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -132,7 +132,7 @@ Image: Apple
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,18 +176,22 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-blades-new-vision-in-ultra-high-definition-clarity/"><u>2024 Approved Blade's New Vision in Ultra-High Definition Clarity</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-decelerating-music-dynamics-step-by-step-guide-in-premiere-pro/"><u>2024 Approved Decelerating Music Dynamics Step-by-Step Guide in Premiere Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/access-high-quality-printing-with-canons-imageclass-mf4800-free-driver-downloads-now/"><u>Access High-Quality Printing with Canon's ImageCLASS MF4800: Free Driver Downloads Now!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-8-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 8 Plus</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/cially-flourishing-online-media-personality/"><u>Financially Flourishing Online Media Personality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-access-to-asus-atk011ebios-and-acpi-driver-pack-secure-your-system-today/"><u>FREE Access to Asus ATK011ebios and ACPI Driver Pack - Secure Your System Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-pagewide-pro-477dw-driver-update-for-windows-11108-free-download-links/"><u>HP PageWide Pro 477DW Driver Update for Windows 11/10/8 - Free Download Links</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-11-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 11 Pro Max? How to Fix</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-updates-for-your-bluetooth-adapter-newest-generic-drivers-for-windows-computers-free/"><u>Install Updates for Your Bluetooth Adapter - Newest Generic Drivers for Windows Computers (Free)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/logitech-k350-pairing-software-free-installation-files-for-seamless-setup/"><u>Logitech K350 Pairing Software – Free Installation Files for Seamless Setup</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/master-your-display-settings-adjust-brightness-and-contrast-via-the-windows-control-panel-with-yl-computing-tips/"><u>Master Your Display Settings: Adjust Brightness & Contrast via the Windows Control Panel with YL Computing Tips</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/online-wac-naar-wav-vervanger-voor-keerlos-gratis-konvertiezer-met-movavi-softwares/"><u>Online WAC Naar WAV Vervanger - Voor Keerlos Gratis Konvertiezer Met Movavi Softwares</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-process-to-refresh-webcam-software-in-windows-11/"><u>Step-by-Step Process to Refresh Webcam Software in Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/0-best-youtube-makeup-artists-you-must-have-heard/"><u>[New] 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-seamlessly-connect-the-3-step-guide-to-enhanced-communication-on-snapchat-for-2024/"><u>[New] Seamlessly Connect The 3-Step Guide to Enhanced Communication on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers/"><u>[Updated] 2024 Approved Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unleash-your-potential-with-outstanding-android-time-lapse-videos/"><u>[Updated] 2024 Approved Unleash Your Potential with Outstanding Android Time-Lapse Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-best-of-the-best-in-drone-following-capabilities/"><u>2024 Approved Best of the Best in Drone Following Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-earnings-standards-new-rules-and-tips/"><u>2024 Approved YouTube Earnings Standards New Rules & Tips</u></a></li>
+<li><a href="https://win-popular.techidaily.com/data-safe-transition-how-to-upgrade-your-system-from-windows-7881-to-windows-10/"><u>Data-Safe Transition: How to Upgrade Your System From Windows 7/8/8.1 to Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963220066-download-and-update-broadcom-gige-network-controller-on-windows-10-solved/"><u>Download and Update Broadcom GigE Network Controller on Windows 10 – Solved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-dell-network-drivers-compatible-with-windows-7-direct-downloads/"><u>Free Dell Network Drivers Compatible with Windows 7 - Direct Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-asus-touchpad-driver-for-windows-natively-swift-download-methods/"><u>Get the Latest ASUS Touchpad Driver for Windows Natively | Swift Download Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-elos-touchscreen-driver-for-windows-systems-downloaded-here/"><u>Get the Latest Version of Elo's Touchscreen Driver for Windows Systems Downloaded Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-epson-workforce-ds-30-usb-printer-drivers-compatible-with-windows-7810/"><u>Get Your Epson WorkForce DS 30 USB Printer Drivers Compatible with Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-color-laserjet-pro-m477-driver-software-instantly-for-smooth-printing-performance/"><u>Get Your HP Color LaserJet Pro M477 Driver Software Instantly for Smooth Printing Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-brother-hl-l2370dw-printer-drivers-step-by-step-guide-with-free-downloads/"><u>How to Upgrade Brother HL-L2370DW Printer Drivers: Step-by-Step Guide with Free Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-problem-why-isnt-my-amazon-prime-video-playing/"><u>Resolving the Problem: Why Isn't My Amazon Prime Video Playing?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/steps-for-converting-your-dvd-collection-into-high-definition-format/"><u>Steps for Converting Your DVD Collection Into High-Definition Format</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/use-materials-such-as-silica-gel-beads-and-transparent-tubes-to-represent-elements-of-hydrogen-production-in-the-fuel-cell-process/"><u>Use Materials Such as Silica Gel Beads and Transparent Tubes to Represent Elements of Hydrogen Production in the Fuel Cell Process.</u></a></li>
 </ul></div>
 

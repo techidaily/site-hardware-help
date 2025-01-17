@@ -1,7 +1,7 @@
 ---
 title: Frosty Times For PC Manufacturers Ahead, But That Spells Great Deals for Consumers | Expert Analysis by ZDNET
-date: 2024-12-02T22:31:47.738Z
-updated: 2024-12-04T21:05:29.636Z
+date: 2025-01-09T23:02:09.895Z
+updated: 2025-01-16T20:33:28.277Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Dell holiday deals
@@ -94,7 +94,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell laptop holiday deals
@@ -106,7 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -118,10 +118,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Optiplex 7080 Intel i5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7080-business-desktops-workstations%252Fp%252F1VK-0001-6GXW7) for $520 (save $179)
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell monitor holiday deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1): $180 (save $40)
@@ -129,7 +125,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1) for $297 (save $33)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -137,6 +133,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -210,22 +210,14 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-ace-your-online-presence-youtubes-studio-command-center-for-2024/"><u>[New] Ace Your Online Presence YouTube's Studio Command Center for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-lush-backdrops-a-treasure-chest-of-free-templates-for-cinematographers/"><u>[New] In 2024, Lush Backdrops A Treasure Chest of Free Templates for Cinematographers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-14-youtube-titles-to-skyrocket-your-gaming-channels-popularity/"><u>[Updated] Top 14 YouTube Titles to Skyrocket Your Gaming Channel's Popularity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-new-psvr-costs-release-date-and-technical-specs-overview/"><u>All You Need to Know About the New PSVR 지향성: Costs, Release Date, and Technical Specs Overview</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conversor-online-de-arquivos-audiovisuais-convertendo-m4a-para-ogv-gratuito-com-o-software-de-edicao-do-movavi/"><u>Conversor Online De Arquivos Audiovisuais: Convertendo M4A Para OGV Gratuito Com O Software De Edição Do Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expertly-curated-selection-of-premium-bluetooth-keyboards-the-definitive-list-for-ey24/"><u>Expertly Curated Selection of Premium Bluetooth Keyboards - The Definitive List for eY24</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/first-look-logitech-keys-to-go-2-review-a-comprehensive-unboxing-experience/"><u>First Look: Logitech Keys-To-Go 2 Review - A Comprehensive Unboxing Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/french-onion-soup/"><u>French Onion Soup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-apple-addressed-the-top-challenge-of-fixing-electronics-yourself/"><u>How Apple Addressed the Top Challenge of Fixing Electronics Yourself</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/identifying-and-evaluating-the-ram-size-and-velocity-in-your-personal-computer/"><u>Identifying & Evaluating the RAM Size and Velocity in Your Personal Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/immersive-gaming-experience-how-active-noise-canceling-headsets-eliminate-pc-acoustic-distractions/"><u>Immersive Gaming Experience: How Active Noise-Canceling Headsets Eliminate PC Acoustic Distractions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-the-3-in-1-anker-maggo-charging-station-features-vs-functionality-shortcomings-exposed/"><u>In-Depth Analysis of the 3-in-1 Anker MagGo Charging Station: Features Vs. Functionality Shortcomings Exposed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-logitechs-latest-mac-compatible-keyboard-and-mouse-collection/"><u>Introducing Logitech's Latest Mac Compatible Keyboard & Mouse Collection</u></a></li>
-<li><a href="https://solve-info.techidaily.com/ririka-momo-enthralling-desktop-scenes-and-decorative-wallpaper-collections-by-yl-computing/"><u>Ririka Momo Enthralling Desktop Scenes & Decorative Wallpaper Collections by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-10-iconic-80s-films-you-must-see-today/"><u>Top 10 Iconic '80S Films You Must See Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-msodll-is-missing-or-inaccessible/"><u>Troubleshooting Steps for When mso.dll Is Missing or Inaccessible</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-thumbnail-theories-selecting-the-most-effective-youtube-fonts/"><u>[New] 2024 Approved Thumbnail Theories Selecting the Most Effective YouTube Fonts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-play-40c-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor Play 40C Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/masterclass-on-motherboards-dissecting-the-asus-rog-maximus-z790-with-hybrid-cooling-innovations-and-high-performance-components/"><u>Masterclass on Motherboards: Dissecting the Asus ROG Maximus Z790 with Hybrid Cooling Innovations & High Performance Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-tech-trends-with-guidance-from-toms-hardware/"><u>Mastering Tech Trends with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-implements-intel-recommended-power-specifications-for-i9-processors-aiming-to-resolve-stability-issues-during-continuous-investigation-by-intel/"><u>MSI Implements Intel Recommended Power Specifications for I9 Processors, Aiming to Resolve Stability Issues During Continuous Investigation by Intel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-releases-information-on-z790-board-failures-due-to-flawed-pch-chips-manufacturing-glitch-affects-select-units-latest-news/"><u>MSI Releases Information on Z790 Board Failures Due to Flawed PCH Chips - Manufacturing Glitch Affects Select Units (Latest News)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-video-trailer-creation-tools/"><u>New Top Video Trailer Creation Tools</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-poco-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Poco</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-in-this-article-we-will-introduce-some-cool-video-effects-that-you-can-use-in-filmora-as-well-as-the-step-by-step-guide-about-how-to-add-coo/"><u>Updated In 2024, In This Article, We Will Introduce some Cool Video Effects that You Can Use in Filmora as Well as the Step-by-Step Guide About How to Add Cool Effects to Videos for Making a Cool Edit with This Cool V</u></a></li>
 </ul></div>
 

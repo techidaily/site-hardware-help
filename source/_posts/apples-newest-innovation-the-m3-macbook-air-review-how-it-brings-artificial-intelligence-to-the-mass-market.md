@@ -1,7 +1,7 @@
 ---
 title: "Apple's Newest Innovation: The M3 MacBook Air Review - How It Brings Artificial Intelligence to the Mass Market"
-date: 2024-12-01T23:44:26.208Z
-updated: 2024-12-05T00:51:16.976Z
+date: 2025-01-12T00:06:10.149Z
+updated: 2025-01-16T16:48:34.044Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,18 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-tips-for-saving-webcam-chats-effectively-for-2024/"><u>[New] Tips for Saving Webcam Chats Effectively for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-navigating-virtual-conversations-a-google-meet-handbook/"><u>[Updated] In 2024, Navigating Virtual Conversations A Google Meet Handbook</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blades-kaleidoscope-unleashed-through-4k-lens-clarity-for-2024/"><u>Blade's Kaleidoscope Unleashed Through 4K Lens Clarity for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-tech-trends-with-toms-hardware/"><u>Exploring the Latest Tech Trends with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-gadgets-with-tom-a-deep-dive-into-computer-components/"><u>Exploring the World of Gadgets with Tom - A Deep Dive Into Computer Components</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-designjet-500-driver-instantly-free-download/"><u>Get Your HP DesignJet 500 Driver Instantly, FREE Download!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-steelseries-keyboard-with-engine-software-download-now/"><u>Get Your SteelSeries Keyboard with Engine Software - Download Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-samsung-galaxy-s21-fe-5g-2023-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Samsung Galaxy S21 FE 5G (2023)? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-a05s-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy A05s Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262292827-ryzen-5000xt-chips-are-greenlit-amd-ensures-timely-release-schedule/"><u>Ryzen 5000XT Chips Are Greenlit: AMD Ensures Timely Release Schedule</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/selective-screen-time-topping-youtube-movies-for-2024/"><u>Selective Screen Time Topping YouTube Movies for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-into-stories-browser-world-quests/"><u>Step Into Stories: Browser World Quests</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-expert-picks-11-easy-waterproof-kids-camcorders-for-vlogging/"><u>[Updated] Expert Picks 11 Easy, Waterproof Kids' Camcorders For Vlogging</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-social-sphere-selection-channels-not-compromises/"><u>2024 Approved Social Sphere Selection Channels, Not Compromises</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-raises-the-bar-with-new-800-series-motherboard-chipsets-engineered-for-next-gen-ryzen-9000-cpus-the-ultimate-competition-with-intel/"><u>AMD Raises the Bar with New 800 Series Motherboard Chipsets, Engineered for Next-Gen Ryzen 9000 CPUs – The Ultimate Competition With Intel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-laptop-steal-deal-just-99-at-best-buys-hour-of-power-sale-see-the-listing-on-zdnet/"><u>ASUS Laptop Steal Deal - Just $99 at Best Buy's Hour of Power Sale! See the Listing on ZDNet</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/commanding-attention-top-20-creative-tiktok-captions/"><u>Commanding Attention Top 20 Creative TikTok Captions</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/fixing-linuxacademy-downloads-on-mac-and-windows-step-by-step-troubleshooting-guide/"><u>Fixing Linuxacademy Downloads on Mac & Windows: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-13-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 13 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximize-visual-and-auditory-impact-in-windows-10-photos-app/"><u>In 2024, Maximize Visual & Auditory Impact in Windows 10 Photos App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivate-text-alerts-and-sounds-on-your-iphone-a-step-by-step-fixes-collection/"><u>Reactivate Text Alerts and Sounds on Your iPhone: A Step-by-Step Fixes Collection</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/seamlessly-blend-sound-and-visuals-editing-tips-for-canva-videos-for-2024/"><u>Seamlessly Blend Sound & Visuals Editing Tips for Canva Videos for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-definitive-source-for-innovative-tech-toms-hardware-explorations/"><u>The Definitive Source for Innovative Tech: Tom's Hardware Explorations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-exclusive-evga-classified-amd-board-emerges-rare-x670e-prototype-goes-for-over-1k/"><u>The Exclusive EVGA Classified AMD Board Emerges - Rare X670E Prototype Goes for Over 1K</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-components-a-dive-into-toms-hardware/"><u>The Ultimate Guide to Components - A Dive Into Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-equipment-insights-find-the-perfect-tech-setup/"><u>Tom's Computer Equipment Insights: Find the Perfect Tech Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-unlocking-the-secrets-of-high-performance-pc-components/"><u>Tom's Tech Hub: Unlocking the Secrets of High-Performance PC Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-a-comprehensive-guide/"><u>Tom's Tech Review: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-computer-and-hardware-analysis/"><u>Tom's Tech Review: In-Depth Computer & Hardware Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-ultimate-resource-for-top-tier-hardware-analysis/"><u>Tom's Ultimate Resource for Top-Tier Hardware Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transforming-your-instagram-films-with-border-magic-for-2024/"><u>Transforming Your Instagram Films with Border Magic for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Display Quality Meets Unbelievable Deal: Top-Rated Ultraportable Laptop Sale at ZDNet!"
-date: 2025-01-09T03:02:40.983Z
-updated: 2025-01-11T08:06:37.903Z
+date: 2025-01-10T19:24:03.833Z
+updated: 2025-01-16T17:15:22.230Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -101,7 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,18 +148,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ind-blown-by-numbers-yearly-youtube-insights-in-2017/"><u>[New] Mind Blown by Numbers Yearly YouTube Insights in 2017</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outube-editing-tutorial-mastering-video-cuts/"><u>[New] YouTube Editing Tutorial Mastering Video Cuts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-amd-radeon-rx-5700-xt-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download AMD Radeon RX 5700 XT Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-instructions-to-upgrade-your-surface-dock-driver-today/"><u>Effortless Instructions to Upgrade Your Surface Dock Driver Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967783863-hang-gliders-including-trikes/"><u>Hang Gliders (Including Trikes);</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-v27-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo V27 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-an-authoritative-voice-for-medical-insights/"><u>Is ChatGPT an Authoritative Voice for Medical Insights?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-epson-artisan-1430-driver-software-optimized-for-windows-11108/"><u>Latest Epson Artisan 1430 Driver Software - Optimized for Windows 11/10/8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-g27-game-controller-driver-download-compatible-with-windows-11107/"><u>Logitech G27 Game Controller Driver Download Compatible with Windows 11/10/7</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-revolutionary-ai-the-speedy-vanguard/"><u>Meta's Revolutionary AI: The Speedy Vanguard</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/unlock-the-secrets-of-monitoring-cryptocurrency-portfolios-with-yl-softwares-address-balance-utility/"><u>Unlock the Secrets of Monitoring Cryptocurrency Portfolios with YL Software’s Address Balance Utility</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/unlocking-financial-growth-with-digital-coins-a-guide-to-making-money-in-the-cryptocurrency-market-expertise-from-yl-software-solutions/"><u>Unlocking Financial Growth with Digital Coins: A Guide to Making Money in the Cryptocurrency Market | Expertise From YL Software Solutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-capturing-the-web-in-motion-a-compact-list-of-leading-recorders/"><u>[Updated] 2024 Approved Capturing the Web in Motion A Compact List of Leading Recorders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-hidden-paths-techniques-to-skip-without-watching-edgenuity-videos/"><u>2024 Approved The Hidden Paths Techniques to Skip Without Watching Edgenuity Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apples-new-contender-ipad-air-4-against-samsung-galaxy-tab-s7plus-reviewed/"><u>Apple's New Contender: IPad Air 4 Against Samsung Galaxy Tab S7+ Reviewed!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-dolbys-new-audio-drivers-compatibility-updates-for-windows-11-10-and-81-available-now/"><u>Download Dolby's New Audio Drivers: Compatibility Updates for Windows 11, 10, and 8.1 Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-samsung-m2070-printer-driver-simple-steps-for-fast-installation/"><u>Download Samsung M2070 Printer Driver: Simple Steps for Fast Installation</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-canon-ts6220-series-printing-software-on-your-pc/"><u>How to Install Updated Canon TS6220 Series Printing Software on Your PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-effortlessly-record-time-lapses-on-apple-devices/"><u>In 2024, Effortlessly Record Time-Lapses on Apple Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-proper-drivers-for-your-dell-inspiron-15-with-windows-11/"><u>Installing Proper Drivers for Your Dell Inspiron 15 with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-setup-get-the-best-keyboard-drivers-for-windows-7-now/"><u>Instant Setup: Get the Best Keyboard Drivers for Windows 7 Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-software-and-driver-downloads-for-your-canon-pixma-mg2522-printer/"><u>Latest Software and Driver Downloads for Your Canon PIXMA MG2522 Printer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/quick-and-easy-steps-to-efficient-free-clock-use-for-2024/"><u>Quick and Easy Steps to Efficient Free Clock Use for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-updating-your-asus-z370m-gaming-motherboard-with-latest-drivers/"><u>Step-by-Step Tutorial: Updating Your Asus Z370M Gaming Motherboard with Latest Drivers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-nokia-g310-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Nokia G310 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-honor-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Honor Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

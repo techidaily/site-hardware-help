@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reviews: Discover the Chromebook Dominating Long-Lasting Battery Life Uncontestably!"
-date: 2025-01-07T22:36:19.514Z
-updated: 2025-01-11T01:42:31.599Z
+date: 2025-01-09T17:11:28.410Z
+updated: 2025-01-16T21:28:25.721Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ When Chromebooks first arrived, it took a while for everyone to understand a dev
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -53,7 +53,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 **Also:** [**The 5 best Chromebooks for students**](https://www.zdnet.com/article/best-chromebook-for-students/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -70,7 +70,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 | Dimensions and weight | 356.58 (W) x 249.67 (D) x 21.3 (H) mm (14.04 x 9.83 x 0.84 inches) \| 3.75lbs                                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -106,7 +106,7 @@ Michael Gariffo/ZDNET
 While everything else about the Chromebook felt premium, the charger was contrastingly generic. It did its job of topping up the 65Wh, 9-hour battery well and quickly, but it's larger than you'd expect, and looked a bit dated compared with most other high-end Chromebook models. I opted to use a more compact 140W entry in the [Ugreen GaN charger line](https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/) during most of my testing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance
@@ -153,10 +153,6 @@ Hopefully future updates will bring the performance of Xbox cloud gaming closer 
 
 [Acer Chromebook 516 GE $559.95 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1414639532&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 You're looking at pretty much all you need for a very compelling gaming experience.
@@ -168,6 +164,10 @@ Just like all Chromebooks, gaming Chromebooks live or die on the quality of clou
 **Also: [Level up with the best gaming laptop deals](https://www.zdnet.com/article/best-gaming-laptop-deals/)**
 
 The saving grace here is that Acer and Nvidia have proven that cloud-based gaming is at the point where relatively inexpensive devices, like a high-end Chromebook, can compete with $1,000-plus machines, at least for just about everyone aside from ultra-competitive, first-person shooter fans. Now we just have to see how long it takes everyone else to catch up or surpass them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -213,21 +213,16 @@ Perhaps an odd fit as an alternative, but Valve's Steam Deck is a different take
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-an-in-depth-look-at-basic-and-simplified-hdr-photography-for-2024/"><u>[New] An In-Depth Look at Basic and Simplified HDR Photography for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-chill-vibes-current-hits-to-match-your-yt-short-tunes/"><u>[New] In 2024, Chill Vibes Current Hits to Match Your YT Short Tunes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-fbx-filming-made-simple-a-step-by-step-approach/"><u>[New] In 2024, FBX Filming Made Simple A Step-by-Step Approach</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>2024 Approved The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-pcs-performance-with-the-newest-nvidia-gtx-1660-ti-drivers/"><u>Boost Your PC's Performance with the Newest NVIDIA GTX 1660 Ti Drivers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-the-inflexibility-in-gpt-customization/"><u>Demystifying the Inflexibility in GPT Customization</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-your-scansnap-s1300i-scanner-simplified-steps/"><u>Download and Update Your ScanSnap S1300i Scanner - Simplified Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-hp-deskjet-ink-advantage-3630-series-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download HP Deskjet Ink Advantage 3630 Series Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-step-by-step-find-download-and-update-intel-ethernet-driver-on-your-pc-windows/"><u>Easy Step-by-Step: Find, Download & Update Intel Ethernet Driver on Your PC (Windows)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-thrustmaster-t150-controller-drivers-swift-and-simple-download-process/"><u>Get Your Hands on Thrustmaster T150 Controller Drivers – Swift and Simple Download Process</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977691743-get-your-insignia-crossover-usb-ethernet-driver-here/"><u>Get Your Insignia CrossOver USB Ethernet Driver Here</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-g14-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-surface-pro-4-driver-downloads-and-setup-instructions-easy-integration-with-windows-system/"><u>Microsoft Surface Pro 4 Driver Downloads & Setup Instructions: Easy Integration with Windows System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-c460-printer-drivers-fast-download-and-simple-installation-guide/"><u>Samsung C460 Printer Drivers: Fast Download and Simple Installation Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/studio-techniques-decoded-xvideostudio-edition-for-2024/"><u>Studio Techniques Decoded XVideoStudio Edition for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-motion-tracking-apps-on-android-and-iphoneipad/"><u>Updated Best Motion Tracking Apps on Android and iPhone/iPad</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-comprehensive-analysis-of-video-editing-powerdirector-pro-suite-review-for-2024/"><u>[Updated] Comprehensive Analysis of Video Editing PowerDirector Pro Suite Review for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-foremost-choices-customizable-mobile-alerts-for-2024/"><u>[Updated] Foremost Choices Customizable Mobile Alerts for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-binkw32dll-not-found-quick-troubleshooting-steps-to-resolve-missing-errors/"><u>Fix Binkw32.DLL Not Found - Quick Troubleshooting Steps to Resolve Missing Errors</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-xs-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone XS Max</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-2600-driver-software-free-downloads-for-win-7810-systems/"><u>HP Deskjet 2600 Driver Software: Free Downloads for Win 7/8/10 Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitechs-high-performance-g29-driving-force-racing-wheel-on-your-pc-driver-support-for-win7-8-and-10/"><u>Install Logitech's High-Performance G29 Driving Force Racing Wheel on Your PC - Driver Support for Win7, 8 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-canon-mf85n0030-driver-compatible-with-windows-71081-tutorials/"><u>Installing Canon MF85n0030 Driver: Compatible with Windows 7/10/8.1 Tutorials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-benchmark-results-showcase-amds-zen-5-powerhouse-ryzen-9-9950x-outshining-the-ryzen-9-7950x-by-a-staggering-24-in-rendering-performance/"><u>New Benchmark Results Showcase AMD's Zen #5 Powerhouse Ryzen 9 9950X Outshining the Ryzen 9 7950X by a Staggering 24% in Rendering Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-drivers-for-hp-zbook-15-g3-easy-downloading-and-installing-guide/"><u>Windows Drivers for HP ZBook 15 G3: Easy Downloading and Installing Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/windows-movie-maker-6-downloading-made-easy/"><u>Windows Movie Maker 6 Downloading Made Easy</u></a></li>
 </ul></div>
 

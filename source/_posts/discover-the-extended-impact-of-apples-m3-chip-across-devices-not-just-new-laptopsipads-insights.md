@@ -1,7 +1,7 @@
 ---
 title: Discover the Extended Impact of Apple's M3 Chip Across Devices, Not Just New Laptops/iPads | Insights
-date: 2024-12-01T01:47:47.847Z
-updated: 2024-12-04T18:10:43.126Z
+date: 2025-01-13T01:10:06.596Z
+updated: 2025-01-16T17:55:53.373Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ While the chips promise a notable leap in power and efficiency, the spotlight no
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fast, but an iterative advancement
@@ -43,7 +43,7 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -55,7 +55,7 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -73,7 +73,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -87,7 +87,7 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -132,20 +132,18 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2023-roundup-premier-professionals-360-cameras/"><u>[New] 2023 Roundup Premier Professionals’ 360 Cameras</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/audience-accessibility-enhancement-adding-subtitles-and-closed-captions-on-youtube-for-2024/"><u>Audience Accessibility Enhancement Adding Subtitles and Closed Captions on YouTube for 2024</u></a></li>
-<li><a href="https://techidaily.com/enhancing-conversational-ai-with-a-human-touch-strategies-for-naturalizing-chatgpt-outputs/"><u>Enhancing Conversational AI with a Human Touch: Strategies for Naturalizing ChatGPT Outputs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/evaluate-the-essential-factors-prior-to-smart-surveillance-camera-setup/"><u>Evaluate the Essential Factors Prior to Smart Surveillance Camera Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-5000mah-belkin-boostcharge-pro-with-wireless-charging-and-stand-unmatched-portable-power-solution/"><u>Exclusive 5,000mAh Belkin BoostCharge Pro with Wireless Charging & Stand - Unmatched Portable Power Solution</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-enhanced-performance-the-latest-modular-design-featuring-intels-top-tier-core-cpus/"><u>Experience Enhanced Performance: The Latest Modular Design Featuring Intel's Top-Tier Core CPUs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-impressive-loudness-with-the-jbl-partybox-stage-320-a-comprehensive-sound-system-review/"><u>Experience Impressive Loudness with the JBL PartyBox Stage 320: A Comprehensive Sound System Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-analysis-jbl-clip-5-as-the-ultimate-compact-bluetooth-speaker-a-comprehhavioral-review/"><u>Expert Analysis: JBL Clip 5 as the Ultimate Compact Bluetooth Speaker - A Comprehhavioral Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-picks-for-superior-laptop-gadgets/"><u>Expert Picks for Superior Laptop Gadgets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-features-of-the-advanced-hdr10plus-technology-in-modern-displays/"><u>Exploring the Features of the Advanced HDR10+ Technology in Modern Displays</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-track-tutorial-on-upgrading-synaptics-ps2-touchpad-drivers-with-precision/"><u>Fast Track Tutorial on Upgrading Synaptics PS/2 Touchpad Drivers with Precision</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-data-retrieval-tool-restore-lost-data-from-oppo-by-fonelab-android-recover-data/"><u>Oppo Data Retrieval tool – restore lost data from Oppo</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-network-not-registered-issue-a-step-by-step-guide-for-samsung-galaxy-users/"><u>Solving the 'Network Not Registered' Issue: A Step-by-Step Guide for Samsung Galaxy Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unveiling-the-mysteries-accessing-secretive-youtube-content/"><u>Unveiling the Mysteries Accessing Secretive YouTube Content</u></a></li>
-<li><a href="https://win-web.techidaily.com/windows-7-4/"><u>Windows 7 起動修復に失敗する場合の解決手段 - 4 つの方法</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-laughter-in-every-note-essential-ringtones/"><u>[Updated] In 2024, Laughter in Every Note Essential Ringtones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-digital-archivists-toolkit-downloading-videos-from-messenger/"><u>[Updated] In 2024, The Digital Archivist's Toolkit Downloading Videos From Messenger</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-unlocked-converting-text-formats-to-voice-ready-srt/"><u>2024 Approved Expertise Unlocked Converting Text Formats to Voice-Ready SRT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-deeper-dive-into-high-definition-online-visibility/"><u>A Deeper Dive Into High Definition Online Visibility</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-for-performing-a-full-reboot-across-all-ipad-generations/"><u>Comprehensive Guide for Performing a Full Reboot Across All iPad Generations</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maximizing-video-impact-on-youtube-top-video-formats/"><u>Maximizing Video Impact on YouTube – Top Video Formats</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-a-steal-high-definition-samsung-odyssey-g5ta-monitor-for-just-255-at-amazon/"><u>Score a Steal: High-Definition Samsung Odyssey G5tA Monitor for Just $255 at Amazon!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-choosing-computer-hardware-with-toms-insights/"><u>The Ultimate Guide to Choosing Computer Hardware with Tom's Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-the-dough-spectrum-black-27-inch-oled-professional-gamer-approved-quality-assessment/"><u>The Ultimate Guide to the Dough Spectrum Black 27-Inch OLED: Professional Gamer Approved Quality Assessment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-exploring-computer-components/"><u>Tom's Tech Hub: Exploring Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-guides-on-hardware/"><u>Tom's Tech Reviews: Comprehensive Guides on Hardware</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-motorola-moto-g24-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Motorola Moto G24 Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-gaming-displays-optimal-choices-for-ps5-xbox-series-x-and-series-s/"><u>Top Gaming Displays: Optimal Choices for PS5, Xbox Series X, and Series S</u></a></li>
 </ul></div>
 

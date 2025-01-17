@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Portable Displays - Comprehensive Reviews & Comparisons by ZDNet
-date: 2025-01-04T20:09:01.740Z
-updated: 2025-01-10T23:23:51.973Z
+date: 2025-01-14T00:07:10.169Z
+updated: 2025-01-17T02:15:45.769Z
 tags:
   - laptops
 categories:
@@ -24,12 +24,16 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the best lightweight laptop right now?
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best ultraportable laptops of 2024
@@ -79,10 +83,14 @@ Cons
 * Generic design
 * Loud fans
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Acer Swift Go 14
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
@@ -112,10 +120,14 @@ Cons
 * Comes pre-loaded with bloatware
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
 
@@ -148,10 +160,6 @@ Cons
 
 ## LG Gram Pro 17
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop with a 17" display
 
 The LG Gram Pro 17 takes portability to the extreme. At just half an inch thick and weighing barely over three pounds, the Gram Pro 17 not only holds a Guinness record, but achieved something that at one time was thought to be impossible for a 17" laptop.
@@ -183,10 +191,6 @@ Cons
 
 ## Lenovo ThinkPad X1 Carbon
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop for work
 
 Lenovo's ThinkPad laptop series has been popular with professionals seeking durable Windows machines for years now, and the X1 Carbon is no exception. This is an elegant, lightweight workhorse of a laptop designed with the working professional in mind, and comes with a host of powerful hardware to back it up. 
@@ -212,10 +216,6 @@ The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zd
 | ASUS ROG Zephyrus G14 | $1600             | AMD Ryzen 9 8945HS, GeForce RTX 4060             | 16GB, 1TB                   | 3.31             |
 | LG Gram Pro 17        | $1299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050 | 16GB, 1TB                   | 2.7              |
 | Lenovo X1 Carbon      | $2263             | Intel Core Ultra 5 125U, Intel Arc Graphics      | 16GB, up to 1TB             | 2.4              |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which is the right lightweight laptop for you?
 
@@ -261,6 +261,10 @@ Ultraportability does come with tradeoffs, however, both in terms of design and 
 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much does a typical laptop weigh?
 
 Laptops are incredibly thin and light these days, with cutting-edge technology pushing the limit even further each year. Just ten years ago, it wasn't uncommon for laptops to weigh six or seven pounds; today, that seems absurd. 
@@ -268,10 +272,6 @@ Laptops are incredibly thin and light these days, with cutting-edge technology p
 Most laptops today weigh between two and a half and five pounds, with a five-pound laptop being considered on the heavy side. Different configurations change the weight of laptops, as well. More memory and storage will increase the weight -- something to keep in mind when buying. 
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What slim laptop backpack do we recommend?
 
@@ -335,22 +335,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-integrating-social-networks-sharing-fb-videos-on-whatsapp/"><u>[Updated] In 2024, Integrating Social Networks Sharing FB Videos on WhatsApp</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-oneplus-11-5g-frp-bypass-by-drfone-android/"><u>About OnePlus 11 5G FRP Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boosting-laptop-efficiency-a-guide-to-driver-updates-for-your-dell-xps-15-in-windows/"><u>Boosting Laptop Efficiency: A Guide to Driver Updates for Your Dell XPS 15 in WINDOWS</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-list-of-microsoft-office-substitutes/"><u>Comprehensive List of Microsoft Office Substitutes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/efficiently-updating-your-mbox-2-drivers-on-pc-download-and-installation-instructions/"><u>Efficiently Updating Your MBox 2 Drivers on PC: Download & Installation Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-setup-of-your-new-sound-blaster-z-freshly-installed-drivers-for-windows-11/"><u>Effortless Setup of Your New Sound Blaster Z - Freshly Installed Drivers for Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722957419681-get-your-amd-rx-6800-driver-update-now-optimized-for-windows-operating-systems-including-11-10-8-and-7/"><u>Get Your AMD RX 6800 Driver Update Now: Optimized for Windows Operating Systems Including 11, 10, 8 & 7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-itel-a60-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-pc-performance-with-intels-latest-iris-plus-graphics-software-on-windows-10-and-11/"><u>Improve PC Performance with Intel's Latest Iris Plus Graphics Software on Windows 10 and 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-video-vanguard-showdown-which-is-worthier-obs-or-twitch-studio/"><u>In 2024, Video Vanguard Showdown Which Is Worthier, OBS or Twitch Studio?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-users-handbook-creating-and-managing-preprogrammed-sms-alerts-efficiently/"><u>IPhone Users' Handbook: Creating and Managing Preprogrammed SMS Alerts Efficiently</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-nvidia-quadro-graphics-drivers-for-windows-10-professional-workstation-support/"><u>Official NVIDIA Quadro Graphics Drivers for Windows 10 | Professional Workstation Support</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revamping-graphics-the-ultimate-guide-to-updating-ati-drivers-on-a-windows-machine/"><u>Revamping Graphics: The Ultimate Guide to Updating ATI Drivers on a Windows Machine</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-for-tl-wn722n-wireless-nic-unrecognized-in-windows-environment/"><u>Step-by-Step Fix for 'TL-WN722N Wireless NIC Unrecognized in Windows Environment</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-a1x-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo A1x 5G Location | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[New] In 2024, From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-time-stretching-through-lenses-a-detailed-slomo-analysis-2024/"><u>[New] Time Stretching Through Lenses A Detailed SloMo Analysis, 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-complete-assessment-hero4-black-potential/"><u>[Updated] Complete Assessment Hero4 Black Potential</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-l2300d-update-or-install-new-printer-driver-today/"><u>Brother HL-L2300D: Update or Install New Printer Driver Today</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-note-30-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Note 30 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-get-your-brother-hl-l2340dw-printer-running-on-windows-with-latest-driver-downloads/"><u>Easy Installation Guide - Get Your Brother HL-L2340DW Printer Running on Windows with Latest Driver Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-new-gadgets-with-tom-a-comprehensive-guide/"><u>Exploring New Gadgets with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-dolby-audio-drivers-now-compatible-with-windows-111081/"><u>Get the Latest Dolby Audio Drivers Now - Compatible with Windows 11/10/8.1!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955983849-get-the-latest-epson-wf-2750-drivers-installed-in-minutes/"><u>Get the Latest Epson WF-2750 Drivers Installed in Minutes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-arduino-usb-drivers-compatible-with-windows-operating-systems/"><u>Latest Arduino USB Drivers Compatible with Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-gaming-performance-highlighted-as-amds-zen-4-flagship-surpasses-zen-5-benchmarks-ryzen-7-7800x3d-outpaces-the-previous-generation-with-a-23-speed-lead-o9/"><u>New Gaming Performance Highlighted as AMD's Zen 4 Flagship Surpasses Zen 5 Benchmarks: Ryzen 7 7800X3D Outpaces the Previous Generation with a 23% Speed Lead over Ryzen 9 9900X</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-disrupt-the-norm-top-glitch-art-video-editing-apps-for-ios-and-android-creators/"><u>New In 2024, Disrupt the Norm Top Glitch Art Video Editing Apps for iOS and Android Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-stability-essentials-for-youtube-videographers/"><u>Professional Stability Essentials for YouTube Videographers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-lack-of-fundamental-printer-and-scanner-software-on-windows-11/"><u>Resolved: Lack of Fundamental Printer & Scanner Software on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snowflakes-splendor-beijings-winter-wonder-for-2024/"><u>Snowflakes Splendor Beijing's Winter Wonder for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-storage-with-the-4tb-samsung-t5-portable-ssd-at-unbeatable-discounts-)-50-off-now-available-on-amazon-insights-from-zdnet/"><u>Upgrade Your Storage with the 4TB Samsung T5 Portable SSD at Unbeatable Discounts > 50% Off, Now Available on Amazon | Insights From ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vlc-and-mx-showdown-for-media-loading/"><u>VLC and MX Showdown for Media Loading</u></a></li>
 </ul></div>
 

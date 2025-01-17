@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Selection of Dell Deals This Cyber Monday Across Newegg, Best Buy, and Amazon | ZDNET Exclusive
-date: 2025-01-04T04:49:40.035Z
-updated: 2025-01-10T22:15:24.914Z
+date: 2025-01-10T22:33:26.056Z
+updated: 2025-01-16T21:20:09.431Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Cyber Monday 2023 Dell deals
 
 * [Dell OptiPlex 7000 7090 Intel Core i7 desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7090-business-desktops-workstations%252Fp%252F1VK-0001-6G7A2) for $939 (save $230)
@@ -42,10 +38,6 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 * [Dell WD15 Monitor Dock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMonitor-Adapter-USB-C-450-AEUO-7FJ4J%2Fdp%2FB01MU4SNK5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1) for $82 (save $118)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1) for $230 (save $100)  
 ---  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Cyber Monday 2023 Dell deals
 
@@ -105,7 +97,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell laptop deals
@@ -120,16 +112,16 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Precision 3580 mobile workstation](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1770261-REG%2Fdell%5F5d74g%5F15%5F6%5Fprecision%5F3580%5Fmobile.html): $1390 (save $1000)
 * [Dell Inspiron 16 Plus](https://www.anrdoezrs.net/click-9041660-15679772-1700503970000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,000 (save $650)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Cyber Monday Dell desktop deals
 
 * [Alienware Aurora R15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAlienware-Aurora-R15-Gaming-Desktop%2Fdp%2FB0C2VX6HN8%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1): $2,520 (save $630)
 * [Alienware Aurora R10](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252F1VK-0001-5Z884%253FItem%253D9SIAA0SJU76104): $2000 (save $500)
 * [Dell OptiPlex 7010](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1764723-REG%2Fdell%5F6f73r%5Foptiplex%5F7010%5Fsmall.html): $699 (save $300)
 * [Dell Inspiron 27 7720 Intel Core i5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-24-5400-Touchscreen%2Fdp%2FB0BGQSKN8N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1): $744 (save $186)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell monitor deals
 
@@ -138,9 +130,17 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1): $80 (save $50)
 * [Dell 32-inch 4K monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-SE3223Q-31-5-inch-Monitor-Gray%2Fdp%2FB0B2GRMGFL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1): $248 (save $117)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is Cyber Monday 2023?
 
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When was Black Friday 2023?
 
@@ -149,7 +149,7 @@ Black Friday 2023 was on November 24, 2023\.
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday deals?
@@ -228,20 +228,20 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-minimization-32-top-rated-apps-to-tidy-up-videos-on-android/"><u>[Updated] Mastering Minimization 32 Top-Rated Apps to Tidy Up Videos on Android</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-embark-on-avatar-adventures-building-characters-with-ease/"><u>2024 Approved Embark on Avatar Adventures Building Characters with Ease</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-5700-xt-windows-11/"><u>AMD Radeon RX 지트 5700 XT 드라이버 - Windows 11 다운로드</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-rx-ebx-560-driver-troubleshooting-on-multiple-windows-versions/"><u>AMD RX Ebx 560 Driver Troubleshooting on Multiple Windows Versions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/design-channels-get-free-visuals-now/"><u>Design Channels - Get Free Visuals Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-aoc-monitor-drivers-on-windows-11108-what-you-need-to-know/"><u>Easy Installation of AOC Monitor Drivers on Windows 11/10/8 - What You Need to Know</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-corsair-audio-drivers-for-improved-sound-quality-on-windows/"><u>How to Easily Update Corsair Audio Drivers for Improved Sound Quality on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-drivers-for-your-brother-hl-l2380dw-printer-on-windows-pcs/"><u>How to Get the Latest Drivers for Your Brother HL-L2380DW Printer on Windows PCs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-peak-computing-powerhouses-the-best-on-the-market/"><u>In 2024, Peak Computing Powerhouses - The Best On the Market</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-scrutinizing-the-core-functions-of-recordcast/"><u>In 2024, Scrutinizing the Core Functions of RecordCast</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/mastering-multilingual-pcs-alter-the-default-keyboard-setting-in-windows-1nce-with-yl-solutions/"><u>Mastering Multilingual PCs: Alter the Default Keyboard Setting in Windows 1Nce with YL Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-access-fresh-amd-smbus-drivers-get-them-here/"><u>Quick Access: Fresh AMD SMBus Drivers - Get Them Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-next-gen-gaming-and-computing-power-asrocks-extensive-range-of-arrow-lake-boards-now-features-a-groundbreaking-taichi-design-with-state-of-the-ar95/"><u>Unleashing Next-Gen Gaming and Computing Power: ASROCK's Extensive Range of Arrow Lake Boards Now Features a Groundbreaking Taichi Design With State-of-the-Art CAMM^2 RAM Options</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/unraveling-15-trendy-tiktok-stunts-today/"><u>Unraveling 15 Trendy TikTok Stunts Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/your-guide-to-freebies-top-8-mobile-music-players-available-on-iphone/"><u>Your Guide to Freebies: Top 8 Mobile Music Players Available on iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-high-dynamic-range-photography-with-ps/"><u>[New] Navigating High Dynamic Range Photography with PS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-youtube-to-life-on-google-slides-for-2024/"><u>Bringing YouTube to Life on Google Slides for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/find-and-install-software-updates-using-control-panel-expert-advice-by-yl-software/"><u>Find & Install Software Updates Using Control Panel - Expert Advice by YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-cutting-edge-hardware-on-tomtech-review/"><u>In-Depth Analysis of Cutting-Edge Hardware on TomTech Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-look-at-the-razer-blade-14-impressive-specs-with-an-elegant-build-and-hefty-price-tag/"><u>In-Depth Look at the Razer Blade 14: Impressive Specs with an Elegant Build and Hefty Price Tag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-ultimate-laptop-mod-type-in-morse-by-shutting-the-lid-but-dont-blame-us-for-screen-cracks-or-sanity-issues/"><u>Introducing the Ultimate Laptop Mod: Type in Morse by Shutting the Lid - But Don't Blame Us for Screen Cracks or Sanity Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-weightless-power-next-gen-structural-carbon-fiber-battery-technology-transforms-device-design/"><u>Introducing Weightless Power: Next-Gen Structural Carbon Fiber Battery Technology Transforms Device Design</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-equipment-choices-with-toms-hardware-wisdom/"><u>Mastering Equipment Choices with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-policy-bypass-during-windows-installation-issues/"><u>Mastering Policy Bypass During Windows Installation Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-tech-knowledge-with-in-depth-reviews-at-tomn-hardware/"><u>Mastering Tech Knowledge with In-Depth Reviews at Tom'n Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-tech-insights-from-toms-hardware-expertise/"><u>Mastering Tech: Insights From Tom's Hardware Expertise</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-fix-plugins-not-working-in-final-cut-pro-x/"><u>New How to Fix Plugins Not Working in Final Cut Pro X?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-stabilizers-iphone-android-and-professional-choices-1-10/"><u>Premium Stabilizers IPhone, Android, and Professional Choices #1-10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-synergy-integrating-auto-gpt-into-ubuntu/"><u>Seamless Synergy: Integrating Auto-GPT Into Ubuntu</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210909896-9781684931873-the-history-of-magic/"><u>The History of Magic | Free Book</u></a></li>
 </ul></div>
 

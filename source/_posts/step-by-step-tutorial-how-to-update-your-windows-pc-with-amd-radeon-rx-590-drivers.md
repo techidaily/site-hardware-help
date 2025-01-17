@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Update Your Windows PC with AMD Radeon RX 590 Drivers"
-date: 2024-08-13T12:50:14.680Z
-updated: 2024-08-14T12:50:14.680Z
+date: 2025-01-13T23:44:47.046Z
+updated: 2025-01-16T19:04:46.681Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
  In this post, we’re going to show you 2 easy ways to get the latest drivers for your **Surface Book.**
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## To update Surface Book Drivers
 
 **[Option 1 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/surface-book-drivers-download-update-easily/#O1)**  –  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
@@ -33,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -46,22 +48,22 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bbe94614e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart**   your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 2: Update your Surface Book drivers manually**
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise your PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -71,10 +73,12 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 1. Go to **[Microsoft Surface Book Products Help](https://support.microsoft.com/en-us/hub/4295272/surface-book-products-help)**  .
 2. Scroll down to the Help list, then click**Install and update** \>**Download drivers and firmware for Surface** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7ccdf679a7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
 4. Restart your computer for the changes to take effect.
 
@@ -90,8 +94,6 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +101,26 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-record-hulu-on-all-platforms-winmacmobile/"><u>[New] 2024 Approved How To Record Hulu On All Platforms - Win/Mac/Mobile</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-30-free-mac-speech-to-text-software-youve-missed/"><u>[New] In 2024, Top 30 Free Mac Speech-to-Text Software You've Missed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-win-10s-best-webcam-recording-software-guide-for-2024/"><u>[New] Win 10'S Best Webcam Recording Software Guide for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-best-practices-for-youtube-to-igtv-transformation/"><u>[Updated] 2024 Approved Best Practices for YouTube to IGTV Transformation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-achieve-professional-results-podcast-editing-made-simple-in-garageband/"><u>2024 Approved Achieve Professional Results Podcast Editing Made Simple in GarageBand</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-energize-with-these-10-inspiring-movies/"><u>2024 Approved Energize with These 10 Inspiring Movies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-monitor-driver-updates-instantly-safe-and-fast-downloads/"><u>Asus Monitor Driver Updates Instantly – Safe & Fast Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-m-audio-fast-track-drivers-compatible-with-windows-117881-free/"><u>Download M-Audio Fast Track Drivers Compatible with Windows 11/7/8/8.1 - Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-get-the-latest-sound-blaster-z-drivers-compatible-with-windows-11/"><u>Easy Steps to Get the Latest Sound Blaster Z Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-techniques-to-secure-the-newest-radeon-hd-7850-graphic-card-drivers-for-your-windows-11-system/"><u>Effective Techniques to Secure the Newest Radeon HD 7850 Graphic Card Drivers for Your Windows 11 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficiently-install-your-epson-stylus-nx420-software-on-pcs-running-windows-7810-free-download/"><u>Efficiently Install Your Epson Stylus NX420 Software on PCs Running Windows 7/8/10 (Free Download)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fractured-fort-knox-continue-current-cybersecurity/"><u>Fractured Fort Knox? Continue Current Cybersecurity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-thinkpad-t420s-driver-downloads-and-updates-for-windows-10-easy-guide/"><u>Free ThinkPad T420s Driver Downloads and Updates for Windows 10 - Easy Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-hp-scanjet-driver-update-compatible-with-windows-11-8-and-7/"><u>Get the Most Recent HP Scanjet Driver Update - Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-12-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 12 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/immediate-solutions-resolving-blank-folder-issues-in-windows-11/"><u>Immediate Solutions: Resolving Blank Folder Issues in Windows 11</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-guide-learning-the-right-ways-to-start-facebook-live-shopping-for-2024/"><u>New Guide Learning the Right Ways To Start Facebook Live Shopping for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-installing-epson-es-400-printerscanner-drivers-on-windows-os/"><u>Step-by-Step Guide to Installing Epson ES-400 Printer/Scanner Drivers on Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-the-western-digital-ses-usb-drive-in-windows-2011-onwards/"><u>Step-by-Step Guide: Installing the Western Digital SES USB Drive in Windows (2011 Onwards)</u></a></li>
+</ul></div>
 

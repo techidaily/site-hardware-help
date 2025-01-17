@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Editorial Reveal: The Hidden Workhorse Feature That Elevates This Year’s Number One 2-in-1 Device for Professionals"
-date: 2025-01-09T17:46:51.565Z
-updated: 2025-01-11T03:52:09.922Z
+date: 2025-01-09T18:45:43.680Z
+updated: 2025-01-16T21:18:26.987Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ The ThinkPad X1 2-in-1 performs well in most cases, although it's not necessaril
 It also did well on the benchmark tests I ran, even outperforming the Intel Core i9-9880H. I'm very familiar with the Ultra 7, so I expected solid performance. Indeed, it is because of this familiarity that I was surprised to see this model's price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,18 +112,20 @@ Additionally, keep in mind that adding options like an OLED screen and hardware 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-quick-play-music-10-best-apps-phones/"><u>[Updated] Quick Play Music 10 Best Apps, Phones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-optimize-your-zoom-soundscape-clear-channel-balance-achieved/"><u>2024 Approved Optimize Your Zoom Soundscape Clear Channel Balance Achieved</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-6900-xt-graphics-drivers-download-now-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6900 XT Graphics Drivers: Download Now for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-and-updating-hp-laserjet-1320-printer-drivers-on-your-windows-pc/"><u>Easy Guide to Installing and Updating HP LaserJet 1320 Printer Drivers on Your Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-to-follow-guide-downloading-and-installing-hp-officejet-3830-drivers-for-windows/"><u>Easy-to-Follow Guide: Downloading and Installing HP OfficeJet 3830 Drivers for Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-0xc19001e1-on-windows-11-causes-and-solutions-explored/"><u>Error 0xC19001E1 on Windows 11: Causes and Solutions Explored</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-up-to-date-zebra-printer-drivers-on-a-windows-machine/"><u>Find and Install Up-to-Date Zebra Printer Drivers on a Windows Machine</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-thunderbolt-drivers-windows-11-8-7-free-download-and-updates/"><u>Get the Newest Thunderbolt #Drivers (Windows 11, 8, 7) - Free Download and Updates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-switch-off-sound-amplification-and-effects-on-windows-11/"><u>How to Switch Off Sound Amplification and Effects on Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/startup-steps-for-stream-money-in-periscope-for-2024/"><u>Startup Steps for Stream Money in Periscope for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/subtitled-uninterrupted-access-to-9-festive-holiday-movies-free-for-2024/"><u>Subtitled, Uninterrupted Access to 9 Festive Holiday Movies - Free for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-apex-legends-cross-play-how-to-turn-off-cross-play-and-best-platforms/"><u>[New] In 2024, Apex Legends Cross-Play How to Turn Off Cross-Play and Best Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>[New] Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>[Updated] 2024 Approved How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-techniques-for-parsing-forenames-and-family-names-efficiently/"><u>Excel Techniques for Parsing Forenames & Family Names Efficiently</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-tom-in-depth-technology-analysis/"><u>Exploring Gadgets with Tom: In-Depth Technology Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-computer-components-with-toms-tech-reviews/"><u>Exploring the Latest in Computer Components with Tom's Tech Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-hardware-top-tech-reviews-and-insights/"><u>Exploring Tom's Hardware: Top Tech Reviews & Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-high-end-dell-g16-gaming-laptop-for-only-949-limited-time-offer/"><u>Get Your Hands on the High-End Dell G16 Gaming Laptop for Only $949 - Limited Time Offer!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hardwarehub-highlights-cutting-edge-devices-analyzed-for-your-tech-needs/"><u>HardwareHub Highlights: Cutting-Edge Devices Analyzed for Your Tech Needs</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-digital-design-integrating-text-with-visuals-for-improved-clarity/"><u>In 2024, Master Digital Design Integrating Text with Visuals for Improved Clarity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-the-lenovo-yoga-pro-9is-ergonomic-design-and-keyboard-comfort/"><u>In-Depth Analysis of the Lenovo Yoga Pro 9I's Ergonomic Design & Keyboard Comfort</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-alienware-m18-r2-gaming-laptop-the-ultimate-battle-station/"><u>In-Depth Analysis: Alienware M18 R2 Gaming Laptop - The Ultimate Battle Station</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/steps-to-success-capturing-your-google-meet-sessions/"><u>Steps to Success Capturing Your Google Meet Sessions</u></a></li>
 </ul></div>
 

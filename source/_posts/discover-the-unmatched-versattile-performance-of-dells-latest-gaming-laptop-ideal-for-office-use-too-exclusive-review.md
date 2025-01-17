@@ -1,7 +1,7 @@
 ---
 title: Discover the Unmatched Versattile Performance of Dell's Latest Gaming Laptop - Ideal For Office Use Too! Exclusive Review
-date: 2025-01-04T04:48:34.872Z
-updated: 2025-01-11T07:15:54.045Z
+date: 2025-01-15T22:04:01.679Z
+updated: 2025-01-17T01:22:02.342Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,15 +114,21 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-reflex-toolbox-bundle/"><u>[New] In 2024, Reflex Toolbox Bundle</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-professional-edits-using-youtube-studio-editor/"><u>[Updated] 2024 Approved Creating Professional Edits Using YouTube Studio Editor</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-secure-smooth-videos-selecting-premium-tripods-for-youtubers/"><u>[Updated] 2024 Approved Secure Smooth Videos Selecting Premium Tripods for YouTubers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-guide-to-selecting-best-video-grabber-tools/"><u>[Updated] Essential Guide to Selecting Best Video Grabber Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-downloading-the-latest-tracks-a-guide-to-free-extractors-for-pc-users/"><u>2024 Approved Downloading the Latest Tracks A Guide to Free Extractors for PC Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-acquiring-the-latest-asus-wifi-network-adapter-drivers/"><u>Comprehensive Guide to Acquiring the Latest Asus WiFi Network Adapter Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-version-of-insignia-ns-pcy5bma2-printer-driver-for-windows-11-10-and-7-free-download/"><u>Latest Version of Insignia NS-PCY5BMA2 Printer Driver for Windows 11, 10 & 7: Free Download</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pinnacle-speech-to-text-applications/"><u>Pinnacle Speech-to-Text Applications</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/startech-vga-drivers-get-your-free-installation-file-here/"><u>StarTech VGA Drivers - Get Your Free Installation File Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-fixing-d-link-driver-issues-with-a-painless-download-and-update-for-windows/"><u>Ultimate Tutorial: Fixing D-Link Driver Issues with a Painless Download & Update for Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-easy-download-of-youtube-preview-pictures/"><u>[Updated] Easy Download of YouTube Preview Pictures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-touchpad-driver-download-for-windows-11-quickly-and-easily/"><u>ASUS Touchpad Driver Download for Windows 11 Quickly & Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959155228-ensure-peak-performance-downloading-updated-canon-pixma-ts3322-drivers-today/"><u>Ensure Peak Performance: Downloading Updated Canon PIXMA TS3322 Drivers Today</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-guide-to-the-top-10-video-calls-for-your-smartphone-for-2024/"><u>Essential Guide to the Top 10 Video Calls for Your Smartphone for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-usb-30-device-drivers-for-windows-pcs-download-guide/"><u>Free USB 3.0 Device Drivers for Windows PCs: Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-rtx-1080-drivers-for-windows-11-users-download-guide/"><u>Get the Latest Nvidia GeForce RTX 1080 Drivers for Windows 11 Users – Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-compatible-brother-hl-2240-driver-for-your-pc-with-windows-os/"><u>Get the Newest Compatible Brother HL-2240 Driver for Your PC with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-epson-wf-7720-printer-drivers-in-windows/"><u>How to Install the Latest Epson WF- 7720 Printer Drivers in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-create-an-nft-effortlessly-an-ultimate-guide-for-beginners/"><u>In 2024, How to Create an NFT Effortlessly An Ultimate Guide for Beginners</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-for-gigabytes-gc-wb867d-graphics-card-free-driver-downloads-included/"><u>Installation Guide for Gigabyte's GC-WB867D Graphics Card - Free Driver Downloads Included</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-edge-40-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola Edge 40 won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-screenshots-print-screen-or-snip-and-sketch/"><u>Navigating Windows Screenshots: Print Screen or Snip and Sketch?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recovering-your-missing-texts-and-reminders-from-an-iphone-easily/"><u>Recovering Your Missing Texts and Reminders From an iPhone Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-manual-for-deleting-old-saved-files-from-ps5/"><u>Step-by-Step Manual for Deleting Old Saved Files From PS5</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-struggle-amazon-vs-the-ruling-factions-in-thousands-of-fb-groups/"><u>The Struggle: Amazon Vs. The Ruling Factions in Thousands of FB Groups</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-your-cs-workflow-with-codegpt-and-vs-code/"><u>Transforming Your CS Workflow with CodeGPT and VS Code</u></a></li>
 </ul></div>
 

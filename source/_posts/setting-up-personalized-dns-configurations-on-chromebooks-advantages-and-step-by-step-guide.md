@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Personalized DNS Configurations on Chromebooks: Advantages & Step-by-Step Guide"
-date: 2024-11-29T04:48:04.985Z
-updated: 2024-12-05T05:26:10.162Z
+date: 2025-01-12T18:47:04.415Z
+updated: 2025-01-17T00:14:23.773Z
 tags:
   - laptops
 categories:
@@ -34,10 +34,6 @@ Based on all my experience, here's why Chromebooks are the perfect laptops for m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Chromebooks are cheap
 
 The first reason is beyond dispute. Given how the economy has had a rather crushing effect on so many of our budgets, finding an inexpensive piece of hardware can be a real plus for anyone looking to stay productive. That's not to say every Chromebook is cheap. I once paid a premium for a [Chromebook Pixel](https://www.zdnet.com/article/googles-chromebook-pixel-lives-on-but-you-cant-buy-one/) \-- and that laptop remains one of my favorites. (The display and keyboard were best in class at the time.) 
@@ -63,7 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Chromebooks are user-proof
@@ -79,7 +75,7 @@ I've known users -- hello, family, are you listening? -- who've suffered to no e
 I've watched users continually break Windows and MacOS laptops (and come to me for help). The number of times I've had a Chromebook user do the same thing is… nil. Sure, a couple of times someone asked me, "How do I get this thing connected to a printer?" That's about it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Chromebooks are fast
@@ -93,7 +89,7 @@ It's not just about how quickly apps open (Android _and_ Linux apps, see above),
 If you want a fast laptop at a reasonable price, get a Chromebook.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Chromebooks are reliable
@@ -104,6 +100,10 @@ In the 10 years since I've been using Chromebooks, I've only had one device with
 
 Even when using the [non-stable ChromeOS channel](https://www.zdnet.com/article/how-to-switch-release-channels-on-your-chromebook/), I've found the operating system to be exponentially more reliable than Windows. Anyone who argues this point hasn't used ChromeOS enough.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Chromebooks are secure
 
 Reliability isn't just about stability -- it's also about security, and -- thanks to the Linux kernel -- [ChromeOS is a very secure option](https://www.zdnet.com/article/5-chromeos-settings-you-should-change-for-a-more-secure-chromebook-heres-how/). On top of that, Chromebooks are secured with verification at boot, a read-only OS that blocks executables, data encryption, sandboxing, and more. 
@@ -112,10 +112,6 @@ Thanks to ChromeOS's built-in security, even older, out-of-support Chromebooks a
 
 You won't need antivirus or anti-malware. Just make sure to apply any/all updates when they become available, avoid suspicious websites, and only install extensions from the official Google Chrome Store, and you're good to go. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Chromebooks can be easily restored
 
 Speaking of reliability, should you wind up having a problem with ChromeOS misbehaving (extremely unlikely, see above), you can simply do a "powerwash" (a factory reset), log back into your Google account, and you'll find everything there, minus whatever problem you were experiencing (and anything you'd previously saved to the Downloads folder).
@@ -123,6 +119,10 @@ Speaking of reliability, should you wind up having a problem with ChromeOS misbe
 **Also: [5 ChromeOS settings you should change for a more secure Chromebook - here's how](https://www.zdnet.com/article/5-chromeos-settings-you-should-change-for-a-more-secure-chromebook-heres-how/)**
 
 No other operating system can compete with ChromeOS's ability to factory reset and return you to a pristine working state without having lost your data, bookmarks, apps, and more. I've never once worried about doing anything with a Chromebook, simply because I know I can do a quick power wash and be back working in minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -158,22 +158,22 @@ Chromebooks may not be the ideal solution for everyone. (Attempt any serious vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-canvas-and-chroma-mastering-color-interaction/"><u>[New] In 2024, Canvas and Chroma Mastering Color Interaction</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-essential-8-in-virtual-reality-gaming/"><u>[New] The Essential 8 in Virtual Reality Gaming</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-screen-shots-to-speech-navigating-the-best-37-applications-for-video-to-text-translation/"><u>[Updated] In 2024, From Screen Shots to Speech Navigating the Best 37 Applications for Video-to-Text Translation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-classroom-media-mastery-video-editing-essentials/"><u>2024 Approved Classroom Media Mastery Video Editing Essentials</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210083609-9781734574142-art-of-magic/"><u>Art of Magic | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-authentic-user-experiences-through-chatgpt-generated-persons/"><u>Crafting Authentic User Experiences Through ChatGPT-Generated Persons</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-lenovo-thinkpad-x1-carbon-drivers-compatible-with-windows-11-and-7/"><u>Download Lenovo ThinkPad X1 Carbon Drivers: Compatible with Windows 11 and 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-intels-advanced-thunderbolt-controllers-ready-to-go/"><u>Effortless Installation of Intel's Advanced Thunderbolt Controllers – Ready to Go?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-z370p-d3-motherboard-drivers-secure-and-fast-download-options/"><u>Essential Z370P D3 Motherboard Drivers – Secure & Fast Download Options</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-lgs-ultra-clear-4k-screen-capabilities/"><u>Exploring LG's Ultra-Clear 4K Screen Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-edge-with-newly-listed-ryzen-5-9600x-in-amazons-canada-store-for-cad472-is-it-worth-your-money/"><u>Get the Edge with Newly Listed Ryzen 5 9600X in Amazon's Canada Store for CAD$472 – Is It Worth Your Money?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-drivers-for-your-insignia-bluetooth-device-in-windows/"><u>How to Install Updated Drivers for Your Insignia Bluetooth Device in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963963389-install-official-iphone-support-software-on-your-windows-11-pc-now/"><u>Install Official iPhone Support Software on Your Windows 11 PC Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-the-latest-ch3ebusch-g-chip-driver-version-on-windows-11-pcs/"><u>Installing the Latest CH3ebusch G Chip Driver Version on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-and-conceal-pc-folders-with-ease-windows-11/"><u>Navigate and Conceal PC Folders with Ease (Windows 11)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-steps-to-get-the-newest-driver-for-your-wacom-cintiq-install-now/"><u>Quick Steps to Get the Newest Driver for Your Wacom Cintiq: Install Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quiet-connection-master-the-art-of-pairing-airpods-to-your-quest-3-without-causing-a-ruckus-silenttech-tips/"><u>Quiet Connection: Master the Art of Pairing AirPods to Your Quest 3 Without Causing a Ruckus | SilentTech Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-thumbnail-scaling-techniques-for-youtube/"><u>2024 Approved Thumbnail Scaling Techniques for YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/blazing-lanes-at-sochi-2022-games-for-2024/"><u>Blazing Lanes at Sochi 2022 Games for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-light-and-shadow-in-hdr-portraiture/"><u>In 2024, Mastering Light and Shadow in HDR Portraiture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-shutter-societys-top-six-elite-4k-dslr-picks/"><u>In 2024, Shutter Society's Top Six Elite 4K DSLR Picks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-guide-to-turn-off-ig-predictions/"><u>In 2024, The Guide to Turn Off IG Predictions</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-recognizing-games-not-listed-on-steam/"><u>Methods for Recognizing Games Not Listed on Steam</u></a></li>
+<li><a href="https://win-blog.techidaily.com/microsoft-flight-simulator-2020-solving-pc-game-crash-issues-effectively/"><u>Microsoft Flight Simulator 2020: Solving PC Game Crash Issues Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-consumer-electronics-by-toms-hardware-specialists/"><u>The Ultimate Guide to Consumer Electronics by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-insights-comprehensive-guides-on-modern-electronics/"><u>Tom's Computer Insights: Comprehensive Guides on Modern Electronics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-hardware-t17238642572618/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-expert-insights-on-the-latest-computer-components/"><u>Tom's Tech Review: Expert Insights on the Latest Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-to-the-latest-in-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-insights-into-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into Computer Hardware</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-fix-avidemux-audio-issues-step-by-step-guide-for-2024/"><u>Updated Fix Avidemux Audio Issues Step-by-Step Guide for 2024</u></a></li>
 </ul></div>
 

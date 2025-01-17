@@ -1,7 +1,7 @@
 ---
 title: "New Gaming Performance Highlighted as AMD's Zen 4 Flagship Surpasses Zen 5 Benchmarks: Ryzen 7 7800X3D Outpaces the Previous Generation with a 23%% Speed Lead over Ryzen 9 9900X"
-date: 2024-08-13T12:54:49.538Z
-updated: 2024-08-14T12:54:49.538Z
+date: 2025-01-10T21:19:45.891Z
+updated: 2025-01-16T20:39:49.120Z
 tags:
   - cpu
 categories:
@@ -43,9 +43,9 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -54,14 +54,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -70,4 +67,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/download-epson-l3110-driver-for-windows-11107/"><u>[Download] Epson L3110 Driver for Windows 11/10/7</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-user-guide-to-hdr-image-creation/"><u>[New] IPhone User Guide to HDR Image Creation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-impact-partnering-with-influencers-on-youtube/"><u>2024 Approved Maximizing Impact Partnering with Influencers on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-conversational-ais-is-forefront-ai-the-next-big-thing-after-chatgpt/"><u>Comparing Conversational AIs: Is Forefront AI the Next Big Thing After ChatGPT?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722996239828-eight-proven-fixes-for-unresponsive-firefox-get-back-to-browsing-today/"><u>Eight Proven Fixes for Unresponsive Firefox - Get Back to Browsing Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966046120-fix-usb-compatibility-issues-by-updating-drivers-in-windows-11-7-and-eight-easily/"><u>Fix USB Compatibility Issues by Updating Drivers in Windows 11, 7 & Eight Easily!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-compatible-bluetooth-device-drivers/"><u>Free Download: Compatible Bluetooth Device Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975353435-get-the-latest-amd-radeon-rx-groovy-to-download-and-install-drivers-on-your-windows-11-10-8-or-7-pc/"><u>Get the Latest AMD Radeon RX Groovy to Download and Install Drivers on Your Windows 11, 10, 8 or 7 PC!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-brother-mfc-l2740dw-driver-software-for-windows-operating-systems/"><u>Get the Latest Brother MFC-L2740DW Driver Software for Windows Operating Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quirky-creations-your-guide-to-no-cost-memes/"><u>In 2024, Quirky Creations – Your Guide to No-Cost Memes</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-crash-in-windows-10-follow-this-path/"><u>Keyboard Crash in Windows 10? Follow This Path</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-beyond-chatgpt-understanding-its-processing-barriers/"><u>Navigating Beyond ChatGPT: Understanding Its Processing Barriers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ohne-qualitatseinbussen-komprimieren-grosstes-video-auf-whatsapp-mit-winxdvd/"><u>Ohne Qualitätseinbußen Komprimieren – Größtes Video Auf WhatsApp Mit WinXDVD</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964929751-step-by-step-tutorial-finding-and-upgrading-synaptic-drivers-in-windows-made-simple/"><u>Step-by-Step Tutorial: Finding & Upgrading Synaptic Drivers in Windows Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-window-11-in-place-upscales/"><u>The Insider's Guide to Window 11 In-Place Upscales</u></a></li>
+</ul></div>
 

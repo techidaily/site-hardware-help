@@ -1,7 +1,7 @@
 ---
 title: "Meet the New Slender Superstar: LG's Latest and Leanest Gram Laptop on the Market Insights"
-date: 2025-01-08T17:14:07.057Z
-updated: 2025-01-11T04:23:25.507Z
+date: 2025-01-14T17:24:27.488Z
+updated: 2025-01-16T18:41:54.453Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ Now you may be wondering: what's the catch? Is the Asus Zenbook 14 as perfect as
 My biggest issue with the laptop is the fact it can run incredibly warm. You can't even type on the keyboard or have it on your legs without discomfort. Heat vents are found on the bottom and the side, but they don't offer much relief. This problem is exacerbated if you try to use the laptop while charging. There's so much heat that typing on the keyboard becomes uncomfortable. You're honestly better off not using the laptop during this time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -89,7 +89,7 @@ The [Asus Zenbook 14](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.
 You can purchase my review unit's configuration on Best Buy for $799.99, but there's always the option to upgrade the hardware if you're looking for something with more power behind it. A Zenbook 14 sporting an Intel Core Ultra 7 155H processor, Intel Arc GPU, 16GB of RAM, and 1TB of storage will [start at $1,299](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fshop.asus.com%2Fus%2Fasus-zenbook-14-oled-ux3405-laptop.html) but come with significant jump up in processing power. No matter which one you get, it'll be worth the low price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -136,18 +136,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capture-share-and-record-with-the-best-mac-video-capture-tools/"><u>[New] 2024 Approved Capture, Share, and Record with the Best Mac Video Capture Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-pioneering-techniques-in-documentary-scripting/"><u>[New] 2024 Approved Pioneering Techniques in Documentary Scripting</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-revolutionize-your-tiktok-videos-streamlined-methods-for-new-borders-for-2024/"><u>[New] Revolutionize Your TikTok Videos Streamlined Methods for New Borders for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-superior-fb-video-tools-save-as-top-quality-mp4s-for-2024/"><u>[New] Superior FB Video Tools – Save as Top Quality MP4s for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-crafting-a-seamless-gift-discovery-journey/"><u>[Updated] Crafting a Seamless Gift Discovery Journey</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-depth-walkthrough-for-proficient-use-of-green-screen-in-kinemaster/"><u>[Updated] In-Depth Walkthrough for Proficient Use of Green Screen in Kinemaster</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-start-off-right-top-gear-for-aspiring-gopro-users-for-2024/"><u>[Updated] Start Off Right Top Gear for Aspiring GoPro Users for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-the-ultimate-iphone-selfie-sticks-8/"><u>2024 Approved Unveiling the Ultimate IPhone Selfie Sticks (#8)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-to-follow-instructions-for-dells-newest-audio-driver-update/"><u>Easy-to-Follow Instructions for Dell's Newest Audio Driver Update</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-logitech-brio-webcam-for-windows-systems-11-8-and-7-downloads/"><u>How to Update Logitech BRIO Webcam for Windows Systems: 11, 8, and 7 Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-sound-card-drivers-instant-downloads-and-setup/"><u>HP Sound Card Drivers: Instant Downloads and Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-or-updating-your-epson-wf-3720-printer-drivers-made-simple/"><u>Installing or Updating Your Epson WF-3720 Printer Drivers Made Simple.</u></a></li>
-<li><a href="https://article-posts.techidaily.com/mastering-the-microscopic-views-in-teams-for-2024/"><u>Mastering the Microscopic Views in Teams for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-screensaviors-guide-global-and-regional-channels-led-by-you/"><u>[New] ScreenSaviors Guide Global and Regional Channels Led by You</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensively-curated-list-15-prime-gear-for-gopro/"><u>Comprehensively Curated List 15 Prime Gear for GoPro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-data-collection-optimize-your-websites-user-experience/"><u>Cookiebot-Driven Data Collection: Optimize Your Website's User Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-cutting-edge-electronics-on-toms-hardware-platform/"><u>Discover Cutting-Edge Electronics on Tom's Hardware Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-canon-driver-installation-and-updates-on-windows-step-by-step-guide/"><u>Effortless Canon Driver Installation and Updates on Windows - Step by Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722960811453-enhance-your-internet-experience-with-updated-wi-fi-drivers-for-windows-7/"><u>Enhance Your Internet Experience with Updated Wi-Fi Drivers for Windows 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-safely-obtain-and-install-lenovo-thinkpad-drivers-a-reliable-guide/"><u>How To Safely Obtain & Install Lenovo ThinkPad Drivers - A Reliable Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proven-winners-selecting-the-best-hdr-cameras/"><u>In 2024, Proven Winners Selecting the Best HDR Cameras</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-gear-workshop-expert-reviews-on-latest-hardware/"><u>Inside Tom's Gear Workshop: Expert Reviews on Latest Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pioneering-gadget-reviews-by-tom-your-guide-to-quality-electronics/"><u>Pioneering Gadget Reviews by Tom - Your Guide to Quality Electronics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973169284-successfully-addressing-window-based-challenges-for-samsung-printer-users-a-comprehhavemore-detailed-look-at-driver-issues-and-their-solutions/"><u>Successfully Addressing Window-Based Challenges for Samsung Printer Users: A Comprehhavemore Detailed Look at Driver Issues and Their Solutions.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sustainable-workspaces-strategies-for-improving-your-offices-energy-efficiency-ratings/"><u>Sustainable Workspaces: Strategies for Improving Your Office's Energy Efficiency Ratings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/top-6-video-formats-for-captivated-audiences-for-2024/"><u>Top 6 Video Formats for Captivated Audiences for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-504-errors-effective-solutions-and-tips/"><u>Troubleshooting 504 Errors: Effective Solutions and Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-set-up-your-logitech-driving-force-gt-controller-with-easy-downloads-for-win-oses/"><u>Ultimate Tutorial: Set Up Your Logitech Driving Force GT Controller with Easy Downloads for Win OSes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-the-usage-shift-por-que-vs-por-que/"><u>Unveiling the Usage Shift: Por Que vs Por Qué</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-pova-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Pova 5 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Save Power and Boost Performance with Google Chrome's Energy Saver Mode - Tips From ZDNet Experts
-date: 2025-01-09T01:24:35.823Z
-updated: 2025-01-11T07:03:53.896Z
+date: 2025-01-13T02:12:03.411Z
+updated: 2025-01-16T21:32:49.693Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ Google
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [How to use Google Pixel's Magic Eraser to wipe out photobombers](https://www.zdnet.com/article/how-to-use-magic-eraser-on-the-google-pixel/)
@@ -35,16 +39,12 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Energy Saver mode on Google Chrome
 
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -52,7 +52,7 @@ It's currently an experimental feature that's not enabled by default, so you'll 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
@@ -66,7 +66,7 @@ If you are not yet running version 108 or higher, you need to update.
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
@@ -94,7 +94,7 @@ Adrian Kingsley-Hughes/ZDNET
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
@@ -153,17 +153,24 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-cumulative-community-capture/"><u>[Updated] Cumulative Community Capture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-perfect-your-xbox-footage-4-recording-strategies-revealed-for-2024/"><u>[Updated] Perfect Your Xbox Footage 4 Recording Strategies Revealed for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-setup-how-to-update-your-microsoft-ergo-keyboard-drivers/"><u>Effortless Setup: How to Update Your Microsoft Ergo Keyboard Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-sm-bus-controller-software-compatible-with-windows-111087-full-download/"><u>Free SM Bus Controller Software: Compatible with Windows 11/10/8/7 – Full Download</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 7/iPad? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-gamers-guide-to-exceptional-video-sessions/"><u>In 2024, The Gamers' Guide to Exceptional Video Sessions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/safely-download-and-install-sades-headset-drivers-compatible-with-windows-os/"><u>Safely Download and Install Sades Headset Drivers Compatible with Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-epson-xp-430-drivers-for-windows-users/"><u>Step-by-Step Tutorial: Downloading and Setting Up Epson XP-430 Drivers for Windows Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nubia-red-magic-8s-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-ipad-picks-for-students-academic-performance-boosters-techadvisor/"><u>Top-Ranked iPad Picks for Students - Academic Performance Boosters | TechAdvisor</u></a></li>
-<li><a href="https://win-able.techidaily.com/wwe-2k22-pc-version-why-does-it-keep-crashing-solutions-inside/"><u>WWE 2K22 PC Version: Why Does It Keep Crashing? - Solutions Inside</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-query-tagging-in-instagram-comments/"><u>[Updated] 2024 Approved Mastering the Art of Query Tagging in Instagram Comments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5-ways-to-fix-desktop-window-manager-high-gpu-usage-in-windows-1011/"><u>5 Ways to Fix Desktop Window Manager High GPU Usage in Windows 10/11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-logitech-brio-webcam-software-downloads-for-windows-operating-systems/"><u>Best Logitech BRIO Webcam Software Downloads for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-insignia-bluetooth-adapter-drivers-on-windows-step-by-step-guide/"><u>Download & Update Insignia Bluetooth Adapter Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970418702-download-the-latest-nvidia-quadro-rtx-4000-graphics-card-drivers-get-your-free-update-now/"><u>Download the Latest NVIDIA Quadro RTX 4000 Graphics Card Drivers: Get Your Free Update Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-download-guide-for-insignia-ns-pcy5bma2-drivers-on-windows-11-10-and-7-latest-versions-available-now/"><u>Easy Download Guide for Insignia NS-PCY5BMA2 Drivers on Windows 11, 10 & 7 - Latest Versions Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-canon-mp56n-mp560-printer-software-update/"><u>Effortless Installation of Canon MP56n MP560 Printer Software Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-11-to-dolby-atmos-system-level/"><u>Elevate Windows 11 to Dolby Atmos System Level</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-on-correcting-battleye-system-launch-failures-due-to-missing-or-incorrect-drivers-error-1450/"><u>Expert Tips on Correcting BattlEye System Launch Failures Due to Missing or Incorrect Drivers (Error 1450)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-canon-pixma-mg2522-drivers-secure-download-and-setup-instructions/"><u>Get the Most Recent Canon PIXMA MG2522 Drivers - Secure Download & Setup Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-install-the-epson-et-4550-driver-fast-a-users-manual-for-windows-operating-systems/"><u>How to Get and Install the Epson ET-4550 Driver Fast - A User's Manual for Windows Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-pastimes-pairing-with-your-favorite-audio-shows/"><u>Ideal Pastimes Pairing with Your Favorite Audio Shows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-storytelling-with-subtitles-enhancing-online-video-experience-for-2024/"><u>Infusing Storytelling with Subtitles Enhancing Online Video Experience for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722958204101-latest-version-of-epson-ds-530-driver-downloads-for-windows-11-64-bit-systems-secure-your-print-jobs/"><u>Latest Version of Epson DS-530 Driver Downloads for Windows 11 64-Bit Systems - Secure Your Print Jobs!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-list-top-free-photo-stockpile-locales/"><u>Master List Top Free Photo Stockpile Locales</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oming-unseen-thumbnails-in-youtube-shorts-for-2024/"><u>Overcoming Unseen Thumbnails in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-how-to-easily-keep-your-lenovo-pc-drivers-current/"><u>Step-by-Step: How to Easily Keep Your Lenovo PC Drivers Current</u></a></li>
 </ul></div>
 

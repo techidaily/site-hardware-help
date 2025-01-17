@@ -1,7 +1,7 @@
 ---
 title: AMD's Ryzen 9 9950X Shatters Records in Cinebench R23 Testing at an Unprecedented 6.5GHz Threshold
-date: 2024-08-13T12:51:21.857Z
-updated: 2024-08-14T12:51:21.857Z
+date: 2025-01-10T17:24:08.729Z
+updated: 2025-01-17T00:56:29.309Z
 tags:
   - cpu
 categories:
@@ -35,8 +35,9 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,4 +59,20 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-chronicle-your-conquests-with-galaxy-screen-captures-for-2024/"><u>[Updated] Chronicle Your Conquests with Galaxy Screen Captures for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comprehensive-setup-steps-for-wm6/"><u>[Updated] Comprehensive Setup Steps for WM6</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-showcase-video-reversal-techniques/"><u>[Updated] Instagram Showcase Video Reversal Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/decoding-visual-history-navigating-reverse-search-on-instagram-for-2024/"><u>Decoding Visual History Navigating Reverse Search on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diabetic-ulcer-complications/"><u>Diabetic Ulcer Complications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-stylus-artisan-1430-inkjet-printer-drivers-for-windows-11-10-and-8/"><u>Download Epson Stylus Artisan 1430 Inkjet Printer Drivers for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-guide-installing-latest-amd-drivers-for-windows-versions/"><u>Effective Guide: Installing Latest AMD Drivers for Windows Versions</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-internals-of-xbox-360-slim-through-dismantling/"><u>Exploring the Internals of Xbox 360 Slim Through Dismantling</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instacapture-the-ultimate-download-toolkit-unveiled/"><u>InstaCapture The Ultimate Download Toolkit Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-acer-nitro-5-graphics-and-system-drivers/"><u>Step-by-Step Guide: Updating Your Acer Nitro 5 Graphics & System Drivers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tp-link-adapter-driver-updates-compatible-with-windows-10-8-and-7-latest-downloads-now-available/"><u>TP-Link Adapter Driver Updates: Compatible with Windows 10, 8 & 7 – Latest Downloads Now Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-11-and-usb-connectivity-solutions-for-device-recognition-issues/"><u>Windows 11 and USB Connectivity: Solutions for Device Recognition Issues</u></a></li>
+</ul></div>
 

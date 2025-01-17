@@ -1,7 +1,7 @@
 ---
 title: Problem-Solving Abilities in Crows and Other Corvids, Which Can Use Tools to Obtain Food or Create Complex Structures.
-date: 2025-01-09T22:20:16.782Z
-updated: 2025-01-11T05:05:47.797Z
+date: 2025-01-14T22:26:48.891Z
+updated: 2025-01-17T01:50:26.534Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -37,7 +37,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Dell holiday deals
@@ -106,7 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -119,7 +119,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -129,7 +129,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $297 (save $33)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -210,19 +210,22 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-android-streaming-virtual-reality-content/"><u>2024 Approved Mastering Android Streaming Virtual Reality Content</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-amd-raid-and-sata-controller-drivers-for-windows-systems/"><u>Download AMD RAID and SATA Controller Drivers for Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-touchpad-driver-for-acers-supported-by-windows-version-11/"><u>Download Updated Touchpad Driver for Acers - Supported by Windows Version 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-drivers-for-your-netgear-wireless-adapter/"><u>Get the Newest Drivers for Your NETGEAR Wireless Adapter</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975553931-hardware-assisted-virtualization-and-isolation/"><u>Hardware-Assisted Virtualization and Isolation:</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-90-lite-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor 90 Lite</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-your-ati-radeon-graphics-driver-software-on-windows-systems/"><u>How to Easily Update Your ATI Radeon Graphics Driver Software on Windows Systems</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-fix-iphone-updates-when-itunes-keeps-failing-during-software-download/"><u>How to Fix iPhone Updates When iTunes Keeps Failing During Software Download</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/inside-the-world-of-overwatch-a-thrilling-multiplayer-combat-game/"><u>Inside the World of Overwatch: A Thrilling Multiplayer Combat Game</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/premium-tools-for-saving-your-live-video-memories-for-2024/"><u>Premium Tools for Saving Your Live Video Memories for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-elan-smbus-driver-update-for-windows-troubleshoot-solved/"><u>Step-by-Step ELAN SMBus Driver Update for Windows - Troubleshoot Solved</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-a-primer-on-using-azures-voice-to-text-service/"><u>[New] In 2024, A Primer on Using Azure's Voice-to-Text Service</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unveiling-high-definition-with-lgs-ud88-w-widescreen-monitor/"><u>[Updated] In 2024, Unveiling High Definition with LG's UD88-W Widescreen Monitor</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-straightforward-guide-for-instagram-chat-beginners-for-2024/"><u>[Updated] The Straightforward Guide for Instagram Chat Beginners for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/acquire-amd-radeon-gpu-drivers-for-windows-8-pcs-without-charge/"><u>Acquire AMD Radeon GPU Drivers for Windows 8 PCs Without Charge</u></a></li>
+<li><a href="https://win-able.techidaily.com/breaking-new-ground-on-civ-6-a-landmark-ruling-over-an-unprecedented-access-violation-incident-of-2024/"><u>Breaking New Ground on CIV 6 - A Landmark Ruling Over an Unprecedented Access Violation Incident of 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/debut-visual-capturing-analysis/"><u>Debut Visual Capturing Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-computer-components-with-toms-hardware-experts/"><u>Dive Into Computer Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-steering-wheels-driver-software-for-win7-win8-and-win10/"><u>Download Logitech Steering Wheels Driver Software for Win7, Win8 & Win10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962189693-effortless-integration-secure-your-perfect-keyboard-driver-for-windows-7-today/"><u>Effortless Integration: Secure Your Perfect Keyboard Driver for Windows 7 Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-report-rare-glimpse-into-qualcomm-copilotplus-testing-on-windows-arm-devices-just-56-recorded-by-benchmark-maker/"><u>Exclusive Report: Rare Glimpse Into Qualcomm Copilot+ Testing on Windows ARM Devices, Just 56 Recorded by Benchmark Maker</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unparalleled-processing-speed-with-the-latest-ampereone-aurora-processor-equipped-with-innovative-hbm-memory-and-advanced-ai-engineering/"><u>Experience Unparalleled Processing Speed with the Latest AmpereOne Aurora Processor, Equipped with Innovative HBM Memory and Advanced AI Engineering</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-on-downloading-and-installing-the-latest-drivers-for-your-epson-xp-400/"><u>Guide on Downloading & Installing the Latest Drivers for Your Epson XP 400</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-efficient-editing-harnessing-photoshops-powerful-eraser/"><u>In 2024, Efficient Editing Harnessing Photoshop’s Powerful Eraser</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-zero-30-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Zero 30 5G Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-xr21-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia XR21 Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-7-audio-driver-downloads-compatible-with-your-system/"><u>Latest Windows 7 Audio Driver Downloads - Compatible with Your System</u></a></li>
 </ul></div>
 

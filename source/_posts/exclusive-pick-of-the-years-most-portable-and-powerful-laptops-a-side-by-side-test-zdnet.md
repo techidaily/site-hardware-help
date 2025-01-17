@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Pick of the Year's Most Portable & Powerful Laptops: A Side-by-Side Test | ZDNET"
-date: 2025-01-05T07:45:20.670Z
-updated: 2025-01-11T09:03:30.652Z
+date: 2025-01-16T01:16:32.745Z
+updated: 2025-01-16T20:03:50.034Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ Furthermore, this has been a big year for laptop releases, with lots of new mode
 
 My pick for the best laptop under $1,000 overall is the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-Storage-Midnight%2Fdp%2FB0CB73MSX4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0aa34757-1a6a-4516-800f-f7609424e9ea%7Cdtp&dtb=1), thanks to its solid performance, portability, and HD display. With the March release of the [M3 MacBook Air](https://www.zdnet.com/article/m3-macbook-air-review/), the previous M2 model received a price cut. This is great news because the device is well known for its portability and awesome performance -- but not for its affordability. Of course, the M2 MacBook Air isn't the only option out there. With this in mind, check out my top picks for the best laptops under $1,000.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best laptops under $1,000 of 2024
 
 Show less 
@@ -44,7 +40,15 @@ Pros
 Cons 
 * Shorter battery life
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple M2 MacBook Air
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best laptop under $1,000 overall
 
@@ -72,6 +76,10 @@ Pros
 Cons 
 * Heavy
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HP Victus 15
 
 ### Best laptop under $1,000 for gaming
@@ -97,6 +105,10 @@ Pros
 
 Cons 
 * Dim display
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lenovo Yoga 7i 2-in1
 
@@ -158,15 +170,7 @@ Pros
 Cons 
 * Expensive configurations
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## HP Pavilion Plus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best screen for a laptop under $1,000
 
@@ -230,15 +234,7 @@ Cons
 * Integrated GPU
 * Poor battery
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Asus Vivobook 15
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best work laptop under $1,000
 
@@ -285,6 +281,10 @@ Performance-wise, the Surface Pro 9 does pretty well. Buyers originally have the
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best laptop under $1,000?
 
 The best laptop under $1,000 is Apple's M2 MacBook Air. It delivers on multiple fronts: great performance, a nice screen, a lightweight design, and so on. But that doesn't mean you should discount the other options. They're all solid picks. Below is a table where we compare the best laptops by price, their CPU, storage size, and screen size to make the decision process easier.
@@ -303,7 +303,7 @@ With all big decisions comes a lot of research. Thankfully, we did a lot of the 
 | Microsoft Surface Pro 9      | $779                       | 12th Gen Intel Core i7  | 13 inches       | 256 GB           |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right laptop under $1,000 for you?
@@ -333,7 +333,7 @@ A great laptop doesn't have to cost a fortune. To determine the best laptops und
 * **Price:** Cost is, of course, the most important factor here, so pay attention to that price tag. We find that the best devices range between $500 to $800, depending on the make and model you choose.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we test these laptops?
@@ -352,6 +352,10 @@ There isn't a specific brand that is best or the cheapest. It varies a lot of th
 
 You'll occasionally see a great low-cost device from other famous brands like Apple or lesser known companies. However those deals are rarer. If you want a particular MacBook for example, you'll have to wait until the following year after it releases to see a discount.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which laptop brand has the least problems?
 
 Longevity is an important factor to consider when purchasing a laptop. You don't need to sacrifice quality for an inexpensive machine. A low-cost computer can last just as long, if not longer, than a more expensive one.
@@ -361,7 +365,7 @@ Research has been done to determine the most reliable laptop brands out there. A
 Other notable laptop companies include Dell, Microsoft, and Acer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do you know when you need a new laptop?
@@ -383,10 +387,6 @@ Additionally, Chromebooks have limited storage space and processing power compar
 The laptops in the list go for under $1,000 consistently. However, finding other devices that go below this price point during big sales is possible. These tend to occur on major holidays or sales events like the 4th of July and Memorial Day. Of course, computers can sell for pennies during the year's biggest sales weekend: Black Friday going into Cyber Monday.
 
 There are a few other times of the year when you can score discounts on devices. Depending on the company, manufacturers may slash prices during the beginning of the year or around October. It's around this time that manufacturers are preparing to launch their new generation of hardware or have already done so. MacBooks, for example, can go for pretty cheap during this time. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative laptops under $1,000 worth considering?
 
@@ -466,22 +466,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/download-now-enhance-audio-with-high-end-behringer-drivers/"><u>[Download Now] Enhance Audio with High-End Behringer Drivers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ubscribers-count-in-real-time-for-2024/"><u>[New] Subscribers Count in Real-Time for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-making-a-statement-standout-content-via-fb-slideshows/"><u>[Updated] In 2024, Making a Statement Standout Content via FB Slideshows</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-case-for-high-dynamic-range-in-modern-videography/"><u>[Updated] In 2024, The Case for High Dynamic Range in Modern Videography</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-innovative-immersion-a-guide-to-the-leaders/"><u>2024 Approved Innovative Immersion A Guide to the Leaders</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-methods-to-stop-your-laptop-from-falling-asleep-unexpectedly/"><u>Effortless Methods to Stop Your Laptop From Falling Asleep Unexpectedly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-the-9-best-iphone-watermarking-solutions-for-2024/"><u>Explore the 9 Best iPhone Watermarking Solutions for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-official-toshiba-bluetooth-drivers/"><u>Free Download: Official Toshiba Bluetooth Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-brother-printer-model-hl-2280dw-drivers-for-windows-111087-free-and-easy-installation/"><u>Get Brother Printer Model HL-2280DW Drivers for Windows 11/10/8/7 – Free and Easy Installation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970461798-get-your-canon-mg3620-drivers-now-quick-safe-and-trouble-free/"><u>Get Your Canon MG3620 Drivers Now - Quick, Safe, and Trouble-Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-the-most-out-of-sound-blaster-z-seamless-driver-download-for-windows-10-users/"><u>Getting the Most Out of Sound Blaster Z: Seamless Driver Download for Windows 10 Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 12 Pro?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/iphone-under-the-moonlight-photography-tips/"><u>IPhone Under the Moonlight Photography Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-start-seamless-downloading-of-elgatos-driving-software/"><u>Quick-Start: Seamless Downloading of Elgato's Driving Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-linksys-ae1200-driver-download-for-immediate-use/"><u>Step-by-Step: Easy Linksys AE1200 Driver Download for Immediate Use</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/western-digital-ses-usb-drive-driver-installation-for-newer-pcs-2011-onwards/"><u>Western Digital SES USB Drive Driver Installation for Newer PCs (2011 Onwards)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-pioneering-desktop-livestreams-with-tiktoks-features/"><u>[New] Pioneering Desktop Livestreams with TikTok's Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-echoes-of-amusement-comical-tune-transformations/"><u>[Updated] In 2024, Echoes of Amusement Comical Tune Transformations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bid-farewell-to-your-windows-11-bluetooth-driver-glitches-with-these-proven-strategies/"><u>Bid Farewell to Your Windows 11 Bluetooth Driver Glitches with These Proven Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-canon-imageclass-mf4800-driver-software-for-your-device/"><u>Get the Latest Canon ImageCLASS MF4800 Driver Software for Your Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-wi-fi-card-drivers-compatible-with-windows-operating-systems/"><u>Get the Newest HP Wi-Fi Card Drivers Compatible with Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975705490-get-your-hp-designjet-500-driver-downloads-here/"><u>Get Your HP DesignJet 500 Driver Downloads Here</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/seamless-pc-to-netgear-readynas-data-sync-tutorial-quick-and-effective-strategies/"><u>Seamless PC to NetGear ReadyNAS Data Sync Tutorial - Quick and Effective Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-setting-up-and-downloading-programs-for-your-brother-hl-l2340dw-printer-in-windows/"><u>Step by Step Guide: Setting Up and Downloading Programs for Your Brother HL-L2340DW Printer in Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-reno-8t-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo Reno 8T 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tres-maneiras-garantidas-de-reparar-dvds-protetados-por-direito-autoral-em-computadores-mac-e-windows-11/"><u>Três Maneiras Garantidas De Reparar DVDs Protetados Por Direito Autoral Em Computadores Mac E Windows 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-follow-the-simple-steps-below-to-flip-crop-resize-or-move-clips-with-final-cut-pro-for-2024/"><u>Updated Follow the Simple Steps Below to Flip, Crop, Resize or Move Clips with Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

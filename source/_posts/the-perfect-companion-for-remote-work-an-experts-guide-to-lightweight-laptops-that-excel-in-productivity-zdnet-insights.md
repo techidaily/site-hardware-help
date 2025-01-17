@@ -1,7 +1,7 @@
 ---
 title: "The Perfect Companion for Remote Work: An Expert's Guide to Lightweight Laptops That Excel in Productivity | ZDNET Insights"
-date: 2025-01-03T21:28:55.211Z
-updated: 2025-01-11T04:48:33.104Z
+date: 2025-01-13T21:35:34.842Z
+updated: 2025-01-16T21:55:57.526Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,22 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-how-to-create-engaging-screencasts-a-practical-guide/"><u>[New] 2024 Approved How to Create Engaging Screencasts A Practical Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-counteracting-loss-of-live-streams-on-twitch-for-2024/"><u>[New] Counteracting Loss of Live Streams on Twitch for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-djis-minis-and-air-2-elevate-mixes-with-free-custom-luts/"><u>2024 Approved DJI's Minis & Air 2 Elevate Mixes with Free, Custom LUTS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-top-nine-advantages-elevate-your-experience-with-chatgpt-plus/"><u>Discover the Top Nine Advantages: Elevate Your Experience with ChatGPT Plus</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-software-for-asus-wireless-adapter-model-pce-ac68/"><u>Download Updated Software for ASUS Wireless Adapter Model PCE-AC68</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-for-epson-wf-3540-drivers-compatible-with-all-windows-versions/"><u>Easy Installation Guide for Epson WF-3540 Drivers: Compatible with All Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-performance-quick-and-easy-driver-updates-for-your-amd-radeon-rx-470/"><u>Enhance Performance: Quick and Easy Driver Updates for Your AMD Radeon RX 470</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-guide-to-finding-and-updating-ch340g-usb-to-serial-communication-drivers-for-your-windows-10-pc/"><u>Essential Guide to Finding & Updating CH340G USB-to-Serial Communication Drivers for Your Windows 10 PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-your-intel-dynamic-platform-and-thermal-framework-driver-errors-dptf-step-by-step/"><u>Fixing Your Intel Dynamic Platform & Thermal Framework Driver Errors (DPTF) [Step-by-Step]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-canon-pixma-mx920-driver-for-windows-systems-here/"><u>Get Your Canon PIXMA MX920 Driver for Windows Systems Here!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-camon-20-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Camon 20 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-honor-play-7t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Honor Play 7T IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-intel-iris-xe-graphics-software-suite-direct-windows-11-downloads-available/"><u>Latest Intel Iris Xe Graphics Software Suite – Direct Windows 11 Downloads Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-install-guide-intel-thunderbolt-chip-drivers-for-smooth-performance/"><u>Quick Install Guide: Intel Thunderbolt Chip Drivers for Smooth Performance</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/trasferire-il-tuo-sistema-windows-nativo-su-ununita-ssd-rapidamente-e-facilmente/"><u>Trasferire Il Tuo Sistema Windows Nativo Su Un'unità SSD Rapidamente E Facilmente</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-how-to-edit-youtube-videos-in-windows-movie-maker/"><u>[New] In 2024, How to Edit YouTube Videos in Windows Movie Maker</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-past-paints-legal-freedoms-for-classics-for-2024/"><u>[Updated] Past Paints Legal Freedoms for Classics for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlock-easy-paths-for-exceptional-yt-thumbnails-for-2024/"><u>[Updated] Unlock Easy Paths for Exceptional YT Thumbnails for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adol-book-by-asus-transform-your-laptop-time-with-a-touch-of-fragrance-innovation/"><u>Adol Book by Asus - Transform Your Laptop Time with a Touch of Fragrance Innovation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-computing-insights-from-toms-hardware-experts/"><u>Advanced Computing Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-core-i5-12450h-powered-laptop-featuring-two-big-screens-for-710-on-aliexpress-say-goodbye-to-physical-keyboards/"><u>Affordable Core I5-12450H Powered Laptop Featuring Two Big Screens for $710 on AliExpress - Say Goodbye to Physical Keyboards</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ai-takes-a-backseat-as-qualcomms-hefty-ad-budget-celebrates-copilotpluss-rise-due-to-enhanced-battery-durability/"><u>AI Takes a Backseat as Qualcomm's Hefty Ad Budget Celebrates Copilot+'s Rise Due to Enhanced Battery Durability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-rog-zephyrus-g16-gamepad-assessment-a-tale-of-pros-and-cons-with-premium-components/"><u>Asus ROG Zephyrus G16 Gamepad Assessment: A Tale of Pros and Cons with Premium Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862717830-discount-alert-shop-m3-macbook-air-with-16gb-ram-and-sleek-13-screen-for-under-1200/"><u>Discount Alert: Shop M3 MacBook Air with 16GB RAM & Sleek 13 Screen for Under $1,200</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-to-expand-your-presence-and-earn-twitter-likes-and-retweets/"><u>Effective Techniques to Expand Your Presence and Earn Twitter Likes & Retweets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/engaging-instagram-stories-with-animated-text-effects-for-2024/"><u>Engaging Instagram Stories with Animated Text Effects for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-master-quick-red-eye-correction-in-iphone-photos-for-free/"><u>In 2024, Master Quick Red-Eye Correction in iPhone Photos for FREE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shining-a-light-top-photo-illumination-hacks-for-2024/"><u>Shining a Light Top Photo Illumination Hacks for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-4-bungles-that-impact-content-quality-via-chatgpt/"><u>The 4 Bungles That Impact Content Quality via ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862736498-transform-your-digital-experience-with-the-highly-functional-acemagic-x1-the-must-have-two-screen-computer/"><u>Transform Your Digital Experience with the Highly Functional Acemagic X1: The Must-Have Two-Screen Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862734905-transform-your-play-the-budget-friendly-lenovo-legion-slim-5-is-here-on-newegg-for-less-than-1100/"><u>Transform Your Play: The Budget-Friendly Lenovo Legion Slim 5 Is Here on Newegg for Less than $1,100</u></a></li>
 </ul></div>
 

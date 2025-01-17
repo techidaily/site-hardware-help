@@ -1,7 +1,7 @@
 ---
 title: "Snapdragon X's Elite Graphics Processor Not Activated in Latest Linux Fixes: Impact of Optional OEM Key Signature Implementation"
-date: 2024-08-13T12:54:22.667Z
-updated: 2024-08-14T12:54:22.667Z
+date: 2025-01-12T01:19:52.496Z
+updated: 2025-01-16T18:00:05.926Z
 tags:
   - cpu
 categories:
@@ -28,8 +28,9 @@ Several Intel motherboard partners have announced BIOS updates to patch the micr
 · MPG Z790 CARBON MAX WIFI II
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,14 +49,11 @@ Several Intel motherboard partners have announced BIOS updates to patch the micr
 
  Tom's Hardware has already reached out to Intel about the new BIOS updates to confirm if these updates will make it safe to run the affected chips at regular power levels. We are also testing the available BIOS updates to see how they affect system performance, so be sure to check back with us to stay up to date.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -64,4 +62,26 @@ Several Intel motherboard partners have announced BIOS updates to patch the micr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/download-qualcomm-atheros-ar3011-bluetooth-30-driver/"><u>[Download] Qualcomm Atheros AR3011 Bluetooth 3.0 Driver</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-perfect-the-art-of-note-taking-mematic-way/"><u>[Updated] In 2024, Perfect the Art of Note-Taking - Mematic Way</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-pcs-display-quality-now-download-the-newest-amd-radeon-r5-drivers-for-windows-users/"><u>Boost Your PC's Display Quality Now - Download the Newest AMD Radeon R5 Drivers for Windows Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/easy-ways-to-record-webcam-chat-for-2024/"><u>Easy Ways to Record Webcam Chat for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-dells-alienware-aurora-r9-a-cutting-edge-adventure-into-next-gen-gaming-technology/"><u>Exploring Dell's Alienware Aurora R9 – A Cutting-Edge Adventure Into Next-Gen Gaming Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-windows-8-downloads-compatible-amd-radeon-hd-graphics-driver/"><u>Free Windows 8 Downloads: Compatible AMD Radeon HD Graphics Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-940mx-graphics-driver-software/"><u>Get the Latest NVIDIA GeForce 940MX Graphics Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-latest-drivers-for-killer-wireless-product-1535-easy-installation-steps-inside/"><u>Get Your Latest Drivers for Killer Wireless Product 1535 - Easy Installation Steps Inside!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-8610-complete-driver-downloads-and-updates-for-windows-1087xpvista/"><u>HP Officejet Pro 8610: Complete Driver Downloads & Updates for Windows 10/8/7/XP/Vista</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-worlds-best-imagery-with-no-monetary-investment/"><u>In 2024, Unlocking the World's Best Imagery with No Monetary Investment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-official-amd-gpio-interface-driver-for-enhanced-pc-performance/"><u>Install the Official AMD GPIO Interface Driver for Enhanced PC Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-voice-transcription-whisper-desktop-expertise/"><u>Real-Time Voice Transcription: Whisper Desktop Expertise</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/resolving-issues-comprehensive-guide-to-fixing-your-computer-on-windows-11/"><u>Resolving Issues: Comprehensive Guide to Fixing Your Computer on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/scaffolds-must-support-four-times-the-maximum-intended-load/"><u>Scaffolds Must Support Four Times the Maximum Intended Load.</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/techniques-efficaces-pour-sauver-les-fichiers-lors-du-recuperation-dun-disque-transcend-dur/"><u>Techniques Efficaces Pour Sauver Les Fichiers Lors Du Récupération D'un Disque Transcend Dur ?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-your-qbittorent-download-issues-when-its-unresponsive/"><u>Ultimate Guide: Solving Your qBittorent Download Issues When It's Unresponsive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-windows-11-grab-the-ultimate-steelseries-engine-for-optimal-performance/"><u>Upgrade to Windows 11? Grab the Ultimate SteelSeries Engine for Optimal Performance!</u></a></li>
+<li><a href="https://tools.techidaily.com/xvirus/firewall/"><u>Xvirus Firewall</u></a></li>
+</ul></div>
 

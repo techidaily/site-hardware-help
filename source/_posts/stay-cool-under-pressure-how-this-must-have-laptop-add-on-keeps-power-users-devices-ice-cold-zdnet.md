@@ -1,7 +1,7 @@
 ---
 title: "Stay Cool Under Pressure: How This Must-Have Laptop Add-On Keeps Power Users' Devices Ice Cold | ZDNET"
-date: 2024-11-28T20:45:00.157Z
-updated: 2024-12-05T04:23:59.874Z
+date: 2025-01-09T22:18:36.018Z
+updated: 2025-01-17T02:10:58.923Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,21 +112,19 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-prime-pick-ultimate-action-cam-mics-guide/"><u>[New] 2024 Approved Prime Pick Ultimate Action Cam Mics Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-free-mac-screenshoter-extraordinaire-for-2024/"><u>[Updated] Free Mac Screenshoter Extraordinaire for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-schnelle-und-einfache-methoden-zum-ubertragen-von-dateien-von-ihrem-iphone-auf-den-pc-eine-umfassende-anleitung/"><u>5 Schnelle Und Einfache Methoden Zum Übertragen Von Dateien Von Ihrem iPhone Auf Den PC: Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/combination-therapy-with-drugs-such-as-vancomycin-or-linezolid-may-be-necessary-for-treating-certain-resistant-infections/"><u>Combination Therapy with Drugs Such as Vancomycin or Linezolid May Be Necessary for Treating Certain Resistant Infections</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fix-and-improve-performance-a-complete-guide-to-intels-optane-drivers-download-and-update-process-in-windows/"><u>Fix & Improve Performance: A Complete Guide to Intels Optane Drivers Download and Update Process in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-new-brother-hl-2270dw-driver-for-your-windows-pc-step-by-step-download-tutorial/"><u>Get the New Brother HL- 2270DW Driver for Your Windows PC – Step by Step Download Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-official-drivers-for-zexmte-bluetooth-usb-device-supports-win-10-7-and-8/"><u>Get the Official Drivers for Zexmtē Bluetooth USB Device - Supports Win 10, 7 & 8</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/golden-age-of-scenario-writing-in-motion-pictures-for-2024/"><u>Golden Age of Scenario Writing in Motion Pictures for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/indispensable-a-comprehensive-list-of-the-best-10-must-have-apps-for-your-windows-10-experience/"><u>Indispensable: A Comprehensive List of the Best 10 Must-Have Apps for Your Windows 10 Experience</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-of-scansnap-software-on-your-pc/"><u>Quick & Easy Installation of ScanSnap Software on Your PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ryzen-ai-9-hx-370-vs-intel-single-core-showdown-wins-with-zen-5-advantage-bests-core-ultra-7-and-rivals/"><u>Ryzen AI 9 HX 370 Vs. Intel: Single-Core Showdown Wins with Zen 5 Advantage - Bests Core Ultra 7 & Rivals</u></a></li>
-<li><a href="https://article-helps.techidaily.com/significant-concepts-in-interactive-tale-design-for-2024/"><u>Significant Concepts in Interactive Tale Design for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-how-to-get-age-of-empires-ii-running-smoothly-on-windows-10/"><u>Solution Guide: How to Get Age of Empires II Running Smoothly on Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262325418-the-aftermath-of-zen-5s-initial-ryzen-9000-die-failure-a-deep-dive-into-cracked-dice-and-residual-solder-evidence/"><u>The Aftermath of Zen 5'S Initial Ryzen 9000 Die Failure - A Deep Dive Into Cracked Dice & Residual Solder Evidence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-behind-the-500-internal-server-blunder/"><u>Unraveling the Mystery Behind the 500 Internal Server Blunder</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-art-of-applying-skin-secrets-establishing-an-online-beauty-platform/"><u>[New] 2024 Approved The Art of Applying Skin Secrets Establishing an Online Beauty Platform</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-expert-tips-for-youtube-short-pitfall-prevention/"><u>[Updated] In 2024, Expert Tips for YouTube Short Pitfall Prevention</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-streamlining-your-watch-time-on-instagram-mobiledesktop/"><u>[Updated] In 2024, Streamlining Your Watch Time on Instagram (Mobile/Desktop)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-next-gen-ryzen-9000-and-zen-5-cpus-unveiled-by-gigabyte-coming-beta-bios-support-for-x500-chipset-boards/"><u>AMD's Next-Gen Ryzen 9000 and Zen 5 CPUs Unveiled by Gigabyte: Coming Beta BIOS Support for X500 Chipset Boards</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asrocks-compact-am5-itx-motherboard-the-ideal-choice-for-stylish-htpc-projects/"><u>ASRock's Compact AM5 ITX Motherboard: The Ideal Choice for Stylish HTPC Projects</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asrocks-revolutionary-z790i-lightning-wifi-the-motherboard-that-helped-splave-break-multiple-oc-records/"><u>ASRock's Revolutionary Z790I Lightning WiFi: The Motherboard that Helped Splave Break Multiple OC Records</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-releases-new-bios-update-solving-stability-issues-for-intels-raptor-lake-gpu-series/"><u>Asus Releases New BIOS Update: Solving Stability Issues for Intel's Raptor Lake GPU Series</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/buy-the-asus-prime-x670-p-wifi-am5-mobo-at-an-unbeatable-price-of-just-135/"><u>Buy the ASUS Prime X670-P WiFi (AM5) Mobo at an Unbeatable Price of Just $135</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-overcome-modern-warfare-2-stability-problems-on-desktops/"><u>Expert Advice - Overcome Modern Warfare 2 Stability Problems on Desktops</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/expert-strategies-for-restoring-and-fixing-damaged-ms-access-db-files-your-ultimate-recovery-handbook/"><u>Expert Strategies for Restoring and Fixing Damaged MS Access DB Files: Your Ultimate Recovery Handbook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-resolving-imovie-cuts-understanding-crop-rationale/"><u>In 2024, Resolving iMovie Cuts Understanding Crop Rationale</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-youtube-growth-strategy-attracting-million-strong-fans/"><u>In 2024, Youtube Growth Strategy Attracting Million-Strong Fans</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sneak-peek-at-the-latest-samsung-galaxy-z-flip-series-release-date-pricing-speculations-and-full-tech-breakdown-exciting-leaks-revealed/"><u>Sneak Peek at the Latest Samsung Galaxy Z Flip Series: Release Date, Pricing Speculations and Full Tech Breakdown – Exciting Leaks Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-watching-disneyplus-on-your-smart-tv-with-chromecast/"><u>Step-by-Step Guide: Watching Disney+ on Your Smart TV with Chromecast</u></a></li>
 </ul></div>
 
