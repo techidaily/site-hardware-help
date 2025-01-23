@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the Powerhouse: AMD's Latest Zen Architecture, the EPYC 5 Series with 128 Cores & a Massive 512MB Cache"
-date: 2024-08-13T12:47:39.172Z
-updated: 2024-08-14T12:47:39.172Z
+date: 2025-01-18T23:38:42.738Z
+updated: 2025-01-22T21:51:28.575Z
 tags:
   - cpu
 categories:
@@ -28,8 +28,9 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -40,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -56,4 +54,16 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-efficient-gaming-footage-with-camcapture/"><u>[Updated] Efficient Gaming Footage with CamCapture</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-high-tide-gear-surfing-camera-innovations-of-2023/"><u>[Updated] High Tide Gear Surfing Camera Innovations of 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-render-images-with-radial-light-diffusion-technique/"><u>[Updated] Render Images with Radial Light Diffusion Technique</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-guardians-of-the-screen-the-best-webcam-cover-options/"><u>2024 Approved Guardians of the Screen - The Best Webcam Cover Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-display-drivers-optimized-for-windows-operating-system-versions-7810/"><u>Get the Latest Nvidia Display Drivers: Optimized for Windows Operating System Versions 7/8/10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-rejuvenate-samsung-device-connectivity-by-refreshing-usb-drivers/"><u>How To Rejuvenate Samsung Device Connectivity by Refreshing USB Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/steelseries-gaming-mouse-driver-download-compatible-drivers-now-available/"><u>SteelSeries Gaming Mouse Driver Download - Compatible Drivers Now Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-quick-and-easy-samsung-m2070-driver-installation/"><u>Step by Step Tutorial for Quick & Easy Samsung M2070 Driver Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-easy-fixes-and-fresh-driver-download-for-huion-tablets-on-windows/"><u>Troubleshooting: Easy Fixes and Fresh Driver Download for Huion Tablets on Windows</u></a></li>
+</ul></div>
 

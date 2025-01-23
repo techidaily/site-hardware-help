@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart with ZDNet"
-date: 2025-01-14T18:47:00.703Z
-updated: 2025-01-17T01:39:54.480Z
+date: 2025-01-21T18:31:26.483Z
+updated: 2025-01-23T05:50:29.864Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,17 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-your-traffic-ethically-youtubes-best-practices/"><u>[New] 2024 Approved Elevate Your Traffic Ethically YouTube's Best Practices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-2024-slomotion-app-an-exhaustive-evaluation/"><u>[New] 2024 SloMotion App An Exhaustive Evaluation</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outubes-monetization-milestone-500-subscribers-achieved/"><u>[New] YouTube's Monetization Milestone 500 Subscribers Achieved</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-yuneecs-breakthrough-in-high-res-aerial-vision/"><u>[New] Yuneec's Breakthrough in High-Res Aerial Vision</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-scansnap-s1100-driver-quickly-and-easily/"><u>[UPDATE] Scansnap S1100 Driver | Quickly & Easily</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos/"><u>[Updated] 2024 Approved Craft the Perfect Stream A Comprehensive Guide to YouTube’s Full-Rotation Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-integrate-srt-into-windowsmacos-operations/"><u>[Updated] In 2024, Integrate SRT Into Windows/macOS Operations</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-step-by-step-guide-to-understanding-vr-technology/"><u>[Updated] In 2024, Step-by-Step Guide to Understanding VR Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-detailed-walkthrough-for-enhancing-your-computer-with-updated-intel-centrino-advanced-n-e-6235-wireless-network-driver-updates/"><u>A Detailed Walkthrough for Enhancing Your Computer with Updated Intel Centrino Advanced-N E 6235 Wireless Network Driver Updates</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/bandicam-a-user-centric-review-and-guide/"><u>Bandicam A User-Centric Review & Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968737223-download-and-install-hp-officejet-5255-printer-drivers-latest-version/"><u>Download & Install HP OfficeJet 5255 Printer Drivers - Latest Version</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-reno-11-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo Reno 11 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-release-of-magiccards-rio-pro-driver-for-windows-systems-secure-your-copy-today/"><u>Latest Release of Magiccard's Rio Pro Driver for Windows Systems: Secure Your Copy Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/microsoft-battery-driver-error-resolved-for-enhanced-acpi-standards-support/"><u>Microsoft Battery Driver Error Resolved for Enhanced ACPI Standards Support</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/monitoring-and-early-detection/"><u>Monitoring and Early Detection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pathway-to-peak-performance-chatgpts-wellbe-point-of-view/"><u>Pathway to Peak Performance: ChatGPT's Wellbe Point of View</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-refreshing-your-microsoft-mouse-software-in-windows/"><u>Step-by-Step Guide to Refreshing Your Microsoft Mouse Software in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-solutions-for-a-broken-samsung-blu-ray-media-center/"><u>Step-by-Step Solutions for a Broken Samsung Blu-Ray Media Center</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-support-for-your-legion-5-pro-latest-laptop-driver-downloads-and-setup/"><u>Ultimate Support for Your Legion 5 Pro - Latest Laptop Driver Downloads and Setup</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-optimize-your-social-media-videos-on-fb-with-the-right-ratio/"><u>[New] 2024 Approved Optimize Your Social Media Videos on FB with the Right Ratio</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-deep-dive-into-youtubes-latest-monetization-policy/"><u>[Updated] A Deep Dive Into YouTube's Latest Monetization Policy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-prime-time-for-podcast-debuts/"><u>[Updated] In 2024, Prime Time for Podcast Debuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-guide-to-securing-edge-ms-defender-application-guard-on-windows-11/"><u>Easy Guide to Securing Edge: MS Defender Application Guard on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972498661-effortless-solutions-to-tackle-elgato-hd60-controller-issues-today/"><u>Effortless Solutions to Tackle Elgato HD60 Controller Issues Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-guide-how-to-download-and-install-latest-video-graphics-adapter-vga-drivers/"><u>Free Guide: How to Download and Install Latest Video Graphics Adapter (VGA) Drivers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-full-access-your-in-depth-look-at-fcp/"><u>In 2024, Full Access Your In-Depth Look at FCP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262330052-introducing-the-cixin-p1-arm-based-industry-standard-6nm-chip-from-china-achieving-45-tops-in-performance/"><u>Introducing the Cixin P1 – Arm-Based, Industry Standard 6Nm Chip From China Achieving 45 TOPS in Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-update-free-download-of-nvidias-geforce-rtx-2070-driver-for-windows-users/"><u>Latest Update: Free Download of NVIDIA's Geforce RTX 2070 Driver for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-hp-envy-5055-printer-drivers/"><u>Quick Download: HP ENVY 5055 Printer Drivers</u></a></li>
+<li><a href="https://solve-help.techidaily.com/restore-sounds-on-mp4-videos-how-to-repair-audio-glitches-effectively/"><u>Restore Sounds on MP4 Videos - How to Repair Audio Glitches Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-triple-function-magsafe-station-power-and-chill-your-ipad-iphone-and-mac-simultaneously/"><u>Revolutionary Triple-Function MagSafe Station: Power and Chill Your iPad, iPhone & Mac Simultaneously</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maximum Flame Propagation Speeds Are Estimated Using Simplified Formulas Based on Engine Geometry and Turbulence
-date: 2024-08-13T12:49:26.735Z
-updated: 2024-08-14T12:49:26.735Z
+date: 2025-01-17T01:56:04.990Z
+updated: 2025-01-22T22:04:47.339Z
 tags:
   - win11
   - win10
@@ -96,8 +96,6 @@ Then restart your computer if you want.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,8 +103,28 @@ Then restart your computer if you want.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-vital-6-social-media-channels-for-commercial-success/"><u>[Updated] Vital 6 Social Media Channels for Commercial Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apex-craftsman-studio-evaluation-for-2024/"><u>Apex Craftsman Studio Evaluation for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-resolutions-while-not-binding-upon-the-senate-these-resolutions-establish-a-blueprint-for-federal-spending-and-revenues-that-both-chambers-can-adhere16/"><u>Budget Resolutions - While Not Binding upon the Senate, These Resolutions Establish a Blueprint for Federal Spending and Revenues that Both Chambers Can Adhere to During Appropriation Processes.</u></a></li>
+<li><a href="https://discover-data.techidaily.com/come-risolvere-gli-errori-di-backup-non-riusciti-nel-sistema-operativo-windows-10/"><u>Come Risolvere Gli Errori Di Backup Non Riusciti Nel Sistema Operativo Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discounted-deal-get-a-50-refund-with-alienwares-elite-wireless-gaming-board/"><u>Discounted Deal: Get a $50 Refund with Alienware's Elite Wireless Gaming Board</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-sony-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Sony Phone Screen?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-visual-editing-3dlut-for-photosvideos/"><u>In 2024, Pioneering Visual Editing 3DLUT for Photos/Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mac-green-screen-software-which-one-is-right-for-you-for-2024/"><u>Mac Green Screen Software Which One Is Right for You for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964490608-score-big-savings-premium-corsair-scimitar-rgb-elite-mmo-mouse-for-unbeatable-price-only-49-now/"><u>Score Big Savings: Premium Corsair Scimitar RGB Elite MMO Mouse for Unbeatable Price – Only $49 Now!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-factory-resetting-windows-7-using/"><u>Step-by-Step Guide: Factory Resetting Windows 7 Using</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-insights-on-hardware-solutions/"><u>Tom's Tech Review: Comprehensive Insights on Hardware Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-gaming-headphones-and-headsets-of-2/"><u>Top-Ranked Gaming Headphones & Headsets of 2</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964487162-transform-your-gameplay-get-asus-rog-strix-scope-ii-gaming-keyboard-at-only-69/"><u>Transform Your Gameplay: Get ASUS ROG Strix Scope II Gaming Keyboard at Only $69!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/type-effortlessly-on-the-go-discover-sanwa-supplys-new-usb-foot-pedals-for-hands-free-typing/"><u>Type Effortlessly on the Go: Discover Sanwa Supply's New USB Foot Pedals for Hands-Free Typing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-and-leveraging-snapchat-spotlight/"><u>Understanding and Leveraging Snapchat Spotlight</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-full-potential-tips-for-msi-bios-driver-updates-on-windows-7810/"><u>Unlocking Full Potential: Tips for MSI BIOS Driver Updates on Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-potential-of-your-pc-toms-comprehensive-hardware-insights/"><u>Unlocking the Potential of Your PC: Tom's Comprehensive Hardware Insights</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Game-Changer: Lenovo’s Dual-Screen Laptop Enhances Work Efficiency, According to ZDNet"
-date: 2025-01-12T01:00:35.810Z
-updated: 2025-01-16T16:23:03.926Z
+date: 2025-01-18T23:18:01.109Z
+updated: 2025-01-22T23:49:04.303Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -40,10 +44,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -59,7 +59,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -103,7 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -127,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,24 +182,21 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-exploring-uavs-operation-a-guide-to-aerial-robotics/"><u>[New] 2024 Approved Exploring UAVs' Operation A Guide to Aerial Robotics</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-crafting-compelling-conversations-essential-expressions-for-2024/"><u>[New] Crafting Compelling Conversations Essential Expressions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-strategies-for-effective-angle-rotations-on-android/"><u>[New] Expert Strategies for Effective Angle Rotations on Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premier-business-cloud-data-solutions/"><u>[New] Premier Business Cloud Data Solutions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-core-technology-behind-superior-screen-captures-by-recmeister-for-2024/"><u>[New] Unveiling the Core Technology Behind Superior Screen Captures by Recmeister for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-leveraging-innovation-a-comprehensive-guide-to-redefining-your-tiktok-avatar/"><u>[Updated] 2024 Approved Leveraging Innovation A Comprehensive Guide to Redefining Your TikTok Avatar</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-a-step-by-step-guide-to-launching-your-own-product-critique-network/"><u>[Updated] In 2024, A Step-by-Step Guide to Launching Your Own Product Critique Network</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-iphone-driver-packs-for-seamless-integration-on-windows-11-systems/"><u>Best iPhone Driver Packs for Seamless Integration on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-drivers-for-hp-color-laserjet-pro-multi-function-printer-m477/"><u>Download Drivers for HP Color LaserJet Pro Multi-Function Printer M477</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-smooth-operation-free-download-of-intel-usb-30-driver-suite-for-windows-11-users/"><u>Ensure Smooth Operation: Free Download of Intel USB 3.0 Driver Suite for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improved-microsoft-battery-management-drivers-aligning-with-advanced-configuration-and-power-interface-protocols/"><u>Improved Microsoft Battery Management Drivers Aligning With Advanced Configuration and Power Interface Protocols</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-itel-p40-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Itel P40 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-graphics-card-guide-addressing-csr8510-a10-driver-errors-on-your-pc-solutions-included/"><u>Intel Graphics Card Guide: Addressing CSR8510 A10 Driver Errors on Your PC – Solutions Included</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-drivers-available-connect-your-epson-xp-245-with-windows-7-8-and-10-systems/"><u>Latest Drivers Available: Connect Your Epson XP-245 with Windows 7, 8 & 10 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-brio-webcam-driver-downloads-for-windows-users-compatible-with-version-10-8-and-7/"><u>Logitech Brio Webcam Driver Downloads for Windows Users – Compatible with Version 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/plate-tectonics-explains-the-movement-of-earths-lithospheric-plates-which-can-cause-metamorphism/"><u>Plate Tectonics Explains the Movement of Earth's Lithospheric Plates, Which Can Cause Metamorphism.</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/selecting-the-safest-digital-wallets-expert-tips-from-yl-computing-a-guide-by-yl-software/"><u>Selecting the Safest Digital Wallets: Expert Tips From YL Computing - A Guide by YL Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/soundscapes-synopsis-a-guide-to-visual-tunes-for-2024/"><u>Soundscapes Synopsis A Guide to Visual Tunes for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-canon-pixma-mg2522-printer-drivers-with-ease-free-download-guide/"><u>Update Your Canon PIXMA MG2522 Printer Drivers with Ease - Free Download Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-enhance-your-digital-viewing-experience-in-hd-with-android/"><u>[New] Enhance Your Digital Viewing Experience in Hd with Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unseen-battles-umbraheroes-black-versus-luminaryheroes-silver/"><u>[New] In 2024, Unseen Battles Umbraheroes (Black) Versus Luminaryheroes (Silver)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adapting-web-presence-the-future-of-ai-search-engines/"><u>Adapting Web Presence: The Future of AI Search Engines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevating-your-play-experience-why-switching-to-advanced-handheld-systems-after-mastering-mobile-gaming-is-beneficial/"><u>Elevating Your Play Experience: Why Switching to Advanced Handheld Systems After Mastering Mobile Gaming Is Beneficial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-setup-asus-motherboards-get-compatible-with-windows-11s-customizable-lights/"><u>Enhance Your PC Setup: Asus Motherboards Get Compatible with Windows 11'S Customizable Lights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/evaluate-the-essential-factors-prior-to-smart-surveillance-camera-setup/"><u>Evaluate the Essential Factors Prior to Smart Surveillance Camera Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-5000mah-belkin-boostcharge-pro-with-wireless-charging-and-stand-unmatched-portable-power-solution/"><u>Exclusive 5,000mAh Belkin BoostCharge Pro with Wireless Charging & Stand - Unmatched Portable Power Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-enhanced-performance-the-latest-modular-design-featuring-intels-top-tier-core-cpus/"><u>Experience Enhanced Performance: The Latest Modular Design Featuring Intel's Top-Tier Core CPUs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-impressive-loudness-with-the-jbl-partybox-stage-320-a-comprehensive-sound-system-review/"><u>Experience Impressive Loudness with the JBL PartyBox Stage 320: A Comprehensive Sound System Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-analysis-jbl-clip-5-as-the-ultimate-compact-bluetooth-speaker-a-comprehhavioral-review/"><u>Expert Analysis: JBL Clip 5 as the Ultimate Compact Bluetooth Speaker - A Comprehhavioral Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-x100-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-fix-a-frozen-pc-during-the-scanning-process-a-guide-by-yl-computing/"><u>How to Fix a Frozen PC During the Scanning Process: A Guide by YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-dive-into-ar-sticker-technology-and-alternatives/"><u>In 2024, A Dive Into AR Sticker Technology and Alternatives</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/pioneering-the-perfect-playlist-for-youtube-music-enthusiasts/"><u>Pioneering the Perfect Playlist for YouTube Music Enthusiasts</u></a></li>
 </ul></div>
 

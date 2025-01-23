@@ -1,7 +1,7 @@
 ---
 title: "Meet the New Slender Superstar: LG's Latest and Leanest Gram Laptop on the Market Insights"
-date: 2025-01-14T17:24:27.488Z
-updated: 2025-01-16T18:41:54.453Z
+date: 2025-01-16T04:40:14.193Z
+updated: 2025-01-23T01:14:59.734Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ Now you may be wondering: what's the catch? Is the Asus Zenbook 14 as perfect as
 My biggest issue with the laptop is the fact it can run incredibly warm. You can't even type on the keyboard or have it on your legs without discomfort. Heat vents are found on the bottom and the side, but they don't offer much relief. This problem is exacerbated if you try to use the laptop while charging. There's so much heat that typing on the keyboard becomes uncomfortable. You're honestly better off not using the laptop during this time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -89,7 +89,7 @@ The [Asus Zenbook 14](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.
 You can purchase my review unit's configuration on Best Buy for $799.99, but there's always the option to upgrade the hardware if you're looking for something with more power behind it. A Zenbook 14 sporting an Intel Core Ultra 7 155H processor, Intel Arc GPU, 16GB of RAM, and 1TB of storage will [start at $1,299](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fshop.asus.com%2Fus%2Fasus-zenbook-14-oled-ux3405-laptop.html) but come with significant jump up in processing power. No matter which one you get, it'll be worth the low price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -136,22 +136,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-screensaviors-guide-global-and-regional-channels-led-by-you/"><u>[New] ScreenSaviors Guide Global and Regional Channels Led by You</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensively-curated-list-15-prime-gear-for-gopro/"><u>Comprehensively Curated List 15 Prime Gear for GoPro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cookiebot-driven-data-collection-optimize-your-websites-user-experience/"><u>Cookiebot-Driven Data Collection: Optimize Your Website's User Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-cutting-edge-electronics-on-toms-hardware-platform/"><u>Discover Cutting-Edge Electronics on Tom's Hardware Platform</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-canon-driver-installation-and-updates-on-windows-step-by-step-guide/"><u>Effortless Canon Driver Installation and Updates on Windows - Step by Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722960811453-enhance-your-internet-experience-with-updated-wi-fi-drivers-for-windows-7/"><u>Enhance Your Internet Experience with Updated Wi-Fi Drivers for Windows 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-safely-obtain-and-install-lenovo-thinkpad-drivers-a-reliable-guide/"><u>How To Safely Obtain & Install Lenovo ThinkPad Drivers - A Reliable Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-proven-winners-selecting-the-best-hdr-cameras/"><u>In 2024, Proven Winners Selecting the Best HDR Cameras</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-toms-gear-workshop-expert-reviews-on-latest-hardware/"><u>Inside Tom's Gear Workshop: Expert Reviews on Latest Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-gadget-reviews-by-tom-your-guide-to-quality-electronics/"><u>Pioneering Gadget Reviews by Tom - Your Guide to Quality Electronics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973169284-successfully-addressing-window-based-challenges-for-samsung-printer-users-a-comprehhavemore-detailed-look-at-driver-issues-and-their-solutions/"><u>Successfully Addressing Window-Based Challenges for Samsung Printer Users: A Comprehhavemore Detailed Look at Driver Issues and Their Solutions.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sustainable-workspaces-strategies-for-improving-your-offices-energy-efficiency-ratings/"><u>Sustainable Workspaces: Strategies for Improving Your Office's Energy Efficiency Ratings</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-6-video-formats-for-captivated-audiences-for-2024/"><u>Top 6 Video Formats for Captivated Audiences for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-504-errors-effective-solutions-and-tips/"><u>Troubleshooting 504 Errors: Effective Solutions and Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-set-up-your-logitech-driving-force-gt-controller-with-easy-downloads-for-win-oses/"><u>Ultimate Tutorial: Set Up Your Logitech Driving Force GT Controller with Easy Downloads for Win OSes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unveiling-the-usage-shift-por-que-vs-por-que/"><u>Unveiling the Usage Shift: Por Que vs Por Qué</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-pova-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Pova 5 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-editors-almanac-key-takeaways-from-filmora-editioning/"><u>[New] 2024 Approved The Editor’s Almanac Key Takeaways From Filmora Editioning</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unleash-timeliness-iphone-slow-motion-filming/"><u>[Updated] In 2024, Unleash Timeliness IPhone Slow Motion Filming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-filmmakers-guide-to-distorting-space-and-time/"><u>[Updated] The Filmmaker's Guide to Distorting Space & Time</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-ultimate-free-pdf-markup-tool-2020-simplify-your-pdf-note-taking-experience/"><u>1. Ultimate Free PDF Markup Tool 2020 - Simplify Your PDF Note-Taking Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-examination-of-samsung-photo-editor-features/"><u>2024 Approved The Ultimate Examination of Samsung Photo Editor Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-between-amd-and-intel-cpus-which-processor-takes-the-crown/"><u>Choosing Between AMD and Intel CPUs: Which Processor Takes the Crown?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ehensive-youtube-etiquette-guide-for-2024/"><u>Comprehensive YouTube Etiquette Guide for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iency-boost-discover-the-top-5-youtube-shorteners-for-2024/"><u>Efficiency Boost Discover the Top 5 YouTube Shorteners for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-fixing-audiobox-usb-driver-glitches-fast-and-easy/"><u>Effortless Guide to Fixing AudioBox USB Driver Glitches Fast & Easy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-cv-written-skills-the-chatgpt-method/"><u>Enhancing Your CV' Written Skills: The ChatGPT Method</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-se-2022-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-to-the-latest-gadgets/"><u>Tom's Tech Review: The Ultimate Guide to the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-now-new-intel-hd-4400-graphics-driver-get-the-latest-features/"><u>Update Now! New Intel HD 4400 Graphics Driver - Get the Latest Features</u></a></li>
 </ul></div>
 

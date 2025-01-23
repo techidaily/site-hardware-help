@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad X1 Carbon (Gen 9+) Unboxed & Assessed – Surpassing All in Business Laptops?
-date: 2025-01-14T00:38:42.373Z
-updated: 2025-01-17T01:29:00.602Z
+date: 2025-01-16T06:38:24.956Z
+updated: 2025-01-23T02:23:51.360Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,20 +218,24 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhancing-streaming-quality-for-instagram-videos/"><u>[New] In 2024, Enhancing Streaming Quality for Instagram Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nbox-the-joy-of-9-premium-complete-christmas-movies-for-free/"><u>[New] Unbox the Joy of 9 Premium, Complete Christmas Movies for Free</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-art-of-balancing-video-quality-and-adsense-revenue/"><u>[Updated] In 2024, The Art of Balancing Video Quality & AdSense Revenue</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/7-instead-of-jumping-to-series-10-insights-from-zdnet/"><u>7 Instead of Jumping to Series 10 - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/free-easy-and-fun-top-15-ways-to-watch-nba-online/"><u>Free, Easy & Fun Top 15 Ways to Watch NBA Online</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-driver-software-for-hp-deskjet-ink-advantage-3755-printer-on-windows-operating-systems-windows-11-10-8-and-7/"><u>Get the Latest Driver Software for HP DeskJet Ink Advantage 3755 Printer on Windows Operating Systems (Windows 11, 10, 8, ^and 7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-quickly-update-your-scansnap-ix500-printer-software-on-windows/"><u>How to Quickly Update Your ScanSnap iX500 Printer Software on Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-todays-vr-an-inside-look/"><u>In 2024, Today’s VR An Inside Look</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-zexmtes-high-performance-bluetooth-adapter-software-for-modern-windows-systems/"><u>Install Zexmte's High-Performance Bluetooth Adapter Software for Modern Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/m-box-2-software-update-get-the-latest-drivers-for-your-windows-pc-easily/"><u>M-Box 2 Software Update: Get the Latest Drivers for Your Windows PC Easily!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/remove-youtube-sneak-peeks-for-uninterrupted-views-for-2024/"><u>Remove YouTube Sneak Peeks for Uninterrupted Views for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-hp-screen-driver-compatibility-for-win10-win8-and-win7-operating-systems/"><u>Troubleshooting and Fixing HP Screen Driver Compatibility for Win10, Win8 & Win7 Operating Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-lego-star-wars-the-skywalker-sagas-stability-issues-on-pc/"><u>Troubleshooting and Fixing Lego Star Wars: The Skywalker Saga's Stability Issues on PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-downloading-and-installing-msi-b350-tomahawk-motherboard-drivers-for-windows-systems-107/"><u>Ultimate Guide to Downloading and Installing MSI B350 Tomahawk Motherboard Drivers for Windows Systems (10/7)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-personalizing-teams-windows-for-effective-calls/"><u>[New] 2024 Approved Personalizing Teams Windows for Effective Calls</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-mute-google-meet-for-2024/"><u>[New] How to Mute Google Meet for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-best-drawing-apps-for-iphones/"><u>[Updated] Best Drawing Apps for iPhones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-unlocking-performance-why-gpus-are-indifferent-to-pci-express-versions/"><u>1. Unlocking Performance: Why GPUs Are Indifferent to PCI Express Versions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-avoid-delays-swift-time-lapse-recording-on-iphone/"><u>2024 Approved Avoid Delays Swift Time-Lapse Recording on iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-journey-through-windows-11s-latest-software/"><u>2024 Approved Journey Through Windows 11'S Latest Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024-ultimate-microsd-card-selection-the-best-picks-for-optimal-performance/"><u>2024 Ultimate MicroSD Card Selection: The Best Picks for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/9i-notebook-and-elite-power-banks-today/"><u>9I Notebook & Elite Power Banks Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/anticipate-new-era-of-customizable-gpu-thermal-solutions/"><u>Anticipate New Era of Customizable GPU Thermal Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/apple-redefines-audio-experience-with-pioneering-bluetooth-speaker-the-new-beats-pill/"><u>Apple Redefines Audio Experience with Pioneering Bluetooth Speaker, The New Beats Pill</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-computers-gaming-capabilities-without-spending-a-dime-the-ultimate-optimization-strategy/"><u>Boost Your Computer's Gaming Capabilities Without Spending a Dime - The Ultimate Optimization Strategy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-productivity-with-improved-mouse-switch-technology-why-sticking-to-the-default-is-a-mistake/"><u>Boost Your Productivity with Improved Mouse Switch Technology – Why Sticking to the Default Is a Mistake</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-unveiling-the-ultimate-roku-models-for-a-superior-viewing-experience-zdnet-insights/"><u>Expert Review: Unveiling the Ultimate Roku Models for a Superior Viewing Experience | ZDNET Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-quiet-clans-to-roaring-fights-resolving-valheim-no-sound-woes-on-windows/"><u>From Quiet Clans to Roaring Fights: Resolving Valheim No-Sound Woes on Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-ultimate-selection-of-8-stealth-downloads/"><u>In 2024, Ultimate Selection of 8 Stealth Downloads</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-next-generation-of-gaming-a-deep-dive-into-the-features-performance-and-stylish-appearance-of-dells-alienware-aurora-rnv/"><u>The Next Generation of Gaming: A Deep Dive Into the Features, Performance & Stylish Appearance of Dell's Alienware Aurora Rnv.</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-filmora-13-video-editor-free-download/"><u>Updated Get Filmora 13 Video Editor Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-you-should-avoid-the-suitcase-phonograph-best-options-explained/"><u>Why You Should Avoid the Suitcase Phonograph - Best Options Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zen-5-processors-amd-brings-next-gen-performance-to-laptops-and-desktop-computers/"><u>Zen 5 Processors: AMD Brings Next-Gen Performance to Laptops and Desktop Computers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Find and Download the Correct Broadcom Bluetooth Drivers for Your Windows OS
-date: 2024-08-13T12:49:46.114Z
-updated: 2024-08-14T12:49:46.114Z
+date: 2025-01-17T22:42:55.516Z
+updated: 2025-01-23T03:57:38.964Z
 tags:
   - win11
   - win10
@@ -18,13 +18,18 @@ thumbnail: https://thmb.techidaily.com/8cff42ae0b07628cf47b2fefd624aed56ec467c25
 Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https://tools.techidaily.com/drivereasy/download/) ? Your Qualcomm Atheros AR3011 Bluetooth 3.0 adapter needs the latest correct driver to function properly. In this post, we’ll show you how to get the newest driver manually or automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 ways to get the AR3011 Bluetooth driver
 
 [Option 1: Manually](https://tools.techidaily.com/drivereasy/download/) – This requires a certain level of computer skills. You need to know where to locate your adapter in Windows, and how to check if Microsoft provides the exact driver.
 
 [**Option 2: Automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-qualcomm-atheros-ar3011-bluetooth-3-0-driver/#option2) – If you don’t have the time or computer skills, maybe you’d want to update drivers automatically. All it takes are a few clicks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your Qualcomm Atheros AR3011 Bluetooth 3.0 driver manually
 
@@ -32,22 +37,18 @@ Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https
 
 1. On your keyboard, press**Win** (the Windows logo key) and type**device** **manager** . From the search results, select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-win-search-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 2. Click**Bluetooth** to expand the category. Right-click**Atheros AR3011 Bluetooth 3.0** and select**Update Driver Software…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/ar3011-update-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 3. Click**Search automatically for drivers** . Then wait for the process to complete. If Windows tells you the best drivers are already installed, you might need to visit the manufacturer’s website to verify.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/ar3011-update-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/ar3011-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update your Qualcomm Atheros AR3011 Bluetooth 3.0 driver automatically (Recommended)
@@ -57,13 +58,11 @@ No advertising on the website.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/de-ar3011-update.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -80,8 +79,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +86,18 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-visualize-vibrancy-generate-memes-with-kapwing/"><u>[New] 2024 Approved Visualize Vibrancy Generate Memes with Kapwing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-m1-pro-vs-m1-max-identifying-core-differences-for-2024/"><u>[New] M1 Pro Vs. M1 Max Identifying Core Differences for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-transforming-iphone-photos-upside-down-and-sideways-tricks/"><u>[Updated] Transforming iPhone Photos Upside-Down & Sideways Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-on-computer-components-from-toms-gear-guide/"><u>Expert Insights on Computer Components From Tom's Gear Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/iconic-5-star-fractal-universe-north-premium-pc-chassis-now-a-steal-at-just-109/"><u>Iconic 5-Star Fractal Universe North Premium PC Chassis Now a Steal at Just $109</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-13-mini-5-ways-to-get-into-a-locked-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 13 mini? 5 Ways to get into a Locked Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-your-pc-upgrade-journey-with-guidance-from-toms-hardware/"><u>Navigate Your PC Upgrade Journey with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-ready-to-go-gpt-models-for-instant-deployment/"><u>Top 8 Ready-to-Go GPT Models for Instant Deployment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbox-aesthetic-appeal-and-optimal-cooling-with-phanteks-xt-pro-ultra-pc-case-modern-tech-meets-rgb-illumination/"><u>Unbox Aesthetic Appeal & Optimal Cooling with Phanteks' XT Pro Ultra PC Case – Modern Tech Meets RGB Illumination</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-complete-side-visibility-in-xpgs-battlecruiser-ii-desktop-tower-chassis/"><u>Unveiling Complete Side Visibility in XPG’s Battlecruiser II Desktop Tower Chassis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zooming-into-success-livestream-mastery-with-zoom-and-youtube/"><u>Zooming Into Success Livestream Mastery with Zoom and YouTube</u></a></li>
+</ul></div>
 

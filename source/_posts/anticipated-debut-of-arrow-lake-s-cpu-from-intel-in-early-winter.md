@@ -1,7 +1,7 @@
 ---
 title: Anticipated Debut of Arrow Lake-S CPU From Intel in Early Winter
-date: 2024-08-13T12:49:18.728Z
-updated: 2024-08-14T12:49:18.728Z
+date: 2025-01-15T18:20:44.681Z
+updated: 2025-01-23T00:46:08.244Z
 tags:
   - cpu
 categories:
@@ -28,8 +28,9 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -40,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -56,4 +54,19 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-boosting-vimeo-video-playback-tips-and-tricks/"><u>[Updated] 2024 Approved Boosting Vimeo Video Playback Tips and Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-evaluations-at-toms-hardware-gear-up-with-cutting-edge-technology-guides/"><u>Expert Evaluations at Tom's Hardware - Gear Up with Cutting-Edge Technology Guides</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-realme-c51-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Realme C51 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-8-best-open-source-video-conferencing-software-for-enterprise/"><u>In 2024, 8 Best Open Source Video Conferencing Software for Enterprise</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigating-the-ebb-and-flow-of-daily-social-media-use/"><u>Navigating the Ebb and Flow of Daily Social Media Use</u></a></li>
+<li><a href="https://win-popular.techidaily.com/sd4/"><u>SD卡如何轻松地重新获取信息：包括4个不同方法</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/storytelling-with-style-making-instagram-text-dance/"><u>Storytelling with Style Making Instagram Text Dance</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-the-d3dxt939dll-missing-error-on-your-computer/"><u>The Ultimate Fix for the d3dxt9_39.dll Missing Error on Your Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-in-depth-reviews-and-buying-guides/"><u>Tom's Tech Insights: In-Depth Reviews & Buying Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-the-power-of-lightning-fast-clicks-a-deep-dive-review-into-logitech-g-pro-x-2s-superior-performance-for-serious-players/"><u>Unleashing the Power of Lightning-Fast Clicks: A Deep Dive Review Into Logitech G Pro X 2'S Superior Performance for Serious Players</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-gadgets-with-tom-authoritative-tutorials-on-pc-hardware/"><u>Unveiling Gadgets with Tom: Authoritative Tutorials on PC Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/value-for-money/"><u>Value for Money</u></a></li>
+</ul></div>
 

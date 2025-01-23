@@ -1,7 +1,7 @@
 ---
 title: "AMD's EPYC 9755 Unleashed: How the 128-Core CPU Topped Over 108K Points in Multi-Threaded CP-Z Test"
-date: 2024-08-13T12:47:54.615Z
-updated: 2024-08-14T12:47:54.615Z
+date: 2025-01-21T00:35:04.931Z
+updated: 2025-01-23T02:02:24.938Z
 tags:
   - cpu
 categories:
@@ -35,8 +35,9 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,4 +59,26 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/aximize-screen-tv-playback-for-youtube-clips-for-2024/"><u>[New] Maximize Screen TV Playback for YouTube Clips for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-using-vlc-for-videos/"><u>[Updated] 2024 Approved Ultimate Guide Using VLC for Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-pinnacle-of-insta-grids-our-curated-list-of-best-tools/"><u>[Updated] The Pinnacle of Insta Grids Our Curated List of Best Tools</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-xs-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone XS to Samsung | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-gaming-mouse-g602-drivers-and-software-for-windows-pcs/"><u>Download Logitech Gaming Mouse (G602) Drivers & Software for Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fix-installing-latest-drivers-for-your-scansnap-ix500-using-windows-software/"><u>Easy Fix: Installing Latest Drivers for Your ScanSnap iX500 Using Windows Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-advanced-technology-insights-with-toms-hardware-hub/"><u>Exploring Advanced Technology Insights with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967627564-get-your-free-windows-8-amd-radeon-graphics-software-update-now/"><u>Get Your Free Windows 8 AMD Radeon Graphics Software Update Now!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-se-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone SE</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-tiktok-navigation-efficiently-change-your-number/"><u>In 2024, Seamless TikTok Navigation Efficiently Change Your Number</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-logitech-g27-drivers-available-for-win11-win10-and-windows-7-platforms/"><u>Installing Logitech G27: Drivers Available for Win11, Win10 & Windows 7 Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/qualcomm-atheros-ar938x-driver-downloads-secure-and-easy/"><u>Qualcomm Atheros AR938X Driver Downloads - Secure and Easy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/redirect-mac-images-to-custom-folder-for-2024/"><u>Redirect Mac Images to Custom Folder for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/retailer-stats-reveal-worrying-trend-13th-gen-intel-cpus-reportedly-yield-a-massive-increase-in-return-rates-how-do-they-compare-to-amd/"><u>Retailer Stats Reveal Worrying Trend: 13Th Gen Intel CPUs Reportedly Yield a Massive Increase in Return Rates – How Do They Compare to AMD?</u></a></li>
+<li><a href="https://facebook.techidaily.com/shield-your-preferences-discreetly-expressing-support-online/"><u>Shield Your Preferences: Discreetly Expressing Support Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-repairing-windows-7-network-adapter-driver-woes-now-fixed/"><u>Step-by-Step Guide to Repairing Windows 7 Network Adapter Driver Woes - NOW FIXED!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-microsoft-flight-simulator-2020-persistent-pc-crashes/"><u>Troubleshooting Tips for Microsoft Flight Simulator 2020 Persistent PC Crashes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-officejet-pro-9015-driver-with-this-free-download/"><u>Update Your HP OfficeJet Pro 9015 Driver with This Free Download</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728509847083-pc/"><u>ハードウェア切り替え時PCクローン作成：方法二つ解説</u></a></li>
+</ul></div>
 

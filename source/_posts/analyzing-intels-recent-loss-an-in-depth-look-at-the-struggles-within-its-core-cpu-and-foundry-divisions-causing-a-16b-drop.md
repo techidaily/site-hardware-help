@@ -1,7 +1,7 @@
 ---
 title: "Analyzing Intel's Recent Loss: An In-Depth Look at the Struggles Within Its Core CPU & Foundry Divisions Causing a 1.6B Drop"
-date: 2024-08-13T12:48:56.035Z
-updated: 2024-08-14T12:48:56.035Z
+date: 2025-01-19T02:29:38.207Z
+updated: 2025-01-23T02:50:17.518Z
 tags:
   - cpu
 categories:
@@ -35,17 +35,9 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -54,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -70,4 +59,18 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-summit-elite-production-space-25/"><u>2024 Approved Summit Elite Production Space 25</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-installation-guide-epson-wf-3520-printer-driver-on-windows/"><u>Download and Installation Guide: Epson WF-3520 Printer Driver on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-universe-a-comprehensive-guide/"><u>Exploring Tom's Tech Universe: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gskills-trident-z5-rgb-ram-comprehensive-review-on-its-impressive-32gb-capacity-and-speed-at-ddr5-640erate/"><u>G.Skill's Trident Z5 RGB RAM: Comprehensive Review on Its Impressive 32GB Capacity and Speed at DDR5-640erate</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-template-packs-for-effective-business-communications/"><u>In 2024, Innovative Template Packs for Effective Business Communications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-home-internet-leveraging-prime-day-deals-for-enhanced-wireless-connectivity/"><u>Maximizing Your Home Internet: Leveraging Prime Day Deals for Enhanced Wireless Connectivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-pc-parts-with-toms-hardware-insights/"><u>Navigating the World of PC Parts with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-toms-gear-guide-insights-on-advanced-hardware-solutions/"><u>Navigating Tom's Gear Guide: Insights on Advanced Hardware Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-computing-unveiled-enhanced-ddr5-memory-standards-for-lightning-fast-laptops-and-servers-set-by-jedec/"><u>Next-Gen Computing Unveiled: Enhanced DDR5 Memory Standards for Lightning-Fast Laptops and Servers Set by JEDEC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ior-watchlist-analyzer-highest-chart-positions/"><u>Superior Watchlist Analyzer Highest Chart Positions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxdvd-utilisation-complete-une-etude-de-cas-explicite/"><u>WinXDVD Utilisation Complète: Une Étude De Cas Explicite</u></a></li>
+</ul></div>
 

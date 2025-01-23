@@ -1,7 +1,7 @@
 ---
 title: Ryzen Zen 5 CPU Triumphs Over Intel's 20-Core and Apple's M3 Max with Outstanding PassMark Scores
-date: 2024-08-13T12:46:45.275Z
-updated: 2024-08-14T12:46:45.275Z
+date: 2025-01-16T18:21:35.392Z
+updated: 2025-01-23T02:04:54.254Z
 tags:
   - cpu
 categories:
@@ -28,8 +28,9 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  Intel isn't sharing many deep-dive details about the bug yet but says it will continue its validation process to ensure the microcode fully addresses the issues. The company will release more details about the bug itself in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +44,9 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  Intel has not issued a recall of its processors; sources close to the matter tell us that isn't expected. We have both of Intel's statements below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Intel statement on 13th- and 14th-Gen instability
 
  _"Based on extensive analysis of Intel Core 13th/14th Gen desktop processors returned to us due to instability issues, we have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors. Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor."_
@@ -54,13 +56,9 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  _"Intel is committed to making this right with our customers, and we continue asking any customers currently experiencing instability issues on their Intel Core 13th/14th Gen desktop processors reach out to Intel Customer Support for further assistance."_
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Intel statement on via oxidation
 
 **Short answer:** We can confirm there was a via Oxidation manufacturing issue (addressed back in 2023) but it is not related to the instability issue.
@@ -69,14 +67,11 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  _For the Instability issue, we are delivering a microcode patch which addresses exposure to elevated voltages which is a key element of the Instability issue. We are currently validating the microcode patch to ensure the instability issues for 13th/14th Gen are addressed. -_ Intel representative[via Reddit](https://www.reddit.com/r/intel/comments/1e9mf04/comment/lefz09c/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -85,4 +80,24 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-innovative-marker-use-in-digital-filmmaking/"><u>[New] 2024 Approved Innovative Marker Use in Digital Filmmaking</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ripping-up-heres-how-to-avoid-it/"><u>[New] Tripping Up? Here's How to Avoid It!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-image-packs-selecting-the-best-for-macbook-screens/"><u>[Updated] Ideal Image Packs Selecting the Best for MacBook Screens</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-bug-fixing-continuous-gameplay-interruptions-on-windows-11-and-10-systems/"><u>Beat the Bug: Fixing Continuous Gameplay Interruptions on Windows 11 & 10 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-l2700dw-driver-setup-and-download-instructions-for-windows-pcs/"><u>Brother L2700DW Driver Setup & Download Instructions for Windows PCs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-picks-leading-usb-wireless-nics-to-upgrade-your-connectivity/"><u>Expert Picks: Leading USB Wireless NICs to Upgrade Your Connectivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-installing-hp-officejet-4655-printer-software/"><u>Get Updated: Installing HP Officejet 4655 Printer Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-add-multiple-landmarks-onto-your-google-maps-itinerary-with-ease/"><u>How To Add Multiple Landmarks Onto Your Google Maps Itinerary With Ease</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-14-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 14</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-your-eveo-bluetooth-adapter-with-our-official-driver-software/"><u>Install Your EVEO Bluetooth Adapter with Our Official Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-quick-storage-solutions-fresh-driver-downloads-for-optimal-pc-functionality/"><u>Intel Quick Storage Solutions: Fresh Driver Downloads for Optimal PC Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-hardware-choices-with-the-toms-comprehensive-tech-analysis/"><u>Mastering Hardware Choices with The Tom's Comprehensive Tech Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-installing-the-latest-zebra-zp450-driver-software/"><u>The Definitive Guide to Installing the Latest Zebra ZP450 Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-insightful-tutorials-on-pc-components-and-software/"><u>Tom's Insightful Tutorials on PC Components & Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/uncovering-the-best-performance-pcs-at-toms-technology-blog/"><u>Uncovering the Best Performance PCs at Tom’s Technology Blog</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpurchasing-your-apple-vision-pro-follow-these-simple-steps/"><u>Unpurchasing Your Apple Vision Pro? Follow These Simple Steps!</u></a></li>
+</ul></div>
 

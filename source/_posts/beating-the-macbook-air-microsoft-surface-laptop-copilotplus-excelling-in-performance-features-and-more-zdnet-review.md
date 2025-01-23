@@ -1,7 +1,7 @@
 ---
 title: "Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review"
-date: 2025-01-15T00:04:15.327Z
-updated: 2025-01-16T21:36:53.676Z
+date: 2025-01-16T17:49:17.360Z
+updated: 2025-01-23T05:14:32.460Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -109,7 +109,7 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,21 +148,24 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-video-frame-rates-explained-why-choose-30-or-60/"><u>[New] 2024 Approved Video Frame Rates Explained Why Choose 30 or 60?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-windows-11-media-with-movie-maker-tools/"><u>[New] In 2024, Mastering Windows 11 Media with Movie Maker Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-unlocking-zooms-potential-by-leveraging-skype-for-2024/"><u>[New] Unlocking Zoom's Potential by Leveraging Skype for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-efficacy-of-social-media-authenticity-validation/"><u>[Updated] In 2024, The Efficacy of Social Media Authenticity Validation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-rx-6900-xt-drivers-fast-download-optimized-for-windows-operating-systems-11-10-8-and-7/"><u>AMD RX 6900 XT Drivers [Fast Download] – Optimized for Windows Operating Systems: 11, 10, 8 & 7</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-v27e-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo V27e? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/cambiar-h265-a-h264-sin-coste-alguno-manteniendo-la-calidad-completa/"><u>Cambiar H.265 A H.264 Sin Coste Alguno, Manteniendo La Calidad Completa</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960036309-externalities-are-costs-or-benefits-incurred-by-third-parties-who-did-not-choose-to-be-affected/"><u>Externalities Are Costs or Benefits Incurred by Third Parties Who Did Not Choose to Be Affected</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-your-canon-mg3000-ready-driver-downloads-and-updates/"><u>Getting Your Canon MG3000 Ready: Driver Downloads & Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-hp-laptop-hardware-drivers-installation-guide-for-windows-users/"><u>Latest HP Laptop Hardware Drivers: Installation Guide for Windows Users</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/organizing-epics-implementing-chapters-in-vimeo-media-for-2024/"><u>Organizing Epics Implementing Chapters in Vimeo Media for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-steps-to-download-and-upgrade-your-canon-device-drivers-in-windows/"><u>Quick and Simple Steps to Download & Upgrade Your Canon Device Drivers in Windows!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scripting-success-integrating-chatgpt-into-video-content-creation/"><u>Scripting Success: Integrating ChatGPT Into Video Content Creation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/targus-displaylink-driver-updates-for-windows-users-a-step-by-step-guide/"><u>Targus DisplayLink Driver Updates for Windows Users: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-windows-iscsi-initiators-capabilities/"><u>Unveiling the Windows iSCSI Initiator's Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-hdmi-connection-free-usb-to-hdmi-driver-software/"><u>Update Your HDMI Connection: Free USB to HDMI Driver Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-dynamic-timelines-constructing-animated-narratives-in-movie-maker-for-2024/"><u>[New] Dynamic Timelines Constructing Animated Narratives in Movie Maker for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-media-professionals-recommendations-best-5-web-video-recorders/"><u>[New] Media Professionals' Recommendations Best 5 Web Video Recorders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-macbook-owners-with-butterfly-keyboard-issues-begin-receiving-up-to-395-refund-per-unit/"><u>Apple MacBook Owners with Butterfly Keyboard Issues Begin Receiving Up To $395 Refund Per Unit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/debunking-the-top-5-common-misconceptions-about-android/"><u>Debunking the Top 5 Common Misconceptions About Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-most-effective-clock-monitoring-tools-for-android-devices-ranked-1-6/"><u>Discover the Most Effective Clock Monitoring Tools for Android Devices, Ranked #1-#6</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easily-retrieve-your-lost-vehicle-using-google-maps-a-step-by-step-guide/"><u>Easily Retrieve Your Lost Vehicle Using Google Maps - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-switching-your-androids-display-language/"><u>Easy Guide: Switching Your Android's Display Language</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enable-mobile-communications-over-wi-fi-on-android-phones-a-complete-tutorial/"><u>Enable Mobile Communications Over Wi-Fi on Android Phones - A Complete Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-experience-androids-latest-addition-of-a-taskbar-to-cater-to-bigger-screens-in-version-12l/"><u>Enhance Your Experience: Android's Latest Addition of a Taskbar to Cater to Bigger Screens in Version 12L</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-android-widgets-every-user-must-have-for-optimal-phone-functionality/"><u>Essential Android Widgets Every User Must Have for Optimal Phone Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fingerprint-sensor-showdown-unveiling-the-differences-between-ultrasonic-and-optical-technologies/"><u>Fingerprint Sensor Showdown: Unveiling the Differences Between Ultrasonic and Optical Technologies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-a-broken-android-camera-discover-the-top-11-tips-and-tricks/"><u>Fix a Broken Android Camera: Discover the Top 11 Tips and Tricks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/free-graphic-goldmine-a-roadmap-to-premium-visuals-for-2024/"><u>Free Graphic Goldmine A Roadmap to Premium Visuals for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-pairing-process-how-to-successfully-link-airpods-with-windows-11/"><u>Mastering the Pairing Process: How to Successfully Link AirPods with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-removing-window-search-artifacts/"><u>Mastery Over Removing Window Search Artifacts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-access-rectifying-unreachable-ea-services/"><u>Reestablishing Access: Rectifying Unreachable EA Services</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/k-your-videographer-potential-with-youtube-studio-edition-expertise-for-2024/"><u>Unlock Your Videographer Potential with YouTube Studio Edition Expertise for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-procedure-for-microsoft-stores-msix-extensions/"><u>Unveiling the Procedure for Microsoft Store's MSIX Extensions</u></a></li>
 </ul></div>
 

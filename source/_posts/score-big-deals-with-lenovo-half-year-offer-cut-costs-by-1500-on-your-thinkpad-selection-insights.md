@@ -1,7 +1,7 @@
 ---
 title: "Score Big Deals with Lenovo Half-Year Offer: Cut Costs by $1,500 on Your ThinkPad Selection – Insights"
-date: 2025-01-10T17:23:40.054Z
-updated: 2025-01-16T17:41:29.144Z
+date: 2025-01-22T05:01:42.857Z
+updated: 2025-01-23T03:17:54.327Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8a52223f-a8c0-46bd-a5a7-9ee35c834394%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8a52223f-a8c0-46bd-a5a7-9ee35c834394%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,22 +77,18 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-reviving-obs-camera-glitches/"><u>[New] 2024 Approved Reviving OBS Camera Glitches</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-synopsis-of-crowd-opinions-on-vllo/"><u>[New] Synopsis of Crowd Opinions on VLLO</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-best-screen-capture-apps-a-guide-for-educators/"><u>[New] The Best Screen Capture Apps A Guide for Educators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-tech-tips-efficient-gameplay-archiving-in-roblox-on-macos/"><u>2024 Approved Tech Tips Efficient Gameplay Archiving in Roblox on MacOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726226076276-mp3mp4/"><u>専用トラックで高速に MP3からMP4へ変換: 安全かつフリーのオンラインツール</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-download-of-updated-drivers-for-your-tp-link-ub400-wireless-adapter/"><u>Easy Download of Updated Drivers for Your TP-Link UB400 Wireless Adapter</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-instructions-installing-the-newest-canon-pixma-mg5120mg5122-driver-on-windows-devices/"><u>Easy Instructions: Installing the Newest Canon PIXMA MG5120/MG5122 Driver on Windows Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-next-level-performance-amds-new-ryzen-9-5900xt-and-ryzen-7-5800xt-hit-market-for-unbeatable-price-points-of-349-and-249-surpassing-previous-ryzen17/"><u>Experience Next-Level Performance: AMD's New Ryzen 9 5900XT & Ryzen 7 5800XT Hit Market for Unbeatable Price Points of $349 and $249, Surpassing Previous Ryzen 5000 Models</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-samsung-850-evo-drive-up-and-running-with-new-drivers-free/"><u>Get Your Samsung 850 EVO Drive Up and Running with New Drivers [Free]</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-13-mini-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 13 mini Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 15 Pro Max</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-note-30i-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Note 30i Phone FRP Lock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mpg-bm-top-quality-msi-audio-driver-packs-for-windows-systems-free/"><u>MPG-BM: Top-Quality MSI Audio Driver Packs for Windows Systems (Free)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigate-2024s-budget-friendly-cpu-market-top-deals-for-any-computer-processor/"><u>Navigate 2024'S Budget-Friendly CPU Market: Top Deals for Any Computer Processor</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-hide-subtitle-feature-on-prime-video-platform/"><u>Steps to Hide Subtitle Feature on Prime Video Platform</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-processors-ultimate-guide-the-perfect-choice-for-gamers/"><u>Top Rated Processors Ultimate Guide: The Perfect Choice for Gamers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unreal-engine-oversight-leads-to-dramatic-drop-in-defects-at-modelfarm-transitioning-from-intel-to-amds-powerful-ryzen-9-lineup/"><u>Unreal Engine Oversight Leads to Dramatic Drop in Defects at ModelFarm: Transitioning From Intel to AMD's Powerful Ryzen 9 Lineup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-pc-analysis-by-toms-hardware-experts/"><u>Advanced PC Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nubia-red-magic-9-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to update your drivers on Windows 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-out-technology-toms-expert-analysis-on-computing-hardware/"><u>Inside Out Technology: Tom's Expert Analysis on Computing Hardware</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-tv-streaming-platforms-of-2024-your-comprehensive-list/"><u>Leading TV Streaming Platforms of 2024: Your Comprehensive List</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-nokia-g22-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Nokia G22</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ely-growing-your-channels-popularity-a-one-million-goal-guide-for-2024/"><u>Securely Growing Your Channel's Popularity A One-Million Goal Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/snappy-satire-iphone-memes/"><u>Snappy Satire IPhone Memes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/straightforward-steps-to-freshly-update-your-microsoft-drivers-on-windows-10-8-or-nw-7-systems/"><u>Straightforward Steps to Freshly Update Your Microsoft Drivers on Windows 10, 8 or Nw, 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-troubleshooting-tips-for-downloading-and-updating-d-link-drivers-windows/"><u>Ultimate Troubleshooting Tips for Downloading and Updating D-Link Drivers (Windows)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975496760-update-your-hp-scanjet-software-for-windows-11-8-and-7-get-the-newest-version-today/"><u>Update Your HP Scanjet Software for Windows 11, 8 & 7 – Get the Newest Version Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-windows-computers-sound-driver-free-microsoft-driver-download/"><u>Update Your Windows Computer's Sound Driver: Free Microsoft Driver Download</u></a></li>
 </ul></div>
 

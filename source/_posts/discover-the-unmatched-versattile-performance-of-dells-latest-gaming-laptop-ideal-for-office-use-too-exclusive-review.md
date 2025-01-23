@@ -1,7 +1,7 @@
 ---
 title: Discover the Unmatched Versattile Performance of Dell's Latest Gaming Laptop - Ideal For Office Use Too! Exclusive Review
-date: 2025-01-15T22:04:01.679Z
-updated: 2025-01-17T01:22:02.342Z
+date: 2025-01-16T01:22:48.259Z
+updated: 2025-01-22T23:17:37.863Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,21 +114,17 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-easy-download-of-youtube-preview-pictures/"><u>[Updated] Easy Download of YouTube Preview Pictures</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-touchpad-driver-download-for-windows-11-quickly-and-easily/"><u>ASUS Touchpad Driver Download for Windows 11 Quickly & Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722959155228-ensure-peak-performance-downloading-updated-canon-pixma-ts3322-drivers-today/"><u>Ensure Peak Performance: Downloading Updated Canon PIXMA TS3322 Drivers Today</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-guide-to-the-top-10-video-calls-for-your-smartphone-for-2024/"><u>Essential Guide to the Top 10 Video Calls for Your Smartphone for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-usb-30-device-drivers-for-windows-pcs-download-guide/"><u>Free USB 3.0 Device Drivers for Windows PCs: Download Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-rtx-1080-drivers-for-windows-11-users-download-guide/"><u>Get the Latest Nvidia GeForce RTX 1080 Drivers for Windows 11 Users – Download Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-compatible-brother-hl-2240-driver-for-your-pc-with-windows-os/"><u>Get the Newest Compatible Brother HL-2240 Driver for Your PC with Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-epson-wf-7720-printer-drivers-in-windows/"><u>How to Install the Latest Epson WF- 7720 Printer Drivers in Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-create-an-nft-effortlessly-an-ultimate-guide-for-beginners/"><u>In 2024, How to Create an NFT Effortlessly An Ultimate Guide for Beginners</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installation-guide-for-gigabytes-gc-wb867d-graphics-card-free-driver-downloads-included/"><u>Installation Guide for Gigabyte's GC-WB867D Graphics Card - Free Driver Downloads Included</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-edge-40-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola Edge 40 won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-screenshots-print-screen-or-snip-and-sketch/"><u>Navigating Windows Screenshots: Print Screen or Snip and Sketch?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-your-missing-texts-and-reminders-from-an-iphone-easily/"><u>Recovering Your Missing Texts and Reminders From an iPhone Easily</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-manual-for-deleting-old-saved-files-from-ps5/"><u>Step-by-Step Manual for Deleting Old Saved Files From PS5</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-struggle-amazon-vs-the-ruling-factions-in-thousands-of-fb-groups/"><u>The Struggle: Amazon Vs. The Ruling Factions in Thousands of FB Groups</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-your-cs-workflow-with-codegpt-and-vs-code/"><u>Transforming Your CS Workflow with CodeGPT and VS Code</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-alight-motion-comprehensive-review-2023/"><u>[Updated] 2024 Approved Alight Motion Comprehensive Review 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-youtube-shorts-video-editor-tools-for-ios-and-android-devices/"><u>[Updated] 2024 Approved Best YouTube Shorts Video Editor Tools for iOS & Android Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-creator-studio-vs-youtube-studio-beta-which-one-is-better/"><u>[Updated] 2024 Approved YouTube Creator Studio Vs. YouTube Studio (Beta) Which One Is Better?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-cross-platform-content-spread-tweeting-and-tumbling/"><u>2024 Approved Cross-Platform Content Spread Tweeting & Tumbling</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-exclusive-list-of-top-mobile-editing-software-for-iphoneandroid/"><u>2024 Approved Exclusive List of Top Mobile Editing Software for iPhone/Android</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-wi-fi-nintendo-switch-edition/"><u>Mastering Wi-Fi: Nintendo Switch Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-fixes-for-broken-system-files-in-microsofts-latest-operating-os-windows-11/"><u>The Definitive Fixes for Broken System Files in Microsoft's Latest Operating OS, Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-power-of-affordable-excellence-discover-why-the-unattainable-oneplus-nord-4-is-your-ideal-mid-range-device/"><u>Unlock the Power of Affordable Excellence: Discover Why the Unattainable OnePlus Nord 4 Is Your Ideal Mid-Range Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-googles-latest-upgrades-for-pixel-phones-whats-new-in-december-2021/"><u>Unveiling Google's Latest Upgrades for Pixel Phones: What's New in December 2021</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-taptap-revolutionizing-the-quest-for-premium-mobile-game-experiences/"><u>Unveiling TapTap: Revolutionizing the Quest for Premium Mobile Game Experiences</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-worlds-five-most-eyesore-mobile-phones-an-exploration-into-design-failures-throughout-history/"><u>Unveiling the World's Five Most Eyesore Mobile Phones: An Exploration Into Design Failures Throughout History</u></a></li>
 </ul></div>
 

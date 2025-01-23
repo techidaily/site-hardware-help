@@ -1,7 +1,7 @@
 ---
 title: "Thrilling Tech Showdown: Ryzen 9 9950X Takes the Lead, Beating I9-14900K's Speeds by an Impressive 18%%"
-date: 2024-08-13T12:46:43.118Z
-updated: 2024-08-14T12:46:43.118Z
+date: 2025-01-16T18:16:10.734Z
+updated: 2025-01-23T04:35:59.720Z
 tags:
   - cpu
 categories:
@@ -28,17 +28,9 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,4 +54,20 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/download-now-latest-hp-scanjet-printer-drivers-for-windows-11-and-87-free/"><u>[Download Now] Latest HP Scanjet Printer Drivers for Windows 11 & 8/7 - Free</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-how-to-skyrocket-likes-on-your-tiktok-unpack-sessions/"><u>[New] How to Skyrocket Likes on Your TikTok Unpack Sessions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-platforms-for-animated-3d-creation-for-2024/"><u>[Updated] Ultimate Platforms for Animated 3D Creation for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-zero-price-audio-excellence-ranking-of-top-10-desktop-tools-for-2024/"><u>[Updated] Zero-Price Audio Excellence Ranking of Top 10 Desktop Tools for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-itel-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Itel Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262311927-beyond-repair-intels-mainline-non-k-core-processors-suffer-crashing-fiasco-no-recall-in-the-works/"><u>Beyond Repair: Intel's Mainline Non-K Core Processors Suffer Crashing Fiasco, No Recall in the Works!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-hardware-analysis-by-toms-computing-guide/"><u>Comprehensive Hardware Analysis by Tom's Computing Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-potential-of-new-chip-architecture-with-amds-zen-5-compact-cores-slashed-by-a-quarter-in-size-alongside-fresh-soc-solutions-featuring-double-cc74/"><u>Discover the Potential of New Chip Architecture with AMD's Zen 5 - Compact Cores Slashed by a Quarter in Size, Alongside Fresh SoC Solutions Featuring Double CCX Innovation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-windows-installation-file-for-brother-hl-l2340dw-multi-function-printer/"><u>Get the Latest Windows Installation File for Brother HL-L2340DW Multi-Function Printer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-download-your-broadcom-wifi-drivers-a-step-by-step-guide/"><u>How to Successfully Download Your Broadcom WiFi Drivers - A Step-by-Step Guide!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-10-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 10 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/mts-datenwiederherstellung-schritt-fur-schritt-anleitung-zur-rettung-geloschter-dateien/"><u>MTS-Datenwiederherstellung: Schritt-Für-Schritt-Anleitung Zur Rettung Gelöschter Dateien</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-aspers-methodology-for-sleep-success/"><u>Navigating Asper's Methodology for Sleep Success</u></a></li>
+</ul></div>
 

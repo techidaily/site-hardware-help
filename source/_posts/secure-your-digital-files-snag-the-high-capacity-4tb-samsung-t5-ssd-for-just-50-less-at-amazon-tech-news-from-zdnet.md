@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Files: Snag the High-Capacity 4TB Samsung T5 SSD for Just 50%% Less at Amazon | Tech News From ZDNET"
-date: 2025-01-13T18:36:24.592Z
-updated: 2025-01-16T17:36:52.519Z
+date: 2025-01-20T18:58:25.890Z
+updated: 2025-01-22T23:16:56.762Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,22 +166,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-art-of-package-revelation-amplifying-initial-impressions/"><u>[New] In 2024, The Art of Package Revelation Amplifying Initial Impressions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-proven-approaches-to-securing-photo-and-video-borders/"><u>[Updated] In 2024, Proven Approaches to Securing Photo & Video Borders</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-ultimate-unboxing-logitechs-professional-4k-pro-webcam-for-2024/"><u>[Updated] Ultimate Unboxing Logitech's Professional 4K Pro Webcam for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-f15-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy F15 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-boosting-engagement-the-key-to-successful-tiktok-unpack-videos/"><u>2024 Approved Boosting Engagement The Key to Successful TikTok Unpack Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-extreme-quality-top-5-for-slow-motion-precision/"><u>2024 Approved Extreme Quality Top 5 for Slow Motion Precision</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ai-powered-youtubes-new-feature-quick-video-previews-and-summaries/"><u>AI Powered YouTube's New Feature: Quick Video Previews & Summaries</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-compatible-drivers-for-epson-v50-printerscanner-model/"><u>Download Compatible Drivers for Epson V50^ Printer/Scanner Model</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elan-smbus-driver-the-ultimate-download-and-update-solution-for-your-windows-device/"><u>ELAN SMBus Driver - The Ultimate Download & Update Solution for Your Windows Device!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/expert-strategies-for-choosing-valheim-crops-for-2024/"><u>Expert Strategies for Choosing Valheim Crops for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-official-epson-wf-2540-drivers-now-supported-by-windows-operating-systems/"><u>Get the Official Epson WF-2540 Drivers Now – Supported by Windows Operating Systems!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-x100-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo X100 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-downloading-broadcom-bluetooth-driver-for-windows-users/"><u>Step-by-Step Instructions for Downloading Broadcom Bluetooth Driver for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-your-ultimate-guide-to-hardware/"><u>Tom's Tech Hub: Your Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tough-market-conditions-lead-to-intels-16-billion-setback-in-cpu-and-foundry-business-sectors/"><u>Tough Market Conditions Lead to Intel's $1.6 Billion Setback in CPU and Foundry Business Sectors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-asus-pce-ac56-drivers-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Troubleshooting and Fixing ASUS PCE-AC56 Drivers on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-user-download-and-easily-upgrade-to-latest-synaptic-drivers/"><u>Windows User? Download and Easily Upgrade to Latest Synaptic Drivers!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-facetime-with-your-android-phone-for-2024/"><u>[New] How To Facetime with Your Android Phone for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-2023-techniques-for-harvesting-fb-status-video-content/"><u>[Updated] 2024 Approved 2023 Techniques for Harvesting FB Status Video Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-boosting-your-businesss-productivity-with-top-fb-planners/"><u>[Updated] 2024 Approved Boosting Your Business's Productivity with Top FB Planners</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cinematic-evolution-the-best-youtube-guides-for-new-filmmakers-for-2024/"><u>[Updated] Cinematic Evolution The Best YouTube Guides for New Filmmakers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-from-meta-to-omni-a-new-age-digital-odyssey-guide/"><u>2024 Approved From Meta to Omni A New Age Digital Odyssey Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-updating-asus-pce-ac56-drivers-for-windows-1087-issues-fixed/"><u>Comprehensive Guide to Updating ASUS PCE-AC56 Drivers for Windows 10/8/7 [ISSUES FIXED]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-synaptic-touchpad-driver-downloading-and-updating/"><u>Effortless Synaptic Touchpad Driver Downloading and Updating</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-skype-recording-top-10-picks-for-optimal-audio/"><u>In 2024, Skype Recording Top 10 Picks for Optimal Audio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-effortless-audio-merging-in-adobe-premiere/"><u>In 2024, Strategies for Effortless Audio Merging in Adobe Premiere</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-860-evo-ssd-driver-download-step-by-step-guide/"><u>Samsung 860 EVO SSD Driver Download: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-nvidia-geforce-rtx-2080-latest-drivers-to-enhance-performance-on-windows-10-and-11-devices/"><u>Secure NVIDIA GeForce RTX 2080 Latest Drivers to Enhance Performance on Windows 10 and 11 Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-upgrading-your-steelseries-arcteus-5-audio-experience-via-driver-download/"><u>Step-by-Step Guide to Upgrading Your SteelSeries Arcteus 5 Audio Experience via Driver Download</u></a></li>
 </ul></div>
 

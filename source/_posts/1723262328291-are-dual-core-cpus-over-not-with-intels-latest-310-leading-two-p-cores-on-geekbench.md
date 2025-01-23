@@ -1,7 +1,7 @@
 ---
 title: Are Dual-Core CPUs Over? Not with Intel's Latest 310 Leading Two P-Cores on Geekbench!
-date: 2024-08-13T12:44:14.281Z
-updated: 2024-08-14T12:44:14.281Z
+date: 2025-01-22T05:56:30.585Z
+updated: 2025-01-22T16:58:25.939Z
 tags:
   - cpu
 categories:
@@ -39,8 +39,9 @@ Intel is continuing the trend of replacing its entry-level processors with the g
  The 310's power rating is unknown, however based on the Intel Processor 300's base power of 46W, we suspect the 310 will be the same. If so, power consumption will also be a big differentiation between the two chips, with the i3-13100 able to suck down 60W at a minimum and up to 110W through Intel's modern PL1/PL2 system.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,14 +52,11 @@ Intel is continuing the trend of replacing its entry-level processors with the g
 
  Pricing and availability are unknown, but now that its existence has been revealed, we can expect this chip to debut soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -67,4 +65,20 @@ Intel is continuing the trend of replacing its entry-level processors with the g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-adding-music-to-photo-online/"><u>[New] Adding Music to Photo Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-discovering-streamer-favorite-live-cam-technology/"><u>[New] Discovering Streamer-Favorite Live Cam Technology</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/reen-screen-journey-begins-on-yt-ideas-take-flight-in-2024/"><u>[New] Green Screen Journey Begins on YT, Ideas Take Flight, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-techniques-for-screen-casts-ezvide-edition/"><u>[Updated] 2024 Approved Essential Techniques for Screen Casts - EZvide Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977663540-corsair-control-software-get-yours-today-and-upgrade-your-gaming-experience/"><u>Corsair Control Software - Get Yours Today & Upgrade Your Gaming Experience!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975443384-download-speedy-drivers-for-hp-envy-5055-in-a-jiffy/"><u>Download Speedy Drivers for HP ENVY 5055 - In a Jiffy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-microsoft-surface-pro-going-strong-download-and-install-necessary-windows-drivers-here/"><u>Get Your Microsoft Surface Pro Going Strong – Download and Install Necessary Windows Drivers Here!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-honor-play-8t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Honor Play 8T Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-insignia-ethernet-usb-driver/"><u>How to Get the Latest Insignia Ethernet-USB Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-circuit-with-tom-authoritative-guides-on-computing-hardware/"><u>Navigating the Circuit with Tom: Authoritative Guides on Computing Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-the-igfxem-not-working-hurdle-proven-fixes-and-tips-inside/"><u>Overcoming the 'iGFXem Not Working' Hurdle: Proven Fixes & Tips Inside</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screen-snag-reviewed-in-depth-analysis-for-2024/"><u>Screen Snag Reviewed In-Depth Analysis for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrading-your-graphics-experience-simple-methods-to-update-gtx-1660-drivers/"><u>Upgrading Your Graphics Experience: Simple Methods to Update GTX 1660 Drivers</u></a></li>
+</ul></div>
 

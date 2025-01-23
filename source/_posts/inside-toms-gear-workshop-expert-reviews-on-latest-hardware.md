@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Gear Workshop: Expert Reviews on Latest Hardware"
-date: 2024-08-13T12:46:31.376Z
-updated: 2024-08-14T12:46:31.376Z
+date: 2025-01-17T01:12:47.710Z
+updated: 2025-01-22T19:19:51.438Z
 tags:
   - cpu
 categories:
@@ -28,8 +28,9 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  Intel isn't sharing many deep-dive details about the bug yet but says it will continue its validation process to ensure the microcode fully addresses the issues. The company will release more details about the bug itself in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +44,9 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  Intel has not issued a recall of its processors; sources close to the matter tell us that isn't expected. We have both of Intel's statements below.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Intel statement on 13th- and 14th-Gen instability
 
  _"Based on extensive analysis of Intel Core 13th/14th Gen desktop processors returned to us due to instability issues, we have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors. Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor."_
@@ -54,12 +56,9 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  _"Intel is committed to making this right with our customers, and we continue asking any customers currently experiencing instability issues on their Intel Core 13th/14th Gen desktop processors reach out to Intel Customer Support for further assistance."_
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Intel statement on via oxidation
 
 **Short answer:** We can confirm there was a via Oxidation manufacturing issue (addressed back in 2023) but it is not related to the instability issue.
@@ -68,14 +67,11 @@ No advertising on the website.
 
  _For the Instability issue, we are delivering a microcode patch which addresses exposure to elevated voltages which is a key element of the Instability issue. We are currently validating the microcode patch to ensure the instability issues for 13th/14th Gen are addressed. -_ Intel representative[via Reddit](https://www.reddit.com/r/intel/comments/1e9mf04/comment/lefz09c/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -84,4 +80,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-simple-sessions-into-high-end-audacity-recordings/"><u>[New] Transforming Simple Sessions Into High-End Audacity Recordings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breakthrough-ai-bard-by-google-to-outshine-chatgpt/"><u>Breakthrough AI 'Bard' By Google to Outshine ChatGPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/creating-a-legal-copy-the-step-by-step-guide-to-converting-torrents-into-dvd-format/"><u>Creating a Legal Copy: The Step-by-Step Guide to Converting Torrents Into DVD Format</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-guide-enhancing-audio-performance-with-updated-usb-drivers-on-microsofts-latest-and-older-operating-systems/"><u>DIY Guide: Enhancing Audio Performance with Updated USB Drivers on Microsoft's Latest & Older Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-seamless-connectivity-updated-mpow-bluetooth-drivers-for-windows-platforms-xp-vista-included/"><u>Ensure Seamless Connectivity: Updated MPOW Bluetooth Drivers for Windows Platforms (XP, Vista Included)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/entender-las-fechas-en-espanol-lunes-a-domingo/"><u>Entender Las Fechas en Español, Lunes a Domingo</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-fixing-bluetooth-connection-problems-in-win-11/"><u>Essential Guide: Fixing Bluetooth Connection Problems in Win 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/evaluating-superiority-gopros-max-and-hero-11-face-off-for-2024/"><u>Evaluating Superiority GoPro's Max and Hero 11 Face-Off for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-reno-11-pro-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Reno 11 Pro 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-epson-wf-3620-printer-drivers-for-windows-11-8-and-7-download-instructions-inside/"><u>Latest Epson WF-3620 Printer Drivers for Windows 11, 8 & 7: Download Instructions Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-iris-xe-graphics-drivers-for-windows-1011-free-download/"><u>Latest Intel Iris Xe Graphics Drivers for Windows 10/11 - Free Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/launching-the-driver-verifier-in-win11-os/"><u>Launching the Driver Verifier in Win11 OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-components-in-depth-analysis-and-comparisons/"><u>Tom's Computer Components: In-Depth Analysis & Comparisons</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sh-music-from-the-cloud-youtube-downloader-tips/"><u>Unleash Music From the Cloud YouTube Downloader Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/usb-30-driver-software-get-latest-version-for-windows-10-free/"><u>USB 3.0 Driver Software: Get Latest Version for Windows 10 Free</u></a></li>
+</ul></div>
 

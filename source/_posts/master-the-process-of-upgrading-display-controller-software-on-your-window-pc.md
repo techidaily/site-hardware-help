@@ -1,7 +1,7 @@
 ---
 title: Master the Process of Upgrading Display Controller Software on Your Window PC
-date: 2024-08-13T12:49:32.065Z
-updated: 2024-08-14T12:49:32.065Z
+date: 2025-01-16T21:19:10.491Z
+updated: 2025-01-23T05:03:48.349Z
 tags:
   - win11
   - win10
@@ -25,22 +25,17 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type in**msinfo32** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-69.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Here pops up the**System Information** window. On the**System Summary** tab, in the details pane, look for**System Manufacturer** and**System Model** , then take note of their**Value** – that’s precisely the make and model of your motherboard.  
  For example, as shown below, the motherboard manufacturer should be Dell and the device model should be Vostro 270.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-70.png)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Close the window when you finish noting down the information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to download and install SATA Controller drivers
 
  After finding out your motherboard model, it’s time to download and install its corresponding driver.
@@ -56,8 +51,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  Motherboard manufacturers such as Intel keep updating their motherboard SSD Controller drivers. To get them, you need to go to their official websites, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.  
@@ -69,8 +65,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 2 – Automatically update the SATA Controller driver
 
  If you don’t have the time, patience or computer skills to download and install your SATA Controller driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -82,15 +79,19 @@ OR
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/Intel-SATA-AHCI-Controller.png)
 4. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Driver Easy uses only genuine drivers, straight from your hardware manufacturer. And they’re all tested and certified – either by Microsoft or by itself. Or both.
 
@@ -115,8 +116,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +123,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-top-5-ultra-light-video-capturers-guide/"><u>[New] 2024 Approved Essential Top 5 Ultra-Light Video Capturers Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-streamline-your-memories-on-ios-organized-albums-and-efficient-icloud-synchronization/"><u>[New] Streamline Your Memories on iOS Organized Albums & Efficient iCloud Synchronization</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-iphone-night-photography-step-by-step/"><u>[Updated] 2024 Approved IPhone Night Photography Step by Step</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-enhancing-social-reach-youtube-videos-on-facebook-sites/"><u>[Updated] In 2024, Enhancing Social Reach YouTube Videos on Facebook Sites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/our-youtube-livestreams-mastering-broadcast-techniques-using-wirecast-for-2024/"><u>Ace Your Youtube Livestreams Mastering Broadcast Techniques Using WireCast for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-poco-m6-pro-4g-phone-by-drfone-android/"><u>How to Reset a Locked Poco M6 Pro 4G Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-gear-lab-in-depth-analysis-and-comparisons-of-new-hardware/"><u>Inside Tom's Gear Lab: In-Depth Analysis and Comparisons of New Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-technology-with-tom-expertise-in-hardware-explained/"><u>Navigating Technology with Tom: Expertise in Hardware Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nextorages-trailblazing-pcie-gen-4-m2-nvme-ssd-for-gaming-unmatched-speeds-of-up-to-7400-mbs/"><u>Nextorage's Trailblazing PCIe Gen 4 M.2 NVMe SSD for Gaming - Unmatched Speeds of Up to 7,400 MB/S</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-expert-gear-reviews-and-analysis/"><u>Tom's Tech Insights: Expert Gear Reviews and Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-cpu-bargains-for-202e-secure-steep-savings-on-intel-vs-amd-chips/"><u>Unbeatable CPU Bargains for 202E: Secure Steep Savings on Intel vs AMD Chips</u></a></li>
+</ul></div>
 

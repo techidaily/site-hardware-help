@@ -1,7 +1,7 @@
 ---
 title: "What's in Store for Tech Enthusiasts: Anticipating Apple's October Reveals – Next-Gen M4 Mac Mini, Revamped iPads & AI Developments – Expert Analysis"
-date: 2025-01-10T19:04:51.101Z
-updated: 2025-01-17T00:10:40.110Z
+date: 2025-01-18T22:14:10.521Z
+updated: 2025-01-22T22:31:38.403Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,18 +118,17 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-pip-on-microsoft-edge/"><u>[New] Master the Art of PIP on Microsoft Edge</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-using-vlc-for-videos/"><u>[New] Ultimate Guide Using VLC for Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-ultimate-slomo-videography-tool-assessment/"><u>[Updated] Ultimate SloMo Videography Tool Assessment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/corsair-k70-full-driver-setup-and-download-instructions-online-now/"><u>Corsair K70 Full Driver Setup and Download Instructions Online Now</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/exclusive-list-top-10-live-streaming-networks-ranked/"><u>Exclusive List Top 10 Live Streaming Networks Ranked</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-ultimate-guide-to-the-behringer-usb-midi-driver/"><u>Free Download: Ultimate Guide to the Behringer USB MIDI Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-canon-mp280-up-and-running-on-windows-free-downloads-for-10-8-and-7-users/"><u>Get Your Canon MP280 Up and Running on Windows - Free Downloads for 10, 8 & 7 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-qualcomm-atheros-ar3011-bluetooth-30-driver-here-for-free-download/"><u>Get Your Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Here for Free [Download]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-xlb-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlb document with Electronic Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-moto-g-stylus-5g-2023-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Moto G Stylus 5G (2023) Devices</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/self-healing-concrete-contains-healing-agents-that-react-when-exposed-to-air-or-water-through-cracks-leading-to-crack-sealing/"><u>Self-Healing Concrete Contains Healing Agents that React when Exposed to Air or Water Through Cracks, Leading to Crack Sealing</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/windows-7hdd/"><u>Windows 7用外部HDDへの自動バックアップ手順</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-streamlining-sound-speeds-in-spotify-without-compromise/"><u>[New] 2024 Approved Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-key-to-social-media-dominance-learning-the-craft-of-self-replication-on-tiktok-for-2024/"><u>[New] The Key to Social Media Dominance Learning the Craft of Self-Replication on TikTok for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-beats-and-bands-how-to-upload-music-online-for-2024/"><u>[Updated] Beats & Bands How to Upload Music Online for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-action-recorders-with-front-view-panels/"><u>Best Action Recorders with Front View Panels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-g920-lightspeed-wireless-mouse-drivers-windows-11-and-10-compatible/"><u>Download Logitech G920 Lightspeed Wireless Mouse Drivers - Windows 11 & 10 Compatible</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-the-latest-lenovo-webcam-driver-patches-for-windows-7-operating-system/"><u>Getting the Latest Lenovo Webcam Driver Patches for Windows 7 Operating System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-tech-choices-with-tom-expert-hardware-evaluations-and-reviews/"><u>Navigating Tech Choices with Tom: Expert Hardware Evaluations and Reviews</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-technical-hurdles-in-narakabladepoint-a-comprehensive-solution/"><u>Overcoming Technical Hurdles in Naraka:Bladepoint - A Comprehensive Solution.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/qualcomm-leads-innovation-with-plans-to-introduce-advanced-700-snapdragon-x-desktops-next-year-ceo-reveals/"><u>Qualcomm Leads Innovation With Plans To Introduce Advanced $700 Snapdragon X Desktops Next Year, CEO Reveals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/review-and-insight-into-movavi-editor-plus-now-available-for-2024/"><u>Review & Insight Into Movavi Editor Plus, Now Available for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-tpm-essential-hardware-in-microsofts-windows-11-security-strategy-zdnet-explains/"><u>Understanding the TPM: Essential Hardware in Microsoft's Windows 11 Security Strategy - ZDNet Explains</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-creative-potential-with-no-cost-green-screen-knowledge-from-top-4-educational-channels-for-2024/"><u>Unlock Creative Potential with No-Cost Green Screen Knowledge From Top 4 Educational Channels for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Choosing the Perfect Featherlight Laptop for Mobile Professionals | TechRadar
-date: 2025-01-13T17:08:24.010Z
-updated: 2025-01-16T20:31:46.081Z
+date: 2025-01-19T05:06:26.300Z
+updated: 2025-01-23T05:55:02.729Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ From Apple's industry-leading [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TS
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
@@ -104,6 +104,10 @@ The Zenbook Duo challenged what a laptop could look like with its dual-screen fo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CRD1QRF4%2Fref%3Dasc%5Fdf%5FB0CRD1QRF41728212400000%3Fcreative%3D395261%26creativeASIN%3DB0CRD1QRF4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f64b335-552a-4991-a84d-741b89c5e7ab%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -113,25 +117,25 @@ Kyle Kucharski/ZDNET
 * [Asus Chromebook CM14 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-Anti-Glare-1366x768-CM1402CM2A-DS44%2Fdp%2FB0CJS1399P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f64b335-552a-4991-a84d-741b89c5e7ab%7Cdtp&dtb=1) for $168 ($110 off) - Asus' CM14 is a sleek and lightweight Chromebook that comes loaded with the streamlined ChromeOS to get the basics done on an efficient machine. And for this price, you can't ask for a more affordable device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals both before and after those days. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -145,10 +149,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -215,14 +215,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-inexpensive-vlogging-tools-listed-for-2024/"><u>[New] Essential, Inexpensive Vlogging Tools Listed for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-solve-non-playing-fb-videos-on-iphone/"><u>[New] In 2024, Solve Non-Playing FB Videos on iPhone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-essential-collection-of-high-speed-monitor-tools/"><u>[New] In 2024, The Essential Collection of High-Speed Monitor Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-maximizing-shot-stability-on-drones-a-comprehensible-guide/"><u>[Updated] 2024 Approved Maximizing Shot Stability on Drones A Comprehensible Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amds-latest-compute-powerhouse-the-zen-5-cpu-ryzen-7-9700x-stored-for-launch-as-enthusiast-claims-early-possession-retail-ready-stockpile-confirmed-in-wareh3/"><u>AMD's Latest Compute Powerhouse, the Zen 5 CPU Ryzen 7 9700X, Stored for Launch as Enthusiast Claims Early Possession – Retail Ready Stockpile Confirmed in Warehouses</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mg3600-driver-installation-step-by-step-guide-and-updates/"><u>Canon MG3600 Driver Installation: Step-by-Step Guide & Updates</u></a></li>
-<li><a href="https://extra-information.techidaily.com/create-compelling-compositions-with-iphone-the-power-of-leading-lines-for-2024/"><u>Create Compelling Compositions with iPhone The Power of Leading Lines for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-latest-canon-mg3022-printer-drivers-keep-your-printer-updated/"><u>Download Latest Canon MG3022 Printer Drivers - Keep Your Printer Updated</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-dell-inspiron-15-device-drivers-on-windows-11/"><u>How to Update Dell Inspiron 15 Device Drivers on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illustration-revolution-adding-depth-to-text-with-3d/"><u>[New] Illustration Revolution Adding Depth to Text with 3D</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-hidden-layers-behind-facebooks-emblematic-blue-icon-in-messages/"><u>[Updated] In 2024, The Hidden Layers Behind Facebook's Emblematic Blue Icon in Messages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ai-ryzen-hits-new-heights-with-incredible-single-core-performance-leaving-intel-behind-zen-chip-bests-both-the-core-ultra-7-268v-and-ryzen-9-7945hx3d/"><u>AI Ryzen Hits New Heights with Incredible Single-Core Performance, Leaving Intel Behind: Zen Chip Bests Both the Core Ultra 7 268V & Ryzen 9 7945HX3D</u></a></li>
+<li><a href="https://fox-where.techidaily.com/creating-a-safe-bitcoin-wallet-step-by-step-guide-with-yl-computing-solutions/"><u>Creating a Safe Bitcoin Wallet: Step-by-Step Guide with YL Computing Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-free-realtek-fe-series-controller-software-for-win10-users/"><u>Download the Latest Free Realtek FE Series Controller Software for Win10 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-methods-for-transforming-drm-encoded-films-and-tv-shows-into-compatible-media-types/"><u>Easy Methods for Transforming DRM Encoded Films & TV Shows Into Compatible Media Types</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963138984-effortless-setup-secure-your-microsoft-wireless-mouse-5000-driver-here/"><u>Effortless Setup: Secure Your Microsoft Wireless Mouse 5000 Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-the-right-logitech-brio-webcam-drivers-for-windows-10-8-or-7/"><u>Find and Download the Right Logitech Brio Webcam Drivers for Windows (10, 8, or 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-nexiq-usb-connection-up-and-running-with-the-latest-drivers/"><u>Get Your Nexiq USB Connection Up and Running with the Latest Drivers!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-15-pro-max-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 15 Pro Max Stuck On Activation Lock?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a14-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-10-best-meme-makers-online-free-to-use/"><u>New 10 Best Meme Makers Online (Free to Use)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-usb-detection-challenges-a-users-guide-to-fixing-windows-10-compatibility-issues/"><u>Overcoming USB Detection Challenges: A User's Guide to Fixing Windows 10 Compatibility Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-fishing-cams-ranked-your-ultimate-guide-for-2024/"><u>Pro-Fishing Cams Ranked Your Ultimate Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/soundscapes-for-the-eye-ranking-the-best-photographers-plus-videographers-w-tunes/"><u>Soundscapes for the Eye Ranking the Best Photographers + Videographers W/ Tunes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tips-to-maximize-performance-of-seagate-backup-plus-hard-drive-insights/"><u>Top Tips to Maximize Performance of Seagate Backup Plus Hard Drive - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unpacking-the-cpu-clash-amds-latest-ryzen-ai-9-hx-370-triumphs-over-apples-m3-max-in-processor-speed-tests/"><u>Unpacking the CPU Clash: AMD's Latest Ryzen AI 9 HX 370 Triumphs Over Apple's M3 Max in Processor Speed Tests</u></a></li>
 </ul></div>
 

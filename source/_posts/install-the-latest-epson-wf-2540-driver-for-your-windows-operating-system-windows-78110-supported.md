@@ -1,7 +1,7 @@
 ---
 title: "Install the Latest Epson WF 2540 Driver for Your Windows Operating System: Windows 7/8.1/10 Supported"
-date: 2024-08-13T12:47:01.700Z
-updated: 2024-08-14T12:47:01.700Z
+date: 2025-01-20T19:53:29.854Z
+updated: 2025-01-22T17:51:45.212Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 
  This post will show you how to download and update**Brother MFC-L2740DW printer drivers** in Windows 10, Windows 8, Windows 7, Windows XP and Windows Vista.  If your printer is not working properly, such as printer not printing, you can try updating the brother printer driver to fix the issue. In addition, keeping your driver up to date can bring you the best experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## How to download or update MFC-L2740DW printer driver
 
 1. [Download MFC-L2740DW driver manually](https://tools.techidaily.com/drivereasy/download/)
@@ -37,10 +34,12 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 1. Go to the **[Brother Support page](http://support.brother.com/g/b/downloadlist.aspx?c=eu%5Fot&lang=en&prod=mfcl2740dw%5Fus%5Feu%5Fas&os=7)**  .
 2. Select the**operating system** in your computer (in my case I select Windows 10 64 bit), and select the**language** you need.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c713bda5e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**driver** in the**Drivers** section to download.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c73e819aa.jpg)
 4. Run the downloaded file and install it in your computer.
  This method requires time and computer skills. If it doesn’t work for you, don’t worry. We have other solutions.
@@ -52,15 +51,13 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c8e219bb9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 3. Click the**Update** button next to the flagged printer to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cee2c1202.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cee2c1202.jpg)
 4. Restart your computer to take effect.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -68,22 +65,30 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Now you should have the latest Brother MFC-L2740DW driver installed in your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3:  Update MFC-L2740DW driver via Device Manager
 
 You can also directly update the  MFC-L2740DW driver via Device Manager, where you can view and manage the hardware devices and driver software in your computer. Here’s what you need to do:
 
 1. On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  and **R**  at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cabe00ddb.png)
 3. Find your printer device (it may display as**Unknown device** ), and right click on it then select**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce3ebb24f.jpg)
 5. Follow the on-screen instructions to finish the update.
   So that’s it. Hope this post will help you understand how to update**MFC-L2740DW driver** . If you have any questions, feel free to add a comment and we’ll see what more we can better help.
@@ -97,8 +102,6 @@ You can also directly update the  MFC-L2740DW driver via Device Manager, where y
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +109,22 @@ You can also directly update the  MFC-L2740DW driver via Device Manager, where y
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/install-now-ultimate-guide-to-downloading-qualcomm-and-atheros-bluetooth-30-ar3011-driver/"><u>[Install Now] Ultimate Guide to Downloading Qualcomm & Atheros Bluetooth 3.0 AR3011 Driver</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-elevate-chromebook-voice-quality-exclusive-list-of-5-top-extensions/"><u>[New] 2024 Approved Elevate Chromebook Voice Quality Exclusive List of 5 Top Extensions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unveiling-sources-instagram-pictures-inverse-search-guide/"><u>[New] In 2024, Unveiling Sources Instagram Pictures' Inverse Search Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-troubleshooting-steelseries-x50x70-keyboard-solutions-when-the-pen-stops-responding/"><u>Complete Troubleshooting SteelSeries X50/X70 Keyboard: Solutions When The Pen Stops Responding</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comprehensive-guide-totmania-virus-elimination-steps-with-malwarefox/"><u>Comprehensive Guide: Totmania Virus Elimination Steps with MalwareFox</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortlessly-update-your-hp-audio-system-with-these-freely-available-drivers/"><u>Effortlessly Update Your HP Audio System with These Freely Available Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-no-disk-found-error-for-ssds-protect-your-files-with-our-method/"><u>Fix No Disk Found Error for SSDs: Protect Your Files with Our Method</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-fcpx-power-tools-top-10-plugins-to-boost-your-video-editing-productivity/"><u>In 2024, FCPX Power Tools Top 10 Plugins to Boost Your Video Editing Productivity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-80s-filters-and-effects-for-professional-videos/"><u>In 2024, Top 80S Filters & Effects for Professional Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-hp-laserjet-5200-drivers-seamless-compatibility-with-windows-11-10-and-8-operating-systems/"><u>Install HP LaserJet 5200 Drivers: Seamless Compatibility with Windows 11, 10 & 8 Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/streamlined-solutions-to-overcome-bcm2045a0-driver-malfunctions/"><u>Streamlined Solutions to Overcome Bcm2045a0 Driver Malfunctions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surprising-performance-showdown-when-microsofts-new-surface-laptop-copilotplus-pc-triumphs-over-a-macbook-air-in-multiple-areas/"><u>Surprising Performance Showdown: When Microsoft's New Surface Laptop Copilot+ PC Triumphs Over a MacBook Air in Multiple Areas</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1830279-9781583949443-the-sacred-ego/"><u>The Sacred Ego | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-intel-integrated-graphics-for-windows-11-essential-steps-and-tips/"><u>Update Your Intel Integrated Graphics for Windows 11: Essential Steps and Tips</u></a></li>
+</ul></div>
 

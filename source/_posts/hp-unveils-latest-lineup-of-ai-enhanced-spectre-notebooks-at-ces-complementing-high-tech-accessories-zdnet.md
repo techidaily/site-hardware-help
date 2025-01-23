@@ -1,7 +1,7 @@
 ---
 title: HP Unveils Latest Lineup of AI-Enhanced Spectre Notebooks at CES, Complementing High-Tech Accessories - ZDNet
-date: 2025-01-13T17:17:15.761Z
-updated: 2025-01-16T16:56:49.226Z
+date: 2025-01-17T23:05:11.105Z
+updated: 2025-01-23T00:08:58.389Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,16 +118,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-to-success-top-hashtags-for-6-figure-views-on-youtube/"><u>[New] In 2024, Elevate to Success Top Hashtags for 6-Figure Views on YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-accelerate-yt-growth-strategies-for-1kplus-subscribers/"><u>[Updated] Accelerate YT Growth Strategies for 1K+ Subscribers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-secrets-for-striking-fb-video-promos/"><u>2024 Approved Secrets for Striking FB Video Promos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-lenovo-ideapad-100-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update Lenovo IdeaPad 100 Drivers for Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-set-up-quick-guide-to-accessing-windows-updates/"><u>Get Set Up: Quick Guide to Accessing Windows Updates</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-pitfalls-a-guide-to-why-you-shouldnt-use-chatgpt-from-your-macs-software-marketplace/"><u>Navigating the Pitfalls: A Guide to Why You Shouldn't Use ChatGPT From Your Mac’s Software Marketplace</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-pc-with-the-latest-rtx-2060-driver-for-windows-111087-systems/"><u>Update Your PC with the Latest RTX 2060 Driver for Windows 11/10/8/7 Systems</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-the-most-efficient-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>Updated The Most Efficient Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/xerox-phaser-630-driver-installation-for-various-windows-versions-10-8-and-7/"><u>Xerox Phaser 630 Driver Installation for Various Windows Versions (10, 8 & 7)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-determining-the-perfect-aspect-ratio/"><u>[Updated] Determining the Perfect Aspect Ratio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-creativity-try-these-14-text-animation-wonders/"><u>[Updated] Unlock Creativity Try These 14 Text Animation Wonders</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-perfect-presentations-with-a-personal-touch-adding-audio/"><u>2024 Approved Perfect Presentations with a Personal Touch Adding Audio</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-gratuite-de-fichiers-avi-en-flv-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichiers AVI en FLV en Ligne Avec Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-internet-outages-top-10-solutions-to-restore-your-online-connectivity/"><u>Fixing Internet Outages: Top 10 Solutions to Restore Your Online Connectivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/galaxy-buds-ebt-3-pro-orders-halted-defective-eartips-the-cause-of-setbacks/"><u>Galaxy Buds Ebt 3 Pro Orders Halted: Defective Eartips the Cause of Setbacks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-13-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 13 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-tv-audio-experience-solutions-for-todays-disappointing-sounds/"><u>Improve Your TV Audio Experience: Solutions for Today's Disappointing Sounds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-htc-u23-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For HTC U23 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-raycons-pro-everyday-earbuds-outstanding-charging-capacity-yet-sparse-on-extra-benefits/"><u>In-Depth Analysis of Raycon's Pro Everyday Earbuds - Outstanding Charging Capacity, Yet Sparse on Extra Benefits</u></a></li>
 </ul></div>
 

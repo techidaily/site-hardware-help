@@ -1,7 +1,7 @@
 ---
 title: Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More | ZDNET
-date: 2025-01-11T01:21:15.273Z
-updated: 2025-01-16T22:20:08.037Z
+date: 2025-01-16T06:24:55.481Z
+updated: 2025-01-23T01:07:48.042Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ However, the new slimline design also came with a chunky price increase of $200/
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price & options
@@ -53,7 +53,7 @@ The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design & features
@@ -73,7 +73,7 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 Image: Cliff Joseph / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -89,7 +89,7 @@ You are paying for that extra performance, of course, so the M1 version of the M
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -132,7 +132,7 @@ Image: Apple
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,22 +176,22 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/0-best-youtube-makeup-artists-you-must-have-heard/"><u>[New] 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-seamlessly-connect-the-3-step-guide-to-enhanced-communication-on-snapchat-for-2024/"><u>[New] Seamlessly Connect The 3-Step Guide to Enhanced Communication on Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers/"><u>[Updated] 2024 Approved Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unleash-your-potential-with-outstanding-android-time-lapse-videos/"><u>[Updated] 2024 Approved Unleash Your Potential with Outstanding Android Time-Lapse Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-best-of-the-best-in-drone-following-capabilities/"><u>2024 Approved Best of the Best in Drone Following Capabilities</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-earnings-standards-new-rules-and-tips/"><u>2024 Approved YouTube Earnings Standards New Rules & Tips</u></a></li>
-<li><a href="https://win-popular.techidaily.com/data-safe-transition-how-to-upgrade-your-system-from-windows-7881-to-windows-10/"><u>Data-Safe Transition: How to Upgrade Your System From Windows 7/8/8.1 to Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963220066-download-and-update-broadcom-gige-network-controller-on-windows-10-solved/"><u>Download and Update Broadcom GigE Network Controller on Windows 10 – Solved</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-dell-network-drivers-compatible-with-windows-7-direct-downloads/"><u>Free Dell Network Drivers Compatible with Windows 7 - Direct Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-asus-touchpad-driver-for-windows-natively-swift-download-methods/"><u>Get the Latest ASUS Touchpad Driver for Windows Natively | Swift Download Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-elos-touchscreen-driver-for-windows-systems-downloaded-here/"><u>Get the Latest Version of Elo's Touchscreen Driver for Windows Systems Downloaded Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-epson-workforce-ds-30-usb-printer-drivers-compatible-with-windows-7810/"><u>Get Your Epson WorkForce DS 30 USB Printer Drivers Compatible with Windows 7/8/10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-color-laserjet-pro-m477-driver-software-instantly-for-smooth-printing-performance/"><u>Get Your HP Color LaserJet Pro M477 Driver Software Instantly for Smooth Printing Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-brother-hl-l2370dw-printer-drivers-step-by-step-guide-with-free-downloads/"><u>How to Upgrade Brother HL-L2370DW Printer Drivers: Step-by-Step Guide with Free Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-problem-why-isnt-my-amazon-prime-video-playing/"><u>Resolving the Problem: Why Isn't My Amazon Prime Video Playing?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/steps-for-converting-your-dvd-collection-into-high-definition-format/"><u>Steps for Converting Your DVD Collection Into High-Definition Format</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/use-materials-such-as-silica-gel-beads-and-transparent-tubes-to-represent-elements-of-hydrogen-production-in-the-fuel-cell-process/"><u>Use Materials Such as Silica Gel Beads and Transparent Tubes to Represent Elements of Hydrogen Production in the Fuel Cell Process.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-pioneering-the-way-with-innovative-approaches-to-youtube-banners/"><u>[Updated] Pioneering the Way with Innovative Approaches to YouTube Banners</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2023s-premier-action-cameras-for-ocean-thrills/"><u>2023'S Premier Action Cameras for Ocean Thrills</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ensuring-iphone-integrity-how-to-utilize-apples-certified-remote-hardware-examination-service/"><u>Ensuring iPhone Integrity: How To Utilize Apple’s Certified Remote Hardware Examination Service</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/google-the-moment-is-now-for-crafting-an-ultimate-weather-application/"><u>Google: The Moment Is Now for Crafting an Ultimate Weather Application</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/googles-latest-wearable-gets-just-a-triennial-refresh-schedule/"><u>Google's Latest Wearable Gets Just a Triennial Refresh Schedule</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-does-android-determine-both-accurate-and-rough-location-data/"><u>How Does Android Determine Both Accurate and Rough Location Data?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-start-your-android-device-without-using-the-physical-power-button/"><u>How to Start Your Android Device Without Using the Physical Power Button</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hacks-to-dodge-digital-lessons-at-home/"><u>In 2024, Hacks to Dodge Digital Lessons at Home</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-no-cost-yield-assessment-apps-for-videos/"><u>In 2024, No-Cost Yield Assessment Apps for Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-evaluation-of-the-near-perfect-samsung-galaxy-s22/"><u>In-Depth Evaluation of the Near-Perfect Samsung Galaxy S22</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-affordable-pixel-8a-google-unveils-budget-friendly-smartphone/"><u>Introducing the Affordable Pixel 8A: Google Unveils Budget-Friendly Smartphone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lapdock-solutions-how-to-convert-your-smartphone-into-a-personal-computer-on-the-go/"><u>Lapdock Solutions: How to Convert Your Smartphone Into a Personal Computer on the Go</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-mobile-devices-featuring-traditional-headphone-ports-for-optimal-sound-experience/"><u>Leading Mobile Devices Featuring Traditional Headphone Ports for Optimal Sound Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/revealing-the-secrets-accessing-forgotten-youtube-vids-for-2024/"><u>Revealing the Secrets Accessing Forgotten YouTube Vids for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-iphones-ranked-by-gaming-performance-find-your-perfect-match/"><u>Top iPhones Ranked by Gaming Performance: Find Your Perfect Match!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-s-top-rated-free-video-editors-for-32-bit-windows-users-for-2024/"><u>Updated S Top-Rated Free Video Editors for 32-Bit Windows Users for 2024</u></a></li>
 </ul></div>
 

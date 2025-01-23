@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Savings for Gamers: Snag an Alienamoe Aurora R13 and Cut $350 Off Prices – Limited-Time Deal on ZDNET!"
-date: 2025-01-11T19:52:13.822Z
-updated: 2025-01-16T22:07:54.923Z
+date: 2025-01-18T06:14:39.499Z
+updated: 2025-01-23T02:25:41.128Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -65,7 +65,7 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -81,7 +81,7 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -95,7 +95,7 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -140,22 +140,18 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unlock-the-best-live-stream-options-today/"><u>[New] 2024 Approved Unlock the Best Live Stream Options Today</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-top-10-facebook-video-downloader-for-android-updated/"><u>[Updated] 2024 Approved Top 10 Facebook Video Downloader for Android - Updated</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-proven-techniques-for-captivating-online-audiences-via-zoom-and-youtube-live/"><u>[Updated] Proven Techniques for Captivating Online Audiences via Zoom & YouTube Live</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-tricks-to-turn-off-youtube-videos-without-compromise-for-2024/"><u>[Updated] Tricks to Turn Off YouTube Videos Without Compromise for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-transforming-srt-to-widely-used-digital-audio-formats-with-ease/"><u>2024 Approved Transforming SRT to Widely Used Digital Audio Formats with Ease</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-a-deal-on-your-professional-video-editing-tool-get-the-samsung-monitor-now-with-500-discount-at-best-buy/"><u>Discover a Deal on Your Professional Video Editing Tool – Get the Samsung Monitor Now with $500 Discount at Best Buy!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-acer-wi-fi-drivers-for-free-simple-setup-tutorial/"><u>Download Acer Wi-Fi Drivers for Free – Simple Setup Tutorial</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvdpremiere-pro/"><u>DVDにフォーマットし、Premiere Proを使用した動画の完全ハイクオリティ出力手順</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-your-canon-mg-series-mp2e-drivers-on-various-windows-systems-1187/"><u>Easy Guide to Installing Your Canon MG Series MP2e Drivers on Various Windows Systems (11/8/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975776937-essential-guide-to-downloading-and-installing-the-latest-nvidia-rtx-3060-ti-graphics-card-drivers-on-windows/"><u>Essential Guide to Downloading and Installing the Latest Nvidia RTX 3060 Ti Graphics Card Drivers on Windows!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-advice-how-to-seamlessly-refresh-dell-xps-15-hardware-components-with-updated-drivers-on-windows/"><u>Expert Advice: How to Seamlessly Refresh Dell XPS 15 Hardware Components with Updated Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-the-igfxem-module-malfunction-a-step-by-step-guide/"><u>Fixing the igfxEM Module Malfunction – A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-color-laserjet-pro-m477-software-and-drivers-today/"><u>Get Your HP Color LaserJet Pro M477 Software and Drivers Today</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/migrating-your-torrent-tracking-moving-qbittorrent-efficiently/"><u>Migrating Your Torrent Tracking: Moving qBittorrent Efficiently</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-gadgets-with-toms-guide/"><u>Navigating the World of Gadgets with Tom's Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-computer-components-tips-from-toms-tech-hub/"><u>The Ultimate Guide to Computer Components - Tips From Tom's Tech Hub</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-celebrating-masterpieces-top-15-outstanding-stop-motion-works-for-2024/"><u>[New] Celebrating Masterpieces Top 15 Outstanding Stop-Motion Works for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-leading-mobile-signal-enhancement-devices-of-2024-expert-reviews-and-comparisons/"><u>Discover the Leading Mobile Signal Enhancement Devices of 2024: Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-drivers-for-your-lenovo-ideapad-100-on-windows-10-free-download-and-tutorial/"><u>Get the Latest Drivers for Your Lenovo IdeaPad 100 on Windows 10 - Free Download and Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-epson-printer-drivers-for-windows-1n-a-step-by-step-tutorial/"><u>How to Get the Newest Epson Printer Drivers for Windows 1N: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-resolve-unsuccessful-system-reserve-partition-modifications-in-windows-1110/"><u>How to Resolve Unsuccessful System Reserve Partition Modifications in Windows 11/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-toms-computer-components/"><u>In-Depth Analysis of Tom's Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-world-of-technology-with-toms-hardware-corner/"><u>Inside the World of Technology with Tom’s Hardware Corner</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-the-world-of-iphones-upgrading-options/"><u>Navigating the World of iPhone's Upgrading Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-title-captures-the-readers-attention-by-using-words-like-conquering-record-breaking-scores-and-above-108000-this-implies-a-strong-performance-and-provid12/"><u>The Title Captures the Reader's Attention by Using Words Like Conquering, Record-Breaking Scores, and Above 108,000. This Implies a Strong Performance and Provides an Enticing Hook for Readers Looking to Explore High-Performance CPU Benchmark Results.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-hp-officejet-pro-n-series-drivers/"><u>Troubleshooting and Fixing HP OfficeJet Pro N Series Drivers</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-did-sheryl-do-that-changed-facebook/"><u>What Did Sheryl Do That Changed Facebook?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-msmpengexe-resolve-its-cpu-hogging-on-windows-10/"><u>Winning the Battle Against MsMpEng.exe: Resolve Its CPU Hogging on Windows 10</u></a></li>
 </ul></div>
 
