@@ -1,7 +1,7 @@
 ---
 title: "Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review"
-date: 2025-01-16T17:49:17.360Z
-updated: 2025-01-23T05:14:32.460Z
+date: 2025-01-29T18:06:08.333Z
+updated: 2025-01-30T19:46:56.989Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -109,7 +109,7 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,24 +148,18 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-dynamic-timelines-constructing-animated-narratives-in-movie-maker-for-2024/"><u>[New] Dynamic Timelines Constructing Animated Narratives in Movie Maker for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-media-professionals-recommendations-best-5-web-video-recorders/"><u>[New] Media Professionals' Recommendations Best 5 Web Video Recorders</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-macbook-owners-with-butterfly-keyboard-issues-begin-receiving-up-to-395-refund-per-unit/"><u>Apple MacBook Owners with Butterfly Keyboard Issues Begin Receiving Up To $395 Refund Per Unit</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/debunking-the-top-5-common-misconceptions-about-android/"><u>Debunking the Top 5 Common Misconceptions About Android</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-most-effective-clock-monitoring-tools-for-android-devices-ranked-1-6/"><u>Discover the Most Effective Clock Monitoring Tools for Android Devices, Ranked #1-#6</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easily-retrieve-your-lost-vehicle-using-google-maps-a-step-by-step-guide/"><u>Easily Retrieve Your Lost Vehicle Using Google Maps - A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-switching-your-androids-display-language/"><u>Easy Guide: Switching Your Android's Display Language</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enable-mobile-communications-over-wi-fi-on-android-phones-a-complete-tutorial/"><u>Enable Mobile Communications Over Wi-Fi on Android Phones - A Complete Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-experience-androids-latest-addition-of-a-taskbar-to-cater-to-bigger-screens-in-version-12l/"><u>Enhance Your Experience: Android's Latest Addition of a Taskbar to Cater to Bigger Screens in Version 12L</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-android-widgets-every-user-must-have-for-optimal-phone-functionality/"><u>Essential Android Widgets Every User Must Have for Optimal Phone Functionality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fingerprint-sensor-showdown-unveiling-the-differences-between-ultrasonic-and-optical-technologies/"><u>Fingerprint Sensor Showdown: Unveiling the Differences Between Ultrasonic and Optical Technologies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fix-a-broken-android-camera-discover-the-top-11-tips-and-tricks/"><u>Fix a Broken Android Camera: Discover the Top 11 Tips and Tricks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/free-graphic-goldmine-a-roadmap-to-premium-visuals-for-2024/"><u>Free Graphic Goldmine A Roadmap to Premium Visuals for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-pairing-process-how-to-successfully-link-airpods-with-windows-11/"><u>Mastering the Pairing Process: How to Successfully Link AirPods with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-removing-window-search-artifacts/"><u>Mastery Over Removing Window Search Artifacts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reestablishing-access-rectifying-unreachable-ea-services/"><u>Reestablishing Access: Rectifying Unreachable EA Services</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/k-your-videographer-potential-with-youtube-studio-edition-expertise-for-2024/"><u>Unlock Your Videographer Potential with YouTube Studio Edition Expertise for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-procedure-for-microsoft-stores-msix-extensions/"><u>Unveiling the Procedure for Microsoft Store's MSIX Extensions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-to-correct-the-launchdllnotpresent-complication/"><u>Comprehensive Fixes to Correct the LaunchDllNotPresent Complication</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-latest-microsoft-innovations-surface-pro-10-and-laptop-ebrimae-arrive-packed-with-enhanced-ai-capabilities-insights-from-zdnet/"><u>Discover the Latest Microsoft Innovations: Surface Pro 10 & Laptop Ebrimae Arrive, Packed with Enhanced AI Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-new-chromeos-update-how-windows-11-functionality-enhances-your-chromebook-experience-zdnet/"><u>Discover the New ChromeOS Update: How Windows 11 Functionality Enhances Your Chromebook Experience | ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/easy-tips-for-tweaking-windows-login-options-and-controls-with-yl-software-expertise/"><u>Easy Tips for Tweaking Windows Login Options and Controls with YL Software Expertise</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-list-of-2024s-finest-oled-notebooks-thoroughly-analyzed-and-critiqued-cnet/"><u>Elite List of 2024'S Finest OLED Notebooks: Thoroughly Analyzed and Critiqued | CNET</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/gopro-vs-yi-who-will-lead-the-high-quality-action-race/"><u>GoPro Vs. YI Who Will Lead the High-Quality Action Race?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Without iTunes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-elitemac-pro-high-definition-visuals-plus-audiophile-recordings/"><u>In 2024, EliteMac Pro High-Definition Visuals + Audiophile Recordings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inoculation-with-native-fungi-if-necessary-soils-can-be-treated-with-commercial-preparations-of-native-mycorrhizal-inoculants-to-bolster-existing-population83/"><u>Inoculation with Native Fungi: If Necessary, Soils Can Be Treated with Commercial Preparations of Native Mycorrhizal Inoculants to Bolster Existing Populations and Help Establish Associations with Newly Planted Crops Within a Rotation System.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-creative-workflows-comprehensive-guide-to-the-latest-2023-apple-m2-max-macbook-pro-16-expert-review-by-zdnet/"><u>Revolutionizing Creative Workflows: Comprehensive Guide to the Latest 2023 Apple M2 Max MacBook Pro (16) - Expert Review by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-mechanics-of-ai-prompts-and-their-influence-on-career-longevity/"><u>The Mechanics of AI Prompts & Their Influence on Career Longevity</u></a></li>
 </ul></div>
 

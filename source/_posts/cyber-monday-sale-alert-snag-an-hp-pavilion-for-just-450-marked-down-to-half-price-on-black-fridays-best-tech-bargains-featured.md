@@ -1,7 +1,7 @@
 ---
 title: "Cyber Monday Sale Alert: Snag an HP Pavilion for Just $450, Marked Down to Half Price on Black Friday's Best Tech Bargains - Featured"
-date: 2025-01-11T18:15:22.078Z
-updated: 2025-01-16T17:41:40.549Z
+date: 2025-01-27T18:26:01.122Z
+updated: 2025-01-30T18:05:15.254Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-epic-gaming-recorded-an-analysis/"><u>[New] In 2024, Epic Gaming Recorded An Analysis</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/aster-guide-to-youtube-community-expectations/"><u>[New] Master Guide to YouTube Community Expectations</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-pushing-boundaries-the-complete-breakdown-of-vce-22/"><u>[Updated] Pushing Boundaries The Complete Breakdown of VCE 2.2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1149-off-shop-the-newly-discounted-m3-macbook-air-laptop-16gb-memory-and-13-inch-screen/"><u>$1,149 OFF! Shop the Newly Discounted M3 MacBook Air Laptop - 16GB Memory & 13-Inch Screen</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-curate-a-perfect-playlist-on-youtube-a-step-by-step-guide/"><u>2024 Approved Curate a Perfect Playlist on YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/create-your-own-ai-companion-using-tailored-guidance-from-chatgpt/"><u>Create Your Own AI Companion Using Tailored Guidance From ChatGPT</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862686840-get-the-asus-2024-rog-zephyrus-g14-with-oled-display-and-nvidias-rtx-4060-at-a-discounted-price-save-300-now/"><u>Get the Asus 2024 ROG Zephyrus G14 with OLED Display and NVIDIA's RTX 4060 at a Discounted Price - Save $300 Now</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-easy-to-use-acapella-extractors-for-beginners-and-pros/"><u>New In 2024, Easy-to-Use Acapella Extractors for Beginners and Pros</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862718948-revolutionize-your-tech-setup-new-frameworks-latest-innovation-with-deepcomputings-starfive-soc-board-features-advanced-risc-v-technology-for-laptops/"><u>Revolutionize Your Tech Setup: New Framework's Latest Innovation with DeepComputing's StarFive SoC Board Features Advanced RISC-V Technology for Laptops.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862719671-take-on-any-challenge-discover-gaming-excellence-with-the-affordable-and-powerful-lenovo-legion-slim-5-899-packed-with-a-cutting-edge-rtx-4060-gpu/"><u>Take On Any Challenge: Discover Gaming Excellence with the Affordable and Powerful Lenovo Legion Slim 5 ($899) - Packed With a Cutting-Edge RTX 4060 GPU!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-a24-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy A24 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unraveling-tech-mysteries-inside-toms-hardware-wisdom/"><u>Unraveling Tech Mysteries: Inside Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-best-in-motherboards-and-gpus-toms-hardware-insights/"><u>Unveiling the Best in Motherboards and GPUs - Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-to-high-performance-dual-16-inch-display-i5-12450h-laptops-from-aliexpress-starting-at-just-710-keyboards-excluded/"><u>Upgrade to High-Performance: Dual 16-Inch Display I5-12450H Laptops From AliExpress Starting at Just $710 (Keyboards Excluded)</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/wiederherstellung-von-lokalen-dateien-auf-onedrive-wege-zur-datensicherung/"><u>Wiederherstellung Von Lokalen Dateien Auf OneDrive - Wege Zur Datensicherung</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-hero-black-vs-keymission-for-the-ultimate-cinematographer/"><u>[Updated] In 2024, HERO Black vs Keymission For the Ultimate Cinematographer</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-7-best-4k-action-cameras/"><u>[Updated] Top 7 Best 4K Action Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-data-into-strategic-content-moves/"><u>[Updated] Transforming Data Into Strategic Content Moves</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-blizzard-of-champions-highlighting-snowboard-cross-excellence-22-olympics/"><u>2024 Approved Blizzard of Champions Highlighting Snowboard Cross Excellence, '22 Olympics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-thunderbolt-3-drivers-for-windows-10-8-and-7/"><u>Download & Install Latest Thunderbolt 3 Drivers for Windows 10, 8, & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-updating-your-amd-smbus-controller-drivers/"><u>Easy Guide: Updating Your AMD Smbus Controller Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tutorial-refresh-samsung-monitor-drivers-in-windows-pcs/"><u>Easy Tutorial: Refresh Samsung Monitor Drivers in Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-ds-530-driver-update-install-on-windows-11-64-bit-step-by-step-guide/"><u>Epson DS-530 Driver Update: Install on Windows 11 (64-Bit) – Step by Step Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/exploring-digital-asset-trading-platforms-with-yl-softwares-comprehensive-guide-to-crypto-exchanges/"><u>Exploring Digital Asset Trading Platforms with YL Software's Comprehensive Guide to Crypto Exchanges</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-and-install-thinkpad-t420s-drivers-for-smooth-windows-t-10-experience/"><u>How to Update and Install ThinkPad T420s Drivers for Smooth Windows T 10 Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-150-2023-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia 150 (2023) Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-nokia-c210-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Nokia C210 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-microsoft-store-eradicating-code-0x80072f30/"><u>Mastering the Microsoft Store: Eradicating Code 0X80072F30</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-updating-your-intel-graphics-driver-made-easy/"><u>Simple Steps: Updating Your Intel Graphics Driver Made Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/steelseries-gaming-mouse-drivers-free-download-now/"><u>SteelSeries Gaming Mouse Drivers - Free Download Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-silent-infiltrator-confronting-wacatacbml-in-your-windows-domain/"><u>The Silent Infiltrator: Confronting Wacatac.B!ml in Your Windows Domain</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975919869-update-your-asus-laptop-software-download-required-drivers-now/"><u>Update Your ASUS Laptop Software - Download Required Drivers Now</u></a></li>
 </ul></div>
 

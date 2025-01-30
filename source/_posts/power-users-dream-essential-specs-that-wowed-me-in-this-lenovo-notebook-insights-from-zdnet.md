@@ -1,7 +1,7 @@
 ---
 title: "Power User's Dream: Essential Specs That Wowed Me in This Lenovo Notebook - Insights From ZDNet"
-date: 2025-01-16T00:30:20.417Z
-updated: 2025-01-16T18:11:41.960Z
+date: 2025-01-25T17:12:10.748Z
+updated: 2025-01-30T19:09:37.449Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,16 +116,20 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-best-10-free-youtube-subtitle-extractors-and-downloaders/"><u>[New] In 2024, Best 10 Free YouTube Subtitle Extractors & Downloaders</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mastering-youtube-video-composition-techniques/"><u>[Updated] In 2024, Mastering YouTube Video Composition Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-secrets-revealed-streamlined-importation-on-windows-10-os/"><u>2024 Approved Secrets Revealed Streamlined Importation on Windows 10 OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-brother-hl-l2370dw-printer-driver/"><u>Download & Update Brother HL-L2370DW Printer Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/downloading-and-setting-up-lenovo-x1-carbon-drive-utilities-for-windows-10/"><u>Downloading and Setting Up Lenovo X1 Carbon Drive Utilities for Windows 10 /</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-downloading-and-updating-your-hp-elitebook-asterisk-8460p-drivers-in-windows-fixed/"><u>Effortless Guide to Downloading & Updating Your HP EliteBook Asterisk 8460P Drivers in Windows [FIXED]</u></a></li>
-<li><a href="https://article-posts.techidaily.com/embrace-the-brilliance-stream-create-and-revel-in-pcs-hd-video-splendor/"><u>Embrace the Brilliance Stream, Create, and Revel in PC's HD Video Splendor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-v700-printer-driver-download-optimized-for-windows-7-through-10-users/"><u>Epson V700 Printer Driver Download: Optimized for Windows 7 Through 10 Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-gt-neo-5-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme GT Neo 5 Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/safe-driver-downloads-for-your-lenovo-thinkpad-modern-and-secure-versioning/"><u>Safe Driver Downloads for Your Lenovo ThinkPad: Modern and Secure Versioning</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sonic-immersion-sonys-3d-earphones/"><u>Sonic Immersion: Sony's 3D Earphones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-multitasking-with-picture-in-picture-mode-on-microsoft-edge-browser/"><u>[New] Mastering Multitasking with Picture-in-Picture Mode on Microsoft Edge Browser</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-new-frontiers-in-immersive-experiences-the-best-metaverse-insights/"><u>[New] New Frontiers in Immersive Experiences The Best Metaverse Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-secrets-of-effective-powerpoint-presentation-recordings/"><u>[New] Secrets of Effective PowerPoint Presentation Recordings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-video-preservation-direct-and-indirect-approaches/"><u>[Updated] 2024 Approved Instagram Video Preservation Direct & Indirect Approaches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-webcams-for-enhanced-podcast-production/"><u>[Updated] 2024 Approved Ultimate Webcams for Enhanced Podcast Production</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-emoji-magic-for-enhanced-discord-statues/"><u>[Updated] In 2024, Emoji Magic for Enhanced Discord Statues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-adding-custom-images-to-youtube-videos-for-2024/"><u>[Updated] Step-by-Step Adding Custom Images to YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-exclusive-savings-on-the-msi-sword-laptop-shave-off-400-now-zdnet/"><u>Discover Exclusive Savings on the MSI Sword Laptop - Shave Off $400 Now! [ZDNet]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-budget-winning-laptop-of-2024-lenovos-new-749-thinkbook-reviewed-by-zdnet/"><u>Discover the Ultimate Budget Winning Laptop of 2024: Lenovo's New $749 ThinkBook Reviewed by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-lava-agni-2-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Agni 2 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-best-vr-gear-with-metas-51-cuisines-deal-on-quest-3-during-october-prime-day-sale-still-available-now/"><u>Snag the Best VR Gear with Meta's 51 Cuisines Deal on Quest 3 During October Prime Day Sale - Still Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-ultimate-bargain-samsung-odyssey-neo-g8-monitor-for-550-at-best-buys-anti-prime-day-featured-by-zdnet/"><u>Snag the Ultimate Bargain: Samsung Odyssey Neo G8 Monitor for $550 at Best Buy’s Anti-Prime Day, Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-3-unbeatable-cyber-monday-2022-laptops-for-less-than-1k-from-walmart-best-buy-and-lenovo-techradar/"><u>Top 3 Unbeatable Cyber Monday 2022 Laptops for Less than $1K From Walmart, Best Buy & Lenovo - TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-your-laptops-full-potential-with-a-hidden-gem-of-an-accessory-discover-how/"><u>Unleashing Your Laptop's Full Potential with a Hidden Gem of an Accessory - Discover How!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-every-graphic-artist-needs-to-know-about-this-incredible-feature-in-asus-newest-stealthy-laptop-zdnet-exclusive/"><u>Why Every Graphic Artist Needs to Know About This Incredible Feature in ASUS’ Newest Stealthy Laptop | ZDNet Exclusive</u></a></li>
 </ul></div>
 

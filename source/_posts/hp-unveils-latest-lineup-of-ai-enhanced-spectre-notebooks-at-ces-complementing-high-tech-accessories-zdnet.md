@@ -1,7 +1,7 @@
 ---
 title: HP Unveils Latest Lineup of AI-Enhanced Spectre Notebooks at CES, Complementing High-Tech Accessories - ZDNet
-date: 2025-01-17T23:05:11.105Z
-updated: 2025-01-23T00:08:58.389Z
+date: 2025-01-29T19:41:44.465Z
+updated: 2025-01-30T20:04:51.697Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,16 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-determining-the-perfect-aspect-ratio/"><u>[Updated] Determining the Perfect Aspect Ratio</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlock-creativity-try-these-14-text-animation-wonders/"><u>[Updated] Unlock Creativity Try These 14 Text Animation Wonders</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-perfect-presentations-with-a-personal-touch-adding-audio/"><u>2024 Approved Perfect Presentations with a Personal Touch Adding Audio</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-gratuite-de-fichiers-avi-en-flv-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichiers AVI en FLV en Ligne Avec Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-internet-outages-top-10-solutions-to-restore-your-online-connectivity/"><u>Fixing Internet Outages: Top 10 Solutions to Restore Your Online Connectivity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/galaxy-buds-ebt-3-pro-orders-halted-defective-eartips-the-cause-of-setbacks/"><u>Galaxy Buds Ebt 3 Pro Orders Halted: Defective Eartips the Cause of Setbacks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-13-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 13 Pro Max? Learn All 4 Methods</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-your-tv-audio-experience-solutions-for-todays-disappointing-sounds/"><u>Improve Your TV Audio Experience: Solutions for Today's Disappointing Sounds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-htc-u23-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For HTC U23 Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-raycons-pro-everyday-earbuds-outstanding-charging-capacity-yet-sparse-on-extra-benefits/"><u>In-Depth Analysis of Raycon's Pro Everyday Earbuds - Outstanding Charging Capacity, Yet Sparse on Extra Benefits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-setting-up-facebook-live-your-roku-route/"><u>[New] Setting Up Facebook LIVE Your Roku Route</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-now-offering-top-ranked-laptops-from-zdnet-at-a-steep-discount-before-prime-day-shop-the-deal/"><u>Amazon Now Offering Top-Ranked Laptops From ZDNet at a Steep Discount Before Prime Day - Shop the Deal!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-the-ultimate-multifunctionality-a-review-of-dell-inspiron-among-top-tested-laptops/"><u>Discovering the Ultimate Multifunctionality: A Review of Dell Inspiron Among Top Tested Laptops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/embracing-mobility-how-lenovos-thinkbook-wireless-dock-revolutionizes-modern-workstyles-zdnet/"><u>Embracing Mobility: How Lenovo’s ThinkBook Wireless Dock Revolutionizes Modern Workstyles | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exceptional-display-on-a-budget-discovering-the-most-affordable-high-quality-laptop-screen/"><u>Exceptional Display on a Budget: Discovering the Most Affordable High-Quality Laptop Screen</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-15-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 15 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-f04-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy F04 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-unveils-spectre-x360-and-takes-my-pick-as-a-leading-laptop-of-the-year-insights-review/"><u>HP Unveils Spectre X360 and Takes My Pick as a Leading Laptop of the Year - Insights Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-t2-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo T2 Pro 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-gpt-an-authoritative-guide-to-health-matters/"><u>Is GPT an Authoritative Guide to Health Matters?</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/is-it-possible-to-restore-deleted-files-after-formatting-insights-from-yl-software-specialists/"><u>Is It Possible to Restore Deleted Files After Formatting? Insights From YL Software Specialists</u></a></li>
+<li><a href="https://fox-links.techidaily.com/laughlinelab-picchuckleworkshop-for-2024/"><u>LaughLineLab PicChuckleWorkshop for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-day-prep-guide-top-bargains-unveiled-for-pre-event-shopping-zdnets-must-see-deals/"><u>Prime Day Prep Guide: Top Bargains Unveiled for Pre-Event Shopping | ZDNet's Must-See Deals</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-setup-exiting-due-to-non-supported-operating-systems/"><u>Step-by-Step Guide: Correcting Setup Exiting Due to Non-Supported Operating Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/turn-your-videos-backwards-on-phone/"><u>Turn Your Videos Backwards on Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-finest-windows-laptops-of-2024-professional-evaluations-and-ratings-by-experts-zdnet/"><u>Ultimate Guide to the Finest Windows Laptops of 2024: Professional Evaluations and Ratings by Experts | ZDNet</u></a></li>
 </ul></div>
 

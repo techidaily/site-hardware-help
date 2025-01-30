@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart with ZDNet"
-date: 2025-01-21T18:31:26.483Z
-updated: 2025-01-23T05:50:29.864Z
+date: 2025-01-29T16:32:04.063Z
+updated: 2025-01-30T18:42:43.538Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,17 +81,16 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-optimize-your-social-media-videos-on-fb-with-the-right-ratio/"><u>[New] 2024 Approved Optimize Your Social Media Videos on FB with the Right Ratio</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-deep-dive-into-youtubes-latest-monetization-policy/"><u>[Updated] A Deep Dive Into YouTube's Latest Monetization Policy</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-prime-time-for-podcast-debuts/"><u>[Updated] In 2024, Prime Time for Podcast Debuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-guide-to-securing-edge-ms-defender-application-guard-on-windows-11/"><u>Easy Guide to Securing Edge: MS Defender Application Guard on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972498661-effortless-solutions-to-tackle-elgato-hd60-controller-issues-today/"><u>Effortless Solutions to Tackle Elgato HD60 Controller Issues Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-guide-how-to-download-and-install-latest-video-graphics-adapter-vga-drivers/"><u>Free Guide: How to Download and Install Latest Video Graphics Adapter (VGA) Drivers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-full-access-your-in-depth-look-at-fcp/"><u>In 2024, Full Access Your In-Depth Look at FCP</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262330052-introducing-the-cixin-p1-arm-based-industry-standard-6nm-chip-from-china-achieving-45-tops-in-performance/"><u>Introducing the Cixin P1 – Arm-Based, Industry Standard 6Nm Chip From China Achieving 45 TOPS in Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-update-free-download-of-nvidias-geforce-rtx-2070-driver-for-windows-users/"><u>Latest Update: Free Download of NVIDIA's Geforce RTX 2070 Driver for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-download-hp-envy-5055-printer-drivers/"><u>Quick Download: HP ENVY 5055 Printer Drivers</u></a></li>
-<li><a href="https://solve-help.techidaily.com/restore-sounds-on-mp4-videos-how-to-repair-audio-glitches-effectively/"><u>Restore Sounds on MP4 Videos - How to Repair Audio Glitches Effectively</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-triple-function-magsafe-station-power-and-chill-your-ipad-iphone-and-mac-simultaneously/"><u>Revolutionary Triple-Function MagSafe Station: Power and Chill Your iPad, iPhone & Mac Simultaneously</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discover-the-leading-livestream-service-sites/"><u>[New] Discover the Leading Livestream Service Sites</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-evolving-tactics-for-crafting-immersive-mukbang-sessions/"><u>[New] In 2024, Evolving Tactics for Crafting Immersive Mukbang Sessions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/500-discount-top-ranking-gaming-laptop-exclusively-offered-this-october-prime-day-dont-miss-out/"><u>$500 Discount: Top-Ranking Gaming Laptop Exclusively Offered This October Prime Day - Don't Miss Out!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-innovations-best-vr-tech-for-drones/"><u>2024 Approved Top Innovations Best VR Tech for Drones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-exclusive-get-the-apple-m2-macbook-air-for-749-less-find-more-details-latest-report/"><u>Amazon Prime Day Exclusive: Get the Apple M2 MacBook Air for $749 Less! Find More Details Latest Report</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-laughing-alongside-the-metaverse-diy-humor-tips-and-tricks/"><u>In 2024, Laughing Alongside the Metaverse DIY Humor Tips & Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-proven-techniques-to-elevate-your-igtv-videos-on-mobile-and-professional-cameras/"><u>In 2024, Proven Techniques to Elevate Your IGTV Videos on Mobile & Professional Cameras</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-guide-step-by-step-process-to-install-exodus-add-on-in-kodi/"><u>Simple Guide: Step-by-Step Process to Install Exodus Add-On in Kodi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-ultimate-deal-get-metas-512gb-quest-3-vr-headset-for-half-price-this-october-exclusive-insight-from-zdnet/"><u>Snag the Ultimate Deal: Get Meta's 512GB Quest 3 VR Headset for Half Price This October – Exclusive Insight From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-reverting-from-windows-11-back-to-windows-10-with-essential-considerations-insights/"><u>Step-by-Step Guide: Reverting From Windows 11 Back to Windows 10 with Essential Considerations - Insights</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-scanner-clarity-why-are-your-scanned-images-turning-out-fuzzy-exploring-solutions-with-yl-software/"><u>Understanding Scanner Clarity: Why Are Your Scanned Images Turning Out Fuzzy? Exploring Solutions with YL Software</u></a></li>
 </ul></div>
 

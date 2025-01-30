@@ -1,7 +1,7 @@
 ---
 title: Unleashing Creativity with the New Apple MacBook Pro 16-Inch M2 Max Chip | Expert Review - ZDNET
-date: 2025-01-17T05:48:13.480Z
-updated: 2025-01-22T23:43:32.919Z
+date: 2025-01-25T18:49:10.218Z
+updated: 2025-01-30T17:40:55.826Z
 tags:
   - laptops
 categories:
@@ -44,7 +44,7 @@ Instead, I enlisted the help of [Tom Filip](https://www.flip-cam.com/), a produc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,10 +68,6 @@ On the surface level, much of the new MacBook Pro's hardware has been carried ov
 
 What's changed this year mostly stems from within, including upgrades to the processor, connectivity, and battery life, as broken down below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. M2 Max wins where M1 was already winning
 
 Sifting through a timeline on Premiere Pro is just as effortless as on Final Cut Pro.
@@ -90,6 +86,10 @@ To editors, the telltale sign of a competent machine is whether or not it can pl
 
 As for export times? We saw the M2 Max model beating out Filip's M1 Max by 20 to 30 seconds in each trial. Once you take those aforementioned deadlines into account, the quicker speeds can mean the difference between an occupied computer and moving on to thumbnails.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Faster, more capable connectivity across the board
 
 Don't let the thin display fool you. The M2 Max MacBook Pro weighs nearly five pounds.
@@ -104,6 +104,10 @@ While video editors like Philip may not stress the "faster internet" bit, being 
 
 The 2023 MacBook Pro also gets a bump with the more stable Bluetooth 5.3 and more versatile HDMI 2.1\. The latter of which was the most appealing upgrade to Filip, who was already extending his MacBook onto a [34-inch LG 5K monitor](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1382968-REG%2Flg%5F34wk95u%5F34%5Fnano%5Fips.html%2F%3F), but has long considered kicking it to an [8K display](https://www.zdnet.com/home-and-office/home-entertainment/samsungs-odyssey-g9-gaming-monitor-family-adds-oled-8k-models/) for future-proofing. If and when that happens -- we both chuckle at the idea of pixels we can't even fully conceptualize on a desktop screen -- the Apple laptop will be more than able of supporting the higher resolution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Battery life that impresses everyone
 
 The MacBook deck retains the dual firing speakers and force touch trackpad.
@@ -116,13 +120,13 @@ Remember the 38-core GPU that I mentioned earlier? Part of its lift involves upp
 
 When deciding between the [M2 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and [M2 Max variants](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), users should note that while the latter is more powerful, it comes at the cost of an hour or two of endurance. Despite that, you're looking at roughly 14 hours of battery life on the M2 Pro versus 12 hours on the M2 Max, which is promising no matter which of the two you end up buying.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What we'd like to see in the next model
 
 For the work that both Filip and I do, there's not much to complain about with the M2 Max, 16-inch MacBook Pro -- performance-wise, at least. The laptop starts at [$3,499](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), which I'll applaud Apple for retaining the 2021's M1 Max price tag. Considering the price, here are two nitpicks that would make the larger MacBook experience even better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. A lighter form factor
 
@@ -150,23 +154,19 @@ In future models, I'd love to see the company either shrink the notch so it's no
 
 [Buy the Apple MacBook Pro (16-inch, M2 Max) $3,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 The latest MacBook Pro is a testament to Apple's golden age of mobile computing. While most of the innovating happened with the now two-year-old, [M1 MacBook Pros](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-8%E2%80%91core-14%E2%80%91core%2Fdp%2FB09JQSLL92%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4a8b2844-8b7b-4d32-8328-3ef262b4a648%7Cdtp&dtb=1), the M2 variants absolutely deliver where it matters to both Filip's (thanks again, Tom!) and my workflows while offering a more future-proof system. 
 
 Reviewing the M2 Max MacBook Pro side-by-side with its predecessor also demonstrated just how capable the latter was. To fall only seconds behind when it came to processing and exporting footage, the M1-powered machines should still be considered for shoppers who want a great-value MacBook.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Should I buy one?
 
 That's why if you already have an [M1-powered MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLate-Apple-MacBook-Silver-Renewed%2Fdp%2FB09RLXYM8J%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4a8b2844-8b7b-4d32-8328-3ef262b4a648%7Cdtp&dtb=1), keep it. If you're upgrading from anything older, I suggest you buy this. At a [starting price of $3,499](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the 16-inch, M2 Max MacBook Pro is no impulse purchase. But if you need a laptop that can power through pro-grade apps and services as efficiently as possible, with some Apple perks on the side like iPhone syncing, a magical force-touch trackpad, and the company's reputable after-sales service, then I can't recommend anything better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -202,17 +202,24 @@ That's why if you already have an [M1-powered MacBook Pro](https://buy.geni.us/P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-beyond-basic-the-advanced-techniques-of-youtube-counts/"><u>[New] 2024 Approved Beyond Basic The Advanced Techniques of YouTube Counts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-guide-to-spotify-ads-learn-how-to-successfully-advertise-on-spotify/"><u>[New] Guide to Spotify Ads - Learn How to Successfully Advertise on Spotify</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-window-recording-on-spring-screens/"><u>[Updated] 2024 Approved The Ultimate Guide to Window Recording on Spring Screens</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-periscope-streaming-made-simple/"><u>[Updated] Periscope Streaming Made Simple</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/decoding-the-hidden-cause-for-non-existent-fb-video-picks/"><u>Decoding the Hidden Cause for Non-Existent FB Video Picks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973398534-get-the-latest-brother-hl-l2360dw-driver-software-for-your-printer-here/"><u>Get the Latest Brother HL-L2360DW Driver Software for Your Printer Here</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Hot 40 Phone?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-version-available-canon-pixma-ts3322-driver-update-and-installation-guide/"><u>New Version Available: Canon PIXMA TS3322 Driver Update and Installation Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/revolutionizing-tv-broadcasts-with-fb-live-streaming/"><u>Revolutionizing TV Broadcasts with FB Live Streaming</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-lenovo-docking-stations-drivers/"><u>Step-by-Step Guide: Updating Your Lenovo Docking Station's Drivers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-7-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-powerhouse-new-release-epic-5-with-an-astounding-512mb-l3-cache-and-128-cores/"><u>Unveiling the Powerhouse: New Release Epic 5 with an Astounding 512MB L3 Cache and 128 Cores</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-digital-sound-capturing-101-your-path-to-proficiency/"><u>[New] 2024 Approved Digital Sound Capturing 101 Your Path to Proficiency</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-illuminating-your-content-youtube-video-lighting-secrets/"><u>[Updated] Illuminating Your Content YouTube Video Lighting Secrets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-engage-with-snapchat-luminaries/"><u>[Updated] In 2024, How to Engage with Snapchat Luminaries</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-gaming-audio-revolution-experience-the-top-ranking-heavily-discounted-speaker-set-that-transforms-your-playtime-read-full-review-here/"><u>Amazon's Gaming Audio Revolution: Experience the Top-Ranking, Heavily Discounted Speaker Set That Transforms Your Playtime! Read Full Review Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-dell-school-supplies-blowout-sales-on-labor-day-premium-monitors-and-laptops-await/"><u>Best Dell School Supplies Blowout Sales on Labor Day: Premium Monitors & Laptops Await</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-steps-to-correct-discord-setup-failures-get-started-now/"><u>Effortless Steps to Correct Discord Setup Failures – Get Started Now!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exquisite-stop-motion-cinema-top-15-picks/"><u>Exquisite Stop-Motion Cinema - Top 15 Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-best-of-neweggs-2023-holiday-blowout-deals-in-one-place-expert-tips-by-zdnet/"><u>Find the Best of Newegg's 2023 Holiday Blowout Deals in One Place - Expert Tips by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/future-tech-revealed-how-intels-innovative-ai-chips-are-set-to-transform-your-next-laptop-experience/"><u>Future Tech Revealed: How Intel's Innovative AI Chips Are Set to Transform Your Next Laptop Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-tecno-spark-20-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Tecno Spark 20 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-addressing-performance-issues-fixes-for-lowered-fps-in-forza-horizon-5-pc/"><u>Resolved: Addressing Performance Issues - Fixes for Lowered FPS in Forza Horizon 5 (PC)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/student-chromebooks-hit-by-bedbug-invasion-recurring-tech-pests-in-schools-uncovered/"><u>Student Chromebooks Hit by Bedbug Invasion: Recurring Tech Pests in Schools Uncovered</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/taking-on-the-competition-microsofts-latest-release-of-copilotplus-pc-vs-apples-top-of-the-line-m3-macbook-expert-analysis/"><u>Taking On the Competition: Microsoft's Latest Release of Copilot+ PC Vs. Apple's Top-of-the-Line M3 MacBook | Expert Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-keyboards-comprehensive-reviews-by-professionals-techradar/"><u>Top-Rated Keyboards : Comprehensive Reviews by Professionals | TechRadar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-honor-x9a-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Honor X9a to Gmail | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-discover-why-metas-latest-offer-on-512gb-quest-3-stands-out-in-todays-virtual-reality-market-insights/"><u>Unbeatable: Discover Why Meta's Latest Offer on 512GB Quest 3 Stands Out in Today's Virtual Reality Market – Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unparalleled-gaming-audio-experience-save-150-on-the-top-rated-speakers-now-at-amazon-reviewed-by-zdnet/"><u>Unparalleled Gaming Audio Experience: Save $150 on the Top-Rated Speakers Now at Amazon - Reviewed by ZDNet</u></a></li>
 </ul></div>
 

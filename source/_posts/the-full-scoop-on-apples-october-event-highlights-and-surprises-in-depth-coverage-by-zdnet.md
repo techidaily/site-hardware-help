@@ -1,7 +1,7 @@
 ---
 title: The Full Scoop on Apple’s October Event Highlights and Surprises | In-Depth Coverage by ZDNET
-date: 2025-01-15T17:09:39.038Z
-updated: 2025-01-16T23:23:43.573Z
+date: 2025-01-25T18:23:45.022Z
+updated: 2025-01-30T17:20:58.303Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ If the low battery life wasn't enough, the computer has a tendency to run hot. W
 Even during regular use, the keyboard retained some heat, although not nearly as bad as during heavy gaming. The cooling vents are located on the bottom, so it seems the heat gets trapped underneath.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,16 +120,19 @@ If you looking for a portable gaming laptop, the Blade 14 is a middle-tier optio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-the-art-of-asmr-filmmaking-techniques/"><u>[New] In 2024, Decoding the Art of ASMR Filmmaking Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-minimalist-approach-to-podcast-livestream/"><u>2024 Approved Minimalist Approach to Podcast Livestream</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-compatibility-of-synaptics-touchpadmouse-with-windows-11-systems/"><u>Effective Solutions for Compatibility of Synaptics Touchpad/Mouse with Windows 11 Systems</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/1716465703098-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-official-nvidia-drivers-for-your-geforce-rtx-3070-ti-on-microsofts-win-1087-platforms/"><u>Get Official NVIDIA Drivers for Your GeForce RTX 3070 Ti on Microsoft's Win 10/8/7 Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-or-fresh-install-geforce-rtx-3070-drivers-on-windows-1110-systems/"><u>How to Update or Fresh Install GeForce RTX 3070 Drivers on Windows 11/10 Systems</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-shareable-podcast-episodes-on-instagram-platforms/"><u>In 2024, Shareable Podcast Episodes on Instagram Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastery-of-electronics-and-gadgets-through-toms-hardware-reviews/"><u>Mastery of Electronics and Gadgets Through Tom's Hardware Reviews</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/preventing-compression-artifacts-after-output/"><u>Preventing Compression Artifacts After Output</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-perfect-pocket-partner-for-your-workouts-samsung-galaxy-fit2/"><u>The Perfect Pocket Partner for Your Workouts - Samsung Galaxy Fit2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-walkthrough-creating-a-new-account-for-your-oculus-quest-or-quest-2/"><u>Ultimate Walkthrough: Creating a New Account for Your Oculus Quest or Quest 2</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-direct-save-plus-alternative-pathways-your-instagram-video-guide/"><u>[New] In 2024, Direct Save + Alternative Pathways Your Instagram Video Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-guide-to-lenovos-screen-recording-process/"><u>[Updated] 2024 Approved Guide to Lenovo's Screen Recording Process</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-how-to-produce-eye-catching-and-informative-videos-for-education-channels/"><u>[Updated] In 2024, How to Produce Eye-Catching and Informative Videos for Education Channels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pro-photo-and-video-with-gopro-hero5-black-mastery-essentials/"><u>[Updated] Pro Photo & Video with GoPro Hero5 Black Mastery Essentials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-work-efficiency-with-a-deal-on-the-flip-out-laptop-screen-save-93-during-amazon-prime-day/"><u>Boost Your Work Efficiency with a Deal on the Flip-Out Laptop Screen - Save $93 During Amazon Prime Day!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/charting-a-course-for-successful-digital-restoration-vishakhas-perspective/"><u>Charting a Course for Successful Digital Restoration: Vishakha's Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-listening-tech-for-switch-games/"><u>Elite Listening Tech for Switch Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-access-the-topmost-sale-bargains-of-octobers-prime-day-currently-open-shop-now/"><u>Exclusive Access: The Topmost Sale Bargains of October's Prime Day - Currently Open Shop Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-cyber-monday-offer-on-lenovo-chromebooks-for-just-79-dont-miss-out-limited-stock-available-zdnet-insider-tips/"><u>Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available | ZDNET Insider Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-review-of-lenovo-thinkpad-x1n-unleashing-power-in-an-arm-based-ultraportable-with-5g-and-exceptional-battery-duration/"><u>Exclusive Review of Lenovo ThinkPad X1n : Unleashing Power in an Arm-Based Ultraportable with 5G & Exceptional Battery Duration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-the-workspace-how-lenovos-latest-ai-thinkpads-are-designed-to-meet-modern-business-demands-zdnet/"><u>Revolutionizing the Workspace: How Lenovo's Latest AI ThinkPads Are Designed to Meet Modern Business Demands | ZDNet</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/section-3d-five-factays-with-solutions/"><u>Section 3D: Five Factays with Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-pcs-cpu-drivers-on-windows-operating-systems/"><u>Step-by-Step Guide: Updating Your PC's CPU Drivers on Windows Operating Systems</u></a></li>
 </ul></div>
 

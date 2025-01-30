@@ -1,7 +1,7 @@
 ---
 title: "Leading Security Key Options for 202N: Proven Winners by Specialists | CNET"
-date: 2025-01-09T16:31:09.607Z
-updated: 2025-01-17T02:57:34.093Z
+date: 2025-01-27T17:40:28.869Z
+updated: 2025-01-30T17:31:40.179Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ Even if a cybercriminal has obtained your username and password or compromised y
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is the best security key right now?
 
 ZDNET's favorite security key is the [Yubico YubiKey 5 NFC](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FYubico-YubiKey-USB-Authentication-Security%2Fdp%2FB07HBD71HL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C29f2e402-e15e-405a-8410-5c98db5dc55f%7Cdtp&dtb=1). It offers excellent security and convenience, making it a worthwhile investment for anyone looking to safeguard their online accounts. 
@@ -44,11 +48,11 @@ Cons
 * Expensive, especially if you need two
 * Technical knowledge may be required
 
-## Yubico YubiKey 5 NFC
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Yubico YubiKey 5 NFC
 
 ### Best security key overall
 
@@ -77,10 +81,14 @@ Cons
 * No NFC so no support for iPhone and Android
 * Doesn't support macOS logins
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Thetis Fido U2F Security Key
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best security key for durability
@@ -112,10 +120,6 @@ Cons
 
 ## Yubico YubiKey 5 Nano
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best security key for travel
 
 The Yubico YubiKey 5 Nano is a discreet, tiny security key that provides the features you need to lock your devices and services while you're on the road. The key supports PCs and other devices via USB-A and is compatible with the Yubico Authenticator app. However, keep in mind that there is no USB-C support. 
@@ -141,10 +145,6 @@ Pros
 
 Cons 
 * Only supports FIDO protocols
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Yubico Security Key C NFC
 
@@ -175,11 +175,11 @@ Cons
 * No support for macOS and ChromeOS
 * May need to download additional drivers
 
-## Kensington Verimark Fingerprint Key
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Kensington Verimark Fingerprint Key
 
 ### The best security key for biometrics
 
@@ -238,10 +238,6 @@ As testers of security keys over the years, we recommend the Yubico YubiKey 5 NF
 
 Note: Prices and compatibility information may vary based on location and specific devices. This table is based on the information provided in the given descriptions and is subject to change.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the right security key for you?
 
 It all boils down to which features you prioritize and your budget. Since having two security keys is recommended for added security, with one in use and the other as a backup, choosing a more affordable option could be cost-effective. 
@@ -256,6 +252,10 @@ However, investing in a higher-end brand may be wise if you already use security
 | Yubico Security Key C NFC           | The best value key for business, considering its compatibility with services including AWS, Okta, Google accounts, Apple iCloud, Microsoft, and Cloudflare.      |
 | Kensington Verimark Fingerprint Key | A simple USB-A security key with built-in biometrics. This key is discreet, compact, and user-friendly, although it has limited compatibility.                   |
 | Google Titan security key           | An affordable, multi-platform key suitable for Chrome-supporting services, Android, and iOS apps that can store up to 250 passkeys.                              |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing a security key
 
@@ -291,20 +291,20 @@ The FIDO Alliance consortium has developed open standards for authentication pro
 
 Devices that are FIDO certified allow users to quickly sign into their accounts using physical keys or biometric passkeys, and have also achieved FIDO protection and security standards. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why are security keys better than SMS-based 2FA?
 
 SMS is open to SIM hijacking, while a physical key cannot be copied or the data intercepted. Think about it this way: 2FA verification codes sent via SMS messaging may be intercepted if your smartphone has been infected with malware, including spyware, but unless an attacker has your physical security key in their hand, they cannot grab the code required to access your account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How many security keys do I need?
 
 We recommend purchasing at least two -- one that you use day-to-day and one to keep as a backup. For example, you can keep one in your home office or attached to a keychain if you're on the road, while one is stashed safely away to cover you if you lose your primary key. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can security keys be hacked?
@@ -316,7 +316,7 @@ Security keys are one of the best authentication methods on the market today and
 In layman's terms, security keys use encryption and security tokens that only work on genuine websites rather than fake phishing domains. Public and private keys work together to authenticate a user session, but the private key is held on the physical device, reducing the attack surface. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative security keys worth considering?
@@ -367,16 +367,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-essential-words-in-the-digital-realms-lexicon/"><u>[New] Essential Words in the Digital Realm's Lexicon</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/op-11-video-recorders-that-save-money-without-sacrificing-performance/"><u>[New] Top 11 Video Recorders That Save Money Without Sacrificing Performance</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-digital-recorders-companion-pc-mac-phone-edition-for-2024/"><u>[Updated] Digital Recorder's Companion PC, Mac, Phone Edition for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/te-your-channels-standing-with-these-tactics/"><u>Elevate Your Channel's Standing with These Tactics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-ds-n-series-driver-for-windows-10-64-bit/"><u>Get the Latest Epson DS-N Series Driver for Windows 10 (64-Bit)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977293713-grab-your-gigabyte-auditory-drivers-now-no-cost/"><u>Grab Your Gigabyte Auditory Drivers Now - No Cost!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-unlock-the-full-potential-with-these-top-6-music-videos-on-android/"><u>In 2024, Unlock the Full Potential with These Top 6 Music Videos on Android</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-lack-of-default-printer-and-scanner-drivers-on-windows-10/"><u>Resolved: Lack of Default Printer & Scanner Drivers on Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/system-builders-analysis-puget-demonstrates-superior-endurance-of-intel-cpus-over-ryzen-counterparts-in-new-failure-report/"><u>System Builders' Analysis: Puget Demonstrates Superior Endurance of Intel CPUs Over Ryzen Counterparts in New Failure Report</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-how-to-guide-on-lenovo-power-controller-and-hardware-drivers-update/"><u>Ultimate How-To Guide on Lenovo Power Controller & Hardware Drivers Update</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/winxvideo-ai-ai/"><u>Winxvideo AI: 革新的なAIを用いた高精度フレーム埋め忘れ無料ツール</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-minimal-shake-cam-for-dynamic-shooting/"><u>[Updated] Minimal-Shake Cam for Dynamic Shooting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-obs-screen-recorder-review/"><u>[Updated] OBS Screen Recorder Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-the-art-of-loop-creating-impactful-content-for-instagram/"><u>2024 Approved Mastering the Art of Loop Creating Impactful Content for Instagram</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-professional-sounds-with-magix-soundshaper/"><u>Crafting Professional Sounds with Magix Soundshaper</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/embracing-the-no-windows-lifestyle-how-hps-latest-chromebook-surpassed-expectations-zdnet-review/"><u>Embracing the No-Windows Lifestyle: How HP's Latest Chromebook Surpassed Expectations | ZDNet Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exciting-update-microsoft-introduces-surface-devices-and-copilot-for-enterprise-customers-discover-the-latest-features-zdnet/"><u>Exciting Update: Microsoft Introduces Surface Devices & Copilot for Enterprise Customers - Discover the Latest Features! [ZDNet]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723003347500-genshin-impact-pc-version-troubleshooting-and-fixing-crashes-successfully/"><u>Genshin Impact PC Version: Troubleshooting & Fixing Crashes Successfully</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hot-sale-alert-get-the-best-apple-magsafe-station-at-a-shocking-discount-today/"><u>Hot Sale Alert: Get the Best Apple MagSafe Station at a Shocking Discount Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hps-cyber-week-discount-event-save-up-to-71-on-desktops-and-computers-zdnet/"><u>HP's Cyber Week Discount Event: Save Up To 71% On Desktops & Computers - ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-prime-choices-for-budget-conscious-consumers-4k-viewing/"><u>In 2024, Prime Choices for Budget-Conscious Consumers' 4K Viewing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-dells-new-lightweight-gaming-laptop-the-ideal-office-companion-for-gamers-insights/"><u>Introducing Dell's New Lightweight Gaming Laptop: The Ideal Office Companion for Gamers - Insights</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-epic-video-editing-add-mind-blowing-effects-to-your-videos/"><u>New In 2024, Epic Video Editing Add Mind-Blowing Effects to Your Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reviews-and-recommendations-discover-how-this-super-light-laptop-is-transforming-the-world-of-remote-workers/"><u>Reviews & Recommendations: Discover How This Super-Light Laptop Is Transforming the World of Remote Workers</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-6-plus-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 6 Plus Suddenly | Stellar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-5-best-free-sports-streaming-sites-of-2024/"><u>The 5 Best Free Sports Streaming Sites of 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-21-best-laptops-for-unforgettable-gift-ideas-insights-from-zdnet/"><u>Top 21 Best Laptops for Unforgettable Gift Ideas - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unparalleled-portability-meets-multifunctionality-an-in-depth-review-of-a-compact-powerhouse-chromebook-zdnet/"><u>Unparalleled Portability Meets Multifunctionality: An In-Depth Review of a Compact Powerhouse Chromebook - ZDNet</u></a></li>
 </ul></div>
 

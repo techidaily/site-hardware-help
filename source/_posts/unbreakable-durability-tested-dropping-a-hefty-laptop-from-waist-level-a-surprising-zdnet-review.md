@@ -1,7 +1,7 @@
 ---
 title: "Unbreakable Durability Tested: Dropping a Hefty Laptop From Waist Level - A Surprising ZDNet Review"
-date: 2025-01-15T19:23:10.768Z
-updated: 2025-01-17T01:13:49.401Z
+date: 2025-01-24T18:49:24.996Z
+updated: 2025-01-30T19:26:42.761Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -128,7 +128,7 @@ Kyle Kucharski/ZDNET
 In the end, both are solid choices, but the battery life on the unit with the Snapdragon is impossible to ignore. That, and the fact that this is a forward-looking device with AI functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -167,21 +167,16 @@ I'd recommend this laptop to freelancers, remote and hybrid workers, and anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-beats-and-bands-how-to-upload-music-online/"><u>[New] 2024 Approved Beats & Bands How to Upload Music Online</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-strategies-for-seamless-iphone-photos-sorting-and-icloud-backup-management/"><u>[New] Strategies for Seamless iPhone Photos Sorting & iCloud Backup Management</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-captivate-viewers-designing-engaging-youtube-trailers-with-filmora/"><u>[Updated] Captivate Viewers Designing Engaging YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-mastering-voice-changes-in-psgames/"><u>[Updated] In 2024, Mastering Voice Changes in PSGames</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029668000-5/"><u>「無料編集ソフトリスト」 - 有名人気の5つの録音編集プログラム</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-achieve-uniqueness-with-character-vocal-changes-in-free-fire-at-zero-price/"><u>2024 Approved Achieve Uniqueness with Character Vocal Changes in Free Fire, at Zero Price</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-6s-plus-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 6s Plus? Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-the-updated-dell-xps-13-9345-timeless-aesthetics-meets-enhanced-performance/"><u>In-Depth Analysis of the Updated Dell XPS 13 (9345): Timeless Aesthetics Meets Enhanced Performance</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/innovating-action-filming-yi-4ks-impact-on-cinema-for-2024/"><u>Innovating Action Filming Yi 4K's Impact on Cinema for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-and-snapdragon-showdown-who-wins-when-it-comes-to-elite-battery-life-for-laptops/"><u>Intel and Snapdragon Showdown: Who Wins When It Comes to Elite Battery Life for Laptops?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-driven-two-14-inch-displays-experience-the-acemagic-x1-laptop-for-under-900/"><u>Intel Driven, Two 14-Inch Displays: Experience the Acemagic X1 Laptop for Under $900</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-a-game-changing-mainboard-new-framework-partners-with-deepcomputing-to-harness-the-power-of-risc-v-in-their-latest-jh7110-laptop-board/"><u>Introducing a Game-Changing Mainboard: New Framework Partners with DeepComputing to Harness the Power of RISC-V in Their Latest JH7110 Laptop Board</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-technology-choices-with-guidance-from-toms-hardware/"><u>Mastering Technology Choices with Guidance From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-technology-choices-a-deep-dive-into-hardware-with-toms-experts/"><u>Mastering Technology Choices: A Deep Dive Into Hardware with Tom's Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-game-with-alienware-m1-r2-review-powerhouse-pc-and-clicky-keys-showdown/"><u>Mastering the Game with Alienware M1# R2 Review: Powerhouse PC and Clicky Keys Showdown</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-tech-talk-microsoft-acquires-blizzard-diving-into-ai-artistry-and-cutting-edge-translation-tools-podcast/"><u>The Tech Talk: Microsoft Acquires Blizzard - Diving Into AI Artistry and Cutting-Edge Translation Tools [Podcast]</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-mouthwatering-moments-10-viral-food-trends-on-tiktok/"><u>[New] 2024 Approved Mouthwatering Moments 10 Viral Food Trends on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-maximizing-your-social-reach-top-30-out-of-the-box-tiktok-nicknames/"><u>[Updated] Maximizing Your Social Reach Top 30 Out-of-the-Box TikTok Nicknames</u></a></li>
+<li><a href="https://win-community.techidaily.com/comment-renommer-avec-succes-un-document-dans-un-autre-programme-astuces-rapides-et-efficaces/"><u>Comment Renommer Avec Succès Un Document Dans Un Autre Programme : Astuces Rapides Et Efficaces</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixes-for-common-issues-in-pci-crypto-controller-driver-software/"><u>Fixes for Common Issues in PCI Crypto Controller Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-usb-30-support-on-your-windows-computer-a-guide-to-downloading-the-right-driver/"><u>How to Get USB 3.0 Support on Your Windows Computer: A Guide to Downloading the Right Driver</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-k70e-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi K70E to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-driver-update-how-to-revamp-your-lenovo-stations-performance/"><u>Mastering Driver Update: How to Revamp Your Lenovo Station's Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-the-6-greatest-ai-powered-note-organizers/"><u>The Ultimate List of the 6 Greatest AI Powered Note Organizers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-strategies-to-enhance-minecraft-frame-rate-on-gaming-beasts-high-end-pcs-insights-from-2vectras-guide/"><u>Top Strategies to Enhance Minecraft Frame Rate on Gaming Beasts (High-End PCs) - Insights From 2Vectra's Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-gpu-to-the-new-nvidia-gtx-1650-super-drivers-compatible-with-windows-1011/"><u>Update Your GPU to the New NVIDIA GTX 1650 Super Drivers: Compatible with Windows 10/11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 3 Affordable Laptops on Cyber Monday 2022: Unbeatable Offers From Costco, Amazon & Dell - ZDNet"
-date: 2025-01-11T01:35:54.009Z
-updated: 2025-01-16T20:46:43.152Z
+date: 2025-01-27T18:18:59.812Z
+updated: 2025-01-30T18:41:24.090Z
 tags:
   - laptops
 categories:
@@ -18,7 +18,7 @@ Amazon
 Cyber Monday is finally here! Laptops are the first thing I think of today: I want the most affordable laptop with the best possible features. If you're in the same boat, there are three laptops to keep in mind that ring in for less than $1,000: [The MacBook Air with Apple's M1 chip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2bbb7ce-e9ec-467f-8d21-f2caff3fcb3a%7Cdtp&dtb=1) for $799 at Amazon (save $200), [the LG gram 17-inch laptop](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-gram-17%22-intel-evo-platform-laptop---12th-gen-intel-i7-1260p---2560-x-1600-display---windows-11.product.100971154.html) at Costco for $999 (save $500), and [the Latitude 7420 business laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fdeals.dell.com%2Fen-us%2Fproductdetail%2Ffqnp) at Dell for $889 (save $1,320). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -79,24 +79,17 @@ Dell has the [Latitude 7420](https://shop-links.co/link/?exclusive=1&publisher_s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-captivating-your-curbsides-glow-inside-your-house/"><u>[New] 2024 Approved Captivating Your Curbside's Glow Inside Your House</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-blueprint-to-thrive-in-youtubes-gaming-domain-with-hashes-for-2024/"><u>[New] The Ultimate Blueprint to Thrive in YouTube's Gaming Domain with Hashes for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazing-savings-alert-the-razer-blade-15-gaming-laptop-is-now-shockingly-affordable-with-a-huge-discount/"><u>Amazing Savings Alert! The Razer Blade 15 Gaming Laptop Is Now Shockingly Affordable with a Huge Discount</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/bargain-hunting-the-best-gaming-pcs-you-can-buy-for-less-than-1500/"><u>Bargain Hunting: The Best Gaming PCs You Can Buy For Less Than $1,500</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/beyond-ai-qualcomm-drives-sales-through-superior-battery-life-for-copilotplus-pcs-with-aggressive-marketing-tactics/"><u>Beyond AI: Qualcomm Drives Sales Through Superior Battery Life for Copilot+ PCs with Aggressive Marketing Tactics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/breaking-down-the-lenovo-legion-pro-5i-gen-9-astonishing-gaming-capabilities-at-a-reasonable-price/"><u>Breaking Down the Lenovo Legion Pro 5I (Gen 9): Astonishing Gaming Capabilities at a Reasonable Price</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/detailed-component-breakdown-by-toms-hardware-expertise/"><u>Detailed Component Breakdown by Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-latest-in-tech-on-toms-hardware-platform/"><u>Discover the Latest in Tech on Tom's Hardware Platform</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elite-snapdragon-falls-short-of-iphone-expectations-according-to-early-book4-edge-benchmark-results/"><u>Elite Snapdragon Falls Short of iPhone Expectations According to Early Book4 Edge Benchmark Results</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-innovations-in-technology-toms-hardware-guides/"><u>Exploring Innovations in Technology - Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-exclusive-savings-hp-omens-transcend-laptop-with-rtx-engine-and-immersive-oled-display-cut-price-by-300/"><u>Get Exclusive Savings: HP Omen's Transcend Laptop with RTX Engine & Immersive OLED Display, Cut Price by $300!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 6</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-event-id-1000-error-on-windows-7-8-and-10/"><u>How to Fix the 'Event ID 1000' Error on Windows 7, 8 & 10</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-13-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 13?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oneplus-ace-2-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your OnePlus Ace 2 Pro Phone Hassle-Free</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/maximizing-your-virtual-meetings-expert-insights-on-using-zoom-win10/"><u>Maximizing Your Virtual Meetings Expert Insights on Using Zoom (Win10)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-professional-development-classes-on-linkedin/"><u>Top-Rated Professional Development Classes on LinkedIn</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unleash-pro-level-conversions-trustworthy-winx-cddvd-ripper-and-high-def-video-transcoder-free-download-center/"><u>Unleash Pro-Level Conversions: Trustworthy WinX CD/DVD Ripper & High-Def Video Transcoder - Free Download Center</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/lueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels-for-2024/"><u>[New] Blueprints for Breaking Ground in Edu-Video Production on YouTube Channels for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-channel-finale-strategy-plus-best-templates-and-makers/"><u>[New] In 2024, The Ultimate Channel Finale Strategy + Best Templates & Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-convenient-and-quality-passport-images-top-free-tools-listed-here/"><u>[Updated] In 2024, Convenient & Quality Passport Images - Top Free Tools Listed Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-world-of-kinemaster-a-deeper-look-at-gaming/"><u>2024 Approved Inside the World of KineMaster A Deeper Look at Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-compatible-logitech-speaker-drivers-for-your-windows-operating-system-11-7-or-8/"><u>Download Compatible Logitech Speaker Drivers for Your Windows Operating System (11, 7, or 8)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-insignia-ns-pcy5bma2-drivers-for-windows-11107-platforms/"><u>Download Latest Insignia NS-PCY5BMA2 Drivers for Windows 11/10/7 Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-digital-safety-activating-mfa-for-robust-protection-insights-and-steps-by-zdnet/"><u>Enhance Digital Safety: Activating MFA for Robust Protection - Insights & Steps by ZDnet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/extend-the-life-of-your-outdated-computer-before-switching-to-windows-10-top-5-budget-friendly-solutions-backed-by-zdnet/"><u>Extend the Life of Your Outdated Computer Before Switching to Windows 10: Top 5 Budget-Friendly Solutions Backed by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-driver-compatibility-guaranteed-simplified-downloading-and-installation-process/"><u>HP Driver Compatibility Guaranteed – Simplified Downloading & Installation Process</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-iphone-long-exposure-a-comprehensive-guide-for-2024/"><u>Mastering iPhone Long Exposure A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-acer-monitor-driver-software-free-downloads-available/"><u>Updated Acer Monitor Driver Software - Free Downloads Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-windows-8-and-enjoy-the-best-free-performance-with-amd-radeon-gpus/"><u>Upgrade to Windows 8 & Enjoy the Best Free Performance with AMD Radeon GPUs</u></a></li>
 </ul></div>
 

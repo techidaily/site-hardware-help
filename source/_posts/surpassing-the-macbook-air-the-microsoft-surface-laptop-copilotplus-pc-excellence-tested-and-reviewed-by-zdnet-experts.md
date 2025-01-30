@@ -1,7 +1,7 @@
 ---
 title: "Surpassing the MacBook Air: The Microsoft Surface Laptop Copilot+ PC Excellence Tested and Reviewed by ZDNet Experts"
-date: 2025-01-16T16:39:48.167Z
-updated: 2025-01-22T20:20:39.471Z
+date: 2025-01-28T16:40:28.039Z
+updated: 2025-01-30T20:03:34.205Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc9919522-685b-4aa9-983b-c7ff321ae869%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,24 +125,24 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-guide-to-instagram-video-backup-with-computer-or-laptop-for-2024/"><u>[New] Guide to Instagram Video Backup with Computer or Laptop for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-from-basics-to-brilliance-mastering-the-art-of-macbook-air-screen-capture/"><u>[New] In 2024, From Basics to Brilliance Mastering the Art of MacBook Air Screen Capture</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-optimizing-video-zoom-on-the-youtube-stage/"><u>[Updated] 2024 Approved Optimizing Video Zoom on the YouTube Stage</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-11x-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme 11X 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/2024s-ultimate-list-of-highest-quality-wi-fi-routers-on-the-market/"><u>2024'S Ultimate List of Highest Quality Wi-Fi Routers on the Market</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-critical-eye-on-the-nikon-coolpix-l340-design/"><u>A Critical Eye on the Nikon Coolpix L340 Design</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-phones-pricey-downside-the-true-expense-of-weak-glass-construction-exposed/"><u>Affordable Phones' Pricey Downside: The True Expense of Weak Glass Construction Exposed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/avoiding-the-common-missteps-of-crafting-a-connected-living-space-essential-smart-home-planning-advice/"><u>Avoiding the Common Missteps of Crafting a Connected Living Space: Essential Smart Home Planning Advice</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/avoiding-the-pitfalls-ensuring-your-google-pixel-6-stays-functional-post-factory-reset/"><u>Avoiding the Pitfalls: Ensuring Your Google Pixel 6 Stays Functional Post-Factory Reset</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/beat-the-spike-in-hard-drive-costs-strategies-for-finding-low-priced-storage-solutions/"><u>Beat the Spike in Hard Drive Costs: Strategies for Finding Low-Priced Storage Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-gaming-experience-by-checking-gpu-frame-rates-instantly/"><u>Boost Your Gaming Experience by Checking GPU Frame Rates Instantly!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compatibility-guide-how-to-effectively-blend-different-brands-of-mesh-wifi-devices/"><u>Compatibility Guide: How to Effectively Blend Different Brands of Mesh WiFi Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-iphone-connectivity-update-your-windows-10-drivers-today/"><u>Ensure Seamless iPhone Connectivity - Update Your Windows 10 Drivers Today</u></a></li>
-<li><a href="https://win-net.techidaily.com/fehlerbehebung-dban-startet-nicht-vom-usb-schritte-zur-losung/"><u>Fehlerbehebung: DBAN Startet Nicht Vom USB, Schritte Zur Lösung</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a56s-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo A56s 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/installing-franks-media-center-addon-for-enhanced-viewing-on-kodi-v19-matrix-build-a-comprehensive-tutorial/"><u>Installing Frank's Media Center Addon for Enhanced Viewing on Kodi v19 Matrix Build – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/reviewing-cybernetic-tools-for-live-video-capture/"><u>Reviewing Cybernetic Tools for Live Video Capture</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-home-lighting-discover-govees-stylish-floor-lamp-2-and-pro-versions-for-elegance/"><u>Upgrade Your Home Lighting: Discover Govee's Stylish Floor Lamp 2 & Pro Versions for Elegance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-having-just-one-charger-isnt-enough-discover-the-advantages-of-extra-power-banks-now/"><u>Why Having Just One Charger Isn't Enough - Discover the Advantages of Extra Power Banks Now!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-accelerate-footage-leading-android-apps/"><u>[New] Accelerate Footage Leading Android Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-your-screens-guide-to-smart-stocks/"><u>[New] In 2024, Your Screen's Guide to Smart Stocks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-perfect-pathway-insta-to-tiktok-junction/"><u>[New] The Perfect Pathway Insta to TikTok Junction</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1000-discount-on-the-ideal-lenovo-laptop-for-hybrid-work-environments-top-pick/"><u>$1,000 Discount on the Ideal Lenovo Laptop for Hybrid Work Environments: Top Pick</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/addressing-software-engineer-overwhelm-innovative-approaches-businesses-adopt-for-workforce-health/"><u>Addressing Software Engineer Overwhelm: Innovative Approaches Businesses Adopt for Workforce Health</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-brilliance-unveiled-how-dell-outshines-with-a-budget-friendly-powerhouse-of-smart-design-explored-on-zdnet/"><u>Affordable Brilliance Unveiled: How Dell Outshines with a Budget-Friendly Powerhouse of Smart Design – Explored on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-notebook-reintroduces-famous-tech-phrase-shaking-up-industry-conversations-again/"><u>Budget-Friendly Notebook Reintroduces Famous Tech Phrase, Shaking Up Industry Conversations Again.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cting-youtubes-features-and-mechanisms-after-uploading-content/"><u>Dissecting YouTube’s Features and Mechanisms After Uploading Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expertly-chosen-and-reviewed-ultimate-guide-to-the-best-touchscreen-laptops-zdnet-insights/"><u>Expertly Chosen & Reviewed: Ultimate Guide to the Best Touchscreen Laptops - ZDNet Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-webm-viewers-the-ultimate-comparison-of-options-for-2024/"><u>Free WebM Viewers The Ultimate Comparison of Options for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-discover-the-ultimate-surround-sound-system-now-50-off-exclusive-insight-by-zdnet/"><u>Huge Savings! Discover the Ultimate Surround Sound System Now 50% Off - Exclusive Insight by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-tecno-camon-30-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Tecno Camon 30 Pro 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-navigating-the-maze-fb-messengers-a-video-downloading-guide/"><u>In 2024, Navigating the Maze FB Messengers - A Video Downloading Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/macbook-airs-budget-rival-discover-the-highly-rated-windows-laptop-that-matches-performance-and-cost/"><u>MacBook Air's Budget Rival: Discover the Highly-Rated Windows Laptop That Matches Performance and Cost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-gaming-how-top-pc-manufacturers-leverage-chromebook-power-zdnet-insights/"><u>Revolutionizing Gaming: How Top PC Manufacturers Leverage Chromebook Power | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-notch-laptop-cooler-for-high-performance-users-keep-your-system-chilled-with-our-picks-featured/"><u>Top Notch Laptop Cooler for High-Performance Users: Keep Your System Chilled with Our Picks | Featured</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-efficiency-with-lenovos-game-changing-dual-display-laptop-exclusive-review/"><u>Unleashing Efficiency with Lenovo's Game-Changing Dual-Display Laptop | Exclusive Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-music-composition-techniques/"><u>YouTube Music Composition Techniques</u></a></li>
 </ul></div>
 

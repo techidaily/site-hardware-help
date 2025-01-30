@@ -1,7 +1,7 @@
 ---
 title: Save Power and Boost Performance with Google Chrome's Energy Saver Mode - Tips From ZDNet Experts
-date: 2025-01-18T16:12:01.327Z
-updated: 2025-01-23T02:43:01.600Z
+date: 2025-01-28T17:25:53.452Z
+updated: 2025-01-30T17:40:42.633Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Google
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -40,23 +40,19 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Energy Saver mode on Google Chrome
 
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
@@ -70,7 +66,7 @@ If you are not yet running version 108 or higher, you need to update.
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
@@ -96,6 +92,10 @@ The "Enable the battery saver mode feature in the settings" flag in Google Chrom
 Adrian Kingsley-Hughes/ZDNET
 
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
 
@@ -153,24 +153,14 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-free-meeting-tools-ranked-your-ultimate-video-call-companion/"><u>[New] Free Meeting Tools Ranked - Your Ultimate Video Call Companion</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-preventing-excessive-heat-in-your-android-device-a-comprehensive-guide/"><u>1. Preventing Excessive Heat in Your Android Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-mend-iphones-facebook-video-displays/"><u>2024 Approved Mend iPhones' Facebook Video Displays</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-year-long-tale-of-digitized-manga-reading-choosing-between-tablets-and-ereaders/"><u>A Year-Long Tale of Digitized Manga Reading: Choosing Between Tablets and eReaders</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/are-you-prepared-for-ads-on-the-lockscreen-of-future-android-phones/"><u>Are You Prepared for Ads on the Lockscreen of Future Android Phones?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/assessing-your-android-devices-battery-condition-and-effective-remedies/"><u>Assessing Your Android Device's Battery Condition & Effective Remedies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/award-spotlight-the-top-tech-showcase-at-mobile-world-congress-mwc-2024/"><u>Award Spotlight: The Top Tech Showcase at Mobile World Congress (MWC) 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/digital-canvas-unveiled-top-8-ipados-creators-choice/"><u>Digital Canvas Unveiled Top 8 iPadOS Creators' Choice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-ways-to-reduce-modern-warfares-cpu-demand-on-your-system/"><u>Effective Ways to Reduce Modern Warfare's CPU Demand on Your System</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-habits-to-happiness-elevating-your-existence-through-chatgpt-strategies/"><u>From Habits to Happiness: Elevating Your Existence Through ChatGPT Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-ensure-optimal-minecraft-performance-by-updating-your-device-drivers/"><u>How to Ensure Optimal Minecraft Performance by Updating Your Device Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-poco-m6-pro-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco M6 Pro 4G Without Password | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-viral-instagram-cinematography-for-2024/"><u>Mastering the Art of Viral Instagram Cinematography for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-virtual-meetings-tips-for-effectively-using-zoom-in-emails-for-2024/"><u>Navigating Virtual Meetings Tips for Effectively Using Zoom in Emails for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-windows-11-for-multiple-monitors/"><u>Optimizing Windows 11 for Multiple Monitors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-protective-covers-for-the-latest-google-pixel-phones-2023-edition/"><u>Top-Rated Protective Covers for the Latest Google Pixel Phones - 2023 Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transforming-your-android-device-into-a-portable-wireless-access-point/"><u>Transforming Your Android Device Into a Portable Wireless Access Point</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-stock-android-what-does-it-mean-for-your-smartphone-experience/"><u>Understanding Stock Android: What Does It Mean for Your Smartphone Experience?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-secure-mobility-understanding-grapheneoss-impact-on-android-privacy/"><u>Unlocking Secure Mobility: Understanding GrapheneOS's Impact on Android Privacy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-camera-editing-showdown-hero-vs-cubes-battle-of-the-screens/"><u>[Updated] Camera Editing Showdown Hero Vs. Cube's Battle of the Screens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/749-apple-macbook-air-with-m2-chip-exclusive-offer-during-amazons-october-prime-day-dont-miss-outzdnet-news/"><u>$749 Apple MacBook Air with M2 Chip: Exclusive Offer During Amazon's October Prime Day – Don't Miss Out![ZDNet News]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/alienware-aurora-r13-gaming-system-sale-slash-up-to-350-off-with-us-at-zdnet/"><u>Alienware Aurora R13 Gaming System Sale - Slash Up To $350 Off with Us at ZDNet!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-deep-bass-discover-the-ultimate-speaker-system-at-half-price-in-store-and-online-exclusively-at-best-buy/"><u>Dive Into Deep Bass: Discover the Ultimate Speaker System at Half Price In-Store and Online, Exclusively at Best Buy!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/eliminate-sensitive-files-on-your-ios-device-the-best-software-for-complete-data-wipe-out/"><u>Eliminate Sensitive Files on Your iOS Device: The Best Software for Complete Data Wipe-Out</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-airpod-sounds-that-move-with-you-by-disabling-head-movement-feature/"><u>Fix AirPod Sounds That Move with You by Disabling Head Movement Feature</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-zero-5g-2023-turbo-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Zero 5G 2023 Turbo FRP?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-your-remote-and-office-tasks-with-our-top-pick-of-a-lenovo-laptop-at-an-exclusive-price-off-zdnet/"><u>Master Your Remote and Office Tasks with Our Top Pick of a Lenovo Laptop at an Exclusive Price Off | ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-pc-issues-in-star-wars-jedi-fallen-order/"><u>Troubleshooting Steps for Fixing PC Issues in Star Wars Jedi: Fallen Order</u></a></li>
 </ul></div>
 

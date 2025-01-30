@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Savings: Exclusive October 202E Prime Day Tech Deals for Laptops | ZDNet"
-date: 2025-01-20T08:25:44.861Z
-updated: 2025-01-23T06:28:12.996Z
+date: 2025-01-28T18:12:36.918Z
+updated: 2025-01-30T17:43:15.340Z
 tags:
   - laptops
 categories:
@@ -76,10 +76,6 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best laptops for students
 
 Dell/ZDNET
@@ -98,6 +94,10 @@ Asus/ZDNET
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best laptops for photo editing
 
 * [Acer Chromebook Spin 714](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CP714-1WN-53M9-i5-1235U-1920x1200-Keyboard%2Fdp%2FB0BJH9LGK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $522 ($227 off): If you're looking for a good sale price on a convertible 2-in-1, Acer's Chromebook Spin 714 brings all the light efficiency of a Chromebook to a portable form factor. This is a great editing device if you often use Google Photos. Also, with a new purchase, you get Gemini Advanced, 2TB of cloud storage, and more free for three months.
@@ -114,10 +114,6 @@ Kyle Kucharski/ZDNET
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $927 (save $72): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy laptop deals
 
 * [Asus ROG Strix Scar 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-strix-scar-17-3-240hz-gaming-laptop-wqhd-amd-ryzen-9-x3d-with-32gb-memory-nvidia-geforce-rtx-4090-2tb-ssd-off-black%2F6564531.p%3FskuId%3D6564531&publisher_slug=itechdaily19598&exclusive=1) for $3,000 (save $700): This high-end gaming laptop is built with an AMD Ryzen 9 X3D processor, 32GB of RAM, a 2TB SSD, and Nvidia GeForce RTX 4090 graphics card.
@@ -130,22 +126,26 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -161,7 +161,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
@@ -230,19 +230,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-a-step-by-step-approach-to-crafting-your-video-market-standouts/"><u>[New] 2024 Approved A Step-by-Step Approach to Crafting Your Video' Market Standouts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-digital-domain-your-playground-for-1000-titles-for-2024/"><u>[New] Digital Domain Your Playground for 1,000 Titles for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-optimal-storage-savings-for-the-digital-age/"><u>[Updated] In 2024, Optimal Storage Savings for the Digital Age</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-resolving-missing-sound-in-obs/"><u>[Updated] In 2024, Resolving Missing Sound in OBS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-learn-to-record-save-and-share-youtube-content-a-cost-free-approach/"><u>2024 Approved Learn to Record, Save, & Share YouTube Content A Cost-Free Approach</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-gaming-on-the-go-the-asus-rog-ally-now-runs-on-steamos-by-valve/"><u>Experience Gaming on the GO: The ASUS ROG Ally Now Runs on SteamOS by Valve!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-next-gen-storage-beyond-nvme-the-evolution-of-ssd-technology/"><u>Exploring Next-Gen Storage: Beyond NVMe - The Evolution of SSD Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gemini-retains-identity-not-a-new-google-assistant-rival/"><u>Gemini Retains Identity - Not a New Google Assistant Rival</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone X Passcode Screen?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/insights-into-why-i-no-longer-advocate-for-budget-friendly-100-processor-coolers/"><u>Insights Into Why I No Longer Advocate for Budget-Friendly $100 Processor Coolers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-202-similar-problem/"><u>Introducing the 202 # Similar Problem</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-galaxy-smartphones-excluded-from-previous-samsung-messaging-platforms/"><u>Latest Galaxy Smartphones Excluded From Previous Samsung Messaging Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-solutions-how-to-repair-airdrop-issues-with-our-top-16-fixes/"><u>Quick Solutions: How to Repair AirDrop Issues with Our Top 16 Fixes</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-10-strategies-to-make-money-on-youtube-shorts-easily/"><u>[New] 10 Strategies to Make Money on YouTube Shorts Easily</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-find-muted-conversations-on-snapchat-for-2024/"><u>[New] How to Find Muted Conversations on Snapchat for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-thrill-seekers-challenge-hero5b-vs-hero5-session-in-action/"><u>[New] In 2024, Thrill Seekers Challenge Hero5B Vs Hero5 Session in Action</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-the-art-of-obtaining-facebooks-prestigious-blue-badge/"><u>[Updated] 2024 Approved Mastering the Art of Obtaining Facebook’s Prestigious Blue Badge</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-visual-ventures-partnership-playbook/"><u>[Updated] 2024 Approved Visual Ventures Partnership Playbook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-exploring-new-realms-of-thought-30plus-vr-metaphysical-messages/"><u>[Updated] In 2024, Exploring New Realms of Thought 30+ VR Metaphysical Messages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beyond-copilot-discover-googles-latest-ai-innovations-on-chromebooks-dive-into-the-weeks-major-updates/"><u>Beyond Copilot: Discover Google's Latest AI Innovations on Chromebooks | Dive Into The Week’s Major Updates</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-alternatives-to-microsoft-office-for-businesses/"><u>Discover Alternatives to Microsoft Office for Businesses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-value-in-tech-how-dells-budget-friendly-laptop-packs-smart-features-for-savvy-consumers-insights-from-zdnet/"><u>Discovering Value in Tech: How Dell's Budget-Friendly Laptop Packs Smart Features for Savvy Consumers - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-game-day-with-top-tier-sound-quality-save-big-now-at-amazon-the-1-rated-speaker-system-reviewed/"><u>Elevate Your Game Day with Top-Tier Sound Quality! Save Big Now at Amazon – The #1 Rated Speaker System Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-leading-2024-wi-fi-routers-a-comprehensive-guide-by-zdnet/"><u>Exploring the Leading 2024 Wi-Fi Routers: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-adonit-nest-for-a-bargain-top-rated-work-from-home-usb-hub-slashed-to-65-on-zdnet/"><u>Get Adonit Nest for a Bargain! Top-Rated Work From Home USB Hub Slashed to $65 on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-immersive-audio-for-your-games-premium-speaker-systems-slashed-to-30-off-featured-review/"><u>Get Immersive Audio for Your Games: Premium Speaker Systems Slashed to 30% Off, Featured Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-sony-xperia-5-v-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Sony Xperia 5 V Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-future-of-ai-driven-prompt-crafting-and-career-prospects/"><u>Navigating the Future of AI-Driven Prompt Crafting & Career Prospects</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/shop-the-incredible-discount-apples-macbook-air-with-m2-chip-goes-for-only-749-on-amazons-october-prime-day-spotlight/"><u>Shop the Incredible Discount: Apple's MacBook Air with M2 Chip Goes for Only $749 on Amazon's October Prime Day – Spotlight</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-buying-the-perfect-designer-laptop-in-depth-analysis-and-expert-opinions-zdnet/"><u>Ultimate Guide to Buying the Perfect Designer Laptop: In-Depth Analysis and Expert Opinions | ZDNet</u></a></li>
 </ul></div>
 

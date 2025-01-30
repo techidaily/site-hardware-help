@@ -1,7 +1,7 @@
 ---
 title: Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More | ZDNET
-date: 2025-01-16T06:24:55.481Z
-updated: 2025-01-23T01:07:48.042Z
+date: 2025-01-25T17:53:20.609Z
+updated: 2025-01-30T17:18:21.341Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ However, the new slimline design also came with a chunky price increase of $200/
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price & options
@@ -53,7 +53,7 @@ The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design & features
@@ -73,7 +73,7 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 Image: Cliff Joseph / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -89,7 +89,7 @@ You are paying for that extra performance, of course, so the M1 version of the M
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -132,7 +132,7 @@ Image: Apple
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,22 +176,22 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-pioneering-the-way-with-innovative-approaches-to-youtube-banners/"><u>[Updated] Pioneering the Way with Innovative Approaches to YouTube Banners</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2023s-premier-action-cameras-for-ocean-thrills/"><u>2023'S Premier Action Cameras for Ocean Thrills</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ensuring-iphone-integrity-how-to-utilize-apples-certified-remote-hardware-examination-service/"><u>Ensuring iPhone Integrity: How To Utilize Apple’s Certified Remote Hardware Examination Service</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/google-the-moment-is-now-for-crafting-an-ultimate-weather-application/"><u>Google: The Moment Is Now for Crafting an Ultimate Weather Application</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/googles-latest-wearable-gets-just-a-triennial-refresh-schedule/"><u>Google's Latest Wearable Gets Just a Triennial Refresh Schedule</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-does-android-determine-both-accurate-and-rough-location-data/"><u>How Does Android Determine Both Accurate and Rough Location Data?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-start-your-android-device-without-using-the-physical-power-button/"><u>How to Start Your Android Device Without Using the Physical Power Button</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hacks-to-dodge-digital-lessons-at-home/"><u>In 2024, Hacks to Dodge Digital Lessons at Home</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-no-cost-yield-assessment-apps-for-videos/"><u>In 2024, No-Cost Yield Assessment Apps for Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-evaluation-of-the-near-perfect-samsung-galaxy-s22/"><u>In-Depth Evaluation of the Near-Perfect Samsung Galaxy S22</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-affordable-pixel-8a-google-unveils-budget-friendly-smartphone/"><u>Introducing the Affordable Pixel 8A: Google Unveils Budget-Friendly Smartphone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lapdock-solutions-how-to-convert-your-smartphone-into-a-personal-computer-on-the-go/"><u>Lapdock Solutions: How to Convert Your Smartphone Into a Personal Computer on the Go</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/leading-mobile-devices-featuring-traditional-headphone-ports-for-optimal-sound-experience/"><u>Leading Mobile Devices Featuring Traditional Headphone Ports for Optimal Sound Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/revealing-the-secrets-accessing-forgotten-youtube-vids-for-2024/"><u>Revealing the Secrets Accessing Forgotten YouTube Vids for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-iphones-ranked-by-gaming-performance-find-your-perfect-match/"><u>Top iPhones Ranked by Gaming Performance: Find Your Perfect Match!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-s-top-rated-free-video-editors-for-32-bit-windows-users-for-2024/"><u>Updated S Top-Rated Free Video Editors for 32-Bit Windows Users for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-hit-the-right-notes-music-mastery-on-instagram-for-2024/"><u>[New] Hit the Right Notes Music Mastery on Instagram for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-into-the-future-of-streaming-with-top-audio-techniques/"><u>[New] In 2024, Step Into the Future of Streaming with Top Audio Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-laptop-vs-macbook-showdown-unveiling-the-superior-alternative-for-tech-enthusiasts-expert-insights/"><u>Asus Laptop Vs. MacBook Showdown: Unveiling the Superior Alternative for Tech Enthusiasts | Expert Insights</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/augment-your-digital-audio-workstation-with-free-vj-snippets-a-must-have-addon-for-videolink-on-dex-36-mixers/"><u>Augment Your Digital Audio Workstation with FREE VJ Snippets: A Must-Have Addon for VideoLink on DEX 3.6 Mixers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-high-definition-film-viewing-applications-compatible-with-windows-10-and-macos-a-comprehensive-evaluation/"><u>Best High-Definition Film Viewing Applications Compatible with Windows 10 & macOS: A Comprehensive Evaluation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-lightweight-power-packed-windows-laptop-that-outshines-the-macbook-air/"><u>Discover the Ultimate Lightweight, Power-Packed Windows Laptop That Outshines the MacBook Air!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-forgotten-vram-signal/"><u>Eradicate Forgotten VRAM Signal</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-review-lg-gram-pro-surpasses-macbook-air-in-battery-life-portability-and-speed-zdnet/"><u>Exclusive Review: LG Gram Pro Surpasses MacBook Air in Battery Life, Portability & Speed | ZDNet</u></a></li>
+<li><a href="https://solve-help.techidaily.com/honda-inspired-wallpaper-collection-from-yl-softwares-yl-computing/"><u>Honda-Inspired Wallpaper Collection From YL Software’s YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ifying-the-top-12-easiest-to-use-flip-screen-cams/"><u>Identifying the Top 12 Easiest to Use Flip Screen Cams</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/must-have-2024-macbook-gadgets-highly-recommended-picks-from-zdnets-specialists/"><u>Must-Have 2024 MacBook Gadgets: Highly Recommended Picks From ZDNet's Specialists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-charging-deluxe-combines-powerful-usb-and-hdmi-ports-a-zdnet-review/"><u>Quick Charging Deluxe: Combines Powerful USB & HDMI Ports - A ZDNet Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-1k-off-exclusive-lenovo-business-laptop-deals-sweep-amazon-pre-prime-day-tech-insights/"><u>Slash $1K Off: Exclusive Lenovo Business Laptop Deals Sweep Amazon Pre-Prime Day | Tech Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/still-alive-on-cyber-monday-snag-the-affordable-8-iphone-mount-now-tech-news/"><u>Still Alive on Cyber Monday! Snag the Affordable $8 iPhone Mount Now - Tech News</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-decision-to-unsubscribe-post-pricing-raise-at-ea/"><u>The Decision to Unsubscribe Post-Pricing Raise at EA</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-handmade-gift-guide-for-craft-enthusiasts-this-season-essential-tool-selections-featured-by-zdnet/"><u>Ultimate Handmade Gift Guide for Craft Enthusiasts This Season: Essential Tool Selections Featured by ZDNet</u></a></li>
 </ul></div>
 

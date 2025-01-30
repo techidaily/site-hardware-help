@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S - ZDNet
-date: 2025-01-19T22:52:52.243Z
-updated: 2025-01-23T04:20:57.263Z
+date: 2025-01-26T16:07:05.189Z
+updated: 2025-01-30T16:37:54.190Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,20 +110,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-extract-and-save-still-images-from-movies-in-windows-photos/"><u>[New] Extract and Save Still Images From Movies in Windows Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-your-reddit-potential-practical-tips-for-mastery/"><u>[New] Unlock Your Reddit Potential - Practical Tips for Mastery</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-frequency-fluctuations-for-game-mastery/"><u>2024 Approved Frequency Fluctuations for Game Mastery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-android-mdm-strategies-enhancing-device-control-using-advanced-tools/"><u>Effective Android MDM Strategies: Enhancing Device Control Using Advanced Tools</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-irql-not-less-or-equal-error-on-windows-7-solutions-and-explanations/"><u>How to Fix 'IRQL Not Less or Equal' Error on Windows 7 - Solutions and Explanations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-12-pro-max-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 12 Pro Max Storage Not Loading/Showing | Stellar</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-s23-fe-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy S23 FE</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/save-costs-simple-tricks-to-repair-your-broken-mouse-without-overspending/"><u>Save Costs: Simple Tricks to Repair Your Broken Mouse Without Overspending</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-big-with-yeedi-m12-proplus-top-tier-sale-on-a-robot-vacuum-that-outshines-competitors/"><u>Score Big with Yeedi M12 Pro+ – Top-Tier Sale on a Robot Vacuum That Outshines Competitors!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-connectivity-and-quality-sound-a-comprehensive-beats-pill-bluetooth-speaker-assessment/"><u>Seamless Connectivity & Quality Sound: A Comprehensive Beats Pill Bluetooth Speaker Assessment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solve-your-macs-starting-woes-with-a-tutorial-on-utilizing-recovery-mode-for-repairs/"><u>Solve Your Mac's Starting Woes with a Tutorial on Utilizing Recovery Mode for Repairs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sonys-ultimate-gaming-experience-detailed-review-of-the-pulse-explorer-series-with-zero-lag-sound/"><u>Sony's Ultimate Gaming Experience - Detailed Review of the Pulse Explorer Series with Zero Lag Sound</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/streamlined-wellness-management-on-your-wrist-with-the-new-samsung-galaxy-ring/"><u>Streamlined Wellness Management on Your Wrist with the New Samsung Galaxy Ring</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-selection-of-2024s-most-innovative-ereaders-on-the-market/"><u>The Ultimate Selection of 2024'S Most Innovative eReaders on the Market</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleashing-growth-how-edge-computing-fuels-cloud-innovation-and-powers-modern-digital-evolution-insights-from-zdnet/"><u>Unleashing Growth: How Edge Computing Fuels Cloud Innovation and Powers Modern Digital Evolution - Insights From ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-practices-in-selecting-screen-recording-tools-for-windows-10/"><u>[New] Best Practices in Selecting Screen Recording Tools for Windows 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-setting-up-facebook-live-your-roku-route/"><u>[Updated] 2024 Approved Setting Up Facebook LIVE Your Roku Route</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-enhanced-audio-experience-top-5-game-headsets-for-streaming-for-2024/"><u>[Updated] Enhanced Audio Experience Top 5 Game Headsets for Streaming for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-notable-creators-superior-insta-highlight-craftsmen/"><u>[Updated] In 2024, Notable Creators Superior Insta Highlight Craftsmen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-all-about-firefoxs-split-screen-feature/"><u>2024 Approved All About Firefox's Split Screen Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-limited-wi-fi-in-windows-11-a-guide-of-8-methods/"><u>Bypassing Limited Wi-Fi in Windows 11: A Guide of 8 Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-elite-list-of-2024s-top-notch-15-inch-computers-comprehensive-analysis-and-rankings-from-professionals/"><u>Discover the Elite List of 2024'S Top Notch 15-Inch Computers - Comprehensive Analysis and Rankings From Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/embrace-seamless-functionality-with-the-new-hp-chromebook-that-replaces-windows-save-an-additional-136-off-zdnet-review/"><u>Embrace Seamless Functionality With the New HP Chromebook That Replaces Windows – Save an Additional $136 Off! (ZDNET Review)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-apple-m3-macbook-air-top-3-impressive-upgrades-revealed-tech-insights/"><u>Exploring the Latest Apple M3 MacBook Air: Top 3 Impressive Upgrades Revealed | Tech Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-discount-alert-grab-hps-omen-egpu-and-40l-desktop-at-a-550-savings-shop-now-on-zdnet/"><u>Huge Discount Alert: Grab HP's Omen eGPU & 40L Desktop at a $550 Savings - Shop Now on ZDNet!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-g14-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028414428-m4a/"><u>M4A形式音楽ファイル再生失敗の理由と解決策</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-black-friday-discount-snag-a-dell-xps-15-for-up-to-700-off-tech-bargains-unveiled-gizmosphere/"><u>Massive Black Friday Discount: Snag a Dell XPS 15 for Up To $700 Off - Tech Bargains Unveiled | GizmoSphere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-potential-using-auto-gpt-discover-8-effective-techniques/"><u>Maximize Your Potential Using Auto-GPT: Discover 8 Effective Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/surface-shopping-hack-how-i-landed-a-bargain-with-an-affordable-surface-pro-according-to-zdnet-experts/"><u>Surface Shopping Hack: How I Landed a Bargain with an Affordable Surface Pro, According to ZDNet Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/teamgeek-dual-screen-laptop-accessory-sale-cut-costs-by-120-zdnet-exclusive/"><u>TeamGeek Dual Screen Laptop Accessory Sale - Cut Costs by $120 | ZDNet Exclusive!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-buyers-guide-to-the-leading-gaming-gpus-of-2023-zdnet/"><u>Ultimate Buyer's Guide to the Leading Gaming GPUs of 2023 - ZDNet</u></a></li>
 </ul></div>
 

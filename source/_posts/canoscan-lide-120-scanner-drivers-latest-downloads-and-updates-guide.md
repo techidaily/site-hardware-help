@@ -1,7 +1,7 @@
 ---
 title: CanoScan LiDE 120 Scanner Drivers – Latest Downloads and Updates Guide
-date: 2024-08-13T12:39:34.828Z
-updated: 2024-08-14T12:39:34.828Z
+date: 2025-01-26T16:32:24.001Z
+updated: 2025-01-30T17:06:27.559Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 
 Looking for**AMD Ryzen 5 2400G drivers** ? If yes, then you’ve come to the right place. In this post, you’ll have two ways to download and install the driver correctly and efficiently.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why should I keep my drivers up-to-date
 
  You may not know, drivers play an important part in your Windows computer. When you encounter computer issues, you need to put drivers into consideration, if your computer runs properly, you’re suggested to update your driver regularly.
@@ -31,8 +28,9 @@ Why?
  That’s why most of the problems can be solved by installing/updating drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to download Ryzen 5 2400G driver?
 
  There are two ways you can update your Ryzen 5 2400G drivers.
@@ -47,20 +45,22 @@ OR
 
 1. Go to the **[AMD Chipset Drivers site](https://www.amd.com/en/support)**  .
 2. Search for AMD Ryzen 5 2400G drivers, then click**SUBMIT** .  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-1-1.png)  
  (Right-click on the image and click**Open image in new tab** )
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Download the driver according to your operating system.  
 [](https://www.amd.com/en/support/apu/amd-ryzen-processors/amd-ryzen-5-desktop-processors-radeon-vega-graphics/amd-ryzen-5-0)
 4. Follow the on-screen instructions to install the driver manually.
 5. Reboot your PC for the changes to be fully implemented.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -71,16 +71,19 @@ OR
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-29-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-10-47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -94,8 +97,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +104,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-srts-most-effective-upgrades-for-macwindows/"><u>[New] SRT's Most Effective Upgrades for Mac/Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971871127-11-machine-get-downloads-here/"><u>11 Machine - Get Downloads Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/buy-the-ultimate-tool-wonderfox-premium-photo-and-video-editor/"><u>Buy the Ultimate Tool: WonderFox Premium Photo and Video Editor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/chipmaker-amd-delays-entry-of-new-ryzen-processors-into-the-market-after-identifying-quality-hitches-revised-launch-anticipated-for-august/"><u>Chipmaker AMD Delays Entry of New Ryzen Processors Into the Market After Identifying Quality Hitches; Revised Launch Anticipated for August</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-guide-to-installing-the-lexar-usb-driver/"><u>Fast and Simple Guide to Installing the Lexar USB Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-logitech-t630-drivers-compatible-with-all-modern-windows-versions/"><u>Get the Most Recent Logitech T630 Drivers: Compatible with All Modern Windows Versions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-edit-youtube-videos-in-windows-movie-maker-for-2024/"><u>How to Edit YouTube Videos in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-software-for-insignias-bluetooth-adapter-in-windows-os/"><u>How to Install Updated Software for Insignia's Bluetooth Adapter in Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-look-top-picks-and-performance-testing-at-toms-gear-review/"><u>Inside Look: Top Picks and Performance Testing at Tom's Gear Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-installing-epson-printer-drivers-on-your-windows-11-pc/"><u>Step-by-Step Guide: Installing Epson Printer Drivers on Your Windows 11 PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-10-live-audio-broadcast-networks/"><u>Top 10 Live Audio Broadcast Networks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-airtag-wallet-reviews-comprehensive-guide-by-tech-experts/"><u>Top-Rated AirTag Wallet Reviews : Comprehensive Guide by Tech Experts</u></a></li>
+</ul></div>
 

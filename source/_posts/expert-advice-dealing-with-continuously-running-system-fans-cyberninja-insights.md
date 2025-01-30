@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Dealing with Continuously Running System Fans | CyberNinja Insights"
-date: 2025-01-15T00:52:48.536Z
-updated: 2025-01-16T23:10:46.251Z
+date: 2025-01-29T18:48:43.287Z
+updated: 2025-01-30T18:11:34.751Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Here are a few simple things you can try that might save you a trip to the Apple
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -41,10 +41,6 @@ But first, consider: It might be normal. Laptops get hot, and MacBooks are no ex
 If you're running a resource-heavy application such as Photoshop, or have a browser with loads of tabs open, then the fans might very well be just doing their job. After all, without them, your Mac could quickly wither and die. 
 
 Another heavy load for MacBooks is using [external monitors](https://www.zdnet.com/article/best-monitor/), because these stress the GPU, which in turn means that the fans need to run more often. Not reassured? Keep reading. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Is your Mac hot or not?
 
@@ -58,21 +54,25 @@ The TG Pro Mac software in action.
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Reboot
 
 Still worried? Then I'd suggest a reboot.
 
 It's possible that an application -- or maybe even the operating system -- has crashed and is going rogue. The quickest way to fix this is with a reboot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Reset your Intel-based Mac
 
 If you're still experiencing this problem and you don't think that it's normal (that is, you've rebooted and you're not running anything that's hammering at the CPU or GPU that much) and you have an Intel-based Mac, then I recommend that you try resetting the SMC and PRAM. (This does not work on the new Apple Silicon Macs -- I'll get to those in a bit.)
 
 Don't worry, it's a lot easier than it sounds -- oh, and you won't lose any data doing this!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Reset SMC (System Management Controller)
 
@@ -84,20 +84,20 @@ This one tip can fix a whole raft of Mac issues. However, how you go about doing
 
 **Also:** [**How to make your MacBook battery run all day**](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset PRAM (Parameter RAM)
 
 To reset the PRAM you need to hold down COMMAND and OPTION and P and R while powering on the system. Here's another of those times when a spare arm (or an assistant) comes in handy! Keep holding down the four buttons for about 20 seconds, and you'll hear [the "WALL-E" startup chime](https://www.youtube.com/watch?v=bBmM4VM8Bv8) or see the Apple logo a couple of times. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Restart your Apple Silicon Mac
 
 For these newer M1- and M2-powered Macs, resetting the SMC and PRAM doesn't work, and all Apple recommends doing is restarting the computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Oh, one more thing ... dust!
@@ -140,18 +140,17 @@ Hold the nozzle an inch or so away from the vents and only use the suction brief
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-deciphering-disguised-dialogues-with-youtube-viewers/"><u>2024 Approved Deciphering Disguised Dialogues with YouTube Viewers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-effortless-transfer-facebook-videos-from-pcmac/"><u>2024 Approved Effortless Transfer Facebook Videos From PC/Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assessing-windows-app-size-efficiency/"><u>Assessing Windows App Size Efficiency</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-6-tools-to-convert-visual-text-into-different-languages/"><u>Elite 6 Tools to Convert Visual Text Into Different Languages</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-download-updated-amd-vega-56-drivers-for-optimal-performance-on-pcs-with-windows-os/"><u>Find & Download Updated AMD Vega 56 Drivers for Optimal Performance on PCs with Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-epson-stylus-nx420-up-and-running-driver-downloads-for-win-7810/"><u>Get Your Epson Stylus NX420 Up and Running: Driver Downloads for Win 7/8/10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fetch-the-latest-epson-wf-3520-driver-software-for-windows-devices/"><u>How to Fetch the Latest Epson WF-3520 Driver Software for Windows Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-properly-download-and-set-up-a-mouse-driver-for-your-windows-7-system/"><u>How to Properly Download and Set Up a Mouse Driver for Your Windows 7 System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-deskjet-3700-update-to-the-latest-driver-version-and-download-options-explained/"><u>HP DeskJet 3700: Update to the Latest Driver Version & Download Options Explained</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-boost-creativity-learn-how-to-insert-text-onto-digital-photographs-on-pcmac/"><u>In 2024, Boost Creativity Learn How to Insert Text Onto Digital Photographs on PC/Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-motivation-behind-the-push-for-stricter-regulation-of-ai-insights-from-openais-top-executive/"><u>The Motivation Behind the Push for Stricter Regulation of AI: Insights From OpenAI's Top Executive</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-fabulous-20-adobe-premiere-intro-templates/"><u>Updated Free and Fabulous 20 Adobe Premiere Intro Templates</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eamless-sound-transfer-top-10-youtube-to-mp3-picks/"><u>[New] Seamless Sound Transfer Top 10 YouTube to Mp3 Picks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-new-era-of-photo-display-best-frame-makers-for-2024/"><u>A New Era of Photo Display Best Frame Makers for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-gimp-the-premier-free-cross-platform-photo-editing-tool/"><u>Comprehensive Analysis of GIMP - The Premier FREE Cross-Platform Photo Editing Tool</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-cp24-criacr-bluetooth-fm-transmitter-assessment-size-and-imperfections-analyzed/"><u>Comprehensive CP24 Criačr Bluetooth FM Transmitter Assessment: Size and Imperfections Analyzed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-comprehensive-guide-to-your-free-behringer-usb-audio-software/"><u>Effortless Installation: Comprehensive Guide to Your Free Behringer USB Audio Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-microsoft-drivers-installation-and-updates-for-windows-10-8-and-7/"><u>Effortless Microsoft Drivers Installation and Updates for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-operation-installing-missing-hardware-drivers-on-your-new-windows-11-computer/"><u>Ensure Smooth Operation: Installing Missing Hardware Drivers on Your New Windows 11 Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-successfully-downloading-and-updating-asus-wi-fi-drivers/"><u>Guide: Successfully Downloading and Updating ASUS Wi-Fi Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-install-and-update-broadcom-gigabit-ethernet-drivers-on-windows-11/"><u>How to Successfully Install and Update Broadcom Gigabit Ethernet Drivers on Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/online-overtures-10-influential-youtube-stars/"><u>Online Overtures 10 Influential YouTube Stars</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-speakers-unresponsiveness/"><u>Overcoming Windows Speakers Unresponsiveness</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/uninterrupted-adventures-top-10-best-offline-ios-titles/"><u>Uninterrupted Adventures Top 10 Best Offline iOS Titles</u></a></li>
 </ul></div>
 

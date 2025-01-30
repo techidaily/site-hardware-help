@@ -1,7 +1,7 @@
 ---
 title: "What's in Store for Tech Enthusiasts: Anticipating Apple's October Reveals – Next-Gen M4 Mac Mini, Revamped iPads & AI Developments – Expert Analysis"
-date: 2025-01-18T22:14:10.521Z
-updated: 2025-01-22T22:31:38.403Z
+date: 2025-01-23T16:51:27.174Z
+updated: 2025-01-30T16:45:00.766Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,17 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-streamlining-sound-speeds-in-spotify-without-compromise/"><u>[New] 2024 Approved Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-key-to-social-media-dominance-learning-the-craft-of-self-replication-on-tiktok-for-2024/"><u>[New] The Key to Social Media Dominance Learning the Craft of Self-Replication on TikTok for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-beats-and-bands-how-to-upload-music-online-for-2024/"><u>[Updated] Beats & Bands How to Upload Music Online for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-action-recorders-with-front-view-panels/"><u>Best Action Recorders with Front View Panels</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-g920-lightspeed-wireless-mouse-drivers-windows-11-and-10-compatible/"><u>Download Logitech G920 Lightspeed Wireless Mouse Drivers - Windows 11 & 10 Compatible</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-the-latest-lenovo-webcam-driver-patches-for-windows-7-operating-system/"><u>Getting the Latest Lenovo Webcam Driver Patches for Windows 7 Operating System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-tech-choices-with-tom-expert-hardware-evaluations-and-reviews/"><u>Navigating Tech Choices with Tom: Expert Hardware Evaluations and Reviews</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-technical-hurdles-in-narakabladepoint-a-comprehensive-solution/"><u>Overcoming Technical Hurdles in Naraka:Bladepoint - A Comprehensive Solution.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/qualcomm-leads-innovation-with-plans-to-introduce-advanced-700-snapdragon-x-desktops-next-year-ceo-reveals/"><u>Qualcomm Leads Innovation With Plans To Introduce Advanced $700 Snapdragon X Desktops Next Year, CEO Reveals</u></a></li>
-<li><a href="https://extra-support.techidaily.com/review-and-insight-into-movavi-editor-plus-now-available-for-2024/"><u>Review & Insight Into Movavi Editor Plus, Now Available for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-tpm-essential-hardware-in-microsofts-windows-11-security-strategy-zdnet-explains/"><u>Understanding the TPM: Essential Hardware in Microsoft's Windows 11 Security Strategy - ZDNet Explains</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlock-creative-potential-with-no-cost-green-screen-knowledge-from-top-4-educational-channels-for-2024/"><u>Unlock Creative Potential with No-Cost Green Screen Knowledge From Top 4 Educational Channels for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elite-5-fpv-hmds-for-high-speed-aerial-sports-for-2024/"><u>[New] Elite 5 FPV HMDs for High-Speed Aerial Sports for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-update-the-latest-sony-s6500-model-review/"><u>[New] In-Depth Update The Latest Sony S6500 Model Review</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-frugal-filmmakers-guide-to-affordable-camera-gear/"><u>[Updated] 2024 Approved The Frugal Filmmaker's Guide to Affordable Camera Gear</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-inclusive-insight-easeus-professional-analysis/"><u>[Updated] Inclusive Insight EaseUS Professional Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-innovates-immerse-yourself-in-3d-art-right-from-any-surface-with-the-new-non-vrar-glasses-required-laptops/"><u>Asus Innovates: Immerse Yourself in 3D Art Right From Any Surface with the New Non-VR/AR Glasses Required Laptops</u></a></li>
+<li><a href="https://win-data.techidaily.com/beyond-itunes-essential-reasons-why-professional-disc-jockeys-must-upgrade-their-media-organization-tools/"><u>Beyond iTunes: Essential Reasons Why Professional Disc Jockeys Must Upgrade Their Media Organization Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-podcasts-on-budget-phones-safety/"><u>ChatGPT-Powered Podcasts on Budget Phones' Safety</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sive-webcast-winners-for-2024/"><u>Exclusive Webcast Winners for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-f23-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo F23 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-best-thinkpads-for-hybrid-work-environments-a-comprehensive-guide-thats-not-about-lenovos-newest-zdnet/"><u>Navigating the Best ThinkPads for Hybrid Work Environments – A Comprehensive Guide That's Not About Lenovo's Newest | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-selection-of-cyber-monday-laptops-on-sale-insights-october-edition/"><u>The Ultimate Selection of Cyber Monday Laptops on Sale - Insights , October Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-unbeatable-black-friday-laptop-discounts-await-you-this-oct-24/"><u>Top Picks: Unbeatable Black Friday Laptop Discounts Await You This Oct '24</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-15-inch-laptop-picks-for-234-in-depth-analysis-and-recommendations-techradar/"><u>Top Rated 15-Inch Laptop Picks for 2^34: In-Depth Analysis & Recommendations - TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-15-inch-laptop-picks-for-2n25-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated 15-Inch Laptop Picks for 2N25: Comprehensive Reviews by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-streaming-webcams-professional-tests-and-reviews/"><u>Top-Ranked Streaming Webcams : Professional Tests & Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-digital-notepads-on-the-market-comprehensive-reviews-and-buyers-guide-insights-by-zdnet/"><u>Top-Rated Digital Notepads on the Market: Comprehensive Reviews & Buyer's Guide - Insights by ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-guide-from-script-writing-to-final-audio-in-videos/"><u>Ultimate Guide From Script Writing to Final Audio in Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-hp-victus-15-gaming-laptop-pricing-at-best-buy-for-just-530-exclusive-insights/"><u>Unbeatable HP Victus 15 Gaming Laptop Pricing at Best Buy for Just $530 | Exclusive Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-best-of-the-best-october-prime-deals-on-laptops-spotted-early-by-zdnet/"><u>Unlock Best-of-the-Best October Prime Deals on Laptops, Spotted Early by ZDNet!</u></a></li>
 </ul></div>
 

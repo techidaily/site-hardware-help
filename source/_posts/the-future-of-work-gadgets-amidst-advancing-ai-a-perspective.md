@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work Gadgets Amidst Advancing AI: A Perspective"
-date: 2025-01-18T05:54:52.700Z
-updated: 2025-01-22T20:43:55.124Z
+date: 2025-01-23T17:57:42.248Z
+updated: 2025-01-30T19:32:54.419Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,19 +134,16 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-discovering-logitechs-top-tier-4k-video-camera/"><u>[New] 2024 Approved Discovering Logitech's Top-Tier 4K Video Camera</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-protecting-and-preserving-your-musical-legacy-three-ways/"><u>[New] 2024 Approved Protecting and Preserving Your Musical Legacy Three Ways</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimal-solutions-for-webp-to-jpg-image-transformation/"><u>[New] Optimal Solutions for WebP-to-JPG Image Transformation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-sculpting-a-specialized-niche-for-youtube-content/"><u>[New] Sculpting a Specialized Niche for YouTube Content</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-reviving-obs-camera-glitches/"><u>2024 Approved Reviving OBS Camera Glitches</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-guide-hp-laserjet-1320-printer-drivers-for-windows-os/"><u>Download & Update Guide: HP LaserJet 1320 Printer Drivers for Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-latest-drivers-for-lenovo-t430-across-various-windows-platforms/"><u>Effortless Installation: Latest Drivers for Lenovo T430 Across Various Windows Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-tom-a-deep-dive-into-electronics/"><u>Exploring Gadgets with Tom - A Deep Dive Into Electronics</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/fixing-the-elusive-issue-ghost-runners-deadly-glitches-on-windows-11-unveiled/"><u>Fixing the Elusive Issue: Ghost Runner's Deadly Glitches on Windows 11 Unveiled</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-meizu-21-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Meizu 21 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-find-n3-flip-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo Find N3 Flip Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-a-deal-with-amds-new-gaming-offer-up-to-two-game-titles-complimentary-on-ryzen-7000-and-radeon-rx-700n-ryzen-9000-series-not-covered/"><u>Score a Deal with AMD’s New Gaming Offer: Up to Two Game Titles Complimentary on Ryzen 7000 & Radeon RX 700N - Ryzen 9000 Series Not Covered</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-savings-snag-a-phone-for-just-50-plus-dive-into-the-world-of-ransomware-decryption/"><u>Smart Savings: Snag a Phone for Just $50! Plus, Dive Into the World of Ransomware Decryption.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-graphics-with-newest-rtx-2060-super-drivers-for-windows-11-get-them-here/"><u>Upgrade Graphics with Newest RTX 2060 Super Drivers for Windows 11 - Get Them Here</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-comprehensive-blueprint-to-youtube-banner-effectiveness/"><u>[New] 2024 Approved The Comprehensive Blueprint to YouTube Banner Effectiveness</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximizing-video-game-channel-revenue/"><u>[Updated] 2024 Approved Maximizing Video Game Channel Revenue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721402596491-chatgpt-unleashed-your-new-android-companion/"><u>ChatGPT Unleashed: Your New Android Companion</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/crucial-tips-what-you-need-to-know-before-getting-an-older-model-ipad/"><u>Crucial Tips: What You Need to Know Before Getting an Older Model iPad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-picks-for-pro-window-laptop-buyers-in-depth-analysis-and-reviews-of-2024s-finest-zdnet/"><u>Elite Picks for Pro Window Laptop Buyers: In-Depth Analysis and Reviews of 2024'S Finest | ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-13c-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi 13C 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-by-tech-guru-reveals-asus-superior-oled-display-surpasses-hundreds-of-models-zdnet-innovations/"><u>In-Depth Analysis by Tech Guru Reveals Asus' Superior OLED Display Surpasses Hundreds of Models | ZDNet Innovations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-future-of-laptop-design-my-immersive-encounter-with-lenovos-auto-swiveling-innovation-at-ifa-2023-a-visual-marvel-cnet/"><u>Inside the Future of Laptop Design: My Immersive Encounter with Lenovo's Auto-Swiveling Innovation at IFA 2023, a Visual Marvel | CNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-network-neutrality-predictions-for-security/"><u>Navigating Network Neutrality: Predictions for Security</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/surprisingly-powerful-and-compact-how-this-affordable-8-in-1-adapter-defies-expectations/"><u>Surprisingly Powerful and Compact: How This Affordable 8-in-1 Adapter Defies Expectations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-a-touchscreen-laptop-in-depth-analysis-and-expert-ratings-on-zdnet/"><u>Ultimate Guide to Choosing a Touchscreen Laptop: In-Depth Analysis & Expert Ratings on ZDNet</u></a></li>
 </ul></div>
 

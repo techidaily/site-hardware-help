@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad T420 - Latest Driver Downloads and Easy Update Guide for Windows
-date: 2024-08-19T10:50:28.436Z
-updated: 2024-08-20T10:50:28.436Z
+date: 2025-01-27T18:26:55.718Z
+updated: 2025-01-30T19:08:51.732Z
 tags:
   - win11
   - win10
@@ -29,8 +29,9 @@ If you’re looking to**update the WiFi driver for Windows 7** ,  you’ve come 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Update your Wi-Fi driver automatically (Recommended)
 
 **Important** :**If you don’t have Internet access** , make sure to connect your computer to a wired network in order for a quick and smooth Wi-Fi driver download & update.**But if you do have Internet access** , follow the steps on the same (target) computer.
@@ -43,24 +44,28 @@ If you’re looking to**update the WiFi driver for Windows 7** ,  you’ve come 
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b19bf43ece.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5554ea9ba44.jpg)  
  You can click**Update** do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** if needed for more expedient and efficient guidance.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Update your Wi-Fi driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise your PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -68,14 +73,13 @@ If you’re looking to**update the WiFi driver for Windows 7** ,  you’ve come 
 **Important** :**If you can’t access the Internet** , you might first have to download the driver on a computer with workable network and then transfer the file to the target computer to install.**But if you do have Internet access** , do all the steps on the same(target) computer.
 
 1. On the keyboard of the target computer, press  **the Windows logo key**  and   **R** at the same time, then copy & paste **devmgmt.msc**  into the box and click  **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b50135d9ffd2.jpg)
 2. Locate and double-click on **Network adapters** to retrieve **the brand** and **model** of your Wi-Fi adapter. (**Intel(R) Wireless-AC 9560** in my case)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5558876b204.jpg)
 3. On the computer with Internet, go to the brand manufacturer’s official website and check out the **Support** section for driver downloads.
 4. Search the model of your wireless adapter, click the right download link for your Windows 7 OS. Usually a few download options will be listed but you might want to click **the first** result for the latest driver version.
@@ -96,8 +100,6 @@ If you’re looking to**update the WiFi driver for Windows 7** ,  you’ve come 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +107,20 @@ If you’re looking to**update the WiFi driver for Windows 7** ,  you’ve come 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-productivity-in-duality-employment-and-video-creation/"><u>[New] 2024 Approved Productivity in Duality Employment & Video Creation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-camera-essentials-for-adventure-videographers/"><u>[Updated] Camera Essentials for Adventure Videographers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-understanding-your-srt-equipment-like-a-pro/"><u>[Updated] Understanding Your SRT Equipment Like a Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/catch-the-best-amazon-deals-of-2024-prime-day-october-edition-limited-time-offers-still-on/"><u>Catch the Best Amazon Deals of 2024 Prime Day October Edition – Limited Time Offers Still On!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-monday-alert-secure-your-apple-m2-macbook-air-at-record-low-prices-exclusive-findings-by-zdnet/"><u>Cyber Monday Alert: Secure Your Apple M2 MacBook Air at Record Low Prices - Exclusive Findings by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-tips-for-increasing-laptop-performance-with-extra-ram-how-to-article-by-zdnet/"><u>DIY Tips for Increasing Laptop Performance with Extra RAM - How-To Article by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-a-fantastic-8-iphone-webcam-mount-limited-time-deal-post-cyber-monday-at-zdnet/"><u>Get Your Hands on a Fantastic $8 iPhone Webcam Mount - Limited Time Deal Post-Cyber Monday at ZDNET!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-digital-cashmans-codex-flourishing-on-youtube-free-from-ads/"><u>In 2024, The Digital Cashman's Codex Flourishing on YouTube, Free From Ads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mettre-a-niveau-votre-contenu-audio-convertissez-avi-en-flac-sans-frais-facilement-avec-movavi/"><u>Mettre À Niveau Votre Contenu Audio : Convertissez AVI en FLAC Sans Frais, Facilement Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-video-pro-comprehensive-business-edition-for-expert-video-editing-and-streamlined-screen-capture-solutions/"><u>Movavi Video Pro: Comprehensive Business Edition for Expert Video Editing and Streamlined Screen Capture Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-freezes-fixing-warframe-gameplay-issues-completely/"><u>Say Goodbye to Freezes - Fixing Warframe Gameplay Issues Completely</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-mir4-system-failures-in-windows-operating-systems/"><u>Troubleshooting MIR4 System Failures in Windows Operating Systems</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-ai-powered-face-makers-generate-realistic-fake-faces/"><u>Updated 2024 Approved Free AI-Powered Face Makers Generate Realistic Fake Faces</u></a></li>
+</ul></div>
 

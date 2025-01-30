@@ -1,7 +1,7 @@
 ---
 title: "Score Big Deals with Lenovo Half-Year Offer: Cut Costs by $1,500 on Your ThinkPad Selection – Insights From ZDNet"
-date: 2025-01-21T05:00:56.474Z
-updated: 2025-01-23T00:39:47.144Z
+date: 2025-01-25T17:23:57.277Z
+updated: 2025-01-30T19:15:10.821Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,24 +112,21 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-lively-film-reader-assessment/"><u>[Updated] 2024 Approved Lively Film Reader Assessment</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-recommendations-for-8-windows-audio-apps/"><u>2024 Approved Expert Recommendations for 8-Windows Audio Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/addressing-legal-concerns-of-chatgpt-adapting-to-new-google-news-feed-algorithms-and-secrets-for-enhanced-mobile-internet-during-holidays/"><u>Addressing Legal Concerns of ChatGPT, Adapting to New Google News Feed Algorithms & Secrets for Enhanced Mobile Internet During Holidays</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-techniques-for-taking-off-and-installing-new-glass-on-phone-screens/"><u>DIY Techniques for Taking Off and Installing New Glass on Phone Screens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-to-high-performance-msi-gs65-windows-driver-pack-now/"><u>Download & Upgrade to High-Performance MSI GS65 Windows Driver Pack Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-wheel-game-controller-software-compatible-with-windows-7-8-and-10/"><u>Download Logitech Wheel Game Controller Software Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-samsung-c460-driver-software-fast-and-easy-today/"><u>Download Samsung C460 Driver Software Fast & Easy Today</u></a></li>
-<li><a href="https://win-lab.techidaily.com/fehlermeldung-beim-wiederherstellen-des-iphones-in-itunes-losungsansatze-und-tipps/"><u>Fehlermeldung Beim Wiederherstellen Des iPhones in iTunes: Lösungsansätze Und Tipps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967857354-get-the-latest-asus-sound-control-programs-here/"><u>Get the Latest ASUS Sound Control Programs Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-canon-lide-120-scanner-drivers-and-firmware-free-download-options/"><u>How to Get the Newest Canon LiDE 120 Scanner Drivers and Firmware - Free Download Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-sharp-printer-drivers-on-windows-pc/"><u>How to Update Sharp Printer Drivers on Windows PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-gionee-f3-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Gionee F3 Pro Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-windows-compatible-drivers-for-generic-bluetooth-adapters-download-now/"><u>Latest Windows-Compatible Drivers for Generic Bluetooth Adapters: Download Now!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/maximize-online-sales-the-most-reliable-15-facebook-analysis-tools/"><u>Maximize Online Sales The Most Reliable 15 Facebook Analysis Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-surface-driver-downloads-with-the-latest-patches-applied/"><u>Quick and Easy Surface Driver Downloads with the Latest Patches Applied</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/red-tide-alert-philippines-pis-province-health-office-warns-against-consuming-local-shellfish-in-coastal-areas/"><u>Red Tide Alert: Philippines' Pis Province Health Office Warns Against Consuming Local Shellfish in Coastal Areas</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-tier-technical-tips-to-secure-flawless-broadcasting-for-2024/"><u>Top-Tier Technical Tips to Secure Flawless Broadcasting for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-leading-wi-fi-expansion-devices-of-the-year-2024/"><u>Ultimate Guide: Leading Wi-Fi Expansion Devices of the Year 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-newest-electronics-with-toms-hardware-guides/"><u>Unveiling the Newest Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-hash-tagging-for-brand-success-on-fb/"><u>[New] 2024 Approved The Ultimate Guide to Hash Tagging for Brand Success on FB</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-superior-on-screen-moment-documentation/"><u>[New] Superior On-Screen Moment Documentation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-explore-best-gopro-cases-rated-1-10/"><u>[Updated] Explore Best GoPro Cases Rated #1-10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-free-film-resource-highlights-where-to-start-your-search/"><u>[Updated] Free Film Resource Highlights Where to Start Your Search</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-game-on-in-reality-the-ultimate-vr-headset-comparison-for-2024/"><u>[Updated] Game On in Reality The Ultimate VR Headset Comparison for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-15-youtube-recording-software-for-gamers/"><u>[Updated] In 2024, Top 15 YouTube Recording Software for Gamers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/bypassing-dvd-region-codes-easy-methods-to-enjoy-any-movie-worldwide/"><u>Bypassing DVD Region Codes: Easy Methods to Enjoy Any Movie Worldwide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-devices-versatularity-with-these-expert-tips-for-adding-more-ports-to-macbook-or-ipad-pro-zdnet-recommendations/"><u>Enhance Your Device's Versatularity with These Expert Tips for Adding More Ports to MacBook or iPad Pro | ZDNET Recommendations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-presidents-holiday-offer-on-the-latest-macbook-pro-with-powerful-m3-pro-processor-at-a-200-discount-shop-now/"><u>Exclusive Presidents' Holiday Offer on the Latest MacBook Pro with Powerful M3 Pro Processor at a $200 Discount - Shop Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-premium-lenovo-thinkpad-x13s-ultraportable-with-advanced-arm-architecture-cutting-edge-5g-support-and-superior-battery-endurance-gadgetpundit-45/"><u>Exploring the Premium Lenovo ThinkPad X13s Ultraportable with Advanced Arm Architecture, Cutting-Edge 5G Support and Superior Battery Endurance | GadgetPundit Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-the-latest-svelte-laptops-are-transforming-the-work-from-home-experience-find-out-why-theyre-a-hit-with-tech-insiders/"><u>How the Latest Svelte Laptops Are Transforming the Work From Home Experience - Find Out Why They're a Hit with Tech Insiders</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-black-ops-4s-frame-rate-dips-and-steady-your-gameplay/"><u>How To Overcome Black Ops 4'S Frame Rate Dips & Steady Your Gameplay</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-ultimate-october-2024-laptop-bargains-find-your-tech-treasure-with-zdnets-exclusive-guide/"><u>Top-Rated Ultimate October 2024 Laptop Bargains: Find Your Tech Treasure with ZDNet's Exclusive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-smartphone-into-a-dual-display-with-this-ingenious-laptop-stand-zdnet-review/"><u>Transform Your Smartphone Into a Dual Display with This Ingenious Laptop Stand - ZDNet Review</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nubia-z50-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nubia Z50 Ultra? Here is How | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-reveals-a-surprisingly-exceptional-all-in-one-laptop-for-professionals-ranking-as-one-of-top-tests/"><u>ZDNet Reveals a Surprisingly Exceptional All-In-One Laptop for Professionals, Ranking as One of Top Tests</u></a></li>
 </ul></div>
 

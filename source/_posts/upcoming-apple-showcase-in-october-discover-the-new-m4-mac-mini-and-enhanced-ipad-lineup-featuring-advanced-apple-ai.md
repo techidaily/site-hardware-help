@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Showcase in October: Discover the New M4 Mac Mini & Enhanced iPad Lineup Featuring Advanced Apple AI"
-date: 2025-01-20T21:55:12.598Z
-updated: 2025-01-22T21:48:01.421Z
+date: 2025-01-27T19:33:57.753Z
+updated: 2025-01-30T17:22:55.596Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,15 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/can-you-use-airpods-on-an-android-smartphone-or-tablet/"><u>Can You Use AirPods on an Android Smartphone or Tablet?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-new-enhancements-introduced-by-google-on-the-pixel-device-in-december-2021/"><u>Comprehensive Guide: New Enhancements Introduced by Google on the Pixel Device in December 2021</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/creative-ideas-for-reusing-or-upcycling-aged-smartphone-protectors/"><u>Creative Ideas for Reusing or Upcycling Aged Smartphone Protectors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/critical-vulnerability-enables-unauthorized-application-installations-on-android-devices/"><u>Critical Vulnerability Enables Unauthorized Application Installations on Android Devices</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/improve-online-interactions-leverage-innovative-visitor-tracking-systems/"><u>Improve Online Interactions: Leverage Innovative Visitor Tracking Systems</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-selecting-sounds-for-success-top-microphones-for-multifacited-youtube-professionals/"><u>In 2024, Selecting Sounds for Success Top Microphones for Multifacited YouTube Professionals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-digital-disruptions-the-ultimate-8-chatgpt-commands/"><u>Overcoming Digital Disruptions: The Ultimate 8 ChatGPT Commands</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-text-in-after-effects-top-10-for-2024/"><u>The Ultimate Guide to Text in After Effects (Top 10) for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-honor-x9b-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Honor X9b</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-top-best-fast-photo-viewer-for-windows-10/"><u>[New] 2024 Approved Top Best Fast Photo Viewer for Windows 10?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-apple-writes-a-new-chapter-m1-pro-vs-m1-max-analysis-for-2024/"><u>[Updated] Apple' Writes a New Chapter M1 Pro Vs. M1 Max Analysis for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-removing-wow-error-code-132-pitfall/"><u>Essential Tips for Removing WOW Error Code 132 Pitfall</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-excellence-our-in-depth-evaluation-of-all-lenovos-newest-tech-from-the-recent-mwc-showdown/"><u>Exploring Excellence: Our In-Depth Evaluation of All Lenovo's Newest Tech From the Recent MWC Showdown</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-auditory-illusions-video-meets-apple-music/"><u>In 2024, Auditory Illusions Video Meets Apple Music</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-chrome-os-upgrade-introduces-windows-11-features-to-chromebook-users-insights/"><u>Latest Chrome OS Upgrade Introduces Windows 11 Features to Chromebook Users Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/limited-time-deal-get-the-top-tech-pick-from-zdnet-at-a-whopping-500-discount-on-amazon-before-prime-day/"><u>Limited-Time Deal: Get the Top Tech Pick From ZDNet at a Whopping $500 Discount on Amazon Before Prime Day!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/october-meta-prime-day-exclusive-the-ultimate-guide-to-the-512gb-oculus-quest-3-steal-of-a-deal/"><u>October Meta Prime Day Exclusive: The Ultimate Guide to the 512GB Oculus Quest 3 Steal of a Deal!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/octobers-premier-savings-extravaganza-discover-lasting-deals-and-steals-on-amazon-for-prime-day-2024-unveiled/"><u>October's Premier Savings Extravaganza! Discover Lasting Deals and Steals on Amazon for Prime Day 2024 | Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/smileslice-studio-memomaestrospace-for-2024/"><u>SmileSlice Studio MemoMaestroSpace for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/strategic-application-of-hashtags-in-fb-advertising-for-2024/"><u>Strategic Application of Hashtags in FB Advertising for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/us-debut-of-nickwatch-at-the-exciting-kids-choice-awards-ceremony/"><u>U.S. Debut of NickWatch at the Exciting Kids' Choice Awards Ceremony</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-cyber-monday-offer-get-the-13/"><u>Unbeatable Cyber Monday Offer: Get the 13</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-experiences-astounding-generative-ai-capabilities-on-googles-latest-launch-the-chromebookplus/"><u>ZDNet Experiences Astounding Generative AI Capabilities on Google's Latest Launch - The Chromebook+</u></a></li>
 </ul></div>
 

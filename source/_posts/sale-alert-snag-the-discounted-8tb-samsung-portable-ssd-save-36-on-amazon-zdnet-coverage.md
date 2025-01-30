@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Snag the Discounted 8TB Samsung Portable SSD - Save 36%% on Amazon (ZDNet Coverage)"
-date: 2025-01-19T04:04:01.661Z
-updated: 2025-01-22T19:53:10.263Z
+date: 2025-01-25T18:37:03.294Z
+updated: 2025-01-30T16:17:22.258Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C644e744e-f948-4ca0-93ee-dbb5acfc4ea1%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,17 +65,16 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-guide-to-producing-high-quality-gopro-time-lapse/"><u>2024 Approved The Complete Guide to Producing High-Quality GoPro Time-Lapse</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experts-choice-for-ultimate-illumination-leading-flashlights-reviewed-and-ranked-zdnet/"><u>Experts' Choice for Ultimate Illumination: Leading Flashlights Reviewed and Ranked | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-deskjet-2700-printer-software-and-driver-updates-now/"><u>Get the Newest HP Deskjet 2700 Printer Software & Driver Updates Now</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-13-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 13</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-podcast-logo-design-for-maximum-impact/"><u>In 2024, The Art of Podcast Logo Design for Maximum Impact</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-dell-g15-driver-software-for-windows-free-download-guide/"><u>Latest Dell G15 Driver Software for Windows: Free Download Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mellowing-sound-piece-by-piece-in-fl/"><u>Mellowing Sound Piece-by-Piece in FL</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-leaks-suggest-intels-stability-issues-persist-beyond-power-fluctuations-uncovered-internal-documents/"><u>New Leaks Suggest Intel’s Stability Issues Persist Beyond Power Fluctuations - Uncovered Internal Documents</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sculpting-soundtracks-for-animation-using-movie-maker-tools-for-2024/"><u>Sculpting Soundtracks for Animation Using Movie Maker Tools for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-brother-mfc-l2690dw-printer-firmware-free-downloads-available/"><u>Update Your Brother MFC-L2690DW Printer Firmware – Free Downloads Available!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-logitech-g510-experience-free-driver-downloads-for-windows-operating-systems-7-8-and-10/"><u>Upgrade Your Logitech G510 Experience: Free Driver Downloads for Windows Operating Systems 7, 8 & 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-lengthy-video-to-captivating-animation-create-gifs-with-ease-for-2024/"><u>[New] From Lengthy Video to Captivating Animation - Create Gifs with Ease for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-easy-start-exploring-vectors-world-essentials-and-tools/"><u>[Updated] 2024 Approved Easy Start Exploring Vectors' World - Essentials & Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/average-earnings-in-the-world-of-podcasting-for-2024/"><u>Average Earnings in the World of Podcasting for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-computer-resurrects-past-technological-phenomenon-and-sparks-vibrant-industry-debate-insights/"><u>Budget-Friendly Computer Resurrects Past Technological Phenomenon and Sparks Vibrant Industry Debate | Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-frustration-expert-tips-for-correcting-the-0xc000012f-error-in-windows-instantly/"><u>Bypassing Frustration: Expert Tips for Correcting the 0Xc000012f Error in Windows Instantly</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-ready-for-festive-savings-discover-the-ultimate-selection-of-hp-discounts-on-zdnet/"><u>Get Ready For Festive Savings: Discover the Ultimate Selection of HP Discounts on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-strands-the-nyts-latest-addicting-word-game/"><u>How to Play Strands, the NYT's Latest Addicting Word Game</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-erase-all-personal-information-from-your-windows-laptop-a-step-by-step-guide-completely-gratis/"><u>How to Securely Erase All Personal Information From Your Windows Laptop: A Step-by-Step Guide, Completely Gratis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-alternative-to-macbook-air-discover-a-powerful-and-affordable-windows-laptop-that-rivals-apples-offering/"><u>Top-Rated Alternative to MacBook Air: Discover a Powerful and Affordable Windows Laptop That Rival's Apple's Offering</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unraveled-reviews-discover-why-the-viral-tangle-free-usb-c-cable-is-essential-tech-gear-for-your-backpack-adventures/"><u>Unraveled Reviews: Discover Why the Viral 'Tangle-Free' USB-C Cable Is Essential Tech Gear for Your Backpack Adventures</u></a></li>
 </ul></div>
 

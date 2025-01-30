@@ -1,7 +1,7 @@
 ---
 title: "Lighter Than a MacBook Air: My Top Picks for Ultra-Portable Laptops - Insights From a Tech Guru"
-date: 2025-01-09T21:47:58.695Z
-updated: 2025-01-16T18:32:11.303Z
+date: 2025-01-24T20:09:51.308Z
+updated: 2025-01-30T19:00:34.489Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ I tested the [IdeaPad Flex 5i's](https://go.shopyourlikes.com/pi/6dcf690a69011d7
 I should warn you that this laptop can run a little warm. The [IdeaPad Flex 5i](https://go.shopyourlikes.com/pi/6dcf690a69011d7d576626ac887f56b098db1cfa?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) comes equipped with a 13th Gen Intel Core i3-1315U processor. Its performance won't make the hardware run hot by itself. Instead, the bottom-firing ventilation port likely restricts proper airflow, making things toastier than they should be.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -118,22 +118,20 @@ You can purchase the [IdeaPad Flex 5i on Best Buy for $500](https://shop-links.c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/2024-approved-your-guide-to-flawless-images-on-android-our-selection-of-top-editors/"><u>2024 Approved Your Guide to Flawless Images on Android Our Selection of Top Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-sound-clarity-across-all-genres-using-cutting-edge-wireless-speakers-pcmag/"><u>Experience Unmatched Sound Clarity Across All Genres Using Cutting-Edge Wireless Speakers | PCMag</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-zte-axon-40-lite-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For ZTE Axon 40 Lite by Name | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-av1-essentials-for-the-uninitiated/"><u>In 2024, AV1 Essentials For the Uninitiated</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-returning-calls-a-guide-to-reaching-out-to-unknown-numbers/"><u>Mastering the Art of Returning Calls: A Guide to Reaching Out to Unknown Numbers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/precision-gadget-insights-by-tom-the-ultimate-guide-to-premium-tech/"><u>Precision Gadget Insights by Tom: The Ultimate Guide to Premium Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-fusion-of-premium-style-and-advanced-chips-discover-asus-new-zenbook-s-and-tuf-a14-with-top-tier-processors/"><u>The Fusion of Premium Style & Advanced Chips: Discover Asus' New ZenBook S and TUF A14 with Top-Tier Processors</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-tutorial-for-spreading-playlists/"><u>The Ultimate Tutorial for Spreading Playlists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-computer-review-in-depth-analysis-of-latest-tech/"><u>Tom's Computer Review: In-Depth Analysis of Latest Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-your-guide-to-computer-hardware/"><u>Tom's Tech Hub: Your Guide to Computer Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-analysis-of-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Analysis of Latest Gadgets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-gadget-insights/"><u>Tom's Tech Review: Comprehensive Gadget Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-equipment/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Equipment</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ling-the-secrets-to-youtube-success-titles-and-tags/"><u>Unveiling the Secrets to Youtube Success Titles & Tags</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-condense-your-clips-a-beginners-guide-to-creating-time-lapse-videos/"><u>Updated Condense Your Clips A Beginners Guide to Creating Time Lapse Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-vivo-x90s-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo X90S Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-comprehensive-guide-to-the-updated-facetune-photo-editing/"><u>[Updated] Comprehensive Guide to the Updated Facetune Photo Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-facial-movements-using-blur-effects-in-picsart/"><u>[Updated] The Art of Facial Movements Using Blur Effects in Picsart</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-sources-to-harvest-enhanced-text-files/"><u>[Updated] Top Sources to Harvest Enhanced Text Files</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-enhance-fb-profile-picture-display/"><u>2024 Approved Enhance FB Profile Picture Display</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/erate-yt-growth-strategies-for-1kplus-subscribers/"><u>Accelerate YT Growth Strategies for 1K+ Subscribers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-synaptics-driver-for-your-windows-tabletlaptop/"><u>Download & Install the Latest Synaptics Driver for Your Windows Tablet/Laptop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-guide-downloading-and-using-your-epson-et-2750-windows-driver/"><u>Essential Guide: Downloading and Using Your Epson ET-2750 Windows Driver</u></a></li>
+<li><a href="https://win-help.techidaily.com/exploring-the-cultural-impact-unveiling-the-history-and-importance-of-the-great-wall-of-china-yl-tech-experts/"><u>Exploring the Cultural Impact: Unveiling the History and Importance of the Great Wall of China – YL Tech Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-optimal-performance-patch-your-pc-with-conexant-compatible-windows-10-version-2004-update/"><u>Get Optimal Performance: Patch Your PC with Conexant-Compatible Windows 10 Version 2004 Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-drivers-for-your-toshiba-laptop-windows-compatible-downloads/"><u>Get the Newest Drivers for Your Toshiba Laptop: Windows Compatible Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-the-best-out-of-your-lenovo-ideapad-100-drivers-update-guide-for-windows-10-users/"><u>Getting the Best Out of Your Lenovo IdeaPad 100: Drivers Update Guide for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-install-the-most-recent-amd-vega-64-drivers-for-windows-issue-resolved/"><u>How to Get and Install the Most Recent AMD Vega 64 Drivers for Windows - ISSUE RESOLVED</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-note-30-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Note 30 5G</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-thriving-in-the-digital-world-multiplatform-studio-strategies/"><u>In 2024, Thriving in the Digital World Multiplatform Studio Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrading-with-confidence-install-the-latest-conexant-driver-for-your-windows-11-v2004-system/"><u>Upgrading with Confidence: Install the Latest Conexant Driver for Your Windows 11 v2004 System</u></a></li>
 </ul></div>
 

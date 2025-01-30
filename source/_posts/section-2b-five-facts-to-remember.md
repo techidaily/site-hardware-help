@@ -1,7 +1,7 @@
 ---
 title: "Section 2B: Five Facts to Remember"
-date: 2025-01-10T18:22:06.461Z
-updated: 2025-01-16T23:44:19.182Z
+date: 2025-01-23T17:14:23.010Z
+updated: 2025-01-30T18:29:11.724Z
 tags:
   - laptops
 categories:
@@ -32,6 +32,10 @@ If you're stuck for ideas regarding laptops suitable to give as gifts, check out
 * [The best cheap tech gifts under $75](https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-tech-gifts-under-75/)
 * [The best cheap tech gifts under $50](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-50/)
 * [The best cheap tech gifts under $25](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-25/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **The best laptop gift ideas**
 
@@ -189,7 +193,7 @@ For added safety, you can go into the laptop's settings and opt for different le
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F224571889&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B5VHD8G7%2Fref%3Dasc%5Fdf%5FB0B5VHD8G71728298800000%3Fcreative%3D395261%26creativeASIN%3DB0B5VHD8G7%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e140282-f8e3-4035-ba80-ff36ee556c58%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **The best laptop deals at Amazon**
@@ -206,6 +210,10 @@ Below are other laptop deals ZDNET has found at Amazon.
 
 [Acer Swift 3 laptop for $900 (save $200) $900 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-i7-1260P-Graphics-Bluetooth-SF314-512-73YZ%2Fdp%2FB09YSYVV2R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e140282-f8e3-4035-ba80-ff36ee556c58%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The best laptop deals at Walmart**
 
 Below are other laptop deals ZDNET has found at Walmart.
@@ -215,10 +223,6 @@ Below are other laptop deals ZDNET has found at Walmart.
 [Samsung 11.6-inch Chromebook 4 for $147 (save $52) $147 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSamsung-11-6-Chromebook-4-32GB-XE310XBA-K01US%2F558190726&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Lenovo Ideapad 5i Chromebook for $429 (save $100) $429 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Ideapad-5i-Chromebook-16-0-WQXGA-Gaming-Laptop-Intel-Core-i3-1215U-8GB-RAM-128GB-eMMC-Storm-Grey-Chrome-OS-82V80009UX-Includes-3-Free-Months-N%2F1867344969%3Fathbdg%3DL1101&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **The best laptop deals at Best Buy**
 
@@ -235,7 +239,7 @@ You may need to balance expectations, budget, and the need for new equipment thi
 While choosing these products, we tried to include options to suit a range of budgets while also keeping age ranges and their intended use in mind. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What laptop should I buy?
@@ -248,6 +252,10 @@ Gamers might opt for a larger screen still and higher resolutions, whereas with 
 
 Unless you are a Linux fan, you then need to decide what operating system you are the most comfortable with. The most common options are either Microsoft Windows or Apple macOS. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best laptop for students?
 
 If you plan to make use of the holiday sales to pick up a laptop suitable for a student in the family, or for a friend, it's helpful to know what kind of class or degree they are undertaking. 
@@ -256,19 +264,11 @@ You tend to see many Apple MacBook Airs and Pros around campus, and the majority
 
 However, if the course is creative, things can become a little more complicated, as you will probably want to focus on a screen of at minimum 15.6-inch, at least 16GB RAM, and a high-quality graphics card. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does laptop storage matter?
 
 The amount of storage on offer when you buy a laptop varies. Typically, you can expect storage to range between 128GB and 1/2TB solid-state drive (SSD) storage, although when it comes to Chromebooks, the smaller form facts mean that embedded MultiMediaCard (eMMC) storage is used, reducing capacity drastically.
 
 1TB is usually adequate for apps, software, games, and music. However, in any case, you can purchase portable hard drives to boost your storage space -- and create backups of your valuable data. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best gifts for 2023?
 
@@ -352,21 +352,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-elevate-your-social-media-presence-by-pining-on-snapchat-for-2024/"><u>[New] Elevate Your Social Media Presence by Pining on Snapchat for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fps-fanatics-compendium-selecting-superior-extensions/"><u>[New] FPS Fanatics' Compendium Selecting Superior Extensions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-game-on-camera-off-top-methods-to-record-sims-4-triumphs-and-tribulations-for-2024/"><u>[New] Game On, Camera Off? Top Methods to Record Sims 4 Triumphs and Tribulations for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-video-twist-guide-from-portrait-to-panoramic-on-instagram/"><u>[Updated] 2024 Approved The Ultimate Video Twist Guide From Portrait to Panoramic on Instagram</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-unexpected-video-pitch-flipped-images-on-instagram/"><u>[Updated] In 2024, Unexpected Video Pitch Flipped Images on Instagram</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-guide-to-instagram-video-advancement-a-planning-primer/"><u>[Updated] The Guide to Instagram Video Advancement A Planning Primer</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/oad-your-favorite-videos-without-limits/"><u>Download Your Favorite Videos Without Limits</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/downloading-and-installing-hps-laserjet-pro-m402n-driver-on-windows-systems/"><u>Downloading & Installing HP's LaserJet Pro M402n Driver on Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortlessly-retrieve-and-install-the-cutting-edge-intel-dual-band-ac-7260-wireless-driver/"><u>Effortlessly [Retrieve & Install] the Cutting-Edge Intel Dual Band AC 7260 Wireless Driver.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-windows-compatible-driver-for-your-insignia-bluetooth-receiver/"><u>Get the Newest Windows-Compatible Driver for Your Insignia Bluetooth Receiver</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-eye-level-surveillance-guide/"><u>In 2024, Extensive Eye-Level Surveillance Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-fixing-errors-when-your-program-cant-find-necessary-modules/"><u>Overcoming the Hurdle: Fixing Errors When Your Program Can't Find Necessary Modules</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-installing-wacom-tablet-drivers/"><u>Quick & Simple Guide: Installing Wacom Tablet Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sixth-generation-amd-ryzen-9-9950x-sets-new-global-benchmark-with-unmatched-scores-in-cinebench-r23-at-elevated-65-ghz-speed/"><u>Sixth Generation AMD Ryzen 9 9950X Sets New Global Benchmark with Unmatched Scores in Cinebench R23 at Elevated 6.5 GHz Speed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-cpu-performance-leaders-of-2024-comprehensive-rating-guide/"><u>Top CPU Performance Leaders of 2024: Comprehensive Rating Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/wacom-intuos-3-tablet-compatible-drivers-for-windows-ensure-seamless-workflow-and-stability/"><u>Wacom Intuos 3 Tablet Compatible Drivers for Windows: Ensure Seamless Workflow and Stability</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-capture-to-share-the-art-of-live-360-broadcasting-on-fb/"><u>[New] From Capture to Share The Art of Live 360 Broadcasting on FB</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/aomei-sync/"><u>AOMEI Sync: ファイル・フォルダーのバックアップと同期手順</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-driver-download-guide-keeping-your-nvidia-gtx-1660-super-up-to-date/"><u>Easy Driver Download Guide: Keeping Your NVIDIA GTX 1660 Super Up-to-Date</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-driver-safety-and-productivity-learn-about-mobile-gps-tools-in-car-task-management-and-avoiding-distractions-on-the-road-tips-from-abbyy-experts.m13/"><u>Enhancing Driver Safety & Productivity: Learn About Mobile GPS Tools, In-Car Task Management, and Avoiding Distractions on the Road | Tips From ABBYY Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-seamless-updates-with-the-new-driver-for-samsung-850-evo-solid-state-drive/"><u>Experience Seamless Updates with the New Driver for Samsung 850 EVO Solid State Drive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-samsung-c460-printer-up-and-running-fast-and-secure-driver-downloads/"><u>Get Your Samsung C460 Printer Up and Running: Fast & Secure Driver Downloads</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-comparing-hero4-and-hero5-capabilities/"><u>In 2024, Comparing Hero4 and Hero5 Capabilities</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microencapsulation-is-a-technique-where-healing-agents-are-released-upon-crack-formation-through-broken-microcapsules-in-the-concrete-mix/"><u>Microencapsulation Is a Technique Where Healing Agents Are Released upon Crack Formation Through Broken Microcapsules in the Concrete Mix.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/step-by-step-snagging-stunning-pexels-pictures-for-2024/"><u>Step-by-Step Snagging Stunning Pexels Pictures for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-setting-up-and-using-whatsapp-on-macos/"><u>Step-by-Step Tutorial: Setting Up and Using WhatsApp on macOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-humble-code-that-put-big-mac-in-a-bind-how-an-ingenious-application-challenged-mcdonalds-systems/"><u>The Humble Code That Put Big Mac in a Bind: How an Ingenious Application Challenged McDonald's Systems</u></a></li>
 </ul></div>
 

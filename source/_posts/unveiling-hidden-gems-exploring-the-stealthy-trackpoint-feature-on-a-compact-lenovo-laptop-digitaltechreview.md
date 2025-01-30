@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden Gems: Exploring the Stealthy Trackpoint Feature on a Compact Lenovo Laptop | DigitalTechReview"
-date: 2025-01-14T01:49:50.618Z
-updated: 2025-01-16T19:03:24.669Z
+date: 2025-01-23T17:24:20.911Z
+updated: 2025-01-30T18:33:00.903Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,16 +106,14 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-elite-writes-on-10-free-video-transcript-extractors/"><u>[New] In 2024, Elite' Writes on 10 Free Video Transcript Extractors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-persona-design-a-beginners-compreraniary-guide/"><u>2024 Approved Metaverse Persona Design A Beginner's Compreraniary Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-0x800704b3-error-a-comprehensive-guide/"><u>Decoding Windows' 0X800704B3 Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/guide-correcting-issues-with-unsupported-device-drivers/"><u>Guide: Correcting Issues with Unsupported Device Drivers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-a1x-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo A1x 5G FRP Without Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-tech-maze-expert-advice-from-toms-hardware/"><u>Navigating the Tech Maze: Expert Advice From Tom’s Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-tech-insights-from-toms-hardware-experts/"><u>Navigating the World of Tech: Insights From Tom's Hardware Experts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/omnipresent-iptv-networking-model/"><u>Omnipresent IPTV Networking Model</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimize-and-power-up-smart-strategies-for-modern-devices-according-to-tom/"><u>Optimize and Power Up: Smart Strategies for Modern Devices, According to Tom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/precision-analysis-and-guides-on-latest-computer-components-by-tom/"><u>Precision Analysis and Guides on Latest Computer Components by Tom</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-130-music-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia 130 Music without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/astering-video-success-a-list-of-20-pro-shortcuts-for-2024/"><u>[New] Mastering Video Success A List of 20 Pro Shortcuts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photo-perfection-how-to-erase-background-noise-with-ease/"><u>[Updated] Photo Perfection How to Erase Background Noise with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-superior-audience-experiences/"><u>[Updated] Superior Audience Experiences</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-tomtom-bandit-camera-review-the-latest/"><u>2024 Approved TomTom Bandit Camera Review The Latest</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-camera-drivers-at-no-cost-for-your-pcwindows-system/"><u>Download Logitech Camera Drivers at No Cost for Your PC/Windows System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-access-to-nvidia-drivers-download-options-for-windows-1078-users/"><u>Easy Access to Nvidia Drivers: Download Options for Windows 10/7/8 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p1006-driver-and-utility-downloads-for-smooth-printing-experience/"><u>HP LaserJet P1006 Driver and Utility Downloads for Smooth Printing Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/roccat-mousedriver-setup-how-to-download-and-install-effortlessly/"><u>Roccat MouseDriver Setup - How To Download and Install Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-your-way-out-of-secure-boot-stumbles-with-these-fixes/"><u>Win Your Way Out of Secure Boot Stumbles with These Fixes</u></a></li>
 </ul></div>
 

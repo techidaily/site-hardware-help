@@ -1,7 +1,7 @@
 ---
 title: "Exclusive: ZDNet's Ultimate Guide to Savings on HP Computers During Holidays – Top Picks Inside!"
-date: 2025-01-11T23:25:11.775Z
-updated: 2025-01-16T18:03:56.536Z
+date: 2025-01-27T16:05:57.649Z
+updated: 2025-01-30T16:21:48.803Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -81,7 +77,7 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3c3570fb-391b-4450-a520-91be311198fb%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for students
@@ -92,10 +88,6 @@ Dell/ZDNET
 * [Lenovo IdeaPad Slim 3 Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Slim-Chromebook-Lightweight%2Fdp%2FB0D5HZVQDL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3c3570fb-391b-4450-a520-91be311198fb%7Cdtp&dtb=1) for $209 ($10 off) - If you need a lightweight device with a good webcam, it doesn't get more affordable than Lenovo's IdeaPad Slim 3 Chromebook. Already at just a few hundred bucks, you can save some extra cash during Amazon's October Prime Day sale.
 * [Acer Chromebook 314](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CB314-4HT-32X6-i3-N305-Processor-Display%2Fdp%2FB0CMRRFGVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3c3570fb-391b-4450-a520-91be311198fb%7Cdtp&dtb=1) for $339 ($110 off) - For a Chromebook with a little bit more storage and a full HD display, this 14-inch Acer machine is a solid campus companion.
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3c3570fb-391b-4450-a520-91be311198fb%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best gaming laptops under $1,000
 
@@ -113,7 +105,7 @@ Asus/ZDNET
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3c3570fb-391b-4450-a520-91be311198fb%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
@@ -138,19 +130,27 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -230,24 +230,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-magix-acid-pro-review-and-alternatives/"><u>[New] Magix ACID Pro Review & Alternatives</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-speedy-recorder-device-with-guided-soundtrack/"><u>[Updated] 2024 Approved Speedy Recorder Device with Guided Soundtrack</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chroma-control-made-simple-with-these-11-expert-tips/"><u>[Updated] Chroma Control Made Simple with These 11 Expert Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-disable-live-recording-in-quicktime-player/"><u>In 2024, How to Disable Live Recording in QuickTime Player</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-streaming-high-quality-cricket-matches/"><u>In 2024, The Ultimate Guide to Streaming High-Quality Cricket Matches</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-unlocking-the-secrets-to-effective-screen-capturing-with-apeaksoft/"><u>In 2024, Unlocking the Secrets to Effective Screen Capturing with Apeaksoft</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/meet-asus-trailblazing-laptop-the-new-expertbook-p5405-equipped-with-advanced-intel-processors/"><u>Meet Asus' Trailblazing Laptop: The New ExpertBook P5405 Equipped with Advanced Intel Processors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigate-the-tech-world-discoveries-from-toms-hardware-innovators/"><u>Navigate the Tech World: Discoveries From Tom's Hardware Innovators</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-tech-world-through-toms-hardware-lens/"><u>Navigating the Tech World Through Tom's Hardware Lens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-electronics-at-toms-hardware/"><u>Navigating the World of Electronics at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-the-future-of-tech-in-depth-hardware-analysis-from-toms-workshop/"><u>Pioneering the Future of Tech: In-Depth Hardware Analysis From Tom's Workshop</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/qualcomm-and-lenovo-unite-meet-the-elite-snapdragon-powered-long-battery-life-thinkpad-t14s-laptop-with-top-tier-ram-and-ssd-storage/"><u>Qualcomm & Lenovo Unite: Meet the Elite Snapdragon-Powered, Long-Battery-Life ThinkPad T14s Laptop with Top-Tier RAM and SSD Storage</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionize-your-communication-morse-code-input-through-lid-impacts-handle-gently-to-avoid-damage/"><u>Revolutionize Your Communication: Morse Code Input Through Lid Impacts – Handle Gently to Avoid Damage</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionize-your-tech-setup-new-frameworks-latest-innovation-with-deepcomputings-starfive-soc-board-features-advanced-risc-v-technology-for-laptops/"><u>Revolutionize Your Tech Setup: New Framework's Latest Innovation with DeepComputing's StarFive SoC Board Features Advanced RISC-V Technology for Laptops</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/secrets-of-asmr-success-with-top-recorder-mics-for-2024/"><u>Secrets of ASMR Success with Top Recorder Mics for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snapdragon-elite-x-laptops-hit-shelves-discover-your-microsoft-copilot-ready-purchase-options/"><u>Snapdragon Elite X Laptops Hit Shelves - Discover Your Microsoft Copilot-Ready Purchase Options</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-11-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 11 Pro Max Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/virtual-assistance-hub-mastering-winx-dvd-ripper-and-converter-applications/"><u>Virtual Assistance Hub: Mastering WinX DVD Ripper and Converter Applications</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unlocking-the-power-of-batched-video-extraction-from-tiktok/"><u>[New] Unlocking the Power of Batched Video Extraction From TikTok</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-accelerated-screen-recordings-and-voice-over-assistance-for-2024/"><u>[Updated] Accelerated Screen Recordings & Voice Over Assistance for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-one-youtube-showcase-mastering-media-merging/"><u>[Updated] In 2024, One Youtube Showcase Mastering Media Merging</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-asus-pcb-control-software-for-windows/"><u>Download & Setup ASUS PCB Control Software for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-canon-printer-software-canon-pixma-mg3600mg3420-drivers/"><u>Download and Update Canon Printer Software: Canon PIXMA MG3600/MG3420 Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fixes-for-your-intel-video-driver-glitches-on-windows-11-8-and-7/"><u>Easy Fixes for Your Intel Video Driver Glitches on Windows 11, 8 and 7!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvme-drivers-installed-in-windows-a-comprehensive-guide/"><u>Get the Latest NVMe Drivers Installed in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-15-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 15 Plus Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-get-and-improve-the-elan-smbus-driver-on-your-windows-pc/"><u>How to Seamlessly Get and Improve the ELAN SMBus Driver on Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-universal-docking-station-drivers-free-download-for-models-with-120w-and-230w-charging-options/"><u>HP Universal Docking Station Drivers: Free Download for Models with 120W and 230W Charging Options</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-v27-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo V27 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo Phones with/without a PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-k400plus-driver-for-enhanced-performance-download-now/"><u>Latest Logitech K400+ Driver for Enhanced Performance – Download Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/liquefactive-necrosis-leads-to-a-liquid-mass-especially-common-in-brain-tissue-due-to-its-unique-enzyme-content-and-lack-of-structural-framework/"><u>Liquefactive Necrosis Leads to a Liquid Mass, Especially Common in Brain Tissue Due to Its Unique Enzyme Content and Lack of Structural Framework.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-the-craft-of-youtubers-music-reaction-videos-essentials/"><u>Mastering the Craft of Youtubers Music Reaction Videos Essentials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-connectivity-a-step-by-step-tutorial-for-your-surface-dock-driver-installation/"><u>Seamless Connectivity: A Step-by-Step Tutorial for Your Surface Dock Driver Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-troubleshooting-guide-for-logitech-c615-connection-issues/"><u>Speedy Troubleshooting Guide for Logitech C615 Connection Issues</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ssd-windows-115/"><u>SSD認識不可: Windows 11におけるトップ5修復手順</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-unavailable-msvcrt10dll-message-in-your-pc/"><u>Step-by-Step Fix for Unavailable Msvcrt10.dll Message in Your PC</u></a></li>
 </ul></div>
 

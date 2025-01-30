@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad X1 Carbon (Gen 9+) Unboxed & Assessed – Surpassing All in Business Laptops?
-date: 2025-01-16T06:38:24.956Z
-updated: 2025-01-23T02:23:51.360Z
+date: 2025-01-28T19:33:36.836Z
+updated: 2025-01-30T17:12:53.522Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,18 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-personalizing-teams-windows-for-effective-calls/"><u>[New] 2024 Approved Personalizing Teams Windows for Effective Calls</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-mute-google-meet-for-2024/"><u>[New] How to Mute Google Meet for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-best-drawing-apps-for-iphones/"><u>[Updated] Best Drawing Apps for iPhones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-unlocking-performance-why-gpus-are-indifferent-to-pci-express-versions/"><u>1. Unlocking Performance: Why GPUs Are Indifferent to PCI Express Versions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-avoid-delays-swift-time-lapse-recording-on-iphone/"><u>2024 Approved Avoid Delays Swift Time-Lapse Recording on iPhone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-journey-through-windows-11s-latest-software/"><u>2024 Approved Journey Through Windows 11'S Latest Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/2024-ultimate-microsd-card-selection-the-best-picks-for-optimal-performance/"><u>2024 Ultimate MicroSD Card Selection: The Best Picks for Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/9i-notebook-and-elite-power-banks-today/"><u>9I Notebook & Elite Power Banks Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/anticipate-new-era-of-customizable-gpu-thermal-solutions/"><u>Anticipate New Era of Customizable GPU Thermal Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/apple-redefines-audio-experience-with-pioneering-bluetooth-speaker-the-new-beats-pill/"><u>Apple Redefines Audio Experience with Pioneering Bluetooth Speaker, The New Beats Pill</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-computers-gaming-capabilities-without-spending-a-dime-the-ultimate-optimization-strategy/"><u>Boost Your Computer's Gaming Capabilities Without Spending a Dime - The Ultimate Optimization Strategy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-productivity-with-improved-mouse-switch-technology-why-sticking-to-the-default-is-a-mistake/"><u>Boost Your Productivity with Improved Mouse Switch Technology – Why Sticking to the Default Is a Mistake</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-unveiling-the-ultimate-roku-models-for-a-superior-viewing-experience-zdnet-insights/"><u>Expert Review: Unveiling the Ultimate Roku Models for a Superior Viewing Experience | ZDNET Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/from-quiet-clans-to-roaring-fights-resolving-valheim-no-sound-woes-on-windows/"><u>From Quiet Clans to Roaring Fights: Resolving Valheim No-Sound Woes on Windows</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-ultimate-selection-of-8-stealth-downloads/"><u>In 2024, Ultimate Selection of 8 Stealth Downloads</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-next-generation-of-gaming-a-deep-dive-into-the-features-performance-and-stylish-appearance-of-dells-alienware-aurora-rnv/"><u>The Next Generation of Gaming: A Deep Dive Into the Features, Performance & Stylish Appearance of Dell's Alienware Aurora Rnv.</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-get-filmora-13-video-editor-free-download/"><u>Updated Get Filmora 13 Video Editor Free Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-you-should-avoid-the-suitcase-phonograph-best-options-explained/"><u>Why You Should Avoid the Suitcase Phonograph - Best Options Explained</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zen-5-processors-amd-brings-next-gen-performance-to-laptops-and-desktop-computers/"><u>Zen 5 Processors: AMD Brings Next-Gen Performance to Laptops and Desktop Computers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-10-simple-strategies-for-picture-perfection-ps/"><u>[New] 10 Simple Strategies for Picture Perfection PS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-backupbuddy-reviewers-thoughts/"><u>[New] BackupBuddy Reviewers Thoughts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-turning-product-analysis-into-income-via-video-platforms/"><u>[Updated] 2024 Approved Turning Product Analysis Into Income via Video Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-love-the-cut-filmoras-top-10-edits-unveiled/"><u>2024 Approved Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/advanced-methods-for-effortless-recording-of-your-google-classes/"><u>Advanced Methods for Effortless Recording of Your Google Classes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/brand-transformation-on-instagram-top-10-unconventional-igtv-video-ideas-for-2024/"><u>Brand Transformation on Instagram Top 10 Unconventional IGTV Video Ideas for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-webcam-picks-zdnets-ultimate-guide-to-value-buys/"><u>Budget-Friendly Webcam Picks - ZDNet's Ultimate Guide to Value Buys</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-best-laptop-recommended-at-an-amazon-blowout-price-save-500-pre-prime-day-sale-limited-time-offer/"><u>Get the Best Laptop Recommended at an Amazon Blowout Price, Save $500 Pre-Prime Day Sale - Limited Time Offer!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-cyberpunk-2077-wont-start-problem/"><u>How to Fix Cyberpunk 2077 Won't Start Problem</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/immediate-discount-secure-200-off-on-todays-deal-for-m1-macbook-air-exclusive-offer/"><u>Immediate Discount: Secure $200 Off on Today's Deal for M1 MacBook Air - Exclusive Offer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-hp-cyber-savings-event-unveiled-secure-laptops-monitors-and-more-at-astounding-discounts-up-to-71-off/"><u>Massive HP Cyber Savings Event Unveiled! Secure Laptops, Monitors & More at Astounding Discounts Up to 71% Off!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sale-alert-samsung-4tb-t5-solid-state-drive-now-available-on-amazon-with-up-to-50-discount-insights/"><u>Sale Alert: Samsung 4TB T5 Solid State Drive Now Available on Amazon with Up to 50% Discount - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/silence-the-noise-a-step-by-step-guide-to-turn-off-notifications-for-certain-apps-on-chromebook-lifewire/"><u>Silence the Noise: A Step-by-Step Guide to Turn Off Notifications for Certain Apps on Chromebook | Lifewire</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "October's Prime Day Bonanza: Top Discounted Items to Shop This Year | CNET Special Report"
-date: 2025-01-14T01:44:43.056Z
-updated: 2025-01-16T17:26:59.693Z
+date: 2025-01-24T19:38:18.055Z
+updated: 2025-01-30T19:53:33.210Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
@@ -81,7 +81,7 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C217d5b37-7654-4c26-b95c-e50427f08c9f%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for students
@@ -101,6 +101,10 @@ Asus/ZDNET
 * [Asus ROG Strix G17](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HV382D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C217d5b37-7654-4c26-b95c-e50427f08c9f%7Cdtp&dtb=1) (2022) for $949 ($250 off) - The ROG Strix G17 from Asus' 2022 lineup is marked down significantly to make room for the 2024 models, but that doesn't mean this machine can't handle high-end gaming. It's got 16GB of RAM and an Nvidia GeForce RTX 3050 GPU and bold design, all for under $1,000\.
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C217d5b37-7654-4c26-b95c-e50427f08c9f%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C217d5b37-7654-4c26-b95c-e50427f08c9f%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best laptops for photo editing
 
@@ -131,14 +135,10 @@ Kyle Kucharski/ZDNET
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
@@ -161,7 +161,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
@@ -230,17 +230,14 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-elevate-your-content-with-top-ranked-youtube-channels/"><u>[Updated] Elevate Your Content with Top-Ranked YouTube Channels</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-smooth-media-transition-pc-files-to-iphone/"><u>[Updated] In 2024, Smooth Media Transition PC Files To iPhone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-transforming-engagement-on-instagram-top-10-compelling-igtv-content-concepts-for-brands-for-2024/"><u>[Updated] Transforming Engagement on Instagram Top 10 Compelling IGTV Content Concepts for Brands for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-direct-syncing-tweeting-videos-onto-snapchat-channels/"><u>2024 Approved Direct Syncing Tweeting Videos Onto Snapchat Channels</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-firmware-hp-laserjet-p1007-driver-upgrade-guide/"><u>Download the Latest Firmware: HP LaserJet P1007 Driver Upgrade Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-pop-8-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Pop 8 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-canon-mx340-printer-drivers-on-windows-10-8-or-windows-7-systems/"><u>How to Update Your Canon MX340 Printer Drivers on Windows 10, 8 or Windows 7 Systems</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-best-camera-stabilizers-for-youtube/"><u>In 2024, Best Camera Stabilizers for YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-financial-fortune-with-facebook-video-marketing-key-strategies-explored/"><u>In 2024, Financial Fortune with Facebook Video Marketing Key Strategies Explored</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-fixes-for-common-issues-encountered-with-i2c-integrated-human-interface-device-hid-drivers/"><u>Quick Fixes for Common Issues Encountered with I2C-Integrated Human Interface Device (HID) Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-comprehensive-guide-and-reviews/"><u>Tom's Tech Insights: Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-zooming-into-excellence-a-complete-guide-for-professionals-of-podcast-production/"><u>[New] 2024 Approved Zooming Into Excellence A Complete Guide for Professionals of Podcast Production</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-strategic-social-sharing-master-facebook-story-linking/"><u>[Updated] Strategic Social Sharing Master Facebook Story Linking</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/anticipated-arrival-of-cutting-edge-macbooks-by-next-week-find-out-what-experts-say-gadgetscoop-update/"><u>Anticipated Arrival of Cutting-Edge MacBooks by Next Week? Find Out What Experts Say - GadgetScoop Update</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elemental-story-framework-for-2024/"><u>Elemental Story Framework for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experts-roundup-of-ideal-notebook-computers-in-depth-analysis-and-ratings/"><u>Experts' Roundup of Ideal Notebook Computers - In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/great-value-great-features-in-depth-analysis-of-the-asus-chromebook-flip-c302ca/"><u>Great Value, Great Features: In-Depth Analysis of the Asus Chromebook Flip C302CA</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-your-ipad-pro-experience-with-the-top-usb-c-hub-picks-latest-guide/"><u>Maximizing Your iPad Pro Experience with the Top USB-C Hub Picks Latest Guide!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-non-appearing-iphone-notifications-try-these-7-fixes-now/"><u>Struggling with Non-Appearing iPhone Notifications? Try These 7 Fixes Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-lenovos-throneprice-the-exceptional-value-proposition-of-their-upcoming-749-thinkbook-insights-techgurus/"><u>Why Lenovo's ThronePrice: The Exceptional Value Proposition of Their Upcoming $749 ThinkBook - Insights | TechGurus</u></a></li>
 </ul></div>
 

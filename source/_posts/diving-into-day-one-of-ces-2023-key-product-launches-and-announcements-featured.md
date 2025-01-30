@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Day One of CES 2023: Key Product Launches and Announcements Featured"
-date: 2025-01-19T16:40:39.621Z
-updated: 2025-01-22T16:35:40.644Z
+date: 2025-01-29T16:14:28.890Z
+updated: 2025-01-30T16:42:17.260Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ Whether you've been busy with the kids or catching up with the daily news on you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -39,7 +39,7 @@ And, if you're still waiting to hear from some major companies, keep checking ba
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LG
@@ -47,10 +47,6 @@ LG
 While LG unveiled its [new line of C, G, and Z OLED models](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/), it also launched a surprise wireless plug-and-play 97-inch TV. It comes with Zero Connect and One Wall Design for a flush wall experience – no wires needed.
 
 Read our [first look at the M3 OLED TV here](https://www.zdnet.com/home-and-office/home-entertainment/lg-97-inch-oled-tv-m3-ces-2023/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Asus debuts all-new laptops across the board
 
@@ -67,10 +63,6 @@ Withings
 Post-pandemic life has seen a surge in interest in personal health tech, and this year, Withings and Vivoo each debuted smart toilet sensors. Both sensors offer a look into your health via a urine sample, but they attach to a toilet in different ways.
 
 Learn more about the new [smart toilet sensors here](https://www.zdnet.com/home-and-office/smart-home/ces-2023-sees-the-launch-of-two-smart-toilet-sensors/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MSI drops new laptops for gamers and creatives
 
@@ -105,7 +97,7 @@ While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a se
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Track your feathered friends with the Bird Buddy smart feeder
@@ -116,6 +108,10 @@ You're used to indoor appliances with smart features, but now with the Bird Budd
 
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HyperX debuts new gaming mice
 
 HyperX
@@ -123,6 +119,10 @@ HyperX
 Gamers can also pick up a new gaming mouse thanks to the announced Pulsefire Haste 2 gaming mouse (wired and wireless versions), shipping in March in stores and online. There's also the HyperX Clutch Gladiate Xbox Controller, available in April, and a new line of 3D-printed accessories, starting with a [Cozy Cat keycap](https://www.zdnet.com/home-and-office/home-entertainment/hyperx-launches-new-line-of-3d-printed-keycaps-headphone-backplates-and-more/). 
 
 Get the details on the [Pulsefire Haste 2 and Clutch Gladiate Xbox controller](https://www.zdnet.com/home-and-office/home-entertainment/hyperxs-ces-2023-lineup-includes-haste-2-mice-clutch-gladiate-xbox-controller/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AMD announces Ryzen 7040 series
 
@@ -170,20 +170,21 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-efficacy-of-social-media-authenticity-validation/"><u>[New] 2024 Approved The Efficacy of Social Media Authenticity Validation</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-create-how-to-edit-videos-on-vimeo-for-free-for-2024/"><u>[New] Vimeo Create How to Edit Videos on Vimeo for Free for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-choosing-ultrawide-vs-uhd-4k-displays-a-comprehensive-guide/"><u>[Updated] 2024 Approved Choosing UltraWide vs UHD 4K Displays A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-youtube-potential-with-best-thumbnail-dimensions/"><u>[Updated] In 2024, Unlocking YouTube Potential with Best Thumbnail Dimensions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/getting-acquainted-with-your-new-lenovo-nook-a-hands-on-journey/"><u>Getting Acquainted With Your New Lenovo Nook – A Hands-On Journey</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/leading-smart-hub-technologies-reviewed-your-essential-guide-to-2024s-must-have-devices/"><u>Leading Smart Hub Technologies Reviewed: Your Essential Guide to 2024'S Must-Have Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lexar-introduces-compact-external-ssd-perfect-for-iphone-photography-storage/"><u>Lexar Introduces Compact External SSD Perfect for iPhone Photography Storage</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nostalgia-for-unreliable-tech-the-irony-behind-our-obsession-with-rear-projection-televisions/"><u>Nostalgia for Unreliable Tech: The Irony Behind Our Obsession with Rear-Projection Televisions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/qi2-compatible-nomads-all-new-standing-charger-ultimate-power-on-the-go/"><u>Qi2-Compatible Nomad's All-New Standing Charger: Ultimate Power on the Go</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsungs-latest-contender-the-galaxy-buds-3-pro-vs-apples-airpods-pro/"><u>Samsung's Latest Contender: The Galaxy Buds 3 Pro Vs. Apple's AirPods Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/say-goodbye-to-steam-link-woes-explore-smooth-streaming-via-free-alternatives-moonlight-and-sunshine-awaits/"><u>Say Goodbye to Steam Link Woes! Explore Smooth Streaming via Free Alternatives – Moonlight and Sunshine Awaits!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/should-your-portable-computer-come-with-separate-graphic-chips-for-enhanced-performance/"><u>Should Your Portable Computer Come with Separate Graphic Chips for Enhanced Performance?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-libgdk-win32-20-dll-errors/"><u>Step-by-Step Guide: Correcting Libgdk-Win32-2.0 DLL Errors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-imac-with-apples-m1-cutting-edge-technology-meets-visual-appeal/"><u>Unveiling the iMac with Apple's M1: Cutting-Edge Technology Meets Visual Appeal</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-effective-webinar-logging-tips-avoiding-common-pitfalls-windows-macos/"><u>[New] Effective Webinar Logging Tips Avoiding Common Pitfalls (Windows, macOS)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-a-playlist-on-youtube/"><u>[New] In 2024, How to Create a Playlist on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-maximizing-video-quality-in-zoom-conferences/"><u>[Updated] 2024 Approved Maximizing Video Quality in Zoom Conferences</u></a></li>
+<li><a href="https://win-lab.techidaily.com/comment-faciliter-le-recuperation-des-donnees-dun-espace-de-stockage-cloud-une-methode-rapide-et-facile/"><u>Comment Faciliter Le Récupération Des Données D’un Espace De Stockage Cloud : Une Méthode Rapide Et Facile</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-cutting-edge-unveiling-the-features-and-performance-of-the-long-awaited-samsung-galaxy-book-pro-comprehensive-overview-on-zdnet/"><u>Exploring the Cutting Edge: Unveiling the Features and Performance of the Long-Awaited Samsung Galaxy Book Pro | Comprehensive Overview on ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/extend-your-macbooks-charged-hours-with-expert-tips-learn-more/"><u>Extend Your MacBook's Charged Hours with Expert Tips - Learn More</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-whispered-words-web-hidden-voice-recorders-for-smartphones/"><u>In 2024, Whispered Words Web Hidden Voice Recorders for Smartphones</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-elevating-desktop-image-standards-on-windows-11/"><u>Masterclass: Elevating Desktop Image Standards on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/never-run-out-of-power-again-discover-the-ultimate-140w-multi-device-charger-with-extended-usage-for-on-the-go-life-exclusive-review-by-zdnet/"><u>Never Run Out of Power Again! Discover the Ultimate 140W Multi-Device Charger with Extended Usage for On-the-Go Life | Exclusive Review by ZDNET</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/repair-glitches-in-instagram-likescomments-for-2024/"><u>Repair Glitches in Instagram Likes/Comments for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-lenovo-laptops-tailored-for-hybrid-professionals-save-up-to-1k-in-our-latest-review/"><u>Top Lenovo Laptops Tailored for Hybrid Professionals: Save Up To $1K in Our Latest Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-deal-save-1100-on-top-notch-gaming-and-video-production-laptops-exclusive-offer/"><u>Unbelievable Deal: Save $1,100 on Top-Notch Gaming & Video Production Laptops - Exclusive Offer !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-an-unmatched-gaming-experience-with-the-ultimate-speaker-set-now-discounted-on-amazon-insider-review/"><u>Unlock an Unmatched Gaming Experience with the Ultimate Speaker Set, Now Discounted on Amazon - Insider Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiled-apple-introduces-the-budget-friendly-m2-macbook-air-at-a-steal-for-799-before-prime-day-extravaganza-insights-from-zdnet/"><u>Unveiled: Apple Introduces the Budget-Friendly M2 MacBook Air at a Steal for $799 Before Prime Day Extravaganza - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-techniques-to-trigger-system-restore-on-windows-11-os/"><u>Unveiling Techniques to Trigger System Restore on Windows 11 OS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/zooms-true-power-tripled-transformation-techniques/"><u>Zoom's True Power Tripled Transformation Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Slash the Price: HP's New Victus 15 Game Laptop Hits $530 Markdown at Best Buy, Insights"
-date: 2025-01-15T01:01:03.757Z
-updated: 2025-01-16T21:22:26.851Z
+date: 2025-01-24T19:20:39.188Z
+updated: 2025-01-30T16:16:45.663Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,19 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-master-list-top-free-photo-stockpile-locales/"><u>[Updated] 2024 Approved Master List Top Free Photo Stockpile Locales</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-premium-solutions-for-remote-team-interaction-for-2024/"><u>[Updated] Premium Solutions for Remote Team Interaction for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-showdown-gpt-vs-bing-top-ai-chat-companions/"><u>AI Showdown: GPT Vs. Bing - Top AI Chat Companions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-your-pcs-core-functionality-report-compilation/"><u>Decoding Your PC's Core Functionality: Report Compilation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-google-pixel-fold-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Google Pixel Fold Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovo-laptop-transformation-story-swapping-out-the-bad-keyboard-for-a-titanium-shell-and-mechanical-switch-setup/"><u>Lenovo Laptop Transformation Story: Swapping Out the Bad Keyboard for a Titanium Shell & Mechanical Switch Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-your-hardware-choices-the-ultimate-guide-by-toms-tech-specialists/"><u>Master Your Hardware Choices - The Ultimate Guide by Tom's Tech Specialists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-hardware-solutions-at-toms-electronic-resource/"><u>Mastering Hardware Solutions at Tom's Electronic Resource</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-technology-essentials-through-toms-expertise/"><u>Mastering Technology Essentials Through Tom's Expertise</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-technology-trends-guided-by-toms-hardware-professionals/"><u>Mastering Technology Trends - Guided by Tom's Hardware Professionals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-periscope-detailed-instruction-manual-for-2024/"><u>Navigating Periscope Detailed Instruction Manual for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-nightmare-discover-these-9-fixes-for-continuous-crashing-in-ark-scorched-earth/"><u>PC Gaming Nightmare? Discover These 9 Fixes for Continuous Crashing in ARK: Scorched Earth</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-power-of-words-in-podcast-summaries/"><u>The Power of Words in Podcast Summaries</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/title-option-2-navigating-the-world-of-apples-timepieces-a-comprehensive-guide-to-picking-between-the-apple-watch-ultra-and-series-vectors-1-4/"><u>Title Option #2: Navigating the World of Apple's Timepieces: A Comprehensive Guide to Picking Between the Apple Watch Ultra and Series Vectors = [1, -4</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-visualizationvirtue-the-art-of-resizing-photos-and-videos-in-instagram/"><u>[New] 2024 Approved VisualizationVirtue The Art of Resizing Photos and Videos in Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fixing-unintended-you-mistakes-while-chatting-online-for-2024/"><u>[Updated] Fixing Unintended 'You' Mistakes While Chatting Online for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-maximizing-b-roll-impact-in-your-edits-for-2024/"><u>[Updated] Maximizing B-Roll Impact in Your Edits for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-disconnected-files-in-steam-library/"><u>Addressing Disconnected Files in Steam Library</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/broadcom-network-adapter-software-upgrade-for-windows-11-step-by-step-installation-guide/"><u>Broadcom Network Adapter Software Upgrade for Windows 11: Step-by-Step Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-walkthrough-downloading-and-updating-the-epson-ds-n-series-driver-for-windows-systems/"><u>Complete Walkthrough: Downloading and Updating the Epson DS-N Series Driver for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-download-logitechs-advanced-g-series-driver-for-win-11-10-and-7/"><u>Direct Links: Download Logitech's Advanced G Series Driver for Win 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-fixes-for-when-your-samsung-blu-ray-player-stops-working/"><u>DIY Fixes for When Your Samsung Blu-Ray Player Stops Working</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-compatible-canon-mx410-drivers-fast-and-easy-setup-for-windows/"><u>Download Compatible Canon MX410 Drivers - Fast & Easy Setup for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tutorial-reinstalling-samsung-mobile-usb-drivers-made-simple/"><u>Easy Tutorial: Reinstalling Samsung Mobile USB Drivers Made Simple</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gepflegte-gute-nachtsprache-in-deutschen-kontexten/"><u>Gepflegte Gute-Nachtsprache in Deutschen Kontexten</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-laserjet-pro-m404n-driver-version-installed-easily-online/"><u>Get the Newest HP LaserJet Pro M404n Driver Version Installed Easily Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gtx-1650-super-graphics-card-driver-download-compatible-with-windows-10-and-11/"><u>GTX 1650 Super Graphics Card Driver Download: Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-12-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme 12 Pro 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-there-a-length-restriction-on-chatgpt-answers/"><u>Is There a Length Restriction on ChatGPT Answers?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-trustworthy-hardware-reviews-by-tom/"><u>Navigating the World of Tech: Trustworthy Hardware Reviews by Tom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-peak-limit-problem-with-chatgpt-win/"><u>Tackling Peak Limit Problem with ChatGPT (Win)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-newest-realtek-device-driver-for-windows-10-download-here/"><u>Update to Newest Realtek Device Driver for Windows 10 – Download Here</u></a></li>
 </ul></div>
 

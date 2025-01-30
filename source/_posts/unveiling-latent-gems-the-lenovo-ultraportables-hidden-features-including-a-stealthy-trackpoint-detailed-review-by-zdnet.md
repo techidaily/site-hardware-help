@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review by ZDNet"
-date: 2025-01-11T02:19:56.155Z
-updated: 2025-01-17T00:41:47.513Z
+date: 2025-01-27T20:01:02.029Z
+updated: 2025-01-30T16:40:50.074Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,24 +116,17 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-creative-video-text-top-10-edition/"><u>[New] Creative Video Text Top 10 Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-post-vlc-media-player-landscape-analysis/"><u>[New] Post-VLC Media Player Landscape Analysis</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-enhance-experience-using-your-logitech-webcam-properly/"><u>[Updated] 2024 Approved Enhance Experience Using Your Logitech Webcam Properly</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unfolding-the-world-on-iphone-perfect-fb-video-sharing/"><u>[Updated] In 2024, Unfolding the World on iPhone Perfect FB Video Sharing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-masterful-color-transformations-with-free-and-paid-luts-for-cameras-for-2024/"><u>[Updated] Masterful Color Transformations with Free & Paid LUTs for Cameras for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-essential-techniques-to-compress-and-adjust-iphone-videos/"><u>2024 Approved Essential Techniques to Compress and Adjust iPhone Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-smooth-win11-meetings-via-zoom/"><u>2024 Approved Expert Tips for Smooth Win11 Meetings via Zoom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-links-for-the-best-behringer-usb-audio-driver-download-latest-firmware-update/"><u>Direct Links for the Best Behringer USB Audio Driver Download | Latest Firmware Update</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-brother-hl-l2350dw-printer-drivers-updates-available/"><u>Download the Latest Brother HL-L2350DW Printer Drivers: Updates Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-optimize-your-rtx-2080-on-windows-1178/"><u>Download Updated Drivers: Optimize Your RTX 2080 on Windows 11/7/8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/efficient-video-capture-at-your-fingertips-easycap-driver-downloads-on-demand/"><u>Efficient Video Capture at Your Fingertips - EasyCap Driver Downloads On Demand!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/re-best-asmr-apps-both-sides-of-the-os-for-2024/"><u>Explore Best ASMR Apps, Both Sides of the OS for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-intel-network-adapter-drivers-for-widows-11-10-and-7-users/"><u>Free Download: Intel Network Adapter Drivers for Widows 11, 10 and 7 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-quickly-get-the-latest-drivers-for-your-samsung-laptop-under-windows-os/"><u>How to Quickly Get the Latest Drivers for Your Samsung Laptop Under Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-compatible-drivers-for-samsung-850-evo-storage-device-instant-access/"><u>Latest Compatible Drivers for Samsung 850 EVO Storage Device – Instant Access!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-upgrades-sm-bus-controller-driver-version-update-for-dell-systems/"><u>Latest Upgrades: SM Bus Controller Driver Version Update for Dell Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978560357-top-quality-epson-inkjet-t180xl-replacement-cartridges-on-ebay-buy-now/"><u>Top Quality Epson Inkjet T180XL Replacement Cartridges on eBay - Buy Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-unrecognized-usb-devices-in-windows-11-expert-tips/"><u>Troubleshooting Unrecognized USB Devices in Windows 11 – Expert Tips</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlocking-brain-power-with-second-language-acquisition-at-50plus/"><u>Unlocking Brain Power with Second Language Acquisition at 50+</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-harmonizing-history-best-theme-songs-in-anime/"><u>[New] 2024 Approved Harmonizing History Best Theme Songs in Anime</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-detailed-look-into-youtubes-featured-community-dialogue/"><u>[New] In 2024, Detailed Look Into YouTube's Featured Community Dialogue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-innovation-showcase-at-the-abbyy-summit-pioneering-the-next-era-of-intelligence/"><u>AI Innovation Showcase at the ABBYY Summit: Pioneering the Next Era of Intelligence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/air-drop-apple-slashes-price-of-m2-macbook-air-to-just-799-ahead-of-octobers-exclusive-prime-deals-revealed-experts/"><u>Air Drop: Apple Slashes Price of M2 MacBook Air to Just $799 Ahead of October's Exclusive Prime Deals, Revealed Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-picture-messaging-services-2024s-top-picks/"><u>Best Picture Messaging Services: 2024'S Top Picks</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-xr21-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia XR21 Quickly | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-unveils-the-groundbreaking-envy-x360-the-worlds-first-laptop-certified-by-imax-but-read-on-for-exceptional-insights/"><u>HP Unveils the Groundbreaking Envy X360 - The World's First Laptop Certified by IMAX, But Read on for Exceptional Insights!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-reimagine-fuzzy-images-selecting-the-ultimate-10-internet-tools/"><u>In 2024, Reimagine Fuzzy Images Selecting the Ultimate 10 Internet Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-collection-free-3d-text-psds-galore/"><u>Ultimate Collection FREE 3D Text PSDs Galore</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unboxing-the-revolutionary-lg-gram-pro-17-a-featherlight-powerhouse-perfect-for-prime-day-deals-exclusive-review/"><u>Unboxing the Revolutionary LG Gram Pro 17: A Featherlight Powerhouse Perfect for Prime Day Deals - Exclusive Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unmatched-display-quality-at-a-bargain-the-ultra-portable-laptop-you-cant-miss-on-sale-today-techspot/"><u>Unmatched Display Quality at a Bargain: The Ultra-Portable Laptop You Can't Miss - On Sale Today | TechSpot</u></a></li>
 </ul></div>
 

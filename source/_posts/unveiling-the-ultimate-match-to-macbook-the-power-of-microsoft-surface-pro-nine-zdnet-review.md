@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Match to MacBook: The Power of Microsoft Surface Pro Nine | ZDNet Review"
-date: 2025-01-19T04:10:53.083Z
-updated: 2025-01-22T16:48:26.677Z
+date: 2025-01-27T17:45:06.146Z
+updated: 2025-01-30T19:46:45.729Z
 tags:
   - laptops
 categories:
@@ -60,7 +60,7 @@ I've been using the Surface Laptop Studio 2 for just under a week, and I can con
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A much-needed performance upgrade
@@ -103,10 +103,6 @@ Max Buondonno/ZDNET
 
 The Intel NPU also powers Microsoft's Windows Studio effects, which help to improve the quality of video and audio during calls. This includes keeping your head centered in the frame as you move around, blurring the background, maintaining eye contact with adaptive corrections to your eyes, and minimizing background noise. All of these features worked well in my testing, and made for a more enjoyable video chatting experience. You'll just have to live with a sub-par webcam: while the field of view is nice and wide for automatic framing, the Full HD resolution doesn't feel very sharp and generally looks blurry, even in good lighting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Gorgeous hardware and a unique screen
 
 All of this power is wrapped in what can only be described as a gorgeous design. The Surface Laptop Studio 2 is one of the most premium-feeling Windows laptops I've used, with a strong resemblance to that of Apple's MacBook Pro line and the silver aluminum to prove it. This generation is a bit thicker and heavier than the last one, weighing in at 4.37 pounds with Nvidia's graphics card. That's a difference of 0.37 pounds compared to the older model, so get ready for a shoulder exercise when carrying this thing around in your backpack.
@@ -128,7 +124,7 @@ It opens a realm of possibilities for creatives who want more precise control ov
 Speaking of comfortability, the keyboard on the Surface Laptop Studio 2 might be one of my favorites. It has 1.3 millimeters of travel and plenty of satisfying bounce, which helps to make it very comfortable to use for long periods of time. Part of me wishes the keys were slightly curved at the top instead of being totally flat, but that's just a personal preference.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The trackpad is a little different, and so are the ports
@@ -144,12 +140,16 @@ It's also what Microsoft calls the "most inclusive" trackpad ever thanks to Adap
 In addition, there are more ports on the Surface Laptop Studio 2, including a USB-A port and a microSD card slot. They sit alongside the dual Thunderbolt 4 ports, Surface Connector, and a 3.5mm headphone jack. I would've liked to see a full-size SD card reader as well, but any extra IO is welcome in my book.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is…fine
 
 Microsoft says it improved the battery life on the Surface Laptop Studio 2, but it's not very noticeable. I didn't run any endless 4K video loops or scroll a webpage until it died, but I did use the machine for my everyday workload on a full charge, and all I got was just under six hours of use. This was after writing the copy for a variety of reviews and news pieces in Google Chrome, playing Spotify, using Photoshop and Lightroom occasionally, and watching YouTube.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -160,7 +160,7 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 [ZDNET RECOMMENDS Microsoft Surface Laptop Studio 2 Microsoft delivers a solid experience with the Studio 2, one that's still as unique as it was the first time around. View at Microsoft](https://www.microsoft.com/en-us/store/configure/surface-laptop-studio-2/8rqr54krf1dz)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -182,18 +182,16 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-enhanced-mac-technology-video-plus-sound-record/"><u>[New] 2024 Approved Enhanced Mac Technology Video + Sound Record</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-erase-youtubes-short-snippet-playback-option/"><u>[Updated] Erase YouTube's Short Snippet Playback Option</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-lenovo-x220-drivers-fast-and-simple-download-process/"><u>Get the Latest Lenovo X220 Drivers: Fast & Simple Download Process</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95916685-9782268097466-la-symbolique-maconnique-devoilee/"><u>La symbolique maçonnique dévoilée | Free Book</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professionele-online-lusmaatrix-3g2-in-mpeg-konverteren-gratis-bij-movavi/"><u>Professionele Online Lusmaatrix: 3G2 in MPEG Konverteren Gratis Bij Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/sci-fi-extraordinaire-journey-to-novel-universes-in-10-films-for-2024/"><u>Sci-Fi Extraordinaire Journey to Novel Universes in 10 Films for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/slow-down-the-action-top-10-video-players-for-smooth-playback/"><u>Slow Down the Action Top 10 Video Players for Smooth Playback</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-finding-and-upgrading-synaptic-drivers-in-windows-made-simple/"><u>Step-by-Step Tutorial: Finding & Upgrading Synaptic Drivers in Windows Made Simple!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Review - Comprehensive Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tp-link-tl-ub400-how-to-update-bluetooth-adapter-software-and-enhance-connectivity/"><u>TP-Link TL-UB400: How to Update Bluetooth Adapter Software and Enhance Connectivity</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-titan-tags-the-list-that-elevates-your-youtube-shorts-to-fame-for-2024/"><u>Trend Titan Tags The List That Elevates Your YouTube Shorts to Fame for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/uniting-sight-and-sound-perfecting-videography-voiceovers/"><u>Uniting Sight & Sound Perfecting Videography Voiceovers</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728498422881-windows-11/"><u>Windows 11更新完了に至らず、何をすれば良いか？解決法４つ</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-auditory-aspects-in-inshot-video-creation/"><u>[Updated] Auditory Aspects in InShot Video Creation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-cyber-sensation-the-rise-of-videoviral-tweets/"><u>[Updated] In 2024, Cyber Sensation The Rise of #VideoViral Tweets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-invisible-hand-facebooks-hidden-cause-for-missing-videos/"><u>[Updated] In 2024, The Invisible Hand Facebook's Hidden Cause for Missing Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-ultimate-method-to-locate-fb-watched-content/"><u>[Updated] In 2024, The Ultimate Method to Locate FB Watched Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-is-vidma-the-ultimate-screen-recording-tool/"><u>2024 Approved Is Vidma the Ultimate Screen Recording Tool?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/explore-metas-exclusive-offer-the-ultimate-vr-experience-with-the-512gb-quest-3-unmatched-value-today/"><u>Explore Meta's Exclusive Offer: The Ultimate VR Experience with the 512GB Quest 3 - Unmatched Value Today !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-microsofts-revolutionary-new-ai-chip-outperforming-the-macbook-in-a-one-on-one-comparison-insights/"><u>Inside Microsoft's Revolutionary New AI Chip: Outperforming the MacBook in a One-on-One Comparison | Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preserving-your-cortana-settings-and-logs-in-windows/"><u>Preserving Your Cortana Settings & Logs in Windows</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-copying-youtube-videos-from-your-android-device-to-a-windows-computer/"><u>Step-by-Step Tutorial: Copying YouTube Videos From Your Android Device to a Windows Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-performing-workhorse-laptop-unveiled-surpasses-thoughtpad-and-macbook-in-tests-insights-from-zdnet/"><u>Top-Performing Workhorse Laptop Unveiled, Surpasses Thoughtpad & Macbook in Tests - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-revelations-at-apples-october-showcase-unveiling-the-m4-mac-mini-latest-ipad-lineup-enhanced-ai-capabilities-and-beyond-insights-from-zdnet/"><u>Upcoming Revelations at Apple's October Showcase: Unveiling the M4 Mac Mini, Latest iPad Lineup, Enhanced AI Capabilities & Beyond - Insights From ZDNet</u></a></li>
 </ul></div>
 

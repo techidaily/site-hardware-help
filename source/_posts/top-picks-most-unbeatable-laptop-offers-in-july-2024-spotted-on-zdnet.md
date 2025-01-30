@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: Most Unbeatable Laptop Offers in July 2024 - Spotted on ZDNet"
-date: 2025-01-17T03:23:22.885Z
-updated: 2025-01-23T07:53:13.176Z
+date: 2025-01-24T16:11:40.655Z
+updated: 2025-01-30T19:48:58.699Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -101,6 +97,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 ## Alternative laptop deals
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Amazon laptop deals
 
 [Asus Chromebook Flip C434 2-In-1 laptop deal for $355 (save $150) $355 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-Touchscreen-Processor-All-Metal-C434TA-DSM4T%2Fdp%2FB07Q2RB6BY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1a97e25-0335-4799-b0e5-da4e54efa115%7Cdtp&dtb=1)
@@ -115,6 +115,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1a97e25-0335-4799-b0e5-da4e54efa115%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Walmart laptop deals
 
 [ASUS Vivobook 16-inch laptop deal for $499 (save $200) $499 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-16-PC-Laptop-Intel-Core-i7-1255U-16GB-512GB-Win-11-Home-Black-F1605ZA-WS74%2F5023779612&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -126,6 +130,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [HP Chromebook, 11.6-inch, 4GB RAM, 32GB deal for $100 (save $118) $100 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-Laptop-Computer%2F592161882&subId1=zd-__COM_CLICK_ID__-dtp)
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Buy laptop deals
 
@@ -149,10 +157,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -165,6 +169,10 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -173,10 +181,6 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Graphics card/GPU:** Again, gamers and content creators will want a higher graphics card to reflect the beautiful imagery for their gaming. I personally recommend that gamers opt for at least an RTX 3060 at the moment. However, again, internet surfers and workers shouldn't worry too much about the graphics if you're focusing on building out Word documents.
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
@@ -188,17 +192,9 @@ When you're considering your budget for a new laptop, you have to consider what 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -206,6 +202,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,15 +257,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-innovative-approaches-to-saving-your-instagram-highlights-for-2024/"><u>[Updated] Innovative Approaches to Saving Your Instagram Highlights for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-guide-to-downloading-facebook-stories-anywhere/"><u>2024 Approved The Ultimate Guide to Downloading Facebook Stories Anywhere</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/accelerando-la-codificacion-de-video-con-hevch265-tecnicas-para-una-mejora-en-velocidad/"><u>Accelerando La Codificación De Video Con HEVC/H.265 - Técnicas Para Una Mejora en Velocidad</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-privacy-controls-how-to-block-memory-of-your-chats/"><u>ChatGPT Privacy Controls: How to Block Memory of Your Chats</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-ahead-of-prime-day-with-top-savings-on-govee-products-right-away/"><u>Get Ahead of Prime Day with Top Savings on Govee Products Right Away!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-brothers-hl-l3295cdw-delivering-exceptional-speed-and-stunning-color-printouts/"><u>In-Depth Analysis of Brother's HL-L3295CDW: Delivering Exceptional Speed & Stunning Color Printouts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-tcls-innovative-flip-phone-now-with-usb-c-connectivity-and-enhanced-4g-lte/"><u>Introducing TCL's Innovative Flip Phone: Now with USB-C Connectivity & Enhanced 4G LTE</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-latest-samsung-512gb-external-usb-c-memory-stick/"><u>Introducing the Latest Samsung 512GB External USB-C Memory Stick</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-mp3-players-expert-reviews-and-comparisons/"><u>Top-Rated MP3 Players : Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-enhancing-meetings-with-top-5-free-and-paid-zoom-transcribers-for-2024/"><u>[New] Enhancing Meetings with Top 5 Free & Paid Zoom Transcribers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-free-fires-sound-alteration-tactics/"><u>[New] Free Fire's Sound Alteration Tactics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-trillers-unique-strategy-in-the-world-of-online-videos/"><u>[Updated] 2024 Approved Unveiling Triller's Unique Strategy in the World of Online Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-expertise-in-virtual-assessment-vll-of-apps-for-2024/"><u>[Updated] Expertise in Virtual Assessment VLL of Apps for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-week-with-an-ergo-split-keyboard-transforming-my-tech-habits-pcmag/"><u>A Week with an Ergo-Split Keyboard – Transforming My Tech Habits | PCMag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/apples-latest-battle-comparing-the-m3-vs-m2-macbook-air/"><u>Apple's Latest Battle: Comparing the M3 Vs. M2 MacBook Air</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/audience-favorite-powerful-performance-and-durable-build-in-one-of-our-top-tested-laptops-tech-reviews/"><u>Audience Favorite: Powerful Performance and Durable Build in One of Our Top Tested Laptops - Tech Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-revolutionary-compact-tracker-by-nomad-a-credit-card-sized-solution-for-precise-location-tracking/"><u>Discover the Revolutionary Compact Tracker by Nomad – A Credit Card-Sized Solution for Precise Location Tracking</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-vernacular-vanguard-ranking-1-15/"><u>Global Vernacular Vanguard: Ranking 1-15</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-motorola-edge-40-phone-by-drfone-android/"><u>How to Unlock a Network Locked Motorola Edge 40 Phone?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hunt-for-the-best-bargains-find-them-here-neweggs-ultimate-2023-holiday-sale-picks-revealed/"><u>Hunt for the Best Bargains? Find Them Here: Newegg's Ultimate 2023 Holiday Sale Picks Revealed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-all-you-need-to-know-about-bandicam-updated/"><u>In 2024, All You Need to Know About Bandicam (Updated )</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-your-work-from-anywhere-strategy-with-hps-new-laptop-see-how-it-elevated-my-remote-work-game-on-zdnet/"><u>Revolutionize Your Work From Anywhere Strategy with HP's New Laptop | See How It Elevated My Remote Work Game on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-36-on-8tb-samsung-t5-solid-state-drive-available-now-deep-discounts-and-deals-on-amazon/"><u>Save 36% on 8TB Samsung T5 Solid State Drive Available Now - Deep Discounts & Deals on Amazon</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-best-buy-bargains-in-june-2024-find-your-next-purchase/"><u>Top-Rated Best Buy Bargains in June 2024: Find Your Next Purchase</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-cluttered-desk-into-a-tech-haven-explore-the-ultimate-11-in-1-docking-station-at-44-off-featured-by-zdnet/"><u>Transform Your Cluttered Desk Into a Tech Haven: Explore the Ultimate 11-in-1 Docking Station at 44% Off | Featured by ZDNet</u></a></li>
 </ul></div>
 

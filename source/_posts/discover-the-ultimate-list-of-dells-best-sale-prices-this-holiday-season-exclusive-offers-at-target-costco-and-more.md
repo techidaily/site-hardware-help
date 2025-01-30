@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate List of Dell's Best Sale Prices This Holiday Season – Exclusive Offers at Target, Costco, and More!
-date: 2025-01-09T19:47:53.848Z
-updated: 2025-01-16T19:17:09.072Z
+date: 2025-01-26T16:11:47.724Z
+updated: 2025-01-30T17:47:04.097Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Cyber Monday 2023 Dell deals
 
 * [Dell OptiPlex 7000 7090 Intel Core i7 desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7090-business-desktops-workstations%252Fp%252F1VK-0001-6G7A2) for $939 (save $230)
@@ -40,7 +44,7 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 ---  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Cyber Monday 2023 Dell deals
@@ -101,7 +105,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C284e5729-e1b5-4ea2-88a8-886cf26a3c61%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell laptop deals
@@ -116,16 +120,16 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Precision 3580 mobile workstation](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1770261-REG%2Fdell%5F5d74g%5F15%5F6%5Fprecision%5F3580%5Fmobile.html): $1390 (save $1000)
 * [Dell Inspiron 16 Plus](https://www.anrdoezrs.net/click-9041660-15679772-1700503970000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,000 (save $650)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Cyber Monday Dell desktop deals
 
 * [Alienware Aurora R15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAlienware-Aurora-R15-Gaming-Desktop%2Fdp%2FB0C2VX6HN8%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C284e5729-e1b5-4ea2-88a8-886cf26a3c61%7Cdtp&dtb=1): $2,520 (save $630)
 * [Alienware Aurora R10](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252F1VK-0001-5Z884%253FItem%253D9SIAA0SJU76104): $2000 (save $500)
 * [Dell OptiPlex 7010](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1764723-REG%2Fdell%5F6f73r%5Foptiplex%5F7010%5Fsmall.html): $699 (save $300)
 * [Dell Inspiron 27 7720 Intel Core i5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-24-5400-Touchscreen%2Fdp%2FB0BGQSKN8N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C284e5729-e1b5-4ea2-88a8-886cf26a3c61%7Cdtp&dtb=1): $744 (save $186)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell monitor deals
 
@@ -134,23 +138,19 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C284e5729-e1b5-4ea2-88a8-886cf26a3c61%7Cdtp&dtb=1): $80 (save $50)
 * [Dell 32-inch 4K monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-SE3223Q-31-5-inch-Monitor-Gray%2Fdp%2FB0B2GRMGFL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C284e5729-e1b5-4ea2-88a8-886cf26a3c61%7Cdtp&dtb=1): $248 (save $117)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is Cyber Monday 2023?
 
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When was Black Friday 2023?
 
 Black Friday 2023 was on November 24, 2023\. 
 
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday deals?
 
@@ -228,18 +228,21 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-art-of-skype-calls-on-windowsmac-best-free-and-paid-strategies-for-2024/"><u>[Updated] The Art of Skype Calls on Windows/Mac Best Free and Paid Strategies for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-amd-classic-bundle/"><u>2024 Approved AMD Classic Bundle</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/behance-portfolio-image-constraints/"><u>Behance Portfolio Image Constraints</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/emerging-from-the-leaks-asus-rog-ally-and-laptops-with-snapdragon-tech-at-computex-202-cu-no-gpu-updates-included/"><u>Emerging From the Leaks: Asus ROG Ally & Laptops with Snapdragon Tech at Computex 202 Cu, No GPU Updates Included</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-analysis-at-toms-hardware-leading-pc-and-tech-reviews/"><u>Expert Analysis at Tom's Hardware: Leading PC & Tech Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-insights-from-toms-tech-analysis-your-guide-to-modern-gadgets/"><u>Expert Insights From Tom's Tech Analysis - Your Guide to Modern Gadgets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-insights-on-electronics-with-toms-hardware-focus/"><u>Expert Insights on Electronics with Tom's Hardware Focus</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-reviews-and-advice-on-toms-computer-gear/"><u>Expert Reviews and Advice on Tom's Computer Gear</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-tom-your-source-for-top-notch-pc-components/"><u>Exploring Gadgets with Tom: Your Source for Top-Notch PC Components</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003375267-hearts-of-iron-4-troubleshooting-tips-fixing-game-crashing-bugs-successfully/"><u>Hearts of Iron 4 Troubleshooting Tips: Fixing Game-Crashing Bugs Successfully!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-zero-30-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix Zero 30 5G</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-free-video-merger-software-without-watermarks/"><u>New 2024 Approved Best Free Video Merger Software Without Watermarks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-and-tech-advice/"><u>Tom's Hardware Review & Tech Advice</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-effortless-transition-from-spotify-to-youtube-find-the-best-apps/"><u>[Updated] 2024 Approved Effortless Transition From Spotify to YouTube Find the Best Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-obs-studio-for-gamers-ps4-screenshots-and-recordings-guide/"><u>[Updated] 2024 Approved OBS Studio for Gamers PS4 Screenshots & Recordings Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-leading-screenshot-and-record-tools-for-firefox/"><u>[Updated] In 2024, Leading Screenshot & Record Tools for Firefox</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/access-high-quality-printing-with-canons-imageclass-mf4800-free-driver-downloads-now/"><u>Access High-Quality Printing with Canon's ImageCLASS MF4800: Free Driver Downloads Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-internal-failure-for-smooth-rd-session/"><u>Bypassing Internal Failure for Smooth RD Session</u></a></li>
+<li><a href="https://common-error.techidaily.com/clearing-up-0x80070643-error-effective-fixes-for-windows-updateinstallation-issues/"><u>Clearing Up 0X80070643 Error: Effective Fixes for Windows Update/Installation Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-fixed-killerwireless-1535-driver-here/"><u>Download the Latest Fixed KillerWireless 1535 Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-downloading-and-installing-logitech-c525-webcam-drivers-on-windows/"><u>Easy Guide: Downloading & Installing Logitech C525 Webcam Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978283727-easy-installation-acquire-your-acers-official-bluetooth-driver-today/"><u>Easy Installation: Acquire Your Acer's Official Bluetooth Driver Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-lg-hardware-connection-issues-under-windows-10-8-and-7-a-comprehensive-tutorial/"><u>Fix LG Hardware Connection Issues Under Windows 10, 8 & 7: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-spark-10-4g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno Spark 10 4G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-moto-g24-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Moto G24 FRP Bypass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updates-for-your-bluetooth-adapter-newest-generic-drivers-for-windows-computers-free/"><u>Install Updates for Your Bluetooth Adapter - Newest Generic Drivers for Windows Computers (Free)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/seamless-strategies-to-record-and-archive-gotomeetings/"><u>Seamless Strategies to Record and Archive GoToMeetings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/step-by-step-guide-importing-audio-for-inshot-edits/"><u>Step-by-Step Guide Importing Audio for InShot Edits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-to-refresh-webcam-software-in-windows-11/"><u>Step-by-Step Process to Refresh Webcam Software in Windows 11</u></a></li>
 </ul></div>
 

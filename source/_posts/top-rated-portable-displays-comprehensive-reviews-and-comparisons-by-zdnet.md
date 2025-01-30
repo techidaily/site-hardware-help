@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Portable Displays - Comprehensive Reviews & Comparisons by ZDNet
-date: 2025-01-14T00:07:10.169Z
-updated: 2025-01-17T02:15:45.769Z
+date: 2025-01-26T16:35:12.800Z
+updated: 2025-01-30T16:14:06.254Z
 tags:
   - laptops
 categories:
@@ -24,17 +24,9 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the best lightweight laptop right now?
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best ultraportable laptops of 2024
 
@@ -53,7 +45,15 @@ Cons
 * 8GB of RAM on base model is limiting
 * Built-in speakers could be stronger
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple MacBook Air M3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
 
@@ -83,15 +83,7 @@ Cons
 * Generic design
 * Loud fans
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Swift Go 14
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
 
@@ -120,14 +112,10 @@ Cons
 * Comes pre-loaded with bloatware
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
 
@@ -189,7 +177,15 @@ Cons
 * Battery life is not the best
 * Expensive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lenovo ThinkPad X1 Carbon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for work
 
@@ -229,6 +225,10 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test lightweight laptops
 
 Kyle Kucharski/ZDNET
@@ -262,7 +262,7 @@ Ultraportability does come with tradeoffs, however, both in terms of design and 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much does a typical laptop weigh?
@@ -335,22 +335,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[New] In 2024, From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-time-stretching-through-lenses-a-detailed-slomo-analysis-2024/"><u>[New] Time Stretching Through Lenses A Detailed SloMo Analysis, 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-complete-assessment-hero4-black-potential/"><u>[Updated] Complete Assessment Hero4 Black Potential</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-hl-l2300d-update-or-install-new-printer-driver-today/"><u>Brother HL-L2300D: Update or Install New Printer Driver Today</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-note-30-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Note 30 5G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-get-your-brother-hl-l2340dw-printer-running-on-windows-with-latest-driver-downloads/"><u>Easy Installation Guide - Get Your Brother HL-L2340DW Printer Running on Windows with Latest Driver Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-new-gadgets-with-tom-a-comprehensive-guide/"><u>Exploring New Gadgets with Tom - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-dolby-audio-drivers-now-compatible-with-windows-111081/"><u>Get the Latest Dolby Audio Drivers Now - Compatible with Windows 11/10/8.1!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722955983849-get-the-latest-epson-wf-2750-drivers-installed-in-minutes/"><u>Get the Latest Epson WF-2750 Drivers Installed in Minutes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-arduino-usb-drivers-compatible-with-windows-operating-systems/"><u>Latest Arduino USB Drivers Compatible with Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-gaming-performance-highlighted-as-amds-zen-4-flagship-surpasses-zen-5-benchmarks-ryzen-7-7800x3d-outpaces-the-previous-generation-with-a-23-speed-lead-o9/"><u>New Gaming Performance Highlighted as AMD's Zen 4 Flagship Surpasses Zen 5 Benchmarks: Ryzen 7 7800X3D Outpaces the Previous Generation with a 23% Speed Lead over Ryzen 9 9900X</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-disrupt-the-norm-top-glitch-art-video-editing-apps-for-ios-and-android-creators/"><u>New In 2024, Disrupt the Norm Top Glitch Art Video Editing Apps for iOS and Android Creators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professional-stability-essentials-for-youtube-videographers/"><u>Professional Stability Essentials for YouTube Videographers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-lack-of-fundamental-printer-and-scanner-software-on-windows-11/"><u>Resolved: Lack of Fundamental Printer & Scanner Software on Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snowflakes-splendor-beijings-winter-wonder-for-2024/"><u>Snowflakes Splendor Beijing's Winter Wonder for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-storage-with-the-4tb-samsung-t5-portable-ssd-at-unbeatable-discounts-)-50-off-now-available-on-amazon-insights-from-zdnet/"><u>Upgrade Your Storage with the 4TB Samsung T5 Portable SSD at Unbeatable Discounts > 50% Off, Now Available on Amazon | Insights From ZDNET</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/vlc-and-mx-showdown-for-media-loading/"><u>VLC and MX Showdown for Media Loading</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-integrating-whatsapp-into-your-twitter-video-sharing-routine/"><u>[New] In 2024, Integrating WhatsApp Into Your Twitter Video Sharing Routine</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-kinemasters-ultimate-green-screen-implementation-techniques/"><u>[New] Kinemaster's Ultimate Green Screen Implementation Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-kickstart-creative-video-editing-with-xp-edition-for-2024/"><u>[Updated] Kickstart Creative Video Editing with Xp Edition for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/are-microsofts-surface-devices-redefining-ai-computing-the-implications-for-apple-and-beyond-insights/"><u>Are Microsoft's Surface Devices Redefining AI Computing? The Implications for Apple & Beyond Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-laptop-resurrects-once-popular-tech-term-whats-the-hype-about/"><u>Budget-Friendly Laptop Resurrects Once Popular Tech Term - What's the Hype About?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-surprising-link-between-your-iphone-and-motion-sickness-unveil-it-in-ios-18/"><u>Discover the Surprising Link Between Your iPhone and Motion Sickness - Unveil It in iOS 18</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-correctly-address-the-missing-coredll-issue-in-windows/"><u>Effective Strategies to Correctly Address the Missing Core.Dll Issue in Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-internet-explorer-cant-show-this-page-errors-solutions-proven-effective/"><u>Fixing 'Internet Explorer Can't Show This Page' Errors - Solutions Proven Effective</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-first-timers-and-children-choose-these-drone-models/"><u>In 2024, First-Timers & Children Choose These Drone Models</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-navigate-discord-with-ease-a-compreeher-guide-to-pins/"><u>In 2024, Navigate Discord with Ease A Compreeher Guide to Pins</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-hidden-gems-designing-stunning-engaging-puzzle-posts/"><u>Instagram's Hidden Gems Designing Stunning, Engaging Puzzle Posts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/october-primed-for-metas-unbeatable-512gb-quest-3-offer-this-vr-shopping-season-zdnet-insights/"><u>October Primed for Meta's Unbeatable 512GB Quest 3 Offer This VR Shopping Season - ZDNet Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-portability-and-power-an-amazing-non-macbook-device-that-outshines-the-classic-macbook-experience/"><u>Revolutionizing Portability & Power: An Amazing Non-MacBook Device That Outshines the Classic MacBook Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sale-alert-snag-the-discounted-8tb-samsung-portable-ssd-save-36-on-amazon-zdnet-coverage/"><u>Sale Alert: Snag the Discounted 8TB Samsung Portable SSD - Save 36% on Amazon (ZDNet Coverage)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-choosing-the-perfect-featherlight-laptop-for-mobile-professionals-techradar/"><u>The Ultimate Guide to Choosing the Perfect Featherlight Laptop for Mobile Professionals | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-10-unbeatable-christmas-chromebook-offers-on-the-market-insights/"><u>Top 10 Unbeatable Christmas Chromebook Offers on the Market - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-extra-usb-ports-for-macbookipad-pro-the-definitive-add-on-strategy-experts/"><u>Unlock Extra USB Ports for MacBook/iPad Pro: The Definitive Add-On Strategy Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tech-at-ces-202e-how-lg-is-falling-for-ai-and-launching-revolutionary-products-insights-from-zdnet/"><u>Unveiling the Future of Tech at CES 202E: How LG Is Falling for AI and Launching Revolutionary Products - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-hp-spectre-x3-is-dominating-as-a-favorite-laptop-of-the-year-latest-review/"><u>Why the HP Spectre X3) Is Dominating as a Favorite Laptop of the Year Latest Review</u></a></li>
 </ul></div>
 

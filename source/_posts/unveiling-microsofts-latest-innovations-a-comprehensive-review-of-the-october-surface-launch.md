@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft's Latest Innovations: A Comprehensive Review of the October Surface Launch"
-date: 2025-01-15T22:24:35.974Z
-updated: 2025-01-16T19:53:05.917Z
+date: 2025-01-28T19:34:46.628Z
+updated: 2025-01-30T17:01:52.347Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -42,7 +42,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -60,6 +60,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 [Buy the Surface Laptop 5 View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?)
 
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
 
@@ -79,10 +83,6 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The aptly-named Surface Studio 2+
 
 The Surface Studio 2+ looks nearly identical to the Surface Studio 2.
@@ -98,7 +98,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -114,7 +114,7 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -163,20 +163,19 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-peek-into-the-viral-world-of-stock-photo-memes/"><u>[New] A Peek Into the Viral World of Stock Photo Memes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-becoming-a-pro-streaming-on-youtube-and-twitch-via-obs-for-2024/"><u>[New] Becoming a Pro Streaming on YouTube & Twitch via OBS for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-voice-overs-for-videos-step-by-step-guide/"><u>[New] In 2024, Mastering Voice-Overs for Videos Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/access-the-latest-free-driver-downloads-for-amd-radeon-on-windows-8-systems/"><u>Access the Latest Free Driver Downloads for AMD Radeon on Windows 8 Systems</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1728506002482-apple-id/"><u>Apple IDにおける二要素認証のセットアップガイド</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/beyond-ai-qualcomms-billion-dollar-bet-on-longer-battery-lifespan-drives-record-sales-for-copilotplus/"><u>Beyond AI: Qualcomm's Billion-Dollar Bet on Longer Battery Lifespan Drives Record Sales for Copilot+</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/defend-against-robotic-content-collectors/"><u>Defend Against Robotic Content Collectors</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y100t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y100t Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-s17e-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo S17e Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-hardware-innovations-with-toms-computing-corner/"><u>Navigating Hardware Innovations with Tom's Computing Corner</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/stay-ahead-in-technology-with-toms-comprehensive-hardware-analysis/"><u>Stay Ahead in Technology with Tom's Comprehensive Hardware Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-innovative-gear-analysis-understanding-todays-top-tech-devices/"><u>Tom's Innovative Gear Analysis: Understanding Today's Top Tech Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-electronics/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Electronics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-picks-best-value-gaming-pcs-and-laptops/"><u>Top Picks: Best Value Gaming PCs and Laptops</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-access-10-free-thumbnail-downloader-apps/"><u>[New] 2024 Approved Access 10 Free Thumbnail Downloader Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-engage-grow-and-rise-triple-threat-tactics-for-facebook-pages/"><u>[Updated] Engage, Grow, and Rise Triple Threat Tactics for Facebook Pages</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquering-soundless-skirmishes-in-call-of-duty-warzone-expert-tips-players/"><u>Conquering Soundless Skirmishes in Call of Duty: Warzone - Expert Tips Players</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-essentials-for-elevated-gopro-usage/"><u>Expert Essentials for Elevated GoPro Usage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-mbox-2-driver-software-for-windows-with-easy-installation-steps/"><u>Get the Latest MBox 2 Driver Software for Windows with Easy Installation Steps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-7-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 7?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-11-pro-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 11 Pro Activation Lock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-oneplus-12r-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in OnePlus 12R for Streaming | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-fresh-drivers-enhanced-support-for-tp-link-ac-nics-on-windows-7-8-and-11/"><u>Install Fresh Drivers: Enhanced Support for TP-Link Ac NICs on Windows 7, 8 & 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-advanced-customizable-2-ac2-configuration-tools-on-windows-computers/"><u>Install Logitech Advanced Customizable 2 (AC2) Configuration Tools on Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-ip110-software-update-and-drivers-for-multiple-windows-versions/"><u>Latest Canon IP110 Software Update and Drivers for Multiple Windows Versions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revealing-the-secrets-behind-lgs-high-definition-monitoring/"><u>Revealing the Secrets Behind LG’s High-Definition Monitoring</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-hidden-in-win11-finding-missing-controls/"><u>Uncover the Hidden in Win11: Finding Missing Controls</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-11-nvidia-geforce-210-drivers/"><u>Windows 11에서 향상된 성능: NVIDIA GeForce 210 Drivers 업데이트를 실시하세요!</u></a></li>
 </ul></div>
 
