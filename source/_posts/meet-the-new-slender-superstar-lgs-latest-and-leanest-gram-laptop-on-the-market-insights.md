@@ -1,7 +1,7 @@
 ---
 title: "Meet the New Slender Superstar: LG's Latest and Leanest Gram Laptop on the Market Insights"
-date: 2025-01-29T19:41:39.287Z
-updated: 2025-01-30T18:02:07.554Z
+date: 2025-02-04T17:57:26.437Z
+updated: 2025-02-11T23:35:00.199Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ Now you may be wondering: what's the catch? Is the Asus Zenbook 14 as perfect as
 My biggest issue with the laptop is the fact it can run incredibly warm. You can't even type on the keyboard or have it on your legs without discomfort. Heat vents are found on the bottom and the side, but they don't offer much relief. This problem is exacerbated if you try to use the laptop while charging. There's so much heat that typing on the keyboard becomes uncomfortable. You're honestly better off not using the laptop during this time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -89,7 +89,7 @@ The [Asus Zenbook 14](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.
 You can purchase my review unit's configuration on Best Buy for $799.99, but there's always the option to upgrade the hardware if you're looking for something with more power behind it. A Zenbook 14 sporting an Intel Core Ultra 7 155H processor, Intel Arc GPU, 16GB of RAM, and 1TB of storage will [start at $1,299](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fshop.asus.com%2Fus%2Fasus-zenbook-14-oled-ux3405-laptop.html) but come with significant jump up in processing power. No matter which one you get, it'll be worth the low price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -136,16 +136,19 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-stream-success-starts-here-choosing-the-right-camera-for-twitch/"><u>[New] In 2024, Stream Success Starts Here Choosing the Right Camera for Twitch</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-advanced-google-slides-techniques-adding-youtube-media-for-2024/"><u>[Updated] Advanced Google Slides Techniques Adding YouTube Media for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-20plus-speedy-controls-mastering-your-pcs-fps/"><u>[Updated] Top 20+ Speedy Controls Mastering Your PC's FPS</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeos-video-mosaics-inserting-chapters-for-clarity/"><u>2024 Approved Vimeo's Video Mosaics Inserting Chapters for Clarity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-one-chromebook-outlasts-them-all-in-battery-life-a-closer-look-rigorous-testing/"><u>How One Chromebook Outlasts Them All in Battery Life, a Closer Look Rigorous Testing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keeping-your-electronics-alive-in-cold-weather-why-devices-like-ipad-and-iphone-might-charge-poorly-this-winter-zdnet-tech-tips/"><u>Keeping Your Electronics Alive in Cold Weather: Why Devices Like iPad & iPhone Might Charge Poorly This Winter | ZDNet Tech Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-excel-cell-consolidation-techniques-with-expert-advice-from-zdnet/"><u>Master Excel Cell Consolidation Techniques with Expert Advice From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-lenovo-laptops-tailored-for-efficient-hybrid-working-save-big-on-latest-models/"><u>Top Lenovo Laptops Tailored for Efficient Hybrid Working - Save Big on Latest Models</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-prime-day-video-game-bargains-what-to-look-out-for-in-october-2024-tips/"><u>Top Prime Day Video Game Bargains: What to Look Out For in October 2024 - Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-october-prime-day-offer-metas-latest-512gb-quest-3-surges-as-top-vr-bargain/"><u>Unbeatable October Prime Day Offer: Meta's Latest 512GB Quest 3 Surges as Top VR Bargain</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/6-2024/"><u>ベストの無料映像編集ツール6本: 2024年に最適!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-enable-zoom-grid-on-google-meet/"><u>[New] 2024 Approved Enable Zoom Grid on Google Meet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-professional-stabilization-tech-for-youtube-content-creators-for-2024/"><u>[New] Professional Stabilization Tech for YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-picks-no-charging-high-definition-video-players-for-pcmacos/"><u>[Updated] Best Picks No-Charging, High Definition Video Players for PC/MacOS</u></a></li>
+<li><a href="https://win11.techidaily.com/connecting-to-external-storage-on-mobile-devices/"><u>Connecting to External Storage on Mobile Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-updating-your-dell-webcam-driver-accurately/"><u>Easy Guide: Updating Your Dell Webcam Driver Accurately</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-honor-100-by-drfone-android/"><u>How to Bypass FRP from Honor 100?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-most-recent-realtek-bluetooth-driver-for-windows-11-10-users-direct-downloads/"><u>How to Get the Most Recent RealTek Bluetooth Driver for Windows 11, 10 Users: Direct Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/innovative-and-lively-apples-new-range-of-gadgets-hit-the-market-covertly-this-week/"><u>Innovative and Lively: Apple's New Range of Gadgets Hit the Market Covertly This Week</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-efficiently/"><u>New In 2024, Cutting Large Videos on Mac? Heres How to Do It Quickly and Efficiently</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-and-installation-essential-guides-for-asuss-z370m-primeplus-chipset/"><u>Quick Download & Installation: Essential Guides for ASUS's Z370M Prime/Plus Chipset</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamlessly-connect-all-your-gadgets-using-just-one-mobile-number/"><u>Seamlessly Connect All Your Gadgets Using Just One Mobile Number</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-effortless-driver-installation-for-your-microsoft-comfortable-keyboard-4000/"><u>Step-by-Step: Effortless Driver Installation for Your Microsoft Comfortable Keyboard 4000</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-and-optimizing-your-system-conectant-audio-driver-for-windows-10s-newest-release/"><u>Updating and Optimizing Your System: Conectant Audio Driver for Windows 10'S Newest Release</u></a></li>
 </ul></div>
 

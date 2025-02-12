@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work Gadgets Amidst Advancing AI: A Perspective"
-date: 2025-01-23T17:57:42.248Z
-updated: 2025-01-30T19:32:54.419Z
+date: 2025-02-11T00:27:34.426Z
+updated: 2025-02-12T00:15:12.629Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,16 +134,16 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-comprehensive-blueprint-to-youtube-banner-effectiveness/"><u>[New] 2024 Approved The Comprehensive Blueprint to YouTube Banner Effectiveness</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximizing-video-game-channel-revenue/"><u>[Updated] 2024 Approved Maximizing Video Game Channel Revenue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721402596491-chatgpt-unleashed-your-new-android-companion/"><u>ChatGPT Unleashed: Your New Android Companion</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/crucial-tips-what-you-need-to-know-before-getting-an-older-model-ipad/"><u>Crucial Tips: What You Need to Know Before Getting an Older Model iPad</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elite-picks-for-pro-window-laptop-buyers-in-depth-analysis-and-reviews-of-2024s-finest-zdnet/"><u>Elite Picks for Pro Window Laptop Buyers: In-Depth Analysis and Reviews of 2024'S Finest | ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-13c-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi 13C 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-by-tech-guru-reveals-asus-superior-oled-display-surpasses-hundreds-of-models-zdnet-innovations/"><u>In-Depth Analysis by Tech Guru Reveals Asus' Superior OLED Display Surpasses Hundreds of Models | ZDNet Innovations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-the-future-of-laptop-design-my-immersive-encounter-with-lenovos-auto-swiveling-innovation-at-ifa-2023-a-visual-marvel-cnet/"><u>Inside the Future of Laptop Design: My Immersive Encounter with Lenovo's Auto-Swiveling Innovation at IFA 2023, a Visual Marvel | CNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-network-neutrality-predictions-for-security/"><u>Navigating Network Neutrality: Predictions for Security</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/surprisingly-powerful-and-compact-how-this-affordable-8-in-1-adapter-defies-expectations/"><u>Surprisingly Powerful and Compact: How This Affordable 8-in-1 Adapter Defies Expectations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-a-touchscreen-laptop-in-depth-analysis-and-expert-ratings-on-zdnet/"><u>Ultimate Guide to Choosing a Touchscreen Laptop: In-Depth Analysis & Expert Ratings on ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-crafting-time-lapses-with-your-ipad-easefully/"><u>[New] Crafting Time-Lapses with Your iPad Easefully</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unrivaled-recording-experience-from-leading-apps/"><u>[Updated] In 2024, Unrivaled Recording Experience From Leading Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-vsg-screen-snapshots-review-thorough-examination/"><u>[Updated] In 2024, VSG Screen Snapshots Review Thorough Examination</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-r9-360-driver-update-and-download-instructions-for-windows-11-users/"><u>AMD Radeon R9 360 Driver Update and Download Instructions for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-printer-drivers-compatible-with-windows-7-8-and-10-free-download-guide/"><u>Canon Printer Drivers Compatible with Windows 7, 8 & 10 - Free Download Guide</u></a></li>
+<li><a href="https://win-info.techidaily.com/fortify-system-defenses-with-tpm-20-upgrades-on-vanguard-systems/"><u>Fortify System Defenses with TPM 2.0 Upgrades on Vanguard Systems</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-elevating-your-content-becoming-a-staff-pick-favorite-on-vimeo/"><u>In 2024, Elevating Your Content Becoming a Staff Pick Favorite on Vimeo</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-x9b-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor X9b FRP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-officejet-5740-driver-downloads-for-win-11108-free-update-guide/"><u>Latest HP OfficeJet 지패 5740 Driver Downloads for Win 11/10/8 - FREE Update Guide</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mx500-boot-probleme-gelost-erfolglose-kladdeinitiierung-nach-klonung/"><u>MX500 Boot-Probleme Gelöst? Erfolglose Kladdeinitiierung Nach Klonung</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-windows-11-secure-your-intel-usb-devices-with-the-latest-drivers/"><u>Upgrade to Windows 11? Secure Your Intel USB Devices with the Latest Drivers!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft's Latest Innovations: A Comprehensive Review of the October Surface Launch"
-date: 2025-01-28T19:34:46.628Z
-updated: 2025-01-30T17:01:52.347Z
+date: 2025-02-06T01:29:19.716Z
+updated: 2025-02-11T21:16:43.984Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -42,7 +42,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -60,10 +60,6 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 [Buy the Surface Laptop 5 View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?)
 
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
 
@@ -83,6 +79,10 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The aptly-named Surface Studio 2+
 
 The Surface Studio 2+ looks nearly identical to the Surface Studio 2.
@@ -98,7 +98,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -114,7 +114,7 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -163,19 +163,19 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-access-10-free-thumbnail-downloader-apps/"><u>[New] 2024 Approved Access 10 Free Thumbnail Downloader Apps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-engage-grow-and-rise-triple-threat-tactics-for-facebook-pages/"><u>[Updated] Engage, Grow, and Rise Triple Threat Tactics for Facebook Pages</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquering-soundless-skirmishes-in-call-of-duty-warzone-expert-tips-players/"><u>Conquering Soundless Skirmishes in Call of Duty: Warzone - Expert Tips Players</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-essentials-for-elevated-gopro-usage/"><u>Expert Essentials for Elevated GoPro Usage</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-mbox-2-driver-software-for-windows-with-easy-installation-steps/"><u>Get the Latest MBox 2 Driver Software for Windows with Easy Installation Steps</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-7-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 7?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-11-pro-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 11 Pro Activation Lock</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-oneplus-12r-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in OnePlus 12R for Streaming | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-fresh-drivers-enhanced-support-for-tp-link-ac-nics-on-windows-7-8-and-11/"><u>Install Fresh Drivers: Enhanced Support for TP-Link Ac NICs on Windows 7, 8 & 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-logitech-advanced-customizable-2-ac2-configuration-tools-on-windows-computers/"><u>Install Logitech Advanced Customizable 2 (AC2) Configuration Tools on Windows Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-canon-ip110-software-update-and-drivers-for-multiple-windows-versions/"><u>Latest Canon IP110 Software Update and Drivers for Multiple Windows Versions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revealing-the-secrets-behind-lgs-high-definition-monitoring/"><u>Revealing the Secrets Behind LG’s High-Definition Monitoring</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-hidden-in-win11-finding-missing-controls/"><u>Uncover the Hidden in Win11: Finding Missing Controls</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-11-nvidia-geforce-210-drivers/"><u>Windows 11에서 향상된 성능: NVIDIA GeForce 210 Drivers 업데이트를 실시하세요!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-audigy-fx-sound-card-drivers-boost-your-audio-experience/"><u>[Free Download] AUDIGY FX Sound Card Drivers - Boost Your Audio Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speedy-iphone-timelapses-made-simple/"><u>[New] Speedy iPhone Timelapses Made Simple</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treamlining-slides-integrating-youtube-content/"><u>[New] Streamlining Slides Integrating YouTube Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-instant-best-picture-viewer-pro/"><u>[Updated] In 2024, Instant Best Picture Viewer Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-essential-ios-strategy-for-instagram-saving/"><u>[Updated] In 2024, The Essential iOS Strategy for Instagram Saving</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-printer-software-on-your-windows-pc/"><u>Download & Install HP Printer Software on Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-linksys-ea8300-driver-download-and-setup-instructions-secure-and-speedy-connection/"><u>Easy Linksys EA8300 Driver Download & Setup Instructions | Secure & Speedy Connection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-to-overcome-audio-playback-errors-solving-dts-not-available-issues/"><u>Expert Tips to Overcome Audio Playback Errors - Solving 'DTS Not Available' Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-gaming-edge-with-the-latest-geforce-rtx-3090-drivers-for-winwin-8-and-7-pcs/"><u>Keep Your Gaming Edge with the Latest GeForce RTX 3090 Drivers for Win/Win 8 & 7 PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-microphones-selection-for-uncompromised-4k-clarity/"><u>Leading Microphones Selection for Uncompromised 4K Clarity</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/personalized-smart-assistance-which-fits-you-best-alexa-or-google-assistant/"><u>Personalized Smart Assistance: Which Fits You Best, Alexa or Google Assistant?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/quickening-instagram-video-streams-on-mobile-devices-for-2024/"><u>Quickening Instagram Video Streams on Mobile Devices for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-and-download-epson-et-3760-print-driver-for-windows-a-comprehensive-tutorial/"><u>Update & Download Epson ET-3760 Print Driver for Windows: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-poco-f5-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Poco F5 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

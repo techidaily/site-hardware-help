@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review by ZDNet"
-date: 2025-01-27T20:01:02.029Z
-updated: 2025-01-30T16:40:50.074Z
+date: 2025-02-07T23:20:08.331Z
+updated: 2025-02-11T22:17:23.050Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,17 +116,17 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-harmonizing-history-best-theme-songs-in-anime/"><u>[New] 2024 Approved Harmonizing History Best Theme Songs in Anime</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-detailed-look-into-youtubes-featured-community-dialogue/"><u>[New] In 2024, Detailed Look Into YouTube's Featured Community Dialogue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ai-innovation-showcase-at-the-abbyy-summit-pioneering-the-next-era-of-intelligence/"><u>AI Innovation Showcase at the ABBYY Summit: Pioneering the Next Era of Intelligence</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/air-drop-apple-slashes-price-of-m2-macbook-air-to-just-799-ahead-of-octobers-exclusive-prime-deals-revealed-experts/"><u>Air Drop: Apple Slashes Price of M2 MacBook Air to Just $799 Ahead of October's Exclusive Prime Deals, Revealed Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-picture-messaging-services-2024s-top-picks/"><u>Best Picture Messaging Services: 2024'S Top Picks</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-xr21-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia XR21 Quickly | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-unveils-the-groundbreaking-envy-x360-the-worlds-first-laptop-certified-by-imax-but-read-on-for-exceptional-insights/"><u>HP Unveils the Groundbreaking Envy X360 - The World's First Laptop Certified by IMAX, But Read on for Exceptional Insights!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-reimagine-fuzzy-images-selecting-the-ultimate-10-internet-tools/"><u>In 2024, Reimagine Fuzzy Images Selecting the Ultimate 10 Internet Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-collection-free-3d-text-psds-galore/"><u>Ultimate Collection FREE 3D Text PSDs Galore</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unboxing-the-revolutionary-lg-gram-pro-17-a-featherlight-powerhouse-perfect-for-prime-day-deals-exclusive-review/"><u>Unboxing the Revolutionary LG Gram Pro 17: A Featherlight Powerhouse Perfect for Prime Day Deals - Exclusive Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unmatched-display-quality-at-a-bargain-the-ultra-portable-laptop-you-cant-miss-on-sale-today-techspot/"><u>Unmatched Display Quality at a Bargain: The Ultra-Portable Laptop You Can't Miss - On Sale Today | TechSpot</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-twitch-content-integration-boosting-engagement-with-fb-sharing/"><u>[New] In 2024, Twitch Content Integration Boosting Engagement with FB Sharing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlocking-potential-solving-common-youtube-short-problems/"><u>[New] Unlocking Potential Solving Common YouTube Short Problems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-essential-blueprint-setting-up-your-first-xbox-recorder-for-2024/"><u>[Updated] The Essential Blueprint Setting Up Your First Xbox Recorder for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-essential-guide-broadcast-360-videos-on-facebook/"><u>2024 Approved Essential Guide Broadcast 360 Videos on Facebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-list-of-text-tools-and-plugins/"><u>2024 Approved Ultimate List of Text Tools & Plugins</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-drivers-for-hp-color-laserjet-pro-multi-function-printer-m477/"><u>Download Drivers for HP Color LaserJet Pro Multi-Function Printer M477</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-graphics-card-guide-addressing-csr8510-a10-driver-errors-on-your-pc-solutions-included/"><u>Intel Graphics Card Guide: Addressing CSR8510 A10 Driver Errors on Your PC – Solutions Included</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-drivers-available-connect-your-epson-xp-245-with-windows-7-8-and-10-systems/"><u>Latest Drivers Available: Connect Your Epson XP-245 with Windows 7, 8 & 10 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-brio-webcam-driver-downloads-for-windows-users-compatible-with-version-10-8-and-7/"><u>Logitech Brio Webcam Driver Downloads for Windows Users – Compatible with Version 10, 8 & 7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneers-of-possibilities-the-leading-6-in-artistic-realms/"><u>Pioneers of Possibilities The Leading 6 in Artistic Realms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/plate-tectonics-explains-the-movement-of-earths-lithospheric-plates-which-can-cause-metamorphism/"><u>Plate Tectonics Explains the Movement of Earth's Lithospheric Plates, Which Can Cause Metamorphism.</u></a></li>
 </ul></div>
 

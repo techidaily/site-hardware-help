@@ -1,7 +1,7 @@
 ---
 title: Unlocking Versatility and Portability with a Surprisingly Competent 8-in-1 Charger - Exclusive Review by ZDNET
-date: 2025-01-23T20:06:00.264Z
-updated: 2025-01-30T19:56:58.380Z
+date: 2025-02-07T16:51:41.459Z
+updated: 2025-02-12T00:53:22.971Z
 tags:
   - laptops
 categories:
@@ -44,6 +44,10 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 ---
@@ -68,7 +72,7 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -76,10 +80,6 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -108,6 +108,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | Photo 3                      | 0:17     |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
 
@@ -151,10 +155,6 @@ Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 **A USB-C port on the right side:** With the M3 MacBook Air becoming more and more of a pro-capable laptop, the biggest thing that it needs is more expansion ports. The two USB-C 4 / Thunderbolt 3 ports limit the amount of pro-level things you can do with the machine without using cumbersome expansion docks and hubs. The fact that both of the USB-C ports are on the left side can also be awkward and inconvenient at times. Apple could solve both problems by simply adding one more USB-C port to the right side of the M3 MacBook Air. 
@@ -172,7 +172,7 @@ Jason Hiner/ZDNET
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9d7a976-2d13-4b45-813c-13ccc3ba0f0e%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9d7a976-2d13-4b45-813c-13ccc3ba0f0e%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -186,7 +186,7 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -235,24 +235,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/op-10-guides-for-crafting-stellar-music-reactions-on-youtube/"><u>[New] Top 10 Guides for Crafting Stellar Music Reactions on YouTube</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-efficient-ways-to-delete-previewed-content-from-youtubes-queue/"><u>[Updated] Efficient Ways to Delete Previewed Content From YouTube's Queue</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-unmissable-worlds-that-define-gaming/"><u>[Updated] In 2024, Unmissable Worlds That Define Gaming</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-7-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 7 When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-lava-storm-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Lava Storm 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/beyond-copycat-top-5-googles-new-ai-enhancements-for-chromebooks-unveiled/"><u>Beyond Copycat: Top 5 Google's New AI Enhancements for Chromebooks Unveiled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-x90s-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo X90S Phone? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-increase-your-instagram-audience/"><u>Effective Techniques to Increase Your Instagram Audience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-new-features-in-samsunger-copilotplus-pc-with-cutting-edge-ai-spotlight/"><u>Exploring the New Features in Samsung'er Copilot+ PC with Cutting-Edge AI | Spotlight</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/facile-soluzione-per-identificare-e-risolvere-i-problemi-delliphone-da-solo/"><u>Facile Soluzione per Identificare E Risolvere I Problemi Dell'iPhone Da Solo</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-choice-optimal-free-srt-translation-services/"><u>In 2024, Mastering Choice Optimal Free SRT Translation Services</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/laptop-reviews-the-stunning-and-durable-device-that-surpassed-all-others-on-our-tests-exclusive-scoop-from-zdnet/"><u>Laptop Reviews: The Stunning and Durable Device That Surpassed All Others on Our Tests - Exclusive Scoop From ZDNet!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/massive-savings-alert-acer-chromebook-with-intel-pentium-n4040-at-staples-for-150-off/"><u>Massive Savings Alert! Acer Chromebook with Intel Pentium N4040 at Staples for $150 Off</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionize-your-tech-budget-the-499-lenovo-chromebook-plus-a-smart-investment-compared-to-expensive-laptops-zdnet/"><u>Revolutionize Your Tech Budget: The $499 Lenovo Chromebook Plus - A Smart Investment Compared to Expensive Laptops | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-prime-day-electronics-bargains-best-laptops-to-buy-before-black-friday-zdnet-guide/"><u>Top Prime Day Electronics Bargains: Best Laptops to Buy Before Black Friday - ZDNET Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-comprehensive-reviews-by-tech-experts/"><u>Top Rated Laptops : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unleash-the-potential-of-pip-in-microsoft-edge-browser/"><u>Unleash the Potential of PIP in Microsoft Edge Browser</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-productivity-the-top-2023-2-in-1-device-with-a-hidden-gem-for-professionals-techadvisor/"><u>Unlocking Productivity: The Top 2023 2-in-1 Device with a Hidden Gem for Professionals | TechAdvisor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-perfect-lenovo-machine-for-hybrid-professionals-save-big-with-our-suggested-1000-off-deal-featured-on-zdnet/"><u>Unveiling the Perfect Lenovo Machine for Hybrid Professionals: Save Big with Our Suggested $1,000 Off Deal – Featured on ZDNET</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-your-ultimate-guide-to-samsungs-best-gear-vr-games/"><u>[New] In 2024, Your Ultimate Guide to Samsung's Best Gear VR Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ini-youtube-content-explained-for-2024/"><u>[New] Mini YouTube Content Explained for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-hd-7700-graphics-driver-download-and-updates-easily/"><u>AMD Radeon HD 7700 Graphics Driver Download & Updates Easily</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-deal-on-tv-support-cheetahs-arms-advantage/"><u>Best Deal on TV Support: Cheetah's Arms Advantage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-now-the-most-compatible-version-of-easycap-drivers-for-all-systems/"><u>Download Now: The Most Compatible Version of EasyCAP Drivers for All Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ready-to-be-wowed-by-the-best-chef-themed-tv-show-collection-on-netflix/"><u>Get Ready to Be Wowed by the Best Chef-Themed TV Show Collection on Netflix</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-corsair-k55-driver-software-here/"><u>Get the Newest Corsair K55 Driver Software Here!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-changing-video-pace-on-your-instagram-feed/"><u>In 2024, Changing Video Pace on Your Instagram Feed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-epson-workforce-ds-series-printer-drivers-windows-11-8-or-7-supported/"><u>Install Epson WorkForce DS Series Printer Drivers: Windows 11, 8, or 7 Supported</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-driver-updates-a-razer-blade-letes-guide-from-windows-7-to-11/"><u>Mastering Driver Updates: A Razer Blade Lete's Guide From Windows 7 to 11</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-a15-4g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A15 4G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smooth-surfaces-from-stability-handheld-tech-for-pros/"><u>Smooth Surfaces From Stability Handheld Tech for Pros</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-choice-handheld-cameras-with-image-control/"><u>Top Choice Handheld Cameras with Image Control</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultra-reliable-tt560-flash-photography-made-simple/"><u>Ultra-Reliable TT560: Flash Photography Made Simple</u></a></li>
 </ul></div>
 

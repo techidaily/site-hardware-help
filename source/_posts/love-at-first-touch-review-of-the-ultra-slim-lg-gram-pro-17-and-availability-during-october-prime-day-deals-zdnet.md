@@ -1,7 +1,7 @@
 ---
 title: "Love at First Touch: Review of the Ultra-Slim LG Gram Pro 17 & Availability During October Prime Day Deals - ZDNet"
-date: 2025-01-29T18:58:33.033Z
-updated: 2025-01-30T20:00:11.335Z
+date: 2025-02-09T16:44:59.167Z
+updated: 2025-02-11T22:59:36.414Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -84,7 +88,7 @@ Asus/ZDNET
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
@@ -96,7 +100,7 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
@@ -113,6 +117,10 @@ Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -137,31 +145,23 @@ Kyle Kucharski/ZDNET
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When will these deals expire?
 
@@ -230,18 +230,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-guide-to-top-instagram-metrics-monitors-for-ambitious-marketers/"><u>[Updated] 2024 Approved The Guide to Top Instagram Metrics Monitors for Ambitious Marketers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/100-discount-on-the-ultimate-sound-experience-top-speaker-set-from-best-buy-reviewed-by-zdnet/"><u>$100 Discount on the Ultimate Sound Experience – Top Speaker Set From Best Buy, Reviewed by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/2024s-ultimate-list-of-windows-laptops-tested-reviewed-and-ranked-by-professionals/"><u>2024'S Ultimate List of Windows Laptops - Tested, Reviewed & Ranked by Professionals</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728504987151-404/"><u>404誤承解:ウェブサイト上のページ不在について</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ngs-analysis-youtube-views-vs-financial-gain-for-2024/"><u>Earnings Analysis YouTube Views vs Financial Gain for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-steps-to-access-and-join-wireless-networks-using-microsofts-control-panel-guidance-from-yl-software-experts/"><u>Easy Steps to Access and Join Wireless Networks Using Microsoft's Control Panel - Guidance From YL Software Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-leveraging-secondary-footage-for-enhanced-storytelling/"><u>In 2024, Leveraging Secondary Footage for Enhanced Storytelling</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/love-at-first-click-exploring-the-features-of-the-newly-released-lg-gram-17-available-now-for-amazons-october-prime-deals/"><u>Love at First Click: Exploring the Features of the Newly Released LG Gram 17 - Available Now for Amazon's October Prime Deals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-quick-photo-collage-with-google-images-in-minutes/"><u>Master Quick Photo Collage with Google Images in Minutes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-ringtones-on-ios-a-comprehensible-process-for-2024/"><u>Mastering Ringtones on iOS A Comprehensible Process for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-unbeatable-discounts-now-for-the-anticipated-october-2024-prime-day-deals-at-best-buy-zdnet-exclusive-insights/"><u>Secure Unbeatable Discounts Now for the Anticipated October 2024 Prime Day Deals at Best Buy | ZDNET Exclusive Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-best-ssds-for-gamers-on-pc-ps5-and-xbox-insights/"><u>Ultimate Guide to the Best SSDs for Gamers on PC, PS5, and Xbox | Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unparalleled-portability-top-ranking-ultrabook-elevates-productivity-for-telecommuters-insights-from-a-seasoned-reviewer-zdnet/"><u>Unparalleled Portability: Top-Ranking Ultrabook Elevates Productivity for Telecommuters - Insights From a Seasoned Reviewer | ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-iphone-tips-free-techniques-to-incorporate-music-in-video-projects-for-2024/"><u>[New] IPhone Tips Free Techniques to Incorporate Music in Video Projects for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/complete-audio-solution-for-incomplete-youtube-and-fb-sounds-for-2024/"><u>Complete Audio Solution for Incomplete YouTube and FB Sounds for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-today-the-essential-hp-officejet-pro-7520-printer-software-package/"><u>Download Today: The Essential HP OfficeJet Pro 7520 Printer Software Package</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976359599-easy-installation-of-rtl8188cu-driver-software-for-wireless-network-adapters-on-win-10-7-download-instantly/"><u>Easy Installation of RTL8188CU Driver Software for Wireless Network Adapters on Win 10, 7 - Download Instantly!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-peak-performance-with-updated-drivers-for-the-msi-gs65-on-your-pc/"><u>Ensure Peak Performance with Updated Drivers for the MSI GS65 on Your PC</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/guida-sicura-e-semplice-per-eseguire-il-backup-di-file-su-windows-server-nas-e-qnap-un-approccio-fattibile/"><u>Guida Sicura E Semplice per Eseguire Il Backup Di File Su Windows Server, NAS, E QNAP: Un Approccio Fattibile</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-itel-a60s-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s21-fe-5g-2023-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-and-install-new-drivers-for-your-nvidia-quadro-rtx-4000-graphics-card/"><u>How to Easily Update and Install New Drivers for Your NVIDIA Quadro RTX 4000 Graphics Card</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-toshiba-nb205-s746-dynadock-windows-driver-software-and-upgrade-instructions/"><u>Latest Toshiba NB205-S746 DynaDock Windows Driver Software and Upgrade Instructions</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/losungen-finden-warum-ihr-computer-uber-nacht-ausfallt-and-nicht-wieder-startet-erfahre-die-8-bewahrten-schritte/"><u>Lösungen Finden: Warum Ihr Computer Über Nacht Ausfällt & Nicht Wieder Startet - Erfahre Die 8 Bewährten Schritte!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-the-art-of-refreshing-your-pcs-graphic-capabilities-in-windows-11-a-beginner-friendly-guide/"><u>Master the Art of Refreshing Your PC's Graphic Capabilities in Windows 11: A Beginner-Friendly Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transcodificar-3gpp-para-archivos-de-audio-wma-en-linea-sin-costo-con-movavi/"><u>Transcodificar 3GPP Para Archivos De Audio WMA en Línea Sin Costo Con Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-newest-drivers-for-your-msi-x470-motherboard-today/"><u>Update to the Newest Drivers for Your MSI X470 Motherboard Today</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-make-a-fake-face-online-for-free-top-rated-tools/"><u>Updated Make a Fake Face Online for Free Top Rated Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/xbox-360-gamepad-drivers-free-downloads-available/"><u>Xbox 360 Gamepad Drivers: Free Downloads Available</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Snag the Discounted 8TB Samsung Portable SSD - Save 36%% on Amazon (ZDNet Coverage)"
-date: 2025-01-25T18:37:03.294Z
-updated: 2025-01-30T16:17:22.258Z
+date: 2025-02-09T01:05:15.674Z
+updated: 2025-02-11T22:59:26.607Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C644e744e-f948-4ca0-93ee-dbb5acfc4ea1%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,16 +65,18 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rom-lengthy-video-to-captivating-animation-create-gifs-with-ease-for-2024/"><u>[New] From Lengthy Video to Captivating Animation - Create Gifs with Ease for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-easy-start-exploring-vectors-world-essentials-and-tools/"><u>[Updated] 2024 Approved Easy Start Exploring Vectors' World - Essentials & Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/average-earnings-in-the-world-of-podcasting-for-2024/"><u>Average Earnings in the World of Podcasting for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-computer-resurrects-past-technological-phenomenon-and-sparks-vibrant-industry-debate-insights/"><u>Budget-Friendly Computer Resurrects Past Technological Phenomenon and Sparks Vibrant Industry Debate | Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-frustration-expert-tips-for-correcting-the-0xc000012f-error-in-windows-instantly/"><u>Bypassing Frustration: Expert Tips for Correcting the 0Xc000012f Error in Windows Instantly</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-ready-for-festive-savings-discover-the-ultimate-selection-of-hp-discounts-on-zdnet/"><u>Get Ready For Festive Savings: Discover the Ultimate Selection of HP Discounts on ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-strands-the-nyts-latest-addicting-word-game/"><u>How to Play Strands, the NYT's Latest Addicting Word Game</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-securely-erase-all-personal-information-from-your-windows-laptop-a-step-by-step-guide-completely-gratis/"><u>How to Securely Erase All Personal Information From Your Windows Laptop: A Step-by-Step Guide, Completely Gratis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-alternative-to-macbook-air-discover-a-powerful-and-affordable-windows-laptop-that-rivals-apples-offering/"><u>Top-Rated Alternative to MacBook Air: Discover a Powerful and Affordable Windows Laptop That Rival's Apple's Offering</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unraveled-reviews-discover-why-the-viral-tangle-free-usb-c-cable-is-essential-tech-gear-for-your-backpack-adventures/"><u>Unraveled Reviews: Discover Why the Viral 'Tangle-Free' USB-C Cable Is Essential Tech Gear for Your Backpack Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-superior-mac-gif-enhancer-for-2024/"><u>[Updated] Superior Mac GIF Enhancer for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-10-best-action-cameras-for-diving-or-snorkelling/"><u>[Updated] Top 10 Best Action Cameras For Diving Or Snorkelling</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-s24plus-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy S24+ Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-hp-scanjet-printer-drivers-compatible-with-all-recent-versions-of-windows/"><u>Download Updated HP Scanjet Printer Drivers Compatible with All Recent Versions of Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722979058917-easy-access-to-newest-amd-radeon-rx-480-graphic-driver-releases/"><u>Easy Access to Newest AMD Radeon RX 480 Graphic Driver Releases.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-latest-free-drivers-realtek-pcie-controller-family-windows-11-ready/"><u>Get Your Hands on the Latest Free Drivers: Realtek PCIe Controller Family - Windows 11 Ready.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-lenovo-x1-carbon-drivers-on-your-pc-for-windows-1011-and-7-without-hassle/"><u>How to Get Lenovo X1 Carbon Drivers on Your PC for Windows 10/11 & 7 Without Hassle</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-obtain-and-apply-asus-dvd-driver-updates/"><u>How to Securely Obtain and Apply ASUS DVD Driver Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expanding-horizons-with-vr-filmmaking/"><u>In 2024, Expanding Horizons with VR Filmmaking</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oneplus-nord-ce-3-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on OnePlus Nord CE 3 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/step-into-leadership-role-comprehensive-guide-and-review-of-powerdirector/"><u>Step Into Leadership Role - Comprehensive Guide & Review of PowerDirector</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-art-of-modern-reading-how-the-2019-kindle-oasis-transforms-e-books-to-feel-just-like-real-pages/"><u>The Art of Modern Reading: How the 2019 Kindle Oasis Transforms E-Books to Feel Just Like Real Pages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-most-recent-generic-bluetooth-adapter-driver-optimized-for-windows-operating-systems/"><u>Update to the Most Recent Generic Bluetooth Adapter Driver – Optimized for Windows Operating Systems</u></a></li>
 </ul></div>
 

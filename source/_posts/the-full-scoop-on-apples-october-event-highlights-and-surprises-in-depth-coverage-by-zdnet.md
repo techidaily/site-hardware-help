@@ -1,7 +1,7 @@
 ---
 title: The Full Scoop on Apple’s October Event Highlights and Surprises | In-Depth Coverage by ZDNET
-date: 2025-01-25T18:23:45.022Z
-updated: 2025-01-30T17:20:58.303Z
+date: 2025-02-08T01:08:22.888Z
+updated: 2025-02-11T18:17:22.146Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ If the low battery life wasn't enough, the computer has a tendency to run hot. W
 Even during regular use, the keyboard retained some heat, although not nearly as bad as during heavy gaming. The cooling vents are located on the bottom, so it seems the heat gets trapped underneath.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,19 +120,14 @@ If you looking for a portable gaming laptop, the Blade 14 is a middle-tier optio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-direct-save-plus-alternative-pathways-your-instagram-video-guide/"><u>[New] In 2024, Direct Save + Alternative Pathways Your Instagram Video Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-guide-to-lenovos-screen-recording-process/"><u>[Updated] 2024 Approved Guide to Lenovo's Screen Recording Process</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-how-to-produce-eye-catching-and-informative-videos-for-education-channels/"><u>[Updated] In 2024, How to Produce Eye-Catching and Informative Videos for Education Channels</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-pro-photo-and-video-with-gopro-hero5-black-mastery-essentials/"><u>[Updated] Pro Photo & Video with GoPro Hero5 Black Mastery Essentials</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-work-efficiency-with-a-deal-on-the-flip-out-laptop-screen-save-93-during-amazon-prime-day/"><u>Boost Your Work Efficiency with a Deal on the Flip-Out Laptop Screen - Save $93 During Amazon Prime Day!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/charting-a-course-for-successful-digital-restoration-vishakhas-perspective/"><u>Charting a Course for Successful Digital Restoration: Vishakha's Perspective</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-listening-tech-for-switch-games/"><u>Elite Listening Tech for Switch Games</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-access-the-topmost-sale-bargains-of-octobers-prime-day-currently-open-shop-now/"><u>Exclusive Access: The Topmost Sale Bargains of October's Prime Day - Currently Open Shop Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-cyber-monday-offer-on-lenovo-chromebooks-for-just-79-dont-miss-out-limited-stock-available-zdnet-insider-tips/"><u>Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available | ZDNET Insider Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-review-of-lenovo-thinkpad-x1n-unleashing-power-in-an-arm-based-ultraportable-with-5g-and-exceptional-battery-duration/"><u>Exclusive Review of Lenovo ThinkPad X1n : Unleashing Power in an Arm-Based Ultraportable with 5G & Exceptional Battery Duration</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionizing-the-workspace-how-lenovos-latest-ai-thinkpads-are-designed-to-meet-modern-business-demands-zdnet/"><u>Revolutionizing the Workspace: How Lenovo's Latest AI ThinkPads Are Designed to Meet Modern Business Demands | ZDNet</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/section-3d-five-factays-with-solutions/"><u>Section 3D: Five Factays with Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-pcs-cpu-drivers-on-windows-operating-systems/"><u>Step-by-Step Guide: Updating Your PC's CPU Drivers on Windows Operating Systems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhance-visual-storytelling-top-4-strategies-for-looped-videos-in-instagram/"><u>[New] 2024 Approved Enhance Visual Storytelling Top 4 Strategies for Looped Videos in Instagram</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-seamless-quick-conversions-best-free-tools-transforming-gif/"><u>[Updated] Seamless, Quick Conversions Best Free Tools Transforming GIF</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-gradual-decrease-of-audio-loudness-in-fl-studio/"><u>2024 Approved Tips for Gradual Decrease of Audio Loudness in FL Studio</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-motherboard-firmware-update-made-easy-a-step-by-step-process/"><u>ASUS Motherboard Firmware Update Made Easy: A Step-by-Step Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964851320-eveo-bluetooth-receiver-get-the-latest-driver-here/"><u>EVEO Bluetooth Receiver - Get the Latest Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-3830-driver-download-for-windows-step-by-step-tutorial-included/"><u>HP Officejet 3830 Driver Download for Windows - Step-by-Step Tutorial Included!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/red-planet-ruckus-enjoyably-chaotic-city-building-adventures-beyond-earths-boundaries/"><u>Red Planet Ruckus: Enjoyably Chaotic City-Building Adventures Beyond Earth's Boundaries</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-3-methods-for-creating-an-iso-image-from-a-dvd-on-your-mac-including-big-sur/"><u>Top 3 Methods for Creating an ISO Image From a DVD on Your Mac: Including Big Sur</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrading-performance-driver-downloads-and-updates-for-geforce-gtx-1660-super/"><u>Upgrading Performance: Driver Downloads & Updates for GeForce GTX 1660 SUPER</u></a></li>
 </ul></div>
 

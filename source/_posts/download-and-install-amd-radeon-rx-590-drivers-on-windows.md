@@ -1,7 +1,7 @@
 ---
 title: Download & Install AMD Radeon RX 590 Drivers on Windows
-date: 2024-08-19T10:52:29.438Z
-updated: 2024-08-20T10:52:29.438Z
+date: 2025-02-11T01:24:45.696Z
+updated: 2025-02-11T22:47:50.088Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
  By updating the drivers for your HP Elitebook 8460p, you can keep your laptop in good condition and avoid many unexpected computer issues.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **There are two methods to download the drivers for your HP Elitebook 8460p:**
 
 [**Method 1 – Manually:**](https://tools.techidaily.com/drivereasy/download/) You can download and update the drivers for your HP Elitebook 8460p on your own. This requires some time, patience, and sometimes even computer skills.
@@ -32,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is**much quicker and easier** .**All** you need to do is**just a couple of mouse clicks** !
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Download and update the drivers for your HP Elitebook 8460p manually
 
  You can download the updated driver files from the official website of HP. Then install them on your laptop on your own. Here is how to do it:
@@ -45,21 +43,17 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 2. On the top of the web page, click**Support** . Then click**Software & drivers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap539.png)
 3. Select**Laptop** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap543-1.png)
 4. Click**Let HP detect your product** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap544.png)
 5. If HP detected your product, follow the on-screen instructions to download the drivers for your HP Elitebook 8460p. If it failed, then click**Find out more** next to**Let HP detect your product** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap545-1.png)
 6. In the search bar, type **HP Elitebook 8460p** and click**the search button** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap546.png)
 7. Click**Software and Drivers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap547-1.png)
@@ -68,11 +62,21 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 9. If you want to download a single driver, just click the**Download** button next to that driver; if you want to download multiple drivers, you need to click**the add-to-download-list button** to add then to the download list first. After that, click**Open download list** view the download list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap549.png)
 10. Click**Download files** to download the drivers in the list.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap550.png)
 11. When it is finished, you need to**double-click** each downloaded driver file and follow the on-screen instructions to install them on your laptop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your HP Elitebook 8460p automatically
 
@@ -82,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap551.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap552.png)  
@@ -103,8 +104,6 @@ Please leave your comment below if you have any questions or suggestions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +111,18 @@ Please leave your comment below if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ten-pillars-of-meme-creation/"><u>[New] The Ten Pillars of Meme Creation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-msi-audio-driver-for-optimal-windows-experience/"><u>Download and Install Latest MSI Audio Driver for Optimal Windows Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-hp-officejet-pro-8600-printer-driver-for-windows-pcs/"><u>Download the HP Officejet Pro 8600 Printer Driver for Windows PCs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/harnessing-the-power-of-burst-mode-for-dynamic-videos-for-2024/"><u>Harnessing the Power of Burst Mode for Dynamic Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparative-study-samsung-vs-traditional-photo-tools/"><u>In 2024, Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-logitech-hd-c270-driver-update-for-windows-11-users/"><u>Installation Guide: Logitech HD C270 Driver Update for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-downloads-free-ft2er-usbuart-bridge-drivers-for-your-pc/"><u>Instant Downloads: Free FT2er USB/UART Bridge Drivers for Your PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-markets-the-top-4-innovative-meta-solutions/"><u>Mastering Markets: The Top 4 Innovative Meta Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994286282-xbox-one-users-no-longer-face-issues-with-netflix-all-systems-go/"><u>Xbox One Users No Longer Face Issues with Netflix - All Systems Go!</u></a></li>
+</ul></div>
 

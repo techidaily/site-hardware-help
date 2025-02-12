@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart with ZDNet"
-date: 2025-01-29T16:32:04.063Z
-updated: 2025-01-30T18:42:43.538Z
+date: 2025-02-10T17:04:48.590Z
+updated: 2025-02-12T05:11:12.793Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,16 +81,19 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-discover-the-leading-livestream-service-sites/"><u>[New] Discover the Leading Livestream Service Sites</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-evolving-tactics-for-crafting-immersive-mukbang-sessions/"><u>[New] In 2024, Evolving Tactics for Crafting Immersive Mukbang Sessions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/500-discount-top-ranking-gaming-laptop-exclusively-offered-this-october-prime-day-dont-miss-out/"><u>$500 Discount: Top-Ranking Gaming Laptop Exclusively Offered This October Prime Day - Don't Miss Out!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-innovations-best-vr-tech-for-drones/"><u>2024 Approved Top Innovations Best VR Tech for Drones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-exclusive-get-the-apple-m2-macbook-air-for-749-less-find-more-details-latest-report/"><u>Amazon Prime Day Exclusive: Get the Apple M2 MacBook Air for $749 Less! Find More Details Latest Report</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-laughing-alongside-the-metaverse-diy-humor-tips-and-tricks/"><u>In 2024, Laughing Alongside the Metaverse DIY Humor Tips & Tricks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-proven-techniques-to-elevate-your-igtv-videos-on-mobile-and-professional-cameras/"><u>In 2024, Proven Techniques to Elevate Your IGTV Videos on Mobile & Professional Cameras</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-guide-step-by-step-process-to-install-exodus-add-on-in-kodi/"><u>Simple Guide: Step-by-Step Process to Install Exodus Add-On in Kodi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-the-ultimate-deal-get-metas-512gb-quest-3-vr-headset-for-half-price-this-october-exclusive-insight-from-zdnet/"><u>Snag the Ultimate Deal: Get Meta's 512GB Quest 3 VR Headset for Half Price This October – Exclusive Insight From ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-reverting-from-windows-11-back-to-windows-10-with-essential-considerations-insights/"><u>Step-by-Step Guide: Reverting From Windows 11 Back to Windows 10 with Essential Considerations - Insights</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-scanner-clarity-why-are-your-scanned-images-turning-out-fuzzy-exploring-solutions-with-yl-software/"><u>Understanding Scanner Clarity: Why Are Your Scanned Images Turning Out Fuzzy? Exploring Solutions with YL Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-insiders-guide-maximizing-windows-11-efficiency/"><u>[Updated] Insider's Guide Maximizing Windows 11 Efficiency</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-full-potential-of-video-creation-with-vida/"><u>2024 Approved Unlocking the Full Potential of Video Creation with Vida</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-acer-monitor-driver-downloads-for-optimal-performance/"><u>Complete Acer Monitor Driver Downloads for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/driver-fixes-installed-addressing-compatibility-for-xbox-controllers-in-windows-os-versions-10-8-and-7/"><u>Driver Fixes Installed! Addressing Compatibility for Xbox Controllers in Windows OS Versions 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-download-hps-laserjet-pro-m127fn-printer-drivers-now/"><u>Easy Installation: Download HP's Laserjet Pro M127FN Printer Drivers Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-brother-mfc-7360n-printer-software-for-windows-11-8-and-7/"><u>Effortless Installation: Brother MFC-7360N Printer Software for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-mobile-entertainment-emulating-dreamcatcher-games-on-android/"><u>Enhance Mobile Entertainment: Emulating Dreamcatcher Games on Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-on-getting-your-samsung-blu-ray-disc-player-back-up-and-running/"><u>Expert Advice on Getting Your Samsung Blu-Ray Disc Player Back Up and Running</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prodigious-editing-power-utilizing-inshot-on-devices/"><u>In 2024, Prodigious Editing Power Utilizing Inshot on Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-3-best-nintendo-switch-emulators-you-can-find/"><u>In 2024, Top 3 Best Nintendo Switch Emulators You Can Find</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ios-1-release-highlights-include-enhanced-podcast-functionality-fresh-emojis-and-eu-specific-changes-for-the-apple-marketplace-gadget-digest/"><u>New iOS 1# Release Highlights Include Enhanced Podcast Functionality, Fresh Emojis, and EU-Specific Changes for the Apple Marketplace | Gadget Digest</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-how-to-install-or-upgrade-synaptics-touchpad-drivers-on-windows/"><u>Quick Guide: How to Install or Upgrade Synaptics Touchpad Drivers on Windows!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-effortless-battery-driver-updates-for-windows-users/"><u>Step-by-Step Tutorial: Effortless Battery Driver Updates for Windows Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-of-the-line-earbuds-face-off-galaxy-buds-vs-pixel-buds-vs-airpods-which-reigns-supreme/"><u>Top-of-the-Line Earbuds Face-Off: Galaxy Buds Vs. Pixel Buds Vs. AirPods – Which Reigns Supreme?</u></a></li>
 </ul></div>
 

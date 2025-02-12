@@ -1,7 +1,7 @@
 ---
 title: Save Power and Boost Performance with Google Chrome's Energy Saver Mode - Tips From ZDNet Experts
-date: 2025-01-28T17:25:53.452Z
-updated: 2025-01-30T17:40:42.633Z
+date: 2025-02-10T01:06:31.902Z
+updated: 2025-02-12T05:02:03.770Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Google
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -39,20 +39,20 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Energy Saver mode on Google Chrome
 
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements
 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
@@ -66,7 +66,7 @@ If you are not yet running version 108 or higher, you need to update.
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
@@ -94,7 +94,7 @@ Adrian Kingsley-Hughes/ZDNET
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
@@ -153,14 +153,18 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-camera-editing-showdown-hero-vs-cubes-battle-of-the-screens/"><u>[Updated] Camera Editing Showdown Hero Vs. Cube's Battle of the Screens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/749-apple-macbook-air-with-m2-chip-exclusive-offer-during-amazons-october-prime-day-dont-miss-outzdnet-news/"><u>$749 Apple MacBook Air with M2 Chip: Exclusive Offer During Amazon's October Prime Day – Don't Miss Out![ZDNet News]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/alienware-aurora-r13-gaming-system-sale-slash-up-to-350-off-with-us-at-zdnet/"><u>Alienware Aurora R13 Gaming System Sale - Slash Up To $350 Off with Us at ZDNet!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-deep-bass-discover-the-ultimate-speaker-system-at-half-price-in-store-and-online-exclusively-at-best-buy/"><u>Dive Into Deep Bass: Discover the Ultimate Speaker System at Half Price In-Store and Online, Exclusively at Best Buy!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/eliminate-sensitive-files-on-your-ios-device-the-best-software-for-complete-data-wipe-out/"><u>Eliminate Sensitive Files on Your iOS Device: The Best Software for Complete Data Wipe-Out</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-airpod-sounds-that-move-with-you-by-disabling-head-movement-feature/"><u>Fix AirPod Sounds That Move with You by Disabling Head Movement Feature</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-zero-5g-2023-turbo-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Zero 5G 2023 Turbo FRP?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-your-remote-and-office-tasks-with-our-top-pick-of-a-lenovo-laptop-at-an-exclusive-price-off-zdnet/"><u>Master Your Remote and Office Tasks with Our Top Pick of a Lenovo Laptop at an Exclusive Price Off | ZDNET</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-pc-issues-in-star-wars-jedi-fallen-order/"><u>Troubleshooting Steps for Fixing PC Issues in Star Wars Jedi: Fallen Order</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-firefoxs-picture-in-picture-capabilities/"><u>[Updated] Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-video-editing-journeys-end-discover-the-best-10-tools/"><u>[Updated] Video Editing Journey's End Discover the Best 10 Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accessing-cinema-bliss-installing-and-using-fandango-app-on-firestick-in-simple-steps/"><u>Accessing Cinema Bliss: Installing and Using Fandango App on Firestick in Simple Steps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/brighten-up-techniques-for-improving-video-lighting-on-youtube/"><u>Brighten Up Techniques for Improving Video Lighting on YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-drawing-experience-with-the-latest-driver-update-for-huion-h610-pro-graphics-pad/"><u>Enhance Your Drawing Experience with the Latest Driver Update for Huion H610 Pro Graphics Pad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-network-connection-with-updated-usb-30-gigabit-ethernet-driver-for-pcs/"><u>Enhance Your Network Connection with Updated USB 3.0 Gigabit Ethernet Driver for PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-video-chat-quality-updating-windows-10-webcam-drivers-made-easy/"><u>Improve Video Chat Quality: Updating Windows 10 Webcam Drivers Made Easy</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-v30t-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme V30T Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977508817-mastering-the-art-of-surface-book-driver-updates-a-hassle-free-approach/"><u>Mastering the Art of Surface Book Driver Updates: A Hassle-Free Approach!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-keep-your-epson-wf-7720-printer-drivers-up-to-date-on-windows-systems/"><u>Troubleshooting Tips: Keep Your Epson WF-7720 Printer Drivers Up-to-Date on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-installing-latest-zebra-zp450-driver-software-complete-steps-included/"><u>Ultimate Guide to Installing Latest Zebra ZP450 Driver Software (Complete Steps Included)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ering-youtubes-top-viewed-comments/"><u>Uncovering YouTube's Top Viewed Comments</u></a></li>
 </ul></div>
 

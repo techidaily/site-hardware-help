@@ -1,7 +1,7 @@
 ---
 title: Easily Install Targus Docking Station Software Now
-date: 2024-08-19T10:55:16.797Z
-updated: 2024-08-20T10:55:16.797Z
+date: 2025-02-10T00:21:18.131Z
+updated: 2025-02-11T16:41:13.093Z
 tags:
   - win11
   - win10
@@ -40,15 +40,12 @@ OR
  You can update your drivers automatically with either the**FREE**  or the**Pro**  version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap40.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus Docking Station driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -59,40 +56,45 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Manually update your Targus Docking Station driver
 
  If you feel like updating your Targus Docking Station driver manually, here’s the simple and useful guide for you.
 
 1. Find your way to the official website of[Targus](https://us.targus.com/) .
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. In the top right of this web page, click**Support** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-365.png)
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
 4. Type the**model name** or**serial number** of your Targus device into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your Docking Station.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-160.png)
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different based on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 10. In the**Device Manager** window, locate your Targus Docking Station and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
-11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -107,8 +109,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +116,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/download-upgrade-to-steelseries-engine-for-optimal-pc-gaming-on-windows-nt/"><u>[Download] Upgrade to SteelSeries Engine for Optimal PC Gaming on Windows nT</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insiders-look-at-top-earning-instagram-tactics/"><u>[Updated] 2024 Approved Insider's Look at Top Earning Instagram Tactics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-how-to-seamless-setup-of-ifunny-meme-toolkit/"><u>[Updated] How-To Seamless Setup of iFunny Meme Toolkit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-step-by-step-find-download-and-update-intel-ethernet-driver-on-your-pc-windows/"><u>Easy Step-by-Step: Find, Download & Update Intel Ethernet Driver on Your PC (Windows)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971145612-free-samsung-android-debug-bridge-adb-driver-software-get-it-now/"><u>Free Samsung Android Debug Bridge (ADB) Driver Software - Get It Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-toshiba-dynabook-drivers-installation-guide-for-windows-users/"><u>Get the Newest Toshiba Dynabook Drivers: Installation Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-updates-for-your-canon-mg3600-printer-drivers-today/"><u>Get the Newest Updates for Your Canon MG3600 Printer Drivers Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-asrock-ab350-pro4-drivers-at-no-cost-instant-installation-on-windows-devices/"><u>Get Your ASRock AB350 Pro4 Drivers at No Cost: Instant Installation on Windows Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-thrustmaster-t150-controller-drivers-swift-and-simple-download-process/"><u>Get Your Hands on Thrustmaster T150 Controller Drivers – Swift and Simple Download Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/handbrake-10-dvd/"><u>Handbrake 1.0系：ダウンロード・インストールから始める - DVDビデオ圧縮方法と日本語化</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-essential-8-srt-tools-for-streaming-media-files/"><u>In 2024, Essential 8 SRT Tools for Streaming Media Files</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-the-maze-of-youtube-endorsements-with-a-famebit-perspective/"><u>Navigating the Maze of YouTube Endorsements with a FameBit Perspective</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solution-high-temperature-resistant-plastics-like-ptfe-or-cross-linked-polyethylene-pex-would-be-appropriate-for-this-application/"><u>Solution: High-Temperature Resistant Plastics Like PTFE or Cross-Linked Polyethylene (PEX) Would Be Appropriate for This Application.</u></a></li>
+</ul></div>
 

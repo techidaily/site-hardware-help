@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reviews: Discover the Chromebook Dominating Long-Lasting Battery Life Uncontestably!"
-date: 2025-01-28T19:50:56.708Z
-updated: 2025-01-30T19:05:39.294Z
+date: 2025-02-08T17:19:59.968Z
+updated: 2025-02-11T19:15:05.521Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ When Chromebooks first arrived, it took a while for everyone to understand a dev
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -53,7 +53,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 **Also:** [**The 5 best Chromebooks for students**](https://www.zdnet.com/article/best-chromebook-for-students/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -70,7 +70,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 | Dimensions and weight | 356.58 (W) x 249.67 (D) x 21.3 (H) mm (14.04 x 9.83 x 0.84 inches) \| 3.75lbs                                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -104,6 +104,10 @@ The included charger is on the large side for a Chromebook power supply.
 Michael Gariffo/ZDNET
 
 While everything else about the Chromebook felt premium, the charger was contrastingly generic. It did its job of topping up the 65Wh, 9-hour battery well and quickly, but it's larger than you'd expect, and looked a bit dated compared with most other high-end Chromebook models. I opted to use a more compact 140W entry in the [Ugreen GaN charger line](https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/) during most of my testing. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Performance
 
@@ -150,7 +154,7 @@ Hopefully future updates will bring the performance of Xbox cloud gaming closer 
 [Acer Chromebook 516 GE $559.95 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1414639532&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -164,10 +168,6 @@ Just like all Chromebooks, gaming Chromebooks live or die on the quality of clou
 **Also: [Level up with the best gaming laptop deals](https://www.zdnet.com/article/best-gaming-laptop-deals/)**
 
 The saving grace here is that Acer and Nvidia have proven that cloud-based gaming is at the point where relatively inexpensive devices, like a high-end Chromebook, can compete with $1,000-plus machines, at least for just about everyone aside from ultra-competitive, first-person shooter fans. Now we just have to see how long it takes everyone else to catch up or surpass them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -213,24 +213,18 @@ Perhaps an odd fit as an alternative, but Valve's Steam Deck is a different take
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-views-with-optimal-youtube-thumbnails-and-ratios/"><u>[New] 2024 Approved Elevate Views with Optimal YouTube Thumbnails & Ratios</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavorful-footage-kitchen-film-making-101/"><u>[Updated] 2024 Approved Flavorful Footage Kitchen Film-Making 101</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-engage-viewers-with-an-effortless-youtube-animated-subscribe-button-using-filmora-for-2024/"><u>[Updated] Engage Viewers with an Effortless YouTube Animated Subscribe Button Using Filmora for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-list-the-7-most-immersive-global-conflict-sims/"><u>[Updated] In 2024, Ultimate List The 7 Most Immersive Global Conflict Sims</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/office-n365/"><u>高效储存Office N365共用邮箱中已送达邮件: 一步到位解决方案</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-amd-vega-graphics-driver-installation-and-updates-for-gaming-enthusiasts/"><u>Easy AMD Vega Graphics Driver Installation and Updates for Gaming Enthusiasts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortlessly-update-your-windows-device-with-the-latest-synaptics-drivers-heres-how/"><u>Effortlessly Update Your Windows Device with the Latest Synaptics Drivers – Here's How</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-handling-memory-glitch-in-call-of-duty-modern-warfare-3-error-12707-fixed/"><u>Expert Tips for Handling Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Fixed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/expressive-leadership-examination-refined-no-8/"><u>Expressive Leadership Examination - Refined No. 8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977075700-fixing-compatibility-issues-with-intel-hd-graphics-nvidia-on-your-windows-pc-solved/"><u>Fixing Compatibility Issues with Intel HD Graphics nVIDIA on Your Windows PC – Solved!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-windows-pc-ready-realtek-driver-downloads-for-w11w10win7-users/"><u>Get Your Windows PC Ready: Realtek Driver Downloads for W11/W10/Win7 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-your-toshibas-bluetooth-driver/"><u>How To Get Your Toshiba's Bluetooth Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-microsoft-comfort-keyboard-4000-software-fast-and-easy/"><u>Install Microsoft Comfort Keyboard 4000 Software Fast and Easy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-g2-203-software-downloads-for-windows-operating-systems-71011-support-included/"><u>Logitech G2 203 Software Downloads for Windows Operating Systems - 7/10/11 Support Included</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-g402-gamepad-drivers-and-downloads-get-set-up-today/"><u>Logitech G402 Gamepad Drivers & Downloads - Get Set Up Today!</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-video-visibility-for-youtubers-for-2024/"><u>The Ultimate Guide to Video Visibility (For YouTubers) for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-canoscan-lide-220-easy-download-and-installation-guide/"><u>Update Your CanoScan LiDE 220: Easy Download & Installation Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-printers-brain-get-the-fresh-brother-hl-asteroid-a-guide-to-installing-new-drivers-on-windows-computers/"><u>Update Your Printer's Brain - Get the Fresh Brother HL-Asteroid! A Guide to Installing New Drivers on Windows Computers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/your-complimentary-access-to-50-premium-youtube-banners-in-2024/"><u>Your Complimentary Access to 50 Premium YouTube Banners, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-localizing-your-content-adding-subtitles-to-igtv/"><u>[New] In 2024, Localizing Your Content Adding Subtitles to IGTV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-demystifying-digital-experiences-vr-insights/"><u>[Updated] 2024 Approved Demystifying Digital Experiences VR Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716069460973-updated-a-user-friendly-guide-to-seamless-collaboration-across-different-operating-systems-via-skype-group-chats-for-2024/"><u>[Updated] A User-Friendly Guide to Seamless Collaboration Across Different Operating Systems via Skype Group Chats. For 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-eye-on-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>[Updated] In 2024, Eye on the Screen YouTube Journey Comparison From Creator to Competitor</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-making-memories-sing-picture-plus-music-videography-for-2024/"><u>[Updated] Making Memories Sing Picture + Music Videography for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-screenshots-for-live-viewers/"><u>2024 Approved Essential Screenshots for Live Viewers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-radeon-hd/"><u>Download & Update AMD Radeon HD</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-fast-track-validity-fps-driver-secure-your-systems-now/"><u>Download the Fast-Track Validity FPS Driver - Secure Your Systems Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/establishing-a-visual-alert-for-system-checks-on-windows-11-systems/"><u>Establishing a Visual Alert for System Checks on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-logitech-steering-wheels-compatible-with-multiple-windows-operating-systems-windows-7-8-and-10/"><u>How to Download and Install Logitech Steering Wheels: Compatible with Multiple Windows Operating Systems (Windows 7, 8 & 10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-windows-drivers-and-support-files-for-your-brother-hl-l2340dw-laser-printer/"><u>How to Get the Latest Windows Drivers and Support Files for Your Brother HL-L2340DW Laser Printer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-zbook-15-g3-user-guide-how-to-find-and-apply-windows-drivers-easily/"><u>HP ZBook 15 G3 User Guide: How to Find and Apply Windows Drivers Easily</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/surface-pro-7windows-11/"><u>Surface Pro #7與Windows 11配合使用:最新指南解決策</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "October's Prime Day Bonanza: Top Discounted Items to Shop This Year | CNET Special Report"
-date: 2025-01-24T19:38:18.055Z
-updated: 2025-01-30T19:53:33.210Z
+date: 2025-02-10T20:31:54.629Z
+updated: 2025-02-12T03:21:48.026Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
@@ -80,10 +80,6 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C217d5b37-7654-4c26-b95c-e50427f08c9f%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best laptops for students
 
 Dell/ZDNET
@@ -103,7 +99,7 @@ Asus/ZDNET
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C217d5b37-7654-4c26-b95c-e50427f08c9f%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for photo editing
@@ -122,6 +118,10 @@ Kyle Kucharski/ZDNET
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C217d5b37-7654-4c26-b95c-e50427f08c9f%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Buy laptop deals
 
 * [Asus ROG Strix Scar 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-strix-scar-17-3-240hz-gaming-laptop-wqhd-amd-ryzen-9-x3d-with-32gb-memory-nvidia-geforce-rtx-4090-2tb-ssd-off-black%2F6564531.p%3FskuId%3D6564531&publisher_slug=itechdaily19598&exclusive=1) for $3,000 (save $700): This high-end gaming laptop is built with an AMD Ryzen 9 X3D processor, 32GB of RAM, a 2TB SSD, and Nvidia GeForce RTX 4090 graphics card.
@@ -135,7 +135,7 @@ Kyle Kucharski/ZDNET
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -143,6 +143,10 @@ Kyle Kucharski/ZDNET
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
@@ -159,10 +163,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -230,14 +230,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-zooming-into-excellence-a-complete-guide-for-professionals-of-podcast-production/"><u>[New] 2024 Approved Zooming Into Excellence A Complete Guide for Professionals of Podcast Production</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-strategic-social-sharing-master-facebook-story-linking/"><u>[Updated] Strategic Social Sharing Master Facebook Story Linking</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/anticipated-arrival-of-cutting-edge-macbooks-by-next-week-find-out-what-experts-say-gadgetscoop-update/"><u>Anticipated Arrival of Cutting-Edge MacBooks by Next Week? Find Out What Experts Say - GadgetScoop Update</u></a></li>
-<li><a href="https://fox-access.techidaily.com/elemental-story-framework-for-2024/"><u>Elemental Story Framework for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experts-roundup-of-ideal-notebook-computers-in-depth-analysis-and-ratings/"><u>Experts' Roundup of Ideal Notebook Computers - In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/great-value-great-features-in-depth-analysis-of-the-asus-chromebook-flip-c302ca/"><u>Great Value, Great Features: In-Depth Analysis of the Asus Chromebook Flip C302CA</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-your-ipad-pro-experience-with-the-top-usb-c-hub-picks-latest-guide/"><u>Maximizing Your iPad Pro Experience with the Top USB-C Hub Picks Latest Guide!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-non-appearing-iphone-notifications-try-these-7-fixes-now/"><u>Struggling with Non-Appearing iPhone Notifications? Try These 7 Fixes Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-lenovos-throneprice-the-exceptional-value-proposition-of-their-upcoming-749-thinkbook-insights-techgurus/"><u>Why Lenovo's ThronePrice: The Exceptional Value Proposition of Their Upcoming $749 ThinkBook - Insights | TechGurus</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs/"><u>[New] 2024 Approved Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-gigglegraphs-imagejesterhub/"><u>2024 Approved GiggleGraphs ImageJesterHub</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unveiling-the-finest-free-online-recorders-top-picks/"><u>2024 Approved Unveiling the Finest Free Online Recorders – Top Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-pcs-power-with-free-intel-z270-pro-gamers-board-download/"><u>Boost Your PC's Power with [Free] Intel Z270 Pro Gamers Board Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-the-ultimate-steering-wheel-controller-from-logitech/"><u>Download and Setup Guide: The Ultimate Steering Wheel Controller From Logitech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-wf-2940-printer-drivers-compatible-with-windows-7-81-and-10-free/"><u>Download Epson WF-2940 Printer Drivers Compatible with Windows 7, 8.1 & 10 - Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-proper-functionality-kyocera-printer-driver-setup-on-microsoft-windows/"><u>Ensure Proper Functionality: KYOCERA Printer Driver Setup on Microsoft Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-focusrite-scarlett-solo-18i20-windows-sound-card-driver-download/"><u>Free Focusrite Scarlett Solo 18I20 Windows Sound Card Driver Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-installation-of-logitech-webcams-driver-downloads-for-windows-users/"><u>Free Installation of Logitech Webcams: Driver Downloads for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967004177-get-the-latest-windows-drivers-for-your-brother-hl-l2380dw-laser-printer-now/"><u>Get the Latest Windows Drivers for Your Brother HL-L2380DW Laser Printer Now</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-save-powerpoint-presentation-as-video-on-windows-and-mac-os-for-2024/"><u>How to Save PowerPoint Presentation as Video on Windows and Mac OS for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pros-and-cons-of-syma-x8c/"><u>In 2024, Pros and Cons of Syma X8C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-and-optimize-powershells-execution-policy-landscape/"><u>Navigate & Optimize PowerShell's Execution Policy Landscape</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/professional-tips-how-to-download-and-implement-linksys-wusb6300-drivers-seamlessly/"><u>Professional Tips: How to Download and Implement Linksys WUSB6300 Drivers Seamlessly</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-6-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 6 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-troubleshooting-tips-updating-your-elan-smbus-driver-on-a-windows-pc/"><u>Ultimate Troubleshooting Tips: Updating Your ELAN SMBus Driver on a Windows PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96176764-9781605291802-uncommon-wisdom/"><u>Uncommon Wisdom | Free Book</u></a></li>
 </ul></div>
 

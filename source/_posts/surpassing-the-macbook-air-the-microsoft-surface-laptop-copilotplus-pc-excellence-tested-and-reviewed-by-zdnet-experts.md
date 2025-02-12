@@ -1,7 +1,7 @@
 ---
 title: "Surpassing the MacBook Air: The Microsoft Surface Laptop Copilot+ PC Excellence Tested and Reviewed by ZDNet Experts"
-date: 2025-01-28T16:40:28.039Z
-updated: 2025-01-30T20:03:34.205Z
+date: 2025-02-09T00:51:26.597Z
+updated: 2025-02-12T04:48:30.747Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc9919522-685b-4aa9-983b-c7ff321ae869%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,24 +125,24 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-accelerate-footage-leading-android-apps/"><u>[New] Accelerate Footage Leading Android Apps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-your-screens-guide-to-smart-stocks/"><u>[New] In 2024, Your Screen's Guide to Smart Stocks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-perfect-pathway-insta-to-tiktok-junction/"><u>[New] The Perfect Pathway Insta to TikTok Junction</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1000-discount-on-the-ideal-lenovo-laptop-for-hybrid-work-environments-top-pick/"><u>$1,000 Discount on the Ideal Lenovo Laptop for Hybrid Work Environments: Top Pick</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/addressing-software-engineer-overwhelm-innovative-approaches-businesses-adopt-for-workforce-health/"><u>Addressing Software Engineer Overwhelm: Innovative Approaches Businesses Adopt for Workforce Health</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-brilliance-unveiled-how-dell-outshines-with-a-budget-friendly-powerhouse-of-smart-design-explored-on-zdnet/"><u>Affordable Brilliance Unveiled: How Dell Outshines with a Budget-Friendly Powerhouse of Smart Design – Explored on ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-notebook-reintroduces-famous-tech-phrase-shaking-up-industry-conversations-again/"><u>Budget-Friendly Notebook Reintroduces Famous Tech Phrase, Shaking Up Industry Conversations Again.</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/cting-youtubes-features-and-mechanisms-after-uploading-content/"><u>Dissecting YouTube’s Features and Mechanisms After Uploading Content</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expertly-chosen-and-reviewed-ultimate-guide-to-the-best-touchscreen-laptops-zdnet-insights/"><u>Expertly Chosen & Reviewed: Ultimate Guide to the Best Touchscreen Laptops - ZDNet Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-webm-viewers-the-ultimate-comparison-of-options-for-2024/"><u>Free WebM Viewers The Ultimate Comparison of Options for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/huge-savings-discover-the-ultimate-surround-sound-system-now-50-off-exclusive-insight-by-zdnet/"><u>Huge Savings! Discover the Ultimate Surround Sound System Now 50% Off - Exclusive Insight by ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-tecno-camon-30-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Tecno Camon 30 Pro 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-navigating-the-maze-fb-messengers-a-video-downloading-guide/"><u>In 2024, Navigating the Maze FB Messengers - A Video Downloading Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/macbook-airs-budget-rival-discover-the-highly-rated-windows-laptop-that-matches-performance-and-cost/"><u>MacBook Air's Budget Rival: Discover the Highly-Rated Windows Laptop That Matches Performance and Cost</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionizing-gaming-how-top-pc-manufacturers-leverage-chromebook-power-zdnet-insights/"><u>Revolutionizing Gaming: How Top PC Manufacturers Leverage Chromebook Power | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-notch-laptop-cooler-for-high-performance-users-keep-your-system-chilled-with-our-picks-featured/"><u>Top Notch Laptop Cooler for High-Performance Users: Keep Your System Chilled with Our Picks | Featured</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleashing-efficiency-with-lenovos-game-changing-dual-display-laptop-exclusive-review/"><u>Unleashing Efficiency with Lenovo's Game-Changing Dual-Display Laptop | Exclusive Review</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-music-composition-techniques/"><u>YouTube Music Composition Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-geforce-rtx-3090-driver-for-windows-10-8-or-7/"><u>[Download] GeForce RTX 3090 Driver for Windows 10, 8 or 7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-creation-crafting-youtube-video-splits-for-2024/"><u>[New] From Concept to Creation Crafting YouTube Video Splits for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-the-heavens-phone-panorama-basics/"><u>[Updated] Capturing the Heavens Phone Panorama Basics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-premier-top-8-4k-blu-ray-playback-machines/"><u>[Updated] In 2024, Premier Top 8 4K Blu-Ray Playback Machines</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-cutting-edge-speedy-frame-compiler/"><u>2024 Approved Cutting Edge Speedy Frame Compiler</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-helldivers-2-on-computer-expert-fixes-for-uninterrupted-gaming-bliss/"><u>Beat Helldivers 2 on Computer: Expert Fixes for Uninterrupted Gaming Bliss</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparing-two-powerhouses-of-live-broadcast-twitch-and-youtube-for-2024/"><u>Comparing Two Powerhouses of Live Broadcast Twitch & YouTube for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-updating-your-hp-asters-drivers-with-the-latest-version-for-model-840-g3/"><u>Complete Guide to Updating Your HP Asters' Drivers with the Latest Version for Model 840 G3.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-link-install-updated-drivers-for-enhanced-gaming-experience-with-your-rtx-206esupers-on-windows/"><u>Direct Link: Install Updated Drivers for Enhanced Gaming Experience with Your RTX 206eSupers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-how-to-get-asus-atk0100-acpi-drivers-installed/"><u>Easy Installation: How To Get ASUS ATK0100 ACPI Drivers Installed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-usb-30-drivers-installed-on-a-windows-pc-free-downloads/"><u>Get Your USB 3.0 Drivers Installed on a Windows PC - Free Downloads!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-network-device-cannot-be-found-tl-wn722n-error-on-your-computer/"><u>How to Fix 'Network Device Cannot Be Found - TL-WN722N' Error on Your Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-your-hp-m477-color-laserjet-pro-driver-installed-step-by-step-tutorial/"><u>How to Get Your HP M477 Color LaserJet Pro Driver Installed – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cracking-comics-the-essential-guide-to-meme-magic/"><u>In 2024, Cracking Comics The Essential Guide to Meme Magic</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-compatible-hp-officejet-pro-8600-software-and-driver-downloads/"><u>Latest Windows-Compatible HP Officejet Pro 8600 Software and Driver Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-troubles-with-battlefront-ii-heres-how-to-fix-it/"><u>PC Troubles with Battlefront II? Here's How to Fix It!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-f15-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy F15 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-the-corsair-k70-rgb-mechanical-gaming-keyboard/"><u>Step by Step Guide: Installing the Corsair K70 RGB Mechanical Gaming Keyboard.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-social-networking-grounds-for-youtube-growth/"><u>Top Social Networking Grounds for YouTube Growth</u></a></li>
 </ul></div>
 

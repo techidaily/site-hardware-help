@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Seasonal Bargains: Top Discounts on iPads, Televisions, Computers & Beyond Exclusive"
-date: 2025-01-29T18:18:15.958Z
-updated: 2025-01-30T18:29:05.596Z
+date: 2025-02-07T21:17:22.743Z
+updated: 2025-02-11T18:09:10.511Z
 tags:
   - laptops
 categories:
@@ -51,6 +51,10 @@ This list will be updated throughout the month, so check back to find the latest
 19. [HP Victus 15L gaming desktop](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0346st-49n24av-1): $480 (save $400 at HP)
 20. [Roku Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09T4VZDYV%2Fref%3Dcm%5Fgf%5Fadbo%5Fd%5Fp0%5Fe0%5Fqd0%5Ffu24jf571EvEqYFicc8R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $90 (save $10 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday deals under $25
 
 Maria Diaz/ZDNET
@@ -73,7 +77,7 @@ Artie Beaty/ZDNET
 * [Fossil Men's Ingram Leather RFID-Blocking Bifold Wallet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFossil-Mens-Bifold-Wallet-Black%2Fdp%2FB018ZMVPQC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $30 (save $30 at Amazon)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday deals under $100
@@ -87,6 +91,10 @@ June Wan/ZDNET
 * [Costco membership](https://www.stacksocial.com/sales/costco-1-year-gold-star-membership-a-40-digital-costco-shop-card?utm%5Fsource=zdnet.com&utm%5Fmedium=referral&utm%5Fcampaign=costco-1-year-gold-star-membership-30-costco-card&utm%5Fterm=scsf-566150&utm%5Fcontent=a0x1P0000058Tp1QAE&scsonar=1&aid=a-ceempx7z): $60 (get a free $40 gift card at Stack Social)
 * [DeWalt 20V Max 1/2 inch cordless drill with battery and charger](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDEWALT-Cordless-Battery-Included-DCD777D1%2Fdp%2FB0C3TGRLLM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $99 (save $60 at Amazon)
 * [Canon Ivy 2 Mini Photo Printer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BGM5XPQZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $69 (save $30 at Amazon)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday deals under $200
 
@@ -129,6 +137,10 @@ Jason Hiner/ZDNET
 * [Apple iPad Mini (A15 chip, 8.3-inch, 256GB):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1) $540 (save $110 at Amazon with coupon)
 * [Apple iPad Air (M1 chip, 10.9-inch, 64GB, Wi-Fi + Cellular):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Air-5th-Generation%2Fdp%2FB09V3JWQKB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1) $650 (save $100 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday robot vacuum deals
 
 Beth Mauder/ZDNET
@@ -167,7 +179,7 @@ Matthew Miller/ZDNET
 * [Amazfit Bip 3 Urban Edition Smartwatch](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FAmazfit-Bip-3-Urban-Edition-Smart-Watch-Health-Fitness-Tracker-Black%2F1499566467&subId1=zd-__COM_CLICK_ID__-dtp): $35 (save $27 at Walmart)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday headphones deals
@@ -183,10 +195,6 @@ Jada Jones/ZDNET
 * [Sennheiser HD 650 stereo reference headphones](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F310010-REG%2FSennheiser%5FHD%5F650%5FHD650%5FReference%5FClass.html): $400 (save $100 at B&H Photo)
 * [Samsung Galaxy Buds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Wireless-Bluetooth-Wing-Tip-Assistant%2Fdp%2FB0CF7GYNW2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $70 (save $30 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday phone deals
 
 Jason Hiner/ZDNET
@@ -199,10 +207,6 @@ Jason Hiner/ZDNET
 * [Samsung Galaxy A54 128GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Factory-Unlocked-Android-Smartphone%2Fdp%2FB0BSLR2L5R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $399 (save $50 at Amazon)
 * [Samsung Galaxy S23 FE 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Unlocked-Smartphone-Processor-Graphite%2Fdp%2FB0CD8NF62Z%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $560 (save $100 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday laptop deals
 
 Jason Hiner/ZDNET
@@ -213,10 +217,6 @@ Jason Hiner/ZDNET
 * [Microsoft Surface Studio 14](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1664806-REG%2Fmicrosoft%5Fai2%5F00001%5Fsrfclptstudio%5Fi7%5F32%5F2tb%5Fd%5Fsc%5Fenglish.html): $2,099 (save $1,000 at B&H Photo)
 * [Lenovo Legion Pro 7i](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1745684-REG%2Flenovo%5F82wq002tus%5F16%5Flegion%5Fpro%5F7.html): $2,599 (save $700 at B&H Photo)
 * [Lenovo LOQ Tower Intel Edition](https://go.shopyourlikes.com/pi/bc82422a965d3574bb1afda3dd1ab5b7fb336893?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $650 (save $380 at Lenovo)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday tablet deals
 
@@ -229,15 +229,15 @@ Maria Diaz/ZDNET
 * [Samsung Galaxy Tab A8](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-a8-10-5-64gb-wi-fi-gray%2F6492905.p%3FskuId%3D6492905&publisher_slug=itechdaily19598&exclusive=1): $200 (save $80 at Best Buy)
 * [Samsung Galaxy Tab S6 Lite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Android-Lasting-Included-Speakers%2Fdp%2FB09WYWJ46K%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $200 (save $150 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -307,20 +307,24 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-monetize-mastery-turning-views-into-revenue-on-vimeo/"><u>[Updated] In 2024, Monetize Mastery Turning Views Into Revenue on Vimeo</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-5-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT 5 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/beyond-liberty-city-best-games-resembling-gta-v/"><u>Beyond Liberty City Best Games Resembling GTA V</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-techkey-bluetooth-adapter-drivers-for-windows-pcs/"><u>Easy Installation Guide: Techkey Bluetooth Adapter Drivers for Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971809989-enhance-your-printing-experience-with-the-latest-windows-drivers-for-brothers-hl-l2380dw-model-download-now/"><u>Enhance Your Printing Experience with the Latest Windows Drivers for Brother's HL-L2380DW Model - Download Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-asus-sound-blaster-driver-installation-get-it-now/"><u>Free ASUS Sound Blaster Driver Installation - Get It Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-your-insights-to-ingenious-ai-build-a-gpt-of-your-design/"><u>From Your Insights to Ingenious AI: Build a GPT of Your Design</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keeping-your-epson-wf-7720-in-top-shape-with-newest-windows-compatible-drivers/"><u>Keeping Your Epson WF-7720 in Top Shape with Newest Windows Compatible Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-k400-pro-duo-setup-guide-free-downloads-available/"><u>Logitech K400 Pro Duo Setup Guide - Free Downloads Available</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-overcome-incompatibility-in-windows-xp/"><u>Quick-Fix Guide: Overcome Incompatibility in Windows XP.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/thinkpad-thunderbolt-3-port-replicator-updated-driver-guide/"><u>ThinkPad Thunderbolt 3 Port Replicator - Updated Driver Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-psd-style-boosting-for-2024/"><u>Ultimate PSD Style Boosting for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/understanding-spending-in-online-advertising/"><u>Understanding Spending in Online Advertising</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/value-hunting-affordable-vr-gear-from-china-for-2024/"><u>Value Hunting Affordable VR Gear From China for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-setting-the-scene-ideal-video-aspect-ratios-and-widths-for-youtube/"><u>[New] In 2024, Setting the Scene Ideal Video Aspect Ratios & Widths for YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-tips-for-a-swift-submission-into-apple-catalog/"><u>[New] Tips for a Swift Submission Into Apple Catalog</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-close-up-cinematography-through-zooming/"><u>[Updated] 2024 Approved Mastering Close-Up Cinematography Through Zooming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-key-to-capturing-and-preserving-your-favorite-streamed-shows/"><u>[Updated] 2024 Approved The Ultimate Key to Capturing and Preserving Your Favorite Streamed Shows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-melodious-feed-infusing-ig-stories-with-music/"><u>[Updated] In 2024, Melodious Feed Infusing IG Stories With Music</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-lenovo-ideapad-100-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update Lenovo IdeaPad 100 Drivers for Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/flicker-free-windows-experience-step-by-step-guide/"><u>Flicker-Free Windows Experience: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-set-up-quick-guide-to-accessing-windows-updates/"><u>Get Set Up: Quick Guide to Accessing Windows Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-gpu-cards-nvidia-rtx-eti-driver-for-win-1087/"><u>Get the Latest GPU Cards: NVIDIA RTX eTi Driver for Win 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-new-driver-update-for-brother-mfc-j480dw-in-windows/"><u>How to Install the New Driver Update for Brother MFC-J480DW in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-envy-5055-driver-setup-fast-and-simple-tutorial/"><u>HP ENVY #5055 Driver Setup - Fast and Simple Tutorial</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mythos-mazes-decades-best-adventure-games/"><u>Mythos Mazes Decade’s Best Adventure Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202531697-shift-key-issues-discover-effective-fixes-and-solutions/"><u>Shift Key Issues? Discover Effective Fixes and Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-updating-or-downloading-microsoft-audio-driver-for-windows-systems/"><u>Step-by-Step Tutorial: Updating or Downloading Microsoft Audio Driver for Windows Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-artisans-handbook-perfecting-your-windows-pc-in-live-tv-recording/"><u>The Artisan's Handbook Perfecting Your Windows PC in Live TV Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tidy-up-your-email-effortlessly-a-one-trick-solution-to-organize-without-overcomplicating-insights-from-zdnet/"><u>Tidy Up Your Email Effortlessly: A One-Trick Solution to Organize Without Overcomplicating - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-install-new-drivers-for-asus-ac68-pce-network-card/"><u>Update or Install New Drivers for ASUS AC68 PCE Network Card</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-with-the-latest-rtx-2060-driver-for-windows-111087-systems/"><u>Update Your PC with the Latest RTX 2060 Driver for Windows 11/10/8/7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/xerox-phaser-630-driver-installation-for-various-windows-versions-10-8-and-7/"><u>Xerox Phaser 630 Driver Installation for Various Windows Versions (10, 8 & 7)</u></a></li>
 </ul></div>
 

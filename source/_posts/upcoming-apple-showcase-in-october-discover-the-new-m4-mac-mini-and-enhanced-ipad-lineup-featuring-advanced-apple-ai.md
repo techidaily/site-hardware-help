@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Showcase in October: Discover the New M4 Mac Mini & Enhanced iPad Lineup Featuring Advanced Apple AI"
-date: 2025-01-27T19:33:57.753Z
-updated: 2025-01-30T17:22:55.596Z
+date: 2025-02-04T20:13:00.792Z
+updated: 2025-02-12T00:42:27.255Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,20 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-top-best-fast-photo-viewer-for-windows-10/"><u>[New] 2024 Approved Top Best Fast Photo Viewer for Windows 10?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-apple-writes-a-new-chapter-m1-pro-vs-m1-max-analysis-for-2024/"><u>[Updated] Apple' Writes a New Chapter M1 Pro Vs. M1 Max Analysis for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-removing-wow-error-code-132-pitfall/"><u>Essential Tips for Removing WOW Error Code 132 Pitfall</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-excellence-our-in-depth-evaluation-of-all-lenovos-newest-tech-from-the-recent-mwc-showdown/"><u>Exploring Excellence: Our In-Depth Evaluation of All Lenovo's Newest Tech From the Recent MWC Showdown</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-auditory-illusions-video-meets-apple-music/"><u>In 2024, Auditory Illusions Video Meets Apple Music</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 15 Pro?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-chrome-os-upgrade-introduces-windows-11-features-to-chromebook-users-insights/"><u>Latest Chrome OS Upgrade Introduces Windows 11 Features to Chromebook Users Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/limited-time-deal-get-the-top-tech-pick-from-zdnet-at-a-whopping-500-discount-on-amazon-before-prime-day/"><u>Limited-Time Deal: Get the Top Tech Pick From ZDNet at a Whopping $500 Discount on Amazon Before Prime Day!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/october-meta-prime-day-exclusive-the-ultimate-guide-to-the-512gb-oculus-quest-3-steal-of-a-deal/"><u>October Meta Prime Day Exclusive: The Ultimate Guide to the 512GB Oculus Quest 3 Steal of a Deal!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/octobers-premier-savings-extravaganza-discover-lasting-deals-and-steals-on-amazon-for-prime-day-2024-unveiled/"><u>October's Premier Savings Extravaganza! Discover Lasting Deals and Steals on Amazon for Prime Day 2024 | Unveiled</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/smileslice-studio-memomaestrospace-for-2024/"><u>SmileSlice Studio MemoMaestroSpace for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/strategic-application-of-hashtags-in-fb-advertising-for-2024/"><u>Strategic Application of Hashtags in FB Advertising for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/us-debut-of-nickwatch-at-the-exciting-kids-choice-awards-ceremony/"><u>U.S. Debut of NickWatch at the Exciting Kids' Choice Awards Ceremony</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-cyber-monday-offer-get-the-13/"><u>Unbeatable Cyber Monday Offer: Get the 13</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zdnet-experiences-astounding-generative-ai-capabilities-on-googles-latest-launch-the-chromebookplus/"><u>ZDNet Experiences Astounding Generative AI Capabilities on Google's Latest Launch - The Chromebook+</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-switch-windows-11-to-auto-hdr-mode/"><u>[New] How to Switch Windows 11 To Auto HDR Mode</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-profiles-how-to-embed-linktree-on-tiktok-seamlessly/"><u>[New] Perfecting Profiles How to Embed Linktree on TikTok Seamlessly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-best-online-vimeo-video-downloaders/"><u>2024 Approved Best Online Vimeo Video Downloaders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-speech-to-text-applications/"><u>2024 Approved Pinnacle Speech-to-Text Applications</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-strategy-for-highlight-image-success-in-instagram/"><u>2024 Approved The Ultimate Strategy for Highlight Image Success in Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazon-exclusive-save-150-on-the-ultimate-game-enhancing-speakers-top-reviews-by-zdnet/"><u>Amazon Exclusive: Save $150 on the Ultimate Game-Enhancing Speakers – Top Reviews by ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-value-for-money-detailed-review-of-the-vuebell-video-doorbell-on-the-market/"><u>Best Value for Money: Detailed Review of the VueBell Video Doorbell on the Market</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-asus-realtek-high-quality-sound-drivers-no-cost/"><u>Download the ASUS Realtek High-Quality Sound Drivers - No Cost!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-performance-with-the-newest-amd-radeon-7870-drivers-for-windows-11/"><u>Enhance Performance with the Newest AMD Radeon 7870 Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-your-brother-hl-3170cdw-printer-download-the-latest-drivers-today/"><u>Fast Track Your Brother HL-3170CDW Printer: Download the Latest Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-your-stalled-igfxem-module-now/"><u>Fix Your Stalled iGFXem Module Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-samsung-m2020-drivers-instant-download-for-optimal-performance/"><u>Free Samsung M2020 Drivers - Instant Download for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-asus-mousepad-drivers-for-your-pc-with-windows-os/"><u>Get the Latest ASUS Mousepad Drivers for Your PC with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-geforce-rtx-2070-graphics-card-driver-for-widnows-1187-systems/"><u>Get the Latest Geforce RTX 2070 Graphics Card Driver for Widnows 11/8/7 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-reno-8t-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Reno 8T 5G Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-focusrite-scarlett-18i20-drivers-on-your-pc-windows-compatible-downloads-available-now/"><u>Install Focusrite Scarlett 18I20 Drivers on Your PC: Windows Compatible Downloads Available Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-firmware-update-released-for-logitech-extreme-3d/"><u>Latest Firmware Update Released for Logitech Extreme 3D!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-and-enhance-your-windows-7-connectivity-with-new-wi-fi-drivers/"><u>Update & Enhance Your Windows 7 Connectivity with New Wi-Fi Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-linkedin-games-might-not-be-as-fun-as-they-seem/"><u>Why LinkedIn Games Might Not Be as Fun as They Seem</u></a></li>
 </ul></div>
 

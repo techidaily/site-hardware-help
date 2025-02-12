@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Savings for Gamers: Snag an Alienamoe Aurora R13 and Cut $350 Off Prices – Limited-Time Deal on ZDNET!"
-date: 2025-01-26T16:12:02.518Z
-updated: 2025-01-30T17:18:59.839Z
+date: 2025-02-11T02:45:17.530Z
+updated: 2025-02-11T22:14:36.939Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -65,7 +65,7 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -81,7 +81,7 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -95,7 +95,7 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -140,20 +140,19 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-into-the-code-labyrinastr-facebooks-message-extraction-guide/"><u>[New] Into the Code Labyrinastr - Facebook's Message Extraction Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-video-backgrounds-teammeeting-blurring-guide/"><u>[Updated] In 2024, Mastering Video Backgrounds TeamMeeting Blurring Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-college-student-laptop-at-just-299-a-comprehensive-review-by-zdnet/"><u>Affordable College Student Laptop at Just $299 - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-integrates-openais-technology-unveiling-chatgpt-on-iphone-ipad-and-macos-detailed-analysis/"><u>Apple Integrates OpenAI's Technology: Unveiling ChatGPT on iPhone, iPad & macOS - Detailed Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/behind-closed-doors-how-microsofts-next-gen-ai-processor-could-outshine-the-macbook-firsthand-account-by-zdnet/"><u>Behind Closed Doors: How Microsoft's Next-Gen AI Processor Could Outshine the MacBook - Firsthand Account by ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/boosting-visual-appeal-in-tiktok-videos-for-2024/"><u>Boosting Visual Appeal in TikTok Videos for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/elevating-everyday-moments-crafting-photo-collections-for-fb-sharing/"><u>Elevating Everyday Moments: Crafting Photo Collections for FB Sharing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-get-your-favorite-macbook-usb-c-charger-for-less-than-70-on-amazon-featured-by-zdnet/"><u>Exclusive Deal Alert! Get Your Favorite MacBook USB-C Charger for Less than $70 on Amazon - Featured by ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-top-savings-on-amazon-prime-day-2024-dont-miss-the-final-days-techradar/"><u>Exclusive Top Savings on Amazon Prime Day 2024 - Don't Miss the Final Days! | TechRadar</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-harnessing-viral-potential-the-20-best-tiktok-caption-insights/"><u>In 2024, Harnessing Viral Potential The 20 Best TikTok Caption Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/powerdirector-unveiled-in-depth-review-and-users-handbook-for-2024/"><u>PowerDirector Unveiled In-Depth Review & User's Handbook for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/remote-wipe-methods-for-iphone-and-ipad-protect-your-data-anywhere/"><u>Remote Wipe Methods for iPhone & iPad - Protect Your Data Anywhere</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-21-laplaptop-picks-for-the-perfect-present-expert-recommendations/"><u>Top 21 Laplaptop Picks for the Perfect Present: Expert Recommendations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-38-unbeatable-cyber-week-deals-at-costco-exclusive-discounts-on-televisions-laptops-and-tablets-shop-now/"><u>Top 38 Unbeatable Cyber Week Deals at Costco: Exclusive Discounts on Televisions, Laptops & Tablets - Shop Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-the-savings-buy-the-high-performance-asus-vivobook-pro-for-300-less-at-amazon-insights-and-analysis-from-zdnet/"><u>Unlock the Savings: Buy the High-Performance Asus VivoBook Pro for $300 Less at Amazon - Insights & Analysis From ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-seo-guide-how-to-improve-search-rankings-for-your-youtube-videos/"><u>[New] 2024 Approved YouTube SEO Guide How to Improve Search Rankings For Your YouTube Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-comprehensive-list-of-15-competitors-to-gopro-cameras/"><u>[Updated] 2024 Approved A Comprehensive List of 15 Competitors to GoPro Cameras</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-elite-gamers-top-picks-best-4k-gaming-screens/"><u>[Updated] In 2024, Elite Gamers' Top Picks Best 4K Gaming Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/flawless-illusion-and-errors-in-pimaxs-vr-headset-crystal/"><u>Flawless Illusion & Errors in Pimax's VR Headset Crystal</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974471432-get-your-latest-amd-ryzen-graphics-drivers-here/"><u>Get Your Latest AMD Ryzen Graphics Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-get-lenovo-thinkpad-t430-drivers-on-your-pc-windows-11-8-and-7/"><u>How to Easily Get Lenovo ThinkPad T430 Drivers on Your PC (Windows 11, 8 & 7)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oneplus-ace-2-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your OnePlus Ace 2 Data? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-premier-selection-ultimate-omnidirectional-cameras/"><u>In 2024, Premier Selection Ultimate Omnidirectional Cameras</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-g29-racing-wheel-driver-software-free-download-for-windows-users/"><u>Logitech G29 Racing Wheel Driver Software - Free Download for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-efficient-repair-of-bcm2045a0-driver-complications/"><u>Quick and Efficient Repair of BCM2045A0 Driver Complications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-mobile-web-browsing-woes-top-10-tips-for-a-functional-iphone-safari/"><u>Resolve Mobile Web Browsing Woes: Top 10 Tips for a Functional iPhone Safari</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-successfully-mounting-keyspans-19hs-driver-on-windows-os/"><u>Step-by-Step Tutorial for Successfully Mounting Keyspan's 19HS Driver on Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-apple-iphone-offers-in-june-2024-exclusive-finds-from-zdnet/"><u>Top Apple iPhone Offers in June 2024: Exclusive Finds From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-hp-monitor-driver-glitches-for-windows-operating-systems/"><u>Troubleshooting and Fixing HP Monitor Driver Glitches for Windows Operating Systems</u></a></li>
 </ul></div>
 

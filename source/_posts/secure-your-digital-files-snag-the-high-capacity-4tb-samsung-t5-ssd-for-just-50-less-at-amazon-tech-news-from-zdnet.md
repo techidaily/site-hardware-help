@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Files: Snag the High-Capacity 4TB Samsung T5 SSD for Just 50%% Less at Amazon | Tech News From ZDNET"
-date: 2025-01-24T17:37:44.610Z
-updated: 2025-01-30T16:24:05.163Z
+date: 2025-02-09T01:35:33.356Z
+updated: 2025-02-11T16:57:32.647Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,24 +166,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-essential-underrated-free-speech-to-text-apps-for-mac/"><u>[New] 2024 Approved Essential, Underrated, Free Speech-to-Text Apps for Mac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-ensuring-accurate-iphone-photo-archive-in-snapchat/"><u>[Updated] In 2024, Ensuring Accurate iPhone Photo Archive in Snapchat</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pioneering-playgrounds-of-action-adventure-classics-top-10/"><u>[Updated] In 2024, Pioneering Playgrounds of Action-Adventure Classics (Top 10)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quick-start-guide-zooming-into-fb-live-on-the-web/"><u>[Updated] Quick Start Guide Zooming Into FB Live on the Web</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ace-your-choice-the-ultimate-guide-to-picking-a-professional-tested-touchscreen-laptop-zdnet-insights/"><u>Ace Your Choice: The Ultimate Guide to Picking a Professional Tested Touchscreen Laptop - ZDNet Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/choosing-the-ideal-chromebook-for-academics-in-depth-analysis-by-experts/"><u>Choosing the Ideal Chromebook for Academics: In-Depth Analysis by Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-fixes-for-your-non-charging-macbook-pro-expert-tips-and-tricks/"><u>Free Fixes for Your Non-Charging MacBook Pro: Expert Tips & Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-guide-to-thoroughly-deleting-private-information-on-your-windows-laptop-safely/"><u>Free Guide to Thoroughly Deleting Private Information on Your Windows Laptop Safely</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-aural-elegance-selecting-high-quality-ringtones-online/"><u>In 2024, Aural Elegance Selecting High-Quality Ringtones Online</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-honor-x8b-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Honor X8b Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/octobers-prime-day-bonanza-top-discounted-items-to-shop-this-year-cnet-special-report/"><u>October's Prime Day Bonanza: Top Discounted Items to Shop This Year | CNET Special Report</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/prime-day-exclusive-save-460-on-the-microsoft-surface-pro-8-top-deals-at-zdnet/"><u>Prime Day Exclusive: Save $460 on the Microsoft Surface Pro 8 | Top Deals at ZDNet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/stopping-steams-automatic-startup/"><u>Stopping Steam's Automatic Startup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-test-why-the-wrinkle-resistant-usb-c-cord-is-a-must-have-for-every-traveler-a-deep-dive/"><u>The Ultimate Test: Why the 'Wrinkle-Resistant' USB-C Cord Is a Must-Have for Every Traveler - A Deep Dive</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-the-best-early-access-primes-score-exceptional-deals-on-laptops-this-october-2nt-forget-to-check-out-zdnet/"><u>Unlock the Best Early Access Primes: Score Exceptional Deals on Laptops This October 2N't Forget to Check Out ZDNET!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-the-lg-gram-pro-outshines-apples-macbook-air-across-three-main-factors-insights-from-zdnet/"><u>Why the LG Gram Pro Outshines Apple's MacBook Air Across Three Main Factors - Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-version-1607-overcoming-update-implementation-issues/"><u>Windows 10 Version 1607 - Overcoming Update Implementation Issues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-essential-guide-to-rapid-signature-removal/"><u>[New] Essential Guide to Rapid Signature Removal</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-improve-your-digital-art-experience-with-the-newest-wacom-cintiq-driver/"><u>Download & Improve Your Digital Art Experience with the Newest Wacom Cintiq Driver!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-the-simple-way-to-install-a-new-validity-fingerprint-sensor-driver/"><u>Download and Upgrade: The Simple Way to Install a New Validity Fingerprint Sensor Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978462934-fast-track-to-compatibility-update-your-surface-drivers-today/"><u>Fast Track to Compatibility: Update Your Surface Drivers Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-driver-for-brother-hl-l23eb4e6dprinter-instant-download-available/"><u>Get the Latest Driver for Brother HL-L23eb4e6d_Printer - Instant Download Available</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-pro-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 13 Pro Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721448703425-instagram-performance-issues-heres-a-guide-with-6-tips-to-speed-up-your-app-on-any-device/"><u>Instagram Performance Issues? Here's a Guide with 6 Tips to Speed Up Your App on Any Device!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/introducing-the-new-microsoft-copilot-mobile-app-available-on-ios/"><u>Introducing the New Microsoft Copilot Mobile App: Available on iOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-for-intel-nuc-easy-driver-update-process/"><u>Quick Fix for Intel NUC - Easy Driver Update Process</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/segmentscreen-examination/"><u>SegmentScreen Examination</u></a></li>
 </ul></div>
 

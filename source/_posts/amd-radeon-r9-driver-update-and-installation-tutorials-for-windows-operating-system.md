@@ -1,7 +1,7 @@
 ---
 title: AMD Radeon R9 Driver Update & Installation Tutorials for Windows Operating System
-date: 2024-08-19T10:53:00.266Z
-updated: 2024-08-20T10:53:00.266Z
+date: 2025-02-09T19:10:48.260Z
+updated: 2025-02-12T04:17:11.397Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/0430ade83e8050286faf02e46abd0a1a008694824
 
 If you’re using Arduino products to create your own work but failed to connect with your Windows computer, then you’ve come to the right place. It’s maybe caused by driver issues. This post is going to tell you how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Why you need the driver?
 
  As we know, Arduino is an open-source electronics platform let users design and create their own work. But when you need to connect it with a Windows computer, you’ll need a correct and appropriate driver.
@@ -39,32 +35,40 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
 
 1. Go to the[](https://www.amd.com/en/support) [Arduino official download website](https://www.arduino.cc/en/Main/Software) .
 2. Click **Windows Installer, for Windows XP and up** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -76,16 +80,14 @@ OR
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -99,8 +101,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +108,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-webm-audio-extraction-from-twitta-vids-for-2024/"><u>[New] WebM Audio Extraction From Twitta Vids for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-an-impartial-appraisal-the-power-of-recordcast/"><u>[Updated] An Impartial Appraisal The Power of RecordCast</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlocking-mov-capture-potential-on-windows-10/"><u>2024 Approved Unlocking MOV Capture Potential on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-motorola-moto-g34-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Motorola Moto G34 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-5-2400g-driver-software-swift-and-effortless-download-steps/"><u>AMD Ryzen 5 2400G Driver Software - Swift and Effortless Download Steps</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-epson-wf-3620-printer-driver-for-windows-1087-updated-guide/"><u>Download & Install Latest Epson WF-3620 Printer Driver for Windows 10/8/7 - Updated Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-current-targus-display-adapter-drivers-compatible-with-win-11-8-and-7/"><u>Download Current Targus Display Adapter Drivers - Compatible with Win 11, 8 & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ending-chrome-notifications-on-your-pc-windows/"><u>Ending Chrome Notifications on Your PC (Windows)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-updated-zebra-printer-drivers-on-your-windows-machine-easily/"><u>Find and Install Updated Zebra Printer Drivers on Your Windows Machine Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-oculus-headset-ready-drivers-download-for-windows-versions-including-11-10-8-and-7/"><u>Get Your Oculus Headset Ready: Drivers Download for Windows Versions Including 11, 10, 8, & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-your-logitech-m525-device-drivers/"><u>How To Obtain Your Logitech M525 Device Drivers?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-v29e-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo V29e</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-15-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 15 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 13 mini</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rndis-driver-compatibility-and-updating-for-windows-problems-resolved-here/"><u>RNDIS Driver Compatibility and Updating for Windows - Problems Resolved Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-and-install-elan-smbus-drivers-efficiently-for-windows-users/"><u>Update and Install Elan SMBus Drivers Efficiently for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-canon-mg3022-drivers-fresh-version-for-improved-printing/"><u>Update Your Canon MG3022 Drivers - Fresh Version for Improved Printing</u></a></li>
+</ul></div>
 

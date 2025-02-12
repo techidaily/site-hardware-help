@@ -1,7 +1,7 @@
 ---
 title: "Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review"
-date: 2025-01-29T18:06:08.333Z
-updated: 2025-01-30T19:46:56.989Z
+date: 2025-02-05T01:21:31.766Z
+updated: 2025-02-11T23:02:23.477Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -109,7 +109,7 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,18 +148,19 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-to-correct-the-launchdllnotpresent-complication/"><u>Comprehensive Fixes to Correct the LaunchDllNotPresent Complication</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-latest-microsoft-innovations-surface-pro-10-and-laptop-ebrimae-arrive-packed-with-enhanced-ai-capabilities-insights-from-zdnet/"><u>Discover the Latest Microsoft Innovations: Surface Pro 10 & Laptop Ebrimae Arrive, Packed with Enhanced AI Capabilities - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-new-chromeos-update-how-windows-11-functionality-enhances-your-chromebook-experience-zdnet/"><u>Discover the New ChromeOS Update: How Windows 11 Functionality Enhances Your Chromebook Experience | ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/easy-tips-for-tweaking-windows-login-options-and-controls-with-yl-software-expertise/"><u>Easy Tips for Tweaking Windows Login Options and Controls with YL Software Expertise</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elite-list-of-2024s-finest-oled-notebooks-thoroughly-analyzed-and-critiqued-cnet/"><u>Elite List of 2024'S Finest OLED Notebooks: Thoroughly Analyzed and Critiqued | CNET</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/gopro-vs-yi-who-will-lead-the-high-quality-action-race/"><u>GoPro Vs. YI Who Will Lead the High-Quality Action Race?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Without iTunes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-elitemac-pro-high-definition-visuals-plus-audiophile-recordings/"><u>In 2024, EliteMac Pro High-Definition Visuals + Audiophile Recordings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inoculation-with-native-fungi-if-necessary-soils-can-be-treated-with-commercial-preparations-of-native-mycorrhizal-inoculants-to-bolster-existing-population83/"><u>Inoculation with Native Fungi: If Necessary, Soils Can Be Treated with Commercial Preparations of Native Mycorrhizal Inoculants to Bolster Existing Populations and Help Establish Associations with Newly Planted Crops Within a Rotation System.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionizing-creative-workflows-comprehensive-guide-to-the-latest-2023-apple-m2-max-macbook-pro-16-expert-review-by-zdnet/"><u>Revolutionizing Creative Workflows: Comprehensive Guide to the Latest 2023 Apple M2 Max MacBook Pro (16) - Expert Review by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-mechanics-of-ai-prompts-and-their-influence-on-career-longevity/"><u>The Mechanics of AI Prompts & Their Influence on Career Longevity</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-new-tech-horizon-with-microsofts-hololens-review-for-2024/"><u>[New] The New Tech Horizon with Microsoft's HoloLens Review for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-pinnacle-of-brainy-content-general-knowledge-top-11/"><u>[Updated] 2024 Approved Pinnacle of Brainy Content General Knowledge Top 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-x-flip-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo X Flip</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-overcoming-challenges-of-connecting-hp-laserjet-p2035-to-windows-devices/"><u>Comprehensive Guide: Overcoming Challenges of Connecting HP LaserJet P2035 to Windows Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tutorial-on-quickly-upgrading-to-the-latest-surface-dock-driver/"><u>Easy Tutorial on Quickly Upgrading to the Latest Surface Dock Driver</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-the-worldwide-network-offline-uncover-fb-status/"><u>Is the Worldwide Network Offline? Uncover FB Status</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-the-latest-dell-2330ddn-monochrome-printer-driver/"><u>Step-by-Step Installation of the Latest Dell 2330D/DN Monochrome Printer Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/success-retrieve-your-wireless-network-cards-driver-version-1535-here/"><u>Success! Retrieve Your Wireless Network Card's Driver Version 1535 Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-updating-dell-latitude-e6430-drivers-on-a-windows-pc-a-comprehensive-guide-issue-solved/"><u>Troubleshooting and Updating Dell Latitude E6430 Drivers on a Windows PC: A Comprehensive Guide (ISSUE SOLVED)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-on-3d-lut-tools-for-2024/"><u>Ultimate Tutorial on 3D LUT Tools for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-toms-guide-to-cutting-edge-hardware/"><u>Unveiling New Gadgets: Tom's Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-system-with-the-new-nvidia-rtx-3080-ti-graphics-card-driver-windows-support-includes-w11-w8-and-w7/"><u>Update Your System with the New NVIDIA RTX 3080 Ti Graphics Card Driver - Windows Support Includes W11, W8 & W7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wolcen-lords-of-mayhem-why-gamers-cant-play-yet/"><u>Wolcen: Lords of Mayhem - Why Gamers Can't Play Yet?</u></a></li>
 </ul></div>
 

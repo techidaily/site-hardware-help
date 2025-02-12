@@ -1,7 +1,7 @@
 ---
 title: RTX 2080 Latest Graphics Card Driver Update for WIndows 11/7/8 Systems
-date: 2024-08-19T10:56:14.952Z
-updated: 2024-08-20T10:56:14.952Z
+date: 2025-02-10T02:52:41.081Z
+updated: 2025-02-11T22:57:53.017Z
 tags:
   - win11
   - win10
@@ -27,58 +27,51 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
  1\. Go to[NVIDIA](https://tools.techidaily.com/drivereasy/download/) official website. Point the cursor to**DRIVERS** at the top menu. Then select**All NVIDIA Drivers** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![NVIDIA Drivers](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ccd935a0f0a.jpg)
 
  2\. Under Option 1, select “Product Type” to**GeForce** , “Product Series” to**GeForce 10 Series** , “Product” to**Geforce GTX 1080** , then select the Operating System to the specific version that you are using (Windows 10 32-bit or Windows 10 64-bit). If you are not sure what Windows version that you have, see[How to Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581410198d290.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Click on**SEARCH** button. Then you will be directed to the download page.
 
  4\. Click on**DOWNLOAD** button then follow the on-screen instructions to download the driver.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581412f0a2c64.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Searching and Downloading drivers manually can take forever. And it is possible to download the incompatible drivers. So instead of downloading Windows 10 drivers for Geforce GTX 1080 manually, you can use[Driver Easy](https://tools.techidaily.com/drivereasy/download/) to help you automatically. With Driver Easy, you can expect that much time and energy will be saved on updating drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Download Drivers with just 2 Clicks**
 
 **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  has Free version and Paid version. Both versions are available to download drivers. All you need to do is click your mouse 2 times.
 
 1\. Click **Scan Now**  button. Then Driver Easy will scan your computer within 20 seconds and find new drivers for your instantly.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca1022f7b7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2\. Click**Update** button to download the driver that you wish to install.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca27c67b42.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With Free version, after download completes, you are required to install the driver manually. If you want to have the driver installed automatically, you can consider upgrading to the Paid version. The Paid version will provide you with higher download speed and full features. Moreover, you will enjoy free technical support. You can[contact our professional support team](https://tools.techidaily.com/drivereasy/download/) for further assistance regarding any driver issue you’ve met. And you will have 30-day money back guarantee. Just feel free to ask for a full refund if you are not satisfied with the product.
 
@@ -88,8 +81,6 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +88,21 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/free-download-hp-scanjet-driver-updates-for-enhanced-printing-on-windows-10-8-and-7-systems/"><u>[Free Download] HP Scanjet Driver Updates for Enhanced Printing on Windows 10, 8, and 7 Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfected-pixelated-photos-follow-the-10-key-composition-guidelines/"><u>[New] Perfected Pixelated Photos Follow the 10 Key Composition Guidelines</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-enhance-your-mobile-experience-with-inshots-music-features/"><u>[Updated] Enhance Your Mobile Experience with InShot's Music Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-illuminati-the-top-25-visionaries-you-need-to-see/"><u>[Updated] Instagram Illuminati The Top 25 Visionaries You Need to See</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-invigorating-cold-season-selecting-warm-video-themes/"><u>[Updated] Invigorating Cold Season Selecting Warm Video Themes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-quick-and-quirky-meme-mastery-generator-junction-for-2024/"><u>[Updated] Quick & Quirky Meme Mastery Generator Junction for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/5-2600-driver-downloads-effortless-setup-tutorials/"><u>5 2600 Driver Downloads | Effortless Setup Tutorials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-properly-download-and-install-the-latest-broadcom-gigabit-ethernet-driver-for-your-windows-10-pc-issues-resolved/"><u>How to Properly Download & Install the Latest Broadcom Gigabit Ethernet Driver for Your Windows 10 PC - Issues Resolved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/illuminating-your-pc-expert-advice-on-dealing-with-a-black-screen-in-windows-11/"><u>Illuminating Your PC: Expert Advice on Dealing with a Black Screen in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-story-solutions-the/"><u>Innovative Story Solutions: The</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-iris-xe-graphics-driver-for-windows-11-secure-download-for-enhanced-performance/"><u>Intel Iris Xe Graphics Driver for Windows 11 - Secure Download for Enhanced Performance</u></a></li>
+<li><a href="https://win-online.techidaily.com/problematik-erkannt-sichtbare-usb-dateien-fehlen-obwohl-der-speicherkapazitat-platz-eingeraumt-wurde/"><u>Problematik Erkannt: Sichtbare USB-Dateien Fehlen, Obwohl Der Speicherkapazität Platz Eingeräumt Wurde</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-asus-pce-ac56-driver-problems-on-windows-10-8-and-7-fixed/"><u>Solving ASUS PCE-AC56 Driver Problems on Windows 10, 8 & 7 - Fixed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-claude-pro-insights-into-its-functionality/"><u>Unveiling Claude Pro: Insights Into Its Functionality</u></a></li>
+</ul></div>
 

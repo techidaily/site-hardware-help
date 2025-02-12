@@ -1,7 +1,7 @@
 ---
 title: "Top Prime Day Blowout Sales on Video Games: Score Up to $1K Off Before Oct '24 - Exclusive Picks | GadgetZONE"
-date: 2025-01-25T18:25:57.601Z
-updated: 2025-01-30T19:56:57.844Z
+date: 2025-02-10T16:31:00.049Z
+updated: 2025-02-11T22:44:33.053Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -87,6 +91,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -104,7 +112,7 @@ ZDNET
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C08104279-4153-4afa-9cbf-f46290dc4fc2%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
@@ -122,6 +130,10 @@ ZDNET
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 * [Corsair Void RGB Elite wireless gaming headset for $80 (save $30 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07X8SJ8HM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C08104279-4153-4afa-9cbf-f46290dc4fc2%7Cdtp&dtb=1): With 7.1CH surround sound, an omnidirectional mic, and up to a 40-foot range, the Void RGB Elite gives you immersive game music and sound cues, clear chat, and freedom of movement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -142,10 +154,6 @@ ZDNET
 * [Dragon's Dogma 2 standard edition for $44 (save $23 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C08104279-4153-4afa-9cbf-f46290dc4fc2%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -171,6 +179,10 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $45 (save $15)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
 
@@ -228,25 +240,13 @@ Samsung/ZDNET
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -313,18 +313,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-9-zero-price-editors-for-youtube-content/"><u>[Updated] 2024 Approved Exploring 9 Zero Price Editors for YouTube Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-gaming-gains-total-earnings-for-pewdiepie/"><u>[Updated] Gaming Gains Total Earnings for PewDiePie</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-why-the-499-lenovo-chromebook-plus-is-a-worthy-contender-against-costly-laptops-expert-review-by-zdnet/"><u>Discover Why the $499 Lenovo Chromebook Plus Is a Worthy Contender Against Costly Laptops | Expert Review by ZDNET</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-windows-10-system-service-failure-issue-step-by-step-guide/"><u>How to Fix 'Windows 10 System Service Failure' Issue – Step by Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-13-mini-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 13 mini After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovos-yoga-book-similar-problem-for-stories/"><u>Lenovo's Yoga Book # Similar Problem for Stories:</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-connectivity-expert-guide-on-expanding-port-options-for-macbook-and-ipad-pro-insights/"><u>Maximize Connectivity: Expert Guide on Expanding Port Options for MacBook & iPad Pro - Insights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/shooting-for-greatness-iphones-10-vital-composition-guidelines/"><u>Shooting for Greatness IPhone's 10 Vital Composition Guidelines</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-affordable-windows-laptops-comparing-brands-like-acer-dell-and-others-insights-from-zdnet/"><u>Top Affordable Windows Laptops: Comparing Brands Like Acer, Dell & Others - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-non-dell-non-lenovo-workstation-my-go-to-pick-unveiled-on-zdnet/"><u>Top Non-Dell, Non-Lenovo Workstation: My Go-To Pick Unveiled on ZDNet!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-ssd-models-expert-reviews-by-techradar/"><u>Top-Rated SSD Models - Expert Reviews by TechRadar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-alert-grab-your-top-pick-apple-magsafe-charger-at-a-stunning-60-discount-exclusive-offer/"><u>Unbeatable Deal Alert: Grab Your Top Pick Apple MagSafe Charger at a Stunning $60 Discount - Exclusive Offer !</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-5-driving-and-race-replicas/"><u>[New] In 2024, Top 5 Driving & Race Replicas</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-quick-tips-for-saving-and-storing-vimeo-videos/"><u>[Updated] 2024 Approved Quick Tips for Saving and Storing Vimeo Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-accelerate-image-editing-mastery-with-pivotal-pixlr-tips/"><u>2024 Approved Accelerate Image Editing Mastery with Pivotal Pixlr Tips</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-cutting-edge-taggification-top-7-affordable-online-extractors-for-youtube/"><u>2024 Approved Cutting-Edge Taggification Top 7 Affordable Online Extractors for YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-vega-graphics-card-download-and-update-windows-drivers-easily/"><u>AMD Vega Graphics Card: Download & Update Windows Drivers Easily!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatibility-and-installation-of-the-new-brother-scanner-drivers-on-various-windows-platforms/"><u>Compatibility and Installation of the New Brother Scanner Drivers on Various Windows Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-finding-and-installing-updated-sata-drivers-on-windows-computers/"><u>Comprehensive Guide: Finding and Installing Updated SATA Drivers on Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975547165-download-the-epson-wf-2630-printer-drivers-for-windows-7-81-and-10-get-your-printing-started/"><u>Download the Epson WF-2630 Printer Drivers for Windows 7, 8.1 & 10 - Get Your Printing Started</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-strategies-to-refresh-your-webcam-drivers-on-microsofts-latest-os/"><u>Expert Strategies to Refresh Your Webcam Drivers on Microsoft's Latest OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-asus-trackpad-drivers-specifically-designed-for-windows-operating-systems/"><u>Find and Download ASUS Trackpad Drivers Specifically Designed for Windows Operating Systems</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guide-simple-pour-recuperer-les-versions-precedentes-de-votre-document-excel-avec-facilite-et-rapidite/"><u>Guide Simple Pour Récupérer Les Versions Précédentes De Votre Document Excel Avec Facilité Et Rapidité</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-bare-essentials-for-relaxation/"><u>In 2024, Bare Essentials for Relaxation</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/is-making-a-payment-to-hackers-the-right-move-against-cyberattacks/"><u>Is Making a Payment to Hackers the Right Move Against Cyberattacks?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revitalize-your-pcs-battery-performance-with-easy-driver-updates-for-windows/"><u>Revitalize Your PC's Battery Performance with Easy Driver Updates for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-to-update-or-reinstall-dell-g15-graphics-drivers-in-windows/"><u>Step-by-Step Tutorial to Update or Reinstall Dell G15 Graphics Drivers in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-install-wacom-intuos-nibs-on-windows-guaranteed-success/"><u>Ultimate Guide: Install Wacom Intuos Nibs on Windows – Guaranteed Success</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-8-digital-audio-workstations-daws-revolutionizing-contemporary-rap-and-randb-creation/"><u>Updated In 2024, Top 8 Digital Audio Workstations (DAWs) Revolutionizing Contemporary Rap and R&B Creation</u></a></li>
 </ul></div>
 

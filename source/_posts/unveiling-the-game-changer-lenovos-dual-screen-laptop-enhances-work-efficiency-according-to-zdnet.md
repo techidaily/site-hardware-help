@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Game-Changer: Lenovo’s Dual-Screen Laptop Enhances Work Efficiency, According to ZDNet"
-date: 2025-01-28T17:31:27.192Z
-updated: 2025-01-30T16:29:56.695Z
+date: 2025-02-04T22:35:23.931Z
+updated: 2025-02-12T04:52:20.697Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -63,7 +63,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -86,6 +86,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -107,7 +111,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -139,10 +143,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -182,21 +182,24 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-clicks-to-cash-elevating-exposure-economics-for-2024/"><u>[New] From Clicks to Cash Elevating Exposure Economics for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-conquering-zoom-meetings-a-tech-savvy-setup-strategy/"><u>[New] In 2024, Conquering Zoom Meetings A Tech-Savvy Setup Strategy</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-unlock-higher-engagement-with-proven-video-tagging-methods/"><u>[New] In 2024, Unlock Higher Engagement with Proven Video Tagging Methods</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-journey-to-storytelling-gear-selection-guide/"><u>[Updated] 2024 Approved Journey to Storytelling Gear Selection Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unveiling-the-top-8-beginner-friendly-cameras-35mm-to-pands/"><u>2024 Approved Unveiling the Top 8 Beginner-Friendly Cameras (35Mm to P&S)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-close-call-to-the-ideal-setup-unveiling-how-this-nearly-perfect-3600-laptop-stacks-up-against-dream-machines-on-zdnet/"><u>A Close Call to the Ideal Setup: Unveiling How This Nearly-Perfect $3,600 Laptop Stacks Up Against Dream Machines on ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-complete-guide-on-which-tabletlaptop-fits-you-best-tech-analysis/"><u>Choosing Between iPad Pro and MacBook Air: A Complete Guide on Which Tablet/Laptop Fits You Best Tech Analysis</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/download-the-latest-dj-software-skins-creator-from-pcdj-new-release/"><u>Download the Latest DJ Software Skins Creator From PCDJ - New Release!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhance-site-engagement-using-the-cookiebot-platform/"><u>Enhance Site Engagement Using the Cookiebot Platform</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-4655-driver-downloads-latest-versions-available-now/"><u>HP Officejet 4655 Driver Downloads: Latest Versions Available Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tales-of-unpleasant-surprises-from-a-visit-to-apples-official-shopspace-insights/"><u>Tales of Unpleasant Surprises From a Visit to Apple's Official Shopspace - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-car-boasts-an-eye-catching-design-with-its-custom-wraps-and-decals-giving-it-the-distinctive-look-of-a-dressed-automobile-ready-to-turn-heads-on-any-str2/"><u>The Car Boasts an Eye-Catching Design with Its Custom Wraps and Decals, Giving It the Distinctive Look of a 'Dressed' Automobile Ready to Turn Heads on Any Street.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-3-unbeatable-cyber-monday-bargains-laptops-for-under-a-grand-from-costco-amazon-and-dell-featured/"><u>Top 3 Unbeatable Cyber Monday Bargains: Laptops for Under a Grand From Costco, Amazon & Dell - Featured</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-5-economical-game-ready-keyboards-for-2024/"><u>Top 5 Economical Game-Ready Keyboards for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-2-in-1-device-with-a-hidden-gem-for-workspaces-reviewed-uncovering-its-exclusive-offerings/"><u>Top Rated 2-in-1 Device with a Hidden Gem for Workspaces, Reviewed - Uncovering Its Exclusive Offerings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zdnets-guide-to-the-samsung-unpacked-202n-event-all-you-need-to-know-about-galaxy-s23-and-book-launches/"><u>ZDNet's Guide to the Samsung Unpacked 202N Event: All You Need to Know About Galaxy S23 & Book Launches</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-playback-of-srt-audio-files-in-computers-windowsmacos/"><u>[New] In 2024, Playback of SRT Audio Files in Computers (Windows/macOS)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-gesture-control-a-comprehensive-overview/"><u>[New] Mastering Gesture Control A Comprehensive Overview</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-frills-screensaver-windows-compatible/"><u>[New] No Frills Screensaver - Windows Compatible</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-perfecting-your-snapchat-story-cinematography-for-2024/"><u>[New] Perfecting Your Snapchat Story Cinematography for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-transform-your-iphone-into-a-content-powerhouse-with-best-fb-video-downloaders-for-ios/"><u>[New] Transform Your iPhone Into a Content Powerhouse with Best FB Video Downloaders for iOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/binge-on-inspirational-athletics-movies-10-selections-for-your-next-screen-time/"><u>Binge on Inspirational Athletics Movies: 10 Selections for Your Next Screen Time</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-newest-version-of-wacom-cintiq-tablet-driver-for-enhanced-performance/"><u>Download Newest Version of Wacom Cintiq Tablet Driver for Enhanced Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-startech-drivers-errors-on-windows-11-8-and-7-resolved/"><u>Effective Solutions for StarTech Drivers Errors on Windows 11, 8 & 7 - Resolved!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963877497-effortless-driver-update-for-samsung-c460-start-now/"><u>Effortless Driver Update for Samsung C460 - Start Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improved-microsoft-power-device-management-correcting-previous-acpi-compliance-driver-concerns/"><u>Improved Microsoft Power Device Management: Correcting Previous ACPI Compliance Driver Concerns</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-gaming-mouse-g602-setup-and-drivers-free-downloads-for-windows-users/"><u>Logitech Gaming Mouse (G602) Setup & Drivers: Free Downloads for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/securing-pcs-in-the-modern-age-proven-tips-for-windows-users-at-home-and-workspace-featuring-expert-advice-zdnet/"><u>Securing PCs in the Modern Age: Proven Tips for Windows Users at Home and Workspace, Featuring Expert Advice | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-secure-your-pcs-audio-with-official-realtek-drivers-for-windows-11107/"><u>Step-by-Step: Secure Your PC's Audio with Official Realtek Drivers for Windows (11/10/7)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-freeware-de-compression-video-pour-mac-en-2023-designez-le-votre/"><u>Top Freeware De Compression Vidéo Pour MAC en 2023 - Designez Le Vôtre</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-error-code-0x80240034-in-windows-11-updates/"><u>Troubleshooting and Repairing Error Code 0X80240034 in Windows 11 Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-d-e-t-alen-intel-usb-30-device-drivers-downloads/"><u>Windows ˈD E T Aɪˈləʊn: Intel USB 3.0 Device Drivers Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-11-and-10-compatible-corsair-icue-software-download-now/"><u>Windows 11 & 10 Compatible Corsair iCUE Software - Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-users-heres-how-to-set-up-your-epson-wf-265cuickly-download-the-right-drivers-today/"><u>Windows Users, Here's How to Set Up Your Epson WF-265cuickly - Download the Right Drivers Today!</u></a></li>
 </ul></div>
 

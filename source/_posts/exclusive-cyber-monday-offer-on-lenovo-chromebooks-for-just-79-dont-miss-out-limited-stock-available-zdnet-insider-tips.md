@@ -1,7 +1,7 @@
 ---
 title: Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available | ZDNET Insider Tips
-date: 2025-01-29T18:06:47.363Z
-updated: 2025-01-30T18:44:55.452Z
+date: 2025-02-07T22:02:09.407Z
+updated: 2025-02-11T17:47:09.210Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,20 +75,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-the-art-of-vrecorder-integration-simple-download-and-use-tutorials-for-2024/"><u>[New] The Art of VRecorder Integration Simple Download & Use Tutorials for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-safeguarding-photos-best-software-guide-uncovered/"><u>[Updated] Safeguarding Photos Best Software Guide Uncovered</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/choosing-between-macbook-air-and-macbook-pro-a-comprehensive-guide-to-finding-the-perfect-apple-laptop-for-your-needs-zdnet/"><u>Choosing Between MacBook Air & MacBook Pro: A Comprehensive Guide to Finding the Perfect Apple Laptop for Your Needs - ZDNet</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/chucklecircuit-meme-studio-free-download-for-2024/"><u>ChuckleCircuit Meme Studio (Free Download!) For 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compare-and-conquer-how-this-budget-friendly-windows-notebook-rivals-the-macbook-airs-prowess-insights/"><u>Compare and Conquer: How This Budget-Friendly Windows Notebook Rivals the MacBook Air's Prowess – Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exciting-update-microsoft-introduces-surface-devices-and-copilot-for-enterprise-customers-discover-the-latest-featureszdnet/"><u>Exciting Update: Microsoft Introduces Surface Devices & Copilot for Enterprise Customers - Discover the Latest Features![ZDNet]</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-add-life-to-your-footage-title-updating-techniques-in-photos-win-11/"><u>In 2024, Add Life to Your Footage Title Updating Techniques in Photos Win 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-realme-gt-3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme GT 3 FRP Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-acer-chromebook-516g-evo-assessment-optimized-for-cloud-gaming-experience/"><u>In-Depth Acer Chromebook 516G EVO Assessment: Optimized for Cloud Gaming Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-dells-new-game-changing-portable-gaming-laptop-the-perfect-office-companion-tech-insights/"><u>Introducing Dell's New Game-Changing Portable Gaming Laptop: The Perfect Office Companion | Tech Insights</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/schritt-fur-schritt-anleitung-zum-klonen-eines-hdd-auf-ein-samsung-ssd/"><u>Schritt-Für-Schritt Anleitung Zum Klonen Eines HDD Auf Ein Samsung SSD</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-guide-fast-and-easy-ways-to-link-your-laptop-with-television-tips/"><u>Simple Guide: Fast & Easy Ways to Link Your Laptop with Television - Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-a-steep-discount-on-the-asus-rog-strix-g1ve-for-gamers-shop-now-with-600-savings-zdnet/"><u>Unlock a Steep Discount on the Asus ROG Strix G1ve for Gamers! Shop Now with $600 Savings | ZDNET</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-cooking-cut-away-classics-top-7-techniques-for-tasty-videos/"><u>[Updated] 2024 Approved Cooking Cut-Away Classics - Top 7 Techniques for Tasty Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-fan-count-top-tactics-for-fb-page-ranks-for-2024/"><u>[Updated] Elevate Your Fan Count Top Tactics for FB Page Ranks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-clearer-picture-remove-borders-and-boost-recording-quality/"><u>[Updated] The Clearer Picture Remove Borders and Boost Recording Quality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-guide-to-metaverse-memes-and-diy-humor-mastery/"><u>[Updated] The Ultimate Guide to Metaverse Memes and DIY Humor Mastery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-capture-the-magic-of-moonlight-iphonely/"><u>2024 Approved Capture the Magic of Moonlight iPhonely</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-l234er-dual-toner-laser-printer-setup-and-software-for-windows-free-downloads/"><u>Brother HL-L234er Dual Toner Laser Printer Setup and Software for Windows - Free Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-hp-laserjet-m506-printer-drivers-easy-guide/"><u>Download and Update HP LaserJet M506 Printer Drivers - Easy Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-wf-7710-driver-download-guide-ready-for-windows-108187-operating-systems/"><u>Epson WF-7710 Driver Download Guide - Ready for Windows 10/8.1/8/7 Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-the-most-recent-drivers-for-toshiba-office-machines-using-windows-operating-systems/"><u>Find and Install the Most Recent Drivers for Toshiba Office Machines Using Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-amds-gpio-drivers-for-direct-access-to-gpu-resources/"><u>Get the Latest Version of AMD's GPIO Drivers for Direct Access to GPU Resources</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-hp-deskjet-2700-software-for-your-device/"><u>How to Get the Newest HP DeskJet 2700 Software for Your Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-your-ati-radeon-graphics-cards-drivers-using-windows/"><u>How To Successfully Update Your ATI Radeon Graphics Card's Drivers Using Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-fix-asus-pce-ac56-network-adapter-drivers-across-various-windows-versions-guide/"><u>How to Update or Fix ASUS PCE-AC56 Network Adapter Drivers Across Various Windows Versions [GUIDE]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-snap-your-next-podcast-pick-for-sharing/"><u>In 2024, Snap Your Next Podcast Pick for Sharing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-techkeys-bluetooth-driver-seamless-connection-for-all-windows-versions/"><u>Install Techkey's Bluetooth Driver: Seamless Connection for All Windows Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/launch-budget-friendly-home-based-chatgpt-alternative/"><u>Launch Budget-Friendly, Home-Based ChatGPT Alternative</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-restoring-functionality-to-a-broken-backspace-key/"><u>Solution Found: Restoring Functionality to a Broken Backspace Key</u></a></li>
+<li><a href="https://discover-best.techidaily.com/understanding-and-resolving-pcs-blue-screen-error-with-yl-software-solutions/"><u>Understanding and Resolving PC's Blue Screen Error with YL Software Solutions.</u></a></li>
 </ul></div>
 

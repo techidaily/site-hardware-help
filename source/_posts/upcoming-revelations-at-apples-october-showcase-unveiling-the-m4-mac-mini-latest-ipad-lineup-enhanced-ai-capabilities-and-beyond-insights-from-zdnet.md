@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Revelations at Apple's October Showcase: Unveiling the M4 Mac Mini, Latest iPad Lineup, Enhanced AI Capabilities & Beyond - Insights From ZDNet"
-date: 2025-01-25T16:29:30.442Z
-updated: 2025-01-30T16:25:33.973Z
+date: 2025-02-11T04:06:02.333Z
+updated: 2025-02-11T20:36:12.777Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,18 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flash-video-insights-guide/"><u>[New] 2024 Approved Flash Video Insights Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>[New] In 2024, The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ultimate-mac-screen-recorder-solutions-beyond-bandicam/"><u>2024 Approved Ultimate Mac Screen Recorder Solutions Beyond Bandicam</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazon-now-offering-top-ranked-laptops-at-a-steep-discount-before-prime-day-shop-the-deal/"><u>Amazon Now Offering Top-Ranked Laptops at a Steep Discount Before Prime Day - Shop the Deal!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dont-miss-out-on-the-steep-36-savings-for-an-8tb-samsung-t5-ssd-available-now-at-amazon-after-prime/"><u>Don't Miss Out on the Steep 36% Savings for an 8TB Samsung T5 SSD Available Now at Amazon After Prime</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-converter-aac-to-mp4-audio-format-movevi/"><u>Free Online Converter: AAC to MP4 Audio Format - Movevi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/octobers-exclusive-prime-day-game-sales-up-to-1000-off-dont-miss-out-on-these-epic-bargains/"><u>October's Exclusive Prime Day Game Sales - Up To $1,000 Off! Don't Miss Out On These Epic Bargains!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-core-of-generative-ai-revealed/"><u>The Core of Generative AI Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-workstation-how-satechis-all-in-one-docking-solution-transforms-tech-on-a-budget/"><u>The Ultimate Workstation: How Satechi's All-in-One Docking Solution Transforms Tech on a Budget</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/oney-making-techniques-for-short-videos/"><u>Top Money-Making Techniques for Short Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-experience-the-ultimate-audio-quality-with-a-50-discount-on-best-buys-top-rated-speakers-zdnet-review/"><u>Unbeatable Deal: Experience the Ultimate Audio Quality with a 50% Discount on Best Buy's Top-Rated Speakers – ZDNet Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/viewing-tips-access-and-enjoy-roku-channels-on-alternative-devices/"><u>Viewing Tips: Access and Enjoy Roku Channels on Alternative Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/vimeo-integration-for-professional-instagram-users/"><u>Vimeo Integration for Professional Instagram Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-the-art-top-5-fluid-gaming-journeys/"><u>[New] Mastering the Art Top 5 Fluid Gaming Journeys</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-churn-out-custom-internet-echo-jokes/"><u>[Updated] Churn Out Custom Internet Echo Jokes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-virtual-territories-metaverse-and-multiverse-guide-for-2024/"><u>[Updated] Navigating Virtual Territories Metaverse & Multiverse Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-screen-grab-analysis-a-comparative-look-at-leading-software/"><u>2024 Approved Screen Grab Analysis A Comparative Look at Leading Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-ip110-printer-support-for-windows-operating-systems-downloads-for-win11-win10-win8-and-win7/"><u>Canon IP110 Printer Support for Windows Operating Systems: Downloads for Win11, Win10, Win8 & Win7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-elgato-drivers-instantly-a-simple-tutorial/"><u>Download Elgato Drivers Instantly: A Simple Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-optimal-performance-free-driver-downloads-for-gigabytes-z370p-platform/"><u>Ensure Optimal Performance: Free Driver Downloads for Gigabyte's Z370P Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-sades-headset-drivers-guaranteed-safe-for-your-windows-system/"><u>Get the Latest Sades Headset Drivers - Guaranteed Safe for Your Windows System</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-patch-windows-11-version-2004-with-a-new-conexant-graphics-card-driver/"><u>How to Successfully Patch Windows 11 (Version 2004) with a New Conexant Graphics Card Driver</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unlocking-your-channels-potential-the-cost-analysis/"><u>In 2024, Unlocking Your Channel's Potential The Cost Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-msi-b350-tomahawk-graphics-card-drivers-a-guide-for-users-of-windows-10-and-7-systems/"><u>Installing MSI B350 Tomahawk Graphics Card Drivers: A Guide for Users of Windows 10 & 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-necessary-drivers-for-smooth-operation-on-hp-840-g3-devices/"><u>Installing Necessary Drivers for Smooth Operation on HP 840 G3 Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-fingerprint-software-upgrade-free-download-for-windows/"><u>Latest Fingerprint Software Upgrade - Free Download for Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-subtitle-integration-on-instagram-tv-for-2024/"><u>Mastering Subtitle Integration on Instagram TV for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-airpods-connection-issues-no-more-unwanted-switching-between-apple-products/"><u>Resolve AirPods Connection Issues: No More Unwanted Switching Between Apple Products</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-how-to-install-soundmax-drivers-in-windows-effortlessly/"><u>Step-by-Step Tutorial: How to Install SoundMAX Drivers in Windows Effortlessly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-hot-30-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Infinix Hot 30 5G Device</u></a></li>
+<li><a href="https://techidaily.com/unveiling-windows-11-for-official-use-reasons-to-steer-clear-of-this-specialized-operating-system/"><u>Unveiling Windows 11 for Official Use - Reasons to Steer Clear of This Specialized Operating System</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Score Big Deals with Lenovo Half-Year Offer: Cut Costs by $1,500 on Your ThinkPad Selection – Insights From ZDNet"
-date: 2025-01-25T17:23:57.277Z
-updated: 2025-01-30T19:15:10.821Z
+date: 2025-02-06T16:21:44.542Z
+updated: 2025-02-11T21:34:06.016Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,21 +112,16 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-hash-tagging-for-brand-success-on-fb/"><u>[New] 2024 Approved The Ultimate Guide to Hash Tagging for Brand Success on FB</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-superior-on-screen-moment-documentation/"><u>[New] Superior On-Screen Moment Documentation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-explore-best-gopro-cases-rated-1-10/"><u>[Updated] Explore Best GoPro Cases Rated #1-10</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-free-film-resource-highlights-where-to-start-your-search/"><u>[Updated] Free Film Resource Highlights Where to Start Your Search</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-game-on-in-reality-the-ultimate-vr-headset-comparison-for-2024/"><u>[Updated] Game On in Reality The Ultimate VR Headset Comparison for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-15-youtube-recording-software-for-gamers/"><u>[Updated] In 2024, Top 15 YouTube Recording Software for Gamers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/bypassing-dvd-region-codes-easy-methods-to-enjoy-any-movie-worldwide/"><u>Bypassing DVD Region Codes: Easy Methods to Enjoy Any Movie Worldwide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-devices-versatularity-with-these-expert-tips-for-adding-more-ports-to-macbook-or-ipad-pro-zdnet-recommendations/"><u>Enhance Your Device's Versatularity with These Expert Tips for Adding More Ports to MacBook or iPad Pro | ZDNET Recommendations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-presidents-holiday-offer-on-the-latest-macbook-pro-with-powerful-m3-pro-processor-at-a-200-discount-shop-now/"><u>Exclusive Presidents' Holiday Offer on the Latest MacBook Pro with Powerful M3 Pro Processor at a $200 Discount - Shop Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-premium-lenovo-thinkpad-x13s-ultraportable-with-advanced-arm-architecture-cutting-edge-5g-support-and-superior-battery-endurance-gadgetpundit-45/"><u>Exploring the Premium Lenovo ThinkPad X13s Ultraportable with Advanced Arm Architecture, Cutting-Edge 5G Support and Superior Battery Endurance | GadgetPundit Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-the-latest-svelte-laptops-are-transforming-the-work-from-home-experience-find-out-why-theyre-a-hit-with-tech-insiders/"><u>How the Latest Svelte Laptops Are Transforming the Work From Home Experience - Find Out Why They're a Hit with Tech Insiders</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-black-ops-4s-frame-rate-dips-and-steady-your-gameplay/"><u>How To Overcome Black Ops 4'S Frame Rate Dips & Steady Your Gameplay</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-ultimate-october-2024-laptop-bargains-find-your-tech-treasure-with-zdnets-exclusive-guide/"><u>Top-Rated Ultimate October 2024 Laptop Bargains: Find Your Tech Treasure with ZDNet's Exclusive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-smartphone-into-a-dual-display-with-this-ingenious-laptop-stand-zdnet-review/"><u>Transform Your Smartphone Into a Dual Display with This Ingenious Laptop Stand - ZDNet Review</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nubia-z50-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nubia Z50 Ultra? Here is How | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zdnet-reveals-a-surprisingly-exceptional-all-in-one-laptop-for-professionals-ranking-as-one-of-top-tests/"><u>ZDNet Reveals a Surprisingly Exceptional All-In-One Laptop for Professionals, Ranking as One of Top Tests</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-comparative-review-samsungs-imaging-suite-2023-edition/"><u>[New] 2024 Approved Comparative Review Samsung's Imaging Suite, 2023 Edition</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-streamline-your-viewing-experience-with-accelerated-or-slowed-videos/"><u>[New] 2024 Approved Streamline Your Viewing Experience with Accelerated or Slowed Videos</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963058324-ensure-your-hp-officejet-pro-8610-works-flawlessly-with-the-latest-driver-downloads-for-windows-operating-systems/"><u>Ensure Your HP Officejet Pro 8610 Works Flawlessly with the Latest Driver Downloads for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-hp-envy-7640-driver-issues-easily/"><u>Fix HP ENVY 7640 Driver Issues. Easily</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/grandest-video-humor-studio/"><u>Grandest Video Humor Studio</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fixes-modifying-power-management-tools-on-your-lenovo-device/"><u>Quick Fixes: Modifying Power Management Tools on Your Lenovo Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-guide-dealing-with-the-problem-of-missing-dts-sound-capabilities-in-devices/"><u>Resolved Guide: Dealing with the Problem of Missing DTS Sound Capabilities in Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tutorial-esencial-mejores-tecnicas-para-rotar-en-grados-videos-mp4-manten-la-calidad-intacta/"><u>Tutorial Esencial: Mejores Técnicas Para Rotar en Grados Vídeos MP4 Mantén La Calidad Intacta</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/vdy-pro-recorder-summary-detailed-analysis-for-2024/"><u>VDY Pro Recorder Summary Detailed Analysis for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978702111-wacom-cintiq-driver-download-and-update-easily/"><u>Wacom Cintiq Driver Download & Update Easily!</u></a></li>
 </ul></div>
 

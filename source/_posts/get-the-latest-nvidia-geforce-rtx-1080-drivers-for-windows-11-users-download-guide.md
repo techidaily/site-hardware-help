@@ -1,7 +1,7 @@
 ---
 title: Get the Latest Nvidia GeForce RTX 1080 Drivers for Windows 11 Users – Download Guide
-date: 2024-08-19T10:54:47.590Z
-updated: 2024-08-20T10:54:47.590Z
+date: 2025-02-06T23:20:14.226Z
+updated: 2025-02-12T05:44:43.365Z
 tags:
   - win11
   - win10
@@ -18,9 +18,9 @@ thumbnail: https://thmb.techidaily.com/d6e8710c36c5978badec227a1052e8c4e84f42f10
 The**NVIDIA RTX 2080 SUPER** is no doubt a beast. But to dominate all the AAA titles in 2021, you still need the latest graphics driver. In this article, we’ll show you how to download and update the driver for RTX 2080 SUPER, easily and quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 ways to install the RTX 2080 SUPER driver
 
  Option 1:[Install manually](https://tools.techidaily.com/drivereasy/download/) — This needs time and computer skills. You need to visit the NVIDIA website, search for the driver, and install it manually.
@@ -30,8 +30,9 @@ OR
  Option 1:[**Install automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-update-rtx-2080-super-drivers-windows-10/#option2) — You can get the latest graphics driver easily & quickly. All you need will be just a few clicks.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Install the RTX 2080 SUPER driver manually
 
  If you’re a tech-savvy gamer, you can try to install the latest graphics driver manually.
@@ -39,20 +40,19 @@ OR
 **Warning** : Downloading the wrong driver or installing it incorrectly can make your PC unstable and even crash the whole system. So please proceed at your own risk.
 
 1. Visit the[driver download page](https://www.nvidia.com/Download/index.aspx) of the NVIDIA website. Then search for your video card.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually.jpg)
 2. At the search result page, click**DOWNLOAD** to download the installer. Then launch it and follow the on-screen instructions.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Install the RTX 2080 SUPER driver automatically (Recommended)
 
  If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It will automatically recognize your system and find the correct drivers for your exact graphics card, and your Windows version, and it will download and install them correctly:
@@ -61,10 +61,12 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2080-super.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -83,8 +85,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +92,16 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-essential-view-total-to-secure-income/"><u>[New] YouTube's Essential View Total to Secure Income</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-all-purpose-capture-software-azs-app-critiques/"><u>[Updated] 2024 Approved All-Purpose Capture Software - AZ's App Critiques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-elevating-your-unboxing-craft-techniques-for-skyro-written-by-user/"><u>[Updated] 2024 Approved Elevating Your Unboxing Craft Techniques for Skyro Written by User</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/54650886-updated-quick-and-easy-channels-personalize-your-youtube-url-now/"><u>[Updated] Quick and Easy Channels Personalize Your YouTube URL Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/7620-printer-drivers-in-windows/"><u>7620 Printer Drivers in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/amplify-visual-appeal-in-tiktok-clips/"><u>Amplify Visual Appeal in TikTok Clips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965322872-canon-mf4800-drivers-get-your-free-download-here/"><u>Canon MF4800 Drivers: Get Your Free Download Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-nic-drivers-here-immediate-download-available/"><u>Get Your Gigabyte NIC Drivers Here - Immediate Download Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-smoothly-get-the-dell-mouse-driver-installed-common-problems-solved/"><u>How To Smoothly Get the Dell Mouse Driver Installed: Common Problems Solved</u></a></li>
+</ul></div>
 

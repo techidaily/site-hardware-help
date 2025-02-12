@@ -1,7 +1,7 @@
 ---
 title: "What's in Store for Tech Enthusiasts: Anticipating Apple's October Reveals – Next-Gen M4 Mac Mini, Revamped iPads & AI Developments – Expert Analysis"
-date: 2025-01-23T16:51:27.174Z
-updated: 2025-01-30T16:45:00.766Z
+date: 2025-02-10T22:56:14.277Z
+updated: 2025-02-12T03:37:01.838Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-elite-5-fpv-hmds-for-high-speed-aerial-sports-for-2024/"><u>[New] Elite 5 FPV HMDs for High-Speed Aerial Sports for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-update-the-latest-sony-s6500-model-review/"><u>[New] In-Depth Update The Latest Sony S6500 Model Review</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-frugal-filmmakers-guide-to-affordable-camera-gear/"><u>[Updated] 2024 Approved The Frugal Filmmaker's Guide to Affordable Camera Gear</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-inclusive-insight-easeus-professional-analysis/"><u>[Updated] Inclusive Insight EaseUS Professional Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-innovates-immerse-yourself-in-3d-art-right-from-any-surface-with-the-new-non-vrar-glasses-required-laptops/"><u>Asus Innovates: Immerse Yourself in 3D Art Right From Any Surface with the New Non-VR/AR Glasses Required Laptops</u></a></li>
-<li><a href="https://win-data.techidaily.com/beyond-itunes-essential-reasons-why-professional-disc-jockeys-must-upgrade-their-media-organization-tools/"><u>Beyond iTunes: Essential Reasons Why Professional Disc Jockeys Must Upgrade Their Media Organization Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-podcasts-on-budget-phones-safety/"><u>ChatGPT-Powered Podcasts on Budget Phones' Safety</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/sive-webcast-winners-for-2024/"><u>Exclusive Webcast Winners for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-f23-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo F23 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-best-thinkpads-for-hybrid-work-environments-a-comprehensive-guide-thats-not-about-lenovos-newest-zdnet/"><u>Navigating the Best ThinkPads for Hybrid Work Environments – A Comprehensive Guide That's Not About Lenovo's Newest | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-selection-of-cyber-monday-laptops-on-sale-insights-october-edition/"><u>The Ultimate Selection of Cyber Monday Laptops on Sale - Insights , October Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-picks-unbeatable-black-friday-laptop-discounts-await-you-this-oct-24/"><u>Top Picks: Unbeatable Black Friday Laptop Discounts Await You This Oct '24</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-15-inch-laptop-picks-for-234-in-depth-analysis-and-recommendations-techradar/"><u>Top Rated 15-Inch Laptop Picks for 2^34: In-Depth Analysis & Recommendations - TechRadar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-15-inch-laptop-picks-for-2n25-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated 15-Inch Laptop Picks for 2N25: Comprehensive Reviews by Tech Experts | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranked-streaming-webcams-professional-tests-and-reviews/"><u>Top-Ranked Streaming Webcams : Professional Tests & Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-digital-notepads-on-the-market-comprehensive-reviews-and-buyers-guide-insights-by-zdnet/"><u>Top-Rated Digital Notepads on the Market: Comprehensive Reviews & Buyer's Guide - Insights by ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ultimate-guide-from-script-writing-to-final-audio-in-videos/"><u>Ultimate Guide From Script Writing to Final Audio in Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-hp-victus-15-gaming-laptop-pricing-at-best-buy-for-just-530-exclusive-insights/"><u>Unbeatable HP Victus 15 Gaming Laptop Pricing at Best Buy for Just $530 | Exclusive Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-best-of-the-best-october-prime-deals-on-laptops-spotted-early-by-zdnet/"><u>Unlock Best-of-the-Best October Prime Deals on Laptops, Spotted Early by ZDNet!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhance-call-to-action-potential-with-gs-approach-for-2024/"><u>[New] Enhance Call to Action Potential with GS Approach for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-inside-look-a-detailed-review-of-the-android-lightroom-app-for-2024/"><u>[Updated] Inside Look A Detailed Review of the Android Lightroom App for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-exclusive-tips-to-elevate-your-canva-projects-by-10x/"><u>2024 Approved Exclusive Tips to Elevate Your Canva Projects by 10X</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-your-study-avoiding-edgenuity-videos-efficiently/"><u>2024 Approved Streamline Your Study Avoiding Edgenuity Videos Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-exes-to-msi-installers/"><u>Comparing EXEs to MSI Installers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-downloading-and-installing-your-insignia-usb-to-vga-adapters-drivers/"><u>Comprehensive Guide to Downloading and Installing Your Insignia USB-to-VGA Adapter's Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-peak-performance-updating-drivers-for-your-razer-blackwidow-keyboard/"><u>Ensure Peak Performance: Updating Drivers for Your Razer BlackWidow Keyboard</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-l3t3150-software-update-on-windows-11-8-and-7-systems/"><u>Get the Latest Epson L3t3150 Software Update on Windows 11, 8, and 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963520307-get-the-new-microsoft-bluetooth-driver-version-compatible-with-win-11-10-8-and-7-free-download/"><u>Get the New Microsoft Bluetooth Driver Version: Compatible with Win 11, 10, 8 & 7 – Free Download</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-nokia-c300-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia C300 Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-4500-printer-driver-download-2024-update/"><u>HP Officejet 4500 Printer Driver Download 2024 Update</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-accelerate-your-editing-process-with-these-5-tips-for-obs/"><u>In 2024, Accelerate Your Editing Process with These 5 Tips for OBS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-mophie-juice-pack-evaluation-for-iphone-14-pro-max-boosting-battery-life-with-trade-offs/"><u>In-Depth Mophie Juice Pack Evaluation for iPhone 14 Pro Max: Boosting Battery Life with Trade-Offs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-latest-software-hp-thunderbolt-dock-g2-120w230w-get-your-downloads-here/"><u>Installing the Latest Software: HP Thunderbolt Dock G2 (120W/230W) - Get Your Downloads Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-d-link-driver-issues-and-how-to-flawlessly-update-in-windows-environment/"><u>Troubleshooting D-Link Driver Issues & How to Flawlessly Update in Windows Environment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-movavis-shipping-returns-and-exchange-regulations-for-hassle-free-shopping/"><u>Understanding Movavi's Shipping, Returns, and Exchange Regulations for Hassle-Free Shopping</u></a></li>
 </ul></div>
 

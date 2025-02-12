@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad X1 Carbon (Gen 9+) Unboxed & Assessed – Surpassing All in Business Laptops?
-date: 2025-01-28T19:33:36.836Z
-updated: 2025-01-30T17:12:53.522Z
+date: 2025-02-07T03:27:29.705Z
+updated: 2025-02-12T03:52:53.892Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,18 +218,20 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-10-simple-strategies-for-picture-perfection-ps/"><u>[New] 10 Simple Strategies for Picture Perfection PS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-backupbuddy-reviewers-thoughts/"><u>[New] BackupBuddy Reviewers Thoughts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-turning-product-analysis-into-income-via-video-platforms/"><u>[Updated] 2024 Approved Turning Product Analysis Into Income via Video Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-love-the-cut-filmoras-top-10-edits-unveiled/"><u>2024 Approved Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/advanced-methods-for-effortless-recording-of-your-google-classes/"><u>Advanced Methods for Effortless Recording of Your Google Classes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/brand-transformation-on-instagram-top-10-unconventional-igtv-video-ideas-for-2024/"><u>Brand Transformation on Instagram Top 10 Unconventional IGTV Video Ideas for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-webcam-picks-zdnets-ultimate-guide-to-value-buys/"><u>Budget-Friendly Webcam Picks - ZDNet's Ultimate Guide to Value Buys</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-best-laptop-recommended-at-an-amazon-blowout-price-save-500-pre-prime-day-sale-limited-time-offer/"><u>Get the Best Laptop Recommended at an Amazon Blowout Price, Save $500 Pre-Prime Day Sale - Limited Time Offer!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-cyberpunk-2077-wont-start-problem/"><u>How to Fix Cyberpunk 2077 Won't Start Problem</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/immediate-discount-secure-200-off-on-todays-deal-for-m1-macbook-air-exclusive-offer/"><u>Immediate Discount: Secure $200 Off on Today's Deal for M1 MacBook Air - Exclusive Offer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/massive-hp-cyber-savings-event-unveiled-secure-laptops-monitors-and-more-at-astounding-discounts-up-to-71-off/"><u>Massive HP Cyber Savings Event Unveiled! Secure Laptops, Monitors & More at Astounding Discounts Up to 71% Off!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sale-alert-samsung-4tb-t5-solid-state-drive-now-available-on-amazon-with-up-to-50-discount-insights/"><u>Sale Alert: Samsung 4TB T5 Solid State Drive Now Available on Amazon with Up to 50% Discount - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/silence-the-noise-a-step-by-step-guide-to-turn-off-notifications-for-certain-apps-on-chromebook-lifewire/"><u>Silence the Noise: A Step-by-Step Guide to Turn Off Notifications for Certain Apps on Chromebook | Lifewire</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-stop-recording-on-quicktime/"><u>[New] How To Stop Recording on QuickTime</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-achieve-stardom-in-the-digital-world-by-growing-your-facebook-followers/"><u>[New] In 2024, Achieve Stardom in the Digital World by Growing Your Facebook Followers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-navigating-new-user-registration-on-twitter/"><u>[Updated] 2024 Approved Navigating New User Registration on Twitter</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-a-critique-of-dogmatism/"><u>[Updated] In 2024, A Critique of Dogmatism</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-instant-setup-corsair-void-pro-driver-software-for-windows-users/"><u>Download & Instant Setup: Corsair Void Pro Driver Software for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-up-to-date-drivers-enhance-your-gaming-on-nvidia-gtx-amoled-with-windows-11-support/"><u>Download Up-to-Date Drivers: Enhance Your Gaming on Nvidia GTX Amoled with Windows 11 Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966589965-hps-thunderbolt-station-g2-find-the-right-driver-for-120w-and-230w-models-here/"><u>HP's Thunderbolt Station G2: Find the Right Driver for 120W & 230W Models Here!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vesting-in-a-monthly-youtube-premium-worthwhile/"><u>Is Investing in a Monthly YouTube Premium Worthwhile?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-secure-geforce-gtx-460-drivers-downloading-guide-for-windows-users/"><u>Quick and Secure GeForce GTX 460 Drivers Downloading Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972626557-secure-boot-and-trusted-execution-technology-txt/"><u>Secure Boot and Trusted Execution Technology (TXT)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spectaculous-14-animated-text-illustration-samples/"><u>Spectaculous 14 Animated Text Illustration Samples</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-for-your-hp-laserjet-p2035-printers-driver-woes-in-the-windows-environment-solved/"><u>Step-by-Step Fix for Your HP LaserJet (P2035) Printer's Driver Woes in the Windows Environment [Solved]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-x9a-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor X9a Phone Pattern Lock</u></a></li>
+<li><a href="https://article-helps.techidaily.com/transform-your-vfx-workflow-implementing-luts-within-after-effects/"><u>Transform Your VFX Workflow Implementing LUTs Within After Effects</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-officejet-printer-driver-official-guidelines-for-windows-users/"><u>Update Your HP Officejet Printer Driver - Official Guidelines for Windows Users</u></a></li>
 </ul></div>
 

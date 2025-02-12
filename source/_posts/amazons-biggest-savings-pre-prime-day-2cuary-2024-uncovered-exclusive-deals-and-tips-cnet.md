@@ -1,7 +1,7 @@
 ---
 title: Amazon's Biggest Savings Pre-Prime Day 2Cuary 2024 Uncovered – Exclusive Deals & Tips | CNET
-date: 2025-01-23T18:56:35.471Z
-updated: 2025-01-30T19:22:18.909Z
+date: 2025-02-09T20:28:07.617Z
+updated: 2025-02-12T03:47:56.773Z
 tags:
   - laptops
 categories:
@@ -99,6 +99,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -114,10 +118,6 @@ ZDNET
 * [Samsung T9 4TB portable SSD for $300 (save $250)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-Professionals-MU-PG4T0B-AM%2Fdp%2FB0CHFSZX9W%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): The Samsung T9 has an integrated thermal guard to help dissipate waste heat and protect delicate electronics from damage. It also works with Samsung's Magician Software for automatic firmware updates, data encryption, and SSD health monitoring.
 * [MSI Claw 512GB for $642 (save $108)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Claw-Gaming-Handheld-Thunderbolt%2Fdp%2FB0CXG3DBQV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): Built with an Intel Core Ultra 7 CPU, 16GB of RAM, a 512GB SSD, and a 7-inch display, the MSI Claw rivals the Steam Deck handheld gaming PC in power and performance.
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
 
@@ -151,6 +151,10 @@ ZDNET
 * [Dragon's Dogma 2 standard edition for $44 (save $12 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -199,7 +203,7 @@ Lenovo
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
@@ -227,21 +231,17 @@ Samsung/ZDNET
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $810 (save $114 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
@@ -317,17 +317,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-unleash-creativity-with-these-top-free-slideshow-templates/"><u>[New] Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-scrutinizing-selfies-on-instagram-validation-necessary/"><u>[Updated] In 2024, Scrutinizing Selfies on Instagram Validation Necessary?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-sdr-vs-hdri-elevating-your-content-with-advanced-color-techniques-for-2024/"><u>[Updated] SDR Vs. HDRI Elevating Your Content with Advanced Color Techniques for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/beat-the-price-drop-on-prime-day-with-our-curated-list-of-budget-friendly-lenovo-and-dell-alternative-2-in-1-laptops-according-to-zdnet/"><u>Beat the Price Drop on Prime Day with Our Curated List of Budget-Friendly Lenovo and Dell Alternative 2-in-1 Laptops, According to ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/changing-file-dates-in-windows-a-practical-overview/"><u>Changing File Dates in Windows: A Practical Overview</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-enhanced-artifice-intelligence-spotlight-on-samsungs-newest-copilotplus-series-by-zdnet/"><u>Discover Enhanced Artifice Intelligence: Spotlight on Samsung's Newest Copilot+ Series by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/finding-happiness-elusive-in-windows-devices-says-enthusiastic-macbook-user-at-google-zdnet/"><u>Finding Happiness Elusive in Windows Devices Says Enthusiastic MacBook User at Google | ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-enterprises-guide-to-viral-video-promotion/"><u>Micro-Enterprises' Guide to Viral Video Promotion</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/subforsub-usage-does-it-enhance-youtube-fan-count-safely-for-2024/"><u>Subforsub Usage Does It Enhance YouTube Fan Count Safely for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-17-must-have-cyber-monday-offers-unbeatable-discounts-on-televisions-audio-gear-and-more-exclusive-list/"><u>Top 17 Must-Have Cyber Monday Offers: Unbeatable Discounts on Televisions, Audio Gear & More – Exclusive List</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-7-unbeatable-cyber-week-pc-bargains-below-500-dont-miss-the-99-gem-techspot/"><u>Top 7 Unbeatable Cyber Week PC Bargains Below $500 - Don't Miss the $99 Gem! | TechSpot</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-5-ultimate-map-quests-for-precious-in-game-finds/"><u>[New] 2024 Approved 5 Ultimate Map Quests for Precious In-Game Finds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-answers-to-questions-related-to-filmora/"><u>[New] Answers to Questions Related to Filmora</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-boosting-productivity-how-to-capture-your-online-meeting-experience/"><u>[New] Boosting Productivity How to Capture Your Online Meeting Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-silent-voices-in-the-social-media-arena-ig-live-edition/"><u>[New] Silent Voices in the Social Media Arena - IG Live Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-list-top-15-affordable-online-image-enhancers/"><u>[Updated] 2024 Approved The Ultimate List Top 15 Affordable Online Image Enhancers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-hurry-up-get-professional-valorant-thumbnail-skills-now/"><u>[Updated] In 2024, Hurry Up, Get Professional Valorant Thumbnail Skills Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-brother-hl-l2350dw-printer-software-latest-updates-available/"><u>Download and Install Brother HL-L2350DW Printer Software: Latest Updates Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-updated-wireless-1535-driver-now-resolved-issues/"><u>Download the Updated Wireless 1535 Driver - Now Resolved Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965741478-easy-installation-of-usb-camera-drivers-get-them-now/"><u>Easy Installation of USB Camera Drivers - Get Them Now</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-screen-recorders-for-todays-windows-users-for-2024/"><u>Essential Screen Recorders for Today's Windows Users for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-hd-amoled-6350-driver-support-on-windows-os/"><u>Get the Latest AMD Radeon HD Amoled 6350 Driver Support on Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-dch-graphics-drivers-for-your-nvidia-quadro-with-windows-11/"><u>Get the Newest DCH Graphics Drivers for Your NVIDIA Quadro with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-netgear-a61n-driver-update-package-for-microsoft-windows-systems/"><u>Get the Newest Netgear A61n Driver Update Package for Microsoft Windows Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-uploading-videos-compliance/"><u>Mastering Twitter Uploading Videos Compliance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-download-and-update-of-synaptics-drivers-on-windows-hassle-free/"><u>Step-by-Step Download & Update of Synaptics Drivers on Windows - Hassle-Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/structural-control-systems-like-base-isolators-and-dampers-are-designed-to-reduce-or-alter-seismic-force-transmission-improving-building-performance-during-222/"><u>Structural Control Systems Like Base Isolators and Dampers Are Designed to Reduce or Alter Seismic Force Transmission, Improving Building Performance During Earthquakes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-understanding-the-features-mobility-and-efficiency-of-the-pioneer-bdr-xs06-blu-ray-writer-reviewed/"><u>The Ultimate Guide to Understanding the Features, Mobility & Efficiency of the Pioneer BDR-XS06 Blu-Ray Writer Reviewed</u></a></li>
 </ul></div>
 

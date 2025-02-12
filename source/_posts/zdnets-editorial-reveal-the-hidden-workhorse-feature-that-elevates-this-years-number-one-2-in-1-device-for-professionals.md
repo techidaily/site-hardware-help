@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Editorial Reveal: The Hidden Workhorse Feature That Elevates This Year’s Number One 2-in-1 Device for Professionals"
-date: 2025-01-25T19:29:51.700Z
-updated: 2025-01-30T18:48:20.280Z
+date: 2025-02-09T21:40:32.362Z
+updated: 2025-02-11T20:38:47.886Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ The ThinkPad X1 2-in-1 performs well in most cases, although it's not necessaril
 It also did well on the benchmark tests I ran, even outperforming the Intel Core i9-9880H. I'm very familiar with the Ultra 7, so I expected solid performance. Indeed, it is because of this familiarity that I was surprised to see this model's price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,19 +112,24 @@ Additionally, keep in mind that adding options like an OLED screen and hardware 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-gesture-control-a-comprehensive-overview/"><u>2024 Approved Mastering Gesture Control A Comprehensive Overview</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-amd-drivers-on-windows-10-11-and-7/"><u>How to Update AMD Drivers on Windows 10, 11 & 7</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beyond-vlc-a-comprehensive-look-at-streaming-software/"><u>In 2024, Beyond VLC A Comprehensive Look at Streaming Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-insight-into-mematics-app-features/"><u>In 2024, Exclusive Insight Into Mematic's App Features</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-exploring-ice-cream-screen-recorder-technology/"><u>In 2024, Exploring Ice Cream Screen Recorder Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-newest-drivers-for-brother-hl-l2360dw-multifunction-printer/"><u>Install the Newest Drivers for Brother HL-L2360DW Multifunction Printer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-the-hp-laserjet-printer-driver-mfp-m42nfw-on-windows-7-10-and-11-step-by-step/"><u>Installing the HP LaserJet Printer Driver (MFP M42nfw) on Windows 7, 10 & 11: Step-by-Step</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-update-process-how-to-optimize-motherboard-drivers-in-windows/"><u>Mastering the Update Process: How to Optimize Motherboard Drivers in Windows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-world-of-elite-hdr-camera-choices-for-2024/"><u>Navigating the World of Elite HDR Camera Choices for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-download-realtek-asio-windows-10-drivers-fast-and-simple-installation/"><u>Quick Download: RealTek Asió Windows 10 Drivers - Fast & Simple Installation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967623247-resolved-free-downloads-of-updated-wireless-card-drivers/"><u>Resolved! Free Downloads of Updated Wireless Card Drivers.</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-of-the-onetastic-add-in-for-microsoft-onenote/"><u>Review of the Onetastic Add-In for Microsoft OneNote</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-infinix-zero-5g-2023-turbo-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Infinix Zero 5G 2023 Turbo Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-instavid-angle-mystery-vertical-reversals-on-the-rise/"><u>[New] InstaVid Angle Mystery Vertical Reversals on the Rise</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-skills-for-non-audio-shooting/"><u>[Updated] 2024 Approved Essential Skills for Non-Audio Shooting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists/"><u>2024 Approved Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-to-your-ft232r-uart-driver-download-speedy-setup-tips/"><u>Fast Track to Your FT232R UART Driver Download – Speedy Setup Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-logitech-g35-audio-drivers-for-windows-operating-systems-windows-7810/"><u>Get Logitech G35 Audio Drivers for Windows Operating Systems (Windows 7/8/10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-canon-mx49n-printer-up-to-date-with-new-windows-drivers-here/"><u>Get Your Canon MX49n Printer Up-to-Date with New Windows Drivers Here!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/googles-next-leap-in-artificial-intelligence-understanding-the-goals-and-progress-of-project-gemini/"><u>Google's Next Leap in Artificial Intelligence: Understanding the Goals and Progress of Project Gemini</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-2755e-printer-drivers-and-software-download-for-windows/"><u>HP DeskJet 2755E Printer Drivers & Software Download for Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-nokia-c22-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Nokia C22 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtube-partnership-unlocked-break-through-at-10k-vistas/"><u>In 2024, YouTube Partnership Unlocked Break Through at 10K Vistas</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965131367-private-markets-often-fail-to-provide-public-goods-at-optimal-levels-due-to-difficulties-in-charging-users-directly/"><u>Private Markets Often Fail to Provide Public Goods at Optimal Levels Due to Difficulties in Charging Users Directly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sapphire-drivers-download-and-update-on-windows/"><u>SAPPHIRE Drivers Download & Update on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-repairing-hp-laptop-camera-issues-on-windows-11/"><u>Step-by-Step Tutorial for Repairing HP Laptop Camera Issues on Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/swirling-shadows-adding-realistic-motion-to-photoshop-images-for-2024/"><u>Swirling Shadows Adding Realistic Motion to Photoshop Images for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-fresh-download-of-netgear-a6100-windows-driver-latest-version-available-now/"><u>Update or Fresh Download of Netgear A6100 Windows Driver - Latest Version Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-and-install-the-newest-epson-wf-372cued-to-provide-you-with-comprehensive-answers-and-guidance/"><u>Upgrade & Install the Newest Epson WF-372cued to Provide You with Comprehensive Answers and Guidance.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973378204-windows-11-compatible-sound-blaster-z-driver-get-it-now/"><u>Windows 11 Compatible Sound Blaster Z Driver - Get It Now!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Display Quality Meets Unbelievable Deal: Top-Rated Ultraportable Laptop Sale at ZDNet!"
-date: 2025-01-28T17:16:14.954Z
-updated: 2025-01-30T17:54:00.343Z
+date: 2025-02-05T21:15:15.347Z
+updated: 2025-02-12T05:40:05.940Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -101,7 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,21 +148,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-initial-steps-in-kinetic-illustration-techniques/"><u>[New] Initial Steps in Kinetic Illustration Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-frameworks-for-every-movie-epilogue-you-dream/"><u>[Updated] Free Frameworks for Every Movie Epilogue You Dream</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-simplify-a-surplus-of-saves-mastering-edits-for-less-clutter/"><u>[Updated] In 2024, Simplify a Surplus of Saves Mastering Edits for Less Clutter</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/11-best-color-correction-and-color-grading-tutorial/"><u>11 Best Color Correction and Color Grading Tutorial</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/best-6-reliable-windows-backup-solutions-compatible-with-windows-11-10-8-and-7/"><u>Best 6 Reliable Windows Backup Solutions Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnosing-and-fixing-gpu-crashes-without-pc-loss-of-function/"><u>Diagnosing and Fixing GPU Crashes without PC Loss of Function</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-a-bargain-apple-m3-macbook-air-discounted-250-for-this-octobers-amazon-prime-sale-the-tech-analysis/"><u>Get a Bargain: Apple M3 MacBook Air Discounted $250 for This October’s Amazon Prime Sale - The Tech Analysis</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-laugh-out-loud-for-free-easymemes-tutorial/"><u>In 2024, Laugh Out Loud for Free EasyMemes Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-connectivity-ultimate-guide-to-expanding-port-options-on-macbook-and-ipad-pro-insights/"><u>Maximizing Connectivity: Ultimate Guide to Expanding Port Options on MacBook and iPad Pro - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/save-power-and-boost-performance-with-google-chromes-energy-saver-mode-tips-from-zdnet-experts/"><u>Save Power and Boost Performance with Google Chrome's Energy Saver Mode - Tips From ZDNet Experts</u></a></li>
-<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 13 Pro | Stellar</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-5-free-android-apps-for-effortless-mobile-video-transcoding/"><u>Top 5 Free Android Apps for Effortless Mobile Video Transcoding</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-crowd-favorite-a-versatile-powerhouse-notebook-excels-in-performance-and-build-quality-insights/"><u>Top Rated Crowd Favorite: A Versatile Powerhouse Notebook Excels in Performance and Build Quality - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-versatile-computer-stuns-users-with-its-durable-components-and-wide-appeal-cnet/"><u>Top Rated Versatile Computer Stuns Users with Its Durable Components and Wide Appeal | CNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-bargain-alert-snag-a-high-end-512gb-m1-macbook-pro-for-just-450-less-featured-by-zdnet/"><u>Unbeatable Bargain Alert: Snag a High-End 512GB M1 MacBook Pro for Just $450 Less, Featured by ZDNET!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-space-and-savings-secure-your-8tb-samsung-t5-ssd-at-a-steep-discount-of-36-off-available-today-on-amazon-via-zdnets-exclusive-offer/"><u>Unlock Space and Savings: Secure Your 8TB Samsung T5 SSD at a Steep Discount of 36% Off - Available Today on Amazon via ZDNet's Exclusive Offer!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-art-of-degrees-elevating-your-youtube-videos/"><u>[Updated] 2024 Approved The Art of Degrees Elevating Your YouTube Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-amd-ryzen-5-2600-drivers-quickly-and-easily/"><u>Download AMD Ryzen 5 2600 Drivers | Quickly & Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-canon-dr-c225-drivers-on-microsofts-latest-operating-systems-windows-11-10-and-8/"><u>Easy Installation of Canon DR-C225 Drivers on Microsoft's Latest Operating Systems (Windows 11, 10 & 8)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-peak-performance-secure-your-latest-gigabyte-ethernet-drivers-here/"><u>Ensure Peak Performance: Secure Your Latest Gigabyte Ethernet Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-hp-officejet-pro-8715-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Free HP OfficeJet Pro 8715 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-zte-nubia-flip-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track ZTE Nubia Flip 5G without App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-tecno-spark-10-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Tecno Spark 10 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-c615-drivers-speedy-and-easy-repair-techniques-revealed/"><u>Logitech C615 Drivers: Speedy & Easy Repair Techniques Revealed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/realtime-recording-titans/"><u>RealTime Recording Titans</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975652901-steal-the-show-top-steelseries-drivers-and-settings-for-windows-11-get-it-here/"><u>Steal the Show: Top SteelSeries Drivers & Settings for Windows 11 - Get It Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-walkthrough-finding-downloading-and-installing-the-best-drivers-for-your-geforce-gtx-460-on-a-windows-pc/"><u>The Ultimate Walkthrough: Finding, Downloading, and Installing the Best Drivers for Your GeForce GTX 460 on a Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-music-collection-convert-doobie-brothers-dvds-to-high-quality-mp4mp3-files/"><u>Transform Your Music Collection: Convert Doobie Brothers' DVDs to High-Quality MP4/MP3 Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-panoramic-cinema-captures-for-2024/"><u>Understanding Panoramic Cinema Captures for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-long-to-short-a-simple-guide-to-splitting-videos-in-windows-live-movie-maker/"><u>Updated 2024 Approved From Long to Short A Simple Guide to Splitting Videos in Windows Live Movie Maker</u></a></li>
 </ul></div>
 

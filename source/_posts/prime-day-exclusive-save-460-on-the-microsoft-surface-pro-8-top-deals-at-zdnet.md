@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Exclusive: Save $460 on the Microsoft Surface Pro 8 | Top Deals at ZDNet"
-date: 2025-01-29T18:06:07.441Z
-updated: 2025-01-30T16:38:22.757Z
+date: 2025-02-04T23:47:16.081Z
+updated: 2025-02-12T04:43:02.765Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -75,6 +79,10 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727866800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -100,7 +108,7 @@ HPZDNET
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
@@ -109,6 +117,10 @@ Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -127,23 +139,11 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
@@ -152,6 +152,10 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -162,10 +166,6 @@ We also looked over customer reviews to find out what matters to real people who
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,22 +230,21 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finalizing-your-video-with-a-bold-statement/"><u>[New] 2024 Approved Finalizing Your Video with a Bold Statement</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-leveraging-video-for-maximum-impact-with-these-5-youtube-strategies/"><u>[New] 2024 Approved Leveraging Video for Maximum Impact with These 5 YouTube Strategies</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/xamining-the-economic-impact-of-mr-beast/"><u>[New] Examining the Economic Impact of Mr. Beast</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unlock-the-art-of-snapchat-pins/"><u>[New] In 2024, Unlock the Art of Snapchat Pins</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-maximizing-reach-strategies-from-seasoned-tubebuddy-experts/"><u>[Updated] In 2024, Maximizing Reach Strategies From Seasoned TubeBuddy Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-offer-save-on-hp-victus/"><u>Exclusive Offer: Save on HP Victus</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-meta-launches-top-tier-512gb-quest-3-offers-for-an-unbeatable-october-prime-day-sale-in-virtual-reality/"><u>Exclusive: Meta Launches Top-Tier 512GB Quest 3 Offers for an Unbeatable October Prime Day Sale in Virtual Reality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-top-tier-virtual-reality-with-metas-exceptional-quest-3-512gb-offer-a-leading-choice-amongst-current-vr-bargains/"><u>Experience Top-Tier Virtual Reality with Meta's Exceptional Quest 3 512GB Offer – A Leading Choice Amongst Current VR Bargains</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-strategies-for-ppt-on-google-meet-laptopiosandroid/"><u>In 2024, Essential Strategies for PPT on Google Meet Laptop/iOS/Android</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-infinix-smart-8-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Infinix Smart 8 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-future-of-computing-intels-revolutionary-ai-processor-for-next-gen-laptops/"><u>Introducing the Future of Computing: Intel's Revolutionary AI Processor for Next-Gen Laptops</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-6-social-spaces-for-enterprise-driven-collaboration/"><u>Leading 6 Social Spaces for Enterprise-Driven Collaboration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-a-steal-with-the-latest-m3-macbook-pro-200-discount-at-amazons-2021-spring-blowout-revealed-by-zdnet/"><u>Score a Steal with the Latest M3 MacBook Pro: $200 Discount at Amazon's 2021 Spring Blowout, Revealed by ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-metas-top-tier-october-sale-exclusive-offer-on-512gb-quest-3-a-game-changer-for-virtual-reality-enthusiasts/"><u>Snag Meta's Top-Tier October Sale: Exclusive Offer on 512GB Quest 3 - A Game Changer for Virtual Reality Enthusiasts!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-workspace-with-the-essential-16-port-dream-dock-a-must-have-for-all-creatives-zdnet/"><u>Transform Your Workspace with The Essential 16-Port Dream Dock - A Must-Have for All Creatives | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleashing-creativity-with-the-new-apple-macbook-pro-16-inch-m2-max-chip-expert-review-zdnet/"><u>Unleashing Creativity with the New Apple MacBook Pro 16-Inch M2 Max Chip | Expert Review - ZDNET</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-evaluating-zdsofts-prowess-in-screen-recorder-tech/"><u>[New] 2024 Approved Evaluating ZDSoft's Prowess in Screen Recorder Tech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-ultimate-compendium-hands-free-device-interaction/"><u>[Updated] 2024 Approved The Ultimate Compendium Hands-Free Device Interaction</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-elevating-visuals-the-shift-from-sdr-to-hdr-in-editing/"><u>[Updated] In 2024, Elevating Visuals The Shift From SDR to HDR in Editing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-prime-picture-selections-captivating-live-viewing/"><u>[Updated] In 2024, Prime Picture Selections Captivating Live Viewing</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-y27-4g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo Y27 4G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-viewing-guide-watching-movies-on-your-windows-1011-pc/"><u>DVD Viewing Guide: Watching Movies on Your Windows 10/11 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-your-canoscan-lide-220s-driver-program/"><u>Easy Guide to Updating Your CanoScan LiDE 220'S Driver Program</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-resolve-logitech-c615-driver-problems/"><u>Effortless Guide to Resolve Logitech C615 Driver Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-and-update-epson-ds-510-software-on-your-pc-a-comprehensive-guide/"><u>How to Install and Update Epson DS-510 Software on Your PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-amd-drivers-on-your-windows-11-10-or-7-computer/"><u>How to Install the Latest AMD Drivers on Your Windows 11, 10, or 7 Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-magic-v2-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor Magic V2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-huawei-nova-y71-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Huawei Nova Y71?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-k40-to-the-max-free-compatible-k400-plus-controller-software/"><u>Install Logitech K40 to the Max: FREE Compatible K400 Plus Controller Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-microsoft-windows-acpi-battery-driver-problems-with-new-update/"><u>Resolving Microsoft Windows ACPI Battery Driver Problems with New Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speed-up-your-printing-easy-download-for-brother-hl-3170cdw-drivers/"><u>Speed up Your Printing: Easy Download for Brother HL-3170CDW Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-list-of-premium-cable-modems-dominating-internet-speeds-this-year/"><u>The Definitive List of Premium Cable Modems Dominating Internet Speeds This Year</u></a></li>
 </ul></div>
 

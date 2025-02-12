@@ -1,7 +1,7 @@
 ---
 title: "ASUS Motherboard Firmware Update Made Easy: A Step-by-Step Process"
-date: 2024-08-19T10:51:53.441Z
-updated: 2024-08-20T10:51:53.441Z
+date: 2025-02-08T21:56:55.751Z
+updated: 2025-02-11T16:09:56.733Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 ## Step-by-Step Installation for the Intel Wireless AC 3160 Card - Get Ready Fast
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-648.png)
 
  Are you looking to download and install the latest driver for**Intel Dual Band Wireless-AC 3160** ? If the answer is “yes,” then you’ve come to the right place. Here we’ll show you how to update the driver step by step.
@@ -59,6 +56,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-649.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 #### Network connection doesn’t work at all
@@ -71,17 +72,10 @@ OR
 
  3) Run Driver Easy and click**Tools** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-658.png)
 
  4) Click**Offline Scan** . On the right panel, select**Offline Scan (on the computer without Internet access)** and click the**Continue** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-528.png)
 
  5) Click **Browse** to choose where you want to save your offline scan result. Then click the**Offline Scan** button.
@@ -94,26 +88,25 @@ OR
 
  7) Open the folder where you’ve saved the offline scan file. Then**save** the file in a USB flash drive and**transfer** it to another computer**with Internet access** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-534.png)
 
  8) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy on that computer (the one with Internet access).
 
  9) Run Driver Easy and click**Tools** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-659.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) In the left pane, click**Offline Scan** . Then on the right panel, select **Upload Offline Scan File (on the computer with Internet access)** and click the**Continue** button.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-538.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  11) Click**Browse** to locate your offline scan file. Once you find it, double-click on it and then click**Continue** .
 
@@ -125,10 +118,11 @@ OR
 
  13) Choose where you’d like to save the downloaded driver, and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-542.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Wait for the download process to be complete.
 
@@ -142,6 +136,10 @@ Wait for the download process to be complete.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -150,10 +148,11 @@ Wait for the download process to be complete.
 
  2) On the pop-up page, click **Intel® PROSet/Wireless Software and Drivers for Intel® Dual Band Wireless-AC 3160.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
@@ -161,9 +160,6 @@ Wait for the download process to be complete.
 
  4) Click**I accept the terms in the license agreement** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
 
  5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
@@ -187,8 +183,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +190,17 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/addressing-unrecognized-external-drives-a-fix-for-windows-11-users/"><u>Addressing Unrecognized External Drives: A Fix for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/be-ruthless-with-what-to-keep-or-throw-away/"><u>Be Ruthless With What To Keep Or Throw Away</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-v27e-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo V27e Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-9015-driver-update-free-download-for-enhanced-performance/"><u>HP OfficeJet Pro 9015 Driver Update - Free Download for Enhanced Performance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-introduction-to-moving-visual-content/"><u>In 2024, Introduction to Moving Visual Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-usb-drivers-effortless-solutions-to-common-issues-and-errors/"><u>Lenovo USB Drivers: Effortless Solutions to Common Issues and Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-assistance-writing-challenging-business-emails-effectively-with-chatgpt/"><u>Leveraging AI Assistance: Writing Challenging Business Emails Effectively with ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-c12-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia C12 and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scambio-wmv-a-mp4-senza-perdite-di-qualita-mantenimento-del-98/"><u>Scambio WMV a MP4 Senza Perdite Di Qualità, Mantenimento Del 98%</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-win11-qualcomm-atheros-bluetooth-driver-problems/"><u>Troubleshooting and Solving Win11 Qualcomm Atheros Bluetooth Driver Problems</u></a></li>
+</ul></div>
 

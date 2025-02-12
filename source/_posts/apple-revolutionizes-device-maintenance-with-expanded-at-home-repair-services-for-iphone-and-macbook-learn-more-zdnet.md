@@ -1,7 +1,7 @@
 ---
 title: Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More | ZDNET
-date: 2025-01-25T17:53:20.609Z
-updated: 2025-01-30T17:18:21.341Z
+date: 2025-02-05T05:38:47.846Z
+updated: 2025-02-11T19:32:46.213Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ However, the new slimline design also came with a chunky price increase of $200/
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price & options
@@ -53,7 +53,7 @@ The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design & features
@@ -73,7 +73,7 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 Image: Cliff Joseph / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -89,7 +89,7 @@ You are paying for that extra performance, of course, so the M1 version of the M
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -132,7 +132,7 @@ Image: Apple
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,22 +176,20 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-hit-the-right-notes-music-mastery-on-instagram-for-2024/"><u>[New] Hit the Right Notes Music Mastery on Instagram for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-into-the-future-of-streaming-with-top-audio-techniques/"><u>[New] In 2024, Step Into the Future of Streaming with Top Audio Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-laptop-vs-macbook-showdown-unveiling-the-superior-alternative-for-tech-enthusiasts-expert-insights/"><u>Asus Laptop Vs. MacBook Showdown: Unveiling the Superior Alternative for Tech Enthusiasts | Expert Insights</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/augment-your-digital-audio-workstation-with-free-vj-snippets-a-must-have-addon-for-videolink-on-dex-36-mixers/"><u>Augment Your Digital Audio Workstation with FREE VJ Snippets: A Must-Have Addon for VideoLink on DEX 3.6 Mixers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-high-definition-film-viewing-applications-compatible-with-windows-10-and-macos-a-comprehensive-evaluation/"><u>Best High-Definition Film Viewing Applications Compatible with Windows 10 & macOS: A Comprehensive Evaluation</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-lightweight-power-packed-windows-laptop-that-outshines-the-macbook-air/"><u>Discover the Ultimate Lightweight, Power-Packed Windows Laptop That Outshines the MacBook Air!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-forgotten-vram-signal/"><u>Eradicate Forgotten VRAM Signal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-review-lg-gram-pro-surpasses-macbook-air-in-battery-life-portability-and-speed-zdnet/"><u>Exclusive Review: LG Gram Pro Surpasses MacBook Air in Battery Life, Portability & Speed | ZDNet</u></a></li>
-<li><a href="https://solve-help.techidaily.com/honda-inspired-wallpaper-collection-from-yl-softwares-yl-computing/"><u>Honda-Inspired Wallpaper Collection From YL Software’s YL Computing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ifying-the-top-12-easiest-to-use-flip-screen-cams/"><u>Identifying the Top 12 Easiest to Use Flip Screen Cams</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/must-have-2024-macbook-gadgets-highly-recommended-picks-from-zdnets-specialists/"><u>Must-Have 2024 MacBook Gadgets: Highly Recommended Picks From ZDNet's Specialists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-charging-deluxe-combines-powerful-usb-and-hdmi-ports-a-zdnet-review/"><u>Quick Charging Deluxe: Combines Powerful USB & HDMI Ports - A ZDNet Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/slash-1k-off-exclusive-lenovo-business-laptop-deals-sweep-amazon-pre-prime-day-tech-insights/"><u>Slash $1K Off: Exclusive Lenovo Business Laptop Deals Sweep Amazon Pre-Prime Day | Tech Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/still-alive-on-cyber-monday-snag-the-affordable-8-iphone-mount-now-tech-news/"><u>Still Alive on Cyber Monday! Snag the Affordable $8 iPhone Mount Now - Tech News</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-decision-to-unsubscribe-post-pricing-raise-at-ea/"><u>The Decision to Unsubscribe Post-Pricing Raise at EA</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-handmade-gift-guide-for-craft-enthusiasts-this-season-essential-tool-selections-featured-by-zdnet/"><u>Ultimate Handmade Gift Guide for Craft Enthusiasts This Season: Essential Tool Selections Featured by ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-cutting-edge-tech-in-daily-life/"><u>[New] 2024 Approved Cutting-Edge Tech in Daily Life</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-cloaked-consumption-the-secret-guide-for-exploring-instagram-stories-on-multiple-platforms-free-for-2024/"><u>[New] Cloaked Consumption The Secret Guide for Exploring Instagram Stories on Multiple Platforms (Free) for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-finding-your-perfect-match-premium-videographer-recruitment/"><u>[New] In 2024, Finding Your Perfect Match Premium Videographer Recruitment</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-dual-method-approach-for-instagram-reel-downloads/"><u>[Updated] In 2024, A Dual Method Approach for Instagram Reel Downloads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigate-your-net-worth-with-youtube-the-threefold-approach-to-assessing-earnings/"><u>2024 Approved Navigate Your Net Worth with YouTube The Threefold Approach to Assessing Earnings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-480-driver-update-made-easy-find-and-install-in-no-time/"><u>AMD RX 480 Driver Update Made Easy – Find & Install in No Time!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-high-quality-csr-bluetooth-chip-software-now/"><u>Download High-Quality CSR Bluetooth Chip Software Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-obtain-and-install-logitech-g2email-protected-drivers-windows-7-10-and-11-support/"><u>Easy Steps to Obtain and Install Logitech G2([email Protected] Drivers (Windows 7, 10 & 11 Support)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-rtx-3080-drivers-compatible-with-windows-1087/"><u>Get the Latest NVIDIA RTX 3080 Drivers – Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-5-best-zoom-transcription-software-free-and-paid/"><u>In 2024, 5 Best Zoom Transcription Software [Free & Paid]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-platform-profitability-showdown-dailymovements-standards-vs-youtube/"><u>In 2024, Platform Profitability Showdown DailyMovement's Standards Vs Youtube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-ac-9560-wi-fi-driver-software-download-and-update-steps-explained/"><u>Intel AC 9560 Wi-Fi Driver Software: Download and Update Steps Explained</u></a></li>
+<li><a href="https://win-info.techidaily.com/meet-miya-cao-of-aomei-top-talent-behind-engaging-content-and-insights-author-profile/"><u>Meet Miya Cao of AOMEI – Top Talent Behind Engaging Content and Insights (Author Profile)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplify-pc-maintenance-update-battery-drivers-on-windows-with-zero-hassle/"><u>Simplify PC Maintenance: Update Battery Drivers on Windows with Zero Hassle!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networks-diving-deep-into-facebook-twitter-instagram-and-youtubes-ecosystem/"><u>The Big Four of Social Networks: Diving Deep Into Facebook, Twitter, Instagram and YouTube's Ecosystem.</u></a></li>
 </ul></div>
 

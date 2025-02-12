@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Portable Displays - Comprehensive Reviews & Comparisons by ZDNet
-date: 2025-01-26T16:35:12.800Z
-updated: 2025-01-30T16:14:06.254Z
+date: 2025-02-07T19:47:23.528Z
+updated: 2025-02-12T05:01:10.136Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's the best lightweight laptop right now?
 
@@ -46,14 +50,10 @@ Cons
 * Built-in speakers could be stronger
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple MacBook Air M3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
 
@@ -111,10 +111,6 @@ Cons
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Asus ROG Zephyrus G14
 
 ### Best lightweight laptop for gaming
@@ -148,6 +144,10 @@ Cons
 
 ## LG Gram Pro 17
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best lightweight laptop with a 17" display
 
 The LG Gram Pro 17 takes portability to the extreme. At just half an inch thick and weighing barely over three pounds, the Gram Pro 17 not only holds a Guinness record, but achieved something that at one time was thought to be impossible for a 17" laptop.
@@ -177,15 +177,7 @@ Cons
 * Battery life is not the best
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lenovo ThinkPad X1 Carbon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop for work
 
@@ -226,7 +218,7 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test lightweight laptops
@@ -253,6 +245,10 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does having a lightweight laptop matter?
 
 The answer to this question is simple: laptops are made to be carried around, and no one wants to carry a heavy computer. Having a thin, lightweight machine opens up its usability and lets you take it places you normally wouldn't consider possible. 
@@ -262,7 +258,7 @@ Ultraportability does come with tradeoffs, however, both in terms of design and 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much does a typical laptop weigh?
@@ -288,6 +284,10 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -335,24 +335,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-integrating-whatsapp-into-your-twitter-video-sharing-routine/"><u>[New] In 2024, Integrating WhatsApp Into Your Twitter Video Sharing Routine</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-kinemasters-ultimate-green-screen-implementation-techniques/"><u>[New] Kinemaster's Ultimate Green Screen Implementation Techniques</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-kickstart-creative-video-editing-with-xp-edition-for-2024/"><u>[Updated] Kickstart Creative Video Editing with Xp Edition for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/are-microsofts-surface-devices-redefining-ai-computing-the-implications-for-apple-and-beyond-insights/"><u>Are Microsoft's Surface Devices Redefining AI Computing? The Implications for Apple & Beyond Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-laptop-resurrects-once-popular-tech-term-whats-the-hype-about/"><u>Budget-Friendly Laptop Resurrects Once Popular Tech Term - What's the Hype About?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-surprising-link-between-your-iphone-and-motion-sickness-unveil-it-in-ios-18/"><u>Discover the Surprising Link Between Your iPhone and Motion Sickness - Unveil It in iOS 18</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-correctly-address-the-missing-coredll-issue-in-windows/"><u>Effective Strategies to Correctly Address the Missing Core.Dll Issue in Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-internet-explorer-cant-show-this-page-errors-solutions-proven-effective/"><u>Fixing 'Internet Explorer Can't Show This Page' Errors - Solutions Proven Effective</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-first-timers-and-children-choose-these-drone-models/"><u>In 2024, First-Timers & Children Choose These Drone Models</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-navigate-discord-with-ease-a-compreeher-guide-to-pins/"><u>In 2024, Navigate Discord with Ease A Compreeher Guide to Pins</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagrams-hidden-gems-designing-stunning-engaging-puzzle-posts/"><u>Instagram's Hidden Gems Designing Stunning, Engaging Puzzle Posts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/october-primed-for-metas-unbeatable-512gb-quest-3-offer-this-vr-shopping-season-zdnet-insights/"><u>October Primed for Meta's Unbeatable 512GB Quest 3 Offer This VR Shopping Season - ZDNet Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionizing-portability-and-power-an-amazing-non-macbook-device-that-outshines-the-classic-macbook-experience/"><u>Revolutionizing Portability & Power: An Amazing Non-MacBook Device That Outshines the Classic MacBook Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sale-alert-snag-the-discounted-8tb-samsung-portable-ssd-save-36-on-amazon-zdnet-coverage/"><u>Sale Alert: Snag the Discounted 8TB Samsung Portable SSD - Save 36% on Amazon (ZDNet Coverage)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-choosing-the-perfect-featherlight-laptop-for-mobile-professionals-techradar/"><u>The Ultimate Guide to Choosing the Perfect Featherlight Laptop for Mobile Professionals | TechRadar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-10-unbeatable-christmas-chromebook-offers-on-the-market-insights/"><u>Top 10 Unbeatable Christmas Chromebook Offers on the Market - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-extra-usb-ports-for-macbookipad-pro-the-definitive-add-on-strategy-experts/"><u>Unlock Extra USB Ports for MacBook/iPad Pro: The Definitive Add-On Strategy Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tech-at-ces-202e-how-lg-is-falling-for-ai-and-launching-revolutionary-products-insights-from-zdnet/"><u>Unveiling the Future of Tech at CES 202E: How LG Is Falling for AI and Launching Revolutionary Products - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-the-hp-spectre-x3-is-dominating-as-a-favorite-laptop-of-the-year-latest-review/"><u>Why the HP Spectre X3) Is Dominating as a Favorite Laptop of the Year Latest Review</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-elite-selections-8-excellent-tripods-for-high-quality-4k-video/"><u>[New] 2024 Approved Elite Selections 8 Excellent Tripods for High-Quality 4K Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-streamlining-your-subtitle-workflow-with-leading-online-tools/"><u>[New] 2024 Approved Streamlining Your Subtitle Workflow with Leading Online Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-turn-any-device-into-a-youtube-livestream-capturing-tool/"><u>[New] In 2024, How to Turn Any Device Into a YouTube Livestream Capturing Tool</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-virtual-realm-revelations-the-most-anticipated-ps-vr-games/"><u>[Updated] 2024 Approved Virtual Realm Revelations The Most Anticipated PS VR Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-chrome-multitasking-via-picture-in-picture-mode/"><u>2024 Approved Maximizing Chrome Multitasking via Picture in Picture Mode</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/address-playback-lag-in-iphone-based-youtube-streams/"><u>Address Playback Lag in iPhone-Based YouTube Streams</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-amd-radeon-rx-590-drivers-on-windows/"><u>Download & Install AMD Radeon RX 590 Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-canon-mx490-printer-drivers-for-windows-10-8-and-7-step-by-step-guide/"><u>Download Canon MX490 Printer Drivers for Windows 10, 8 & 7: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-m-audio-fast-track-ultra-drivers-for-free-optimized-audio-performance/"><u>Download M-Audio Fast Track Ultra Drivers for Free: Optimized Audio Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-insignia-crossover-usb-ethernet-driver-here/"><u>Get Your Insignia CrossOver USB Ethernet Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722961297206-hp-photosmart-7520-software-download-install-your-high-quality-printer-drivers-today/"><u>HP Photosmart 7520 Software Download: Install Your High-Quality Printer Drivers Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pc-4/"><u>PC 系統音再生手順トップ4: 効果的な記録方法</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-installer-insignia-mobile-media-adapter-cn230-universal-drivers/"><u>Secure Installer: Insignia Mobile Media Adapter (CN230) Universal Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solve-your-grand-theft-auto-v-game-crashing-issues/"><u>Ultimate Guide: Solve Your Grand Theft Auto V Game-Crashing Issues</u></a></li>
 </ul></div>
 

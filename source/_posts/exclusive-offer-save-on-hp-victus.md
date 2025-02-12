@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on HP Victus"
-date: 2025-01-26T17:11:26.876Z
-updated: 2025-01-30T19:41:28.095Z
+date: 2025-02-05T22:05:44.621Z
+updated: 2025-02-11T19:55:33.247Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptop deals
@@ -101,6 +101,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 ## Alternative laptop deals
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Amazon laptop deals
 
 [Asus Chromebook Flip C434 2-In-1 laptop deal for $355 (save $150) $355 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-Touchscreen-Processor-All-Metal-C434TA-DSM4T%2Fdp%2FB07Q2RB6BY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
@@ -115,10 +119,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Walmart laptop deals
 
 [ASUS Vivobook 16-inch laptop deal for $499 (save $200) $499 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-16-PC-Laptop-Intel-Core-i7-1255U-16GB-512GB-Win-11-Home-Black-F1605ZA-WS74%2F5023779612&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -131,6 +131,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best Buy laptop deals
 
 [HP 15.6-inch touchscreen Full HD laptop deal for $630 (save $170) $630 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-15-6-touch-screen-full-hd-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver%2F6550427.p%3FskuId%3D6550427&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -140,10 +144,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Lenovo Flex 5i 14-inch FHD touchscreen 2-in-1 laptop deal for $380 (save $170) $380 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-5i-14-fhd-touchscreen-2-in-1-laptop-intel-core-i3-1215u-with-8gb-memory-intel-uhd-graphics-256gb-ssd-storm-grey%2F6571566.p%3FskuId%3D6571566&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Apple MacBook deals
 
@@ -178,6 +178,10 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
@@ -193,7 +197,7 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best deals by retailer
@@ -202,10 +206,6 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,15 +257,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/treaming-made-easy-google-meet-to-youtube-guide-for-2024/"><u>[New] Streaming Made Easy Google Meet to YouTube Guide for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-the-way-we-see-toolwiz-apps-full-review-2023/"><u>[Updated] Revolutionizing the Way We See Toolwiz App's Full Review, 2023</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-tallying-up-mr-beasts-billions/"><u>[Updated] Tallying Up Mr. Beast's Billions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ace-savings-alerts-unmissable-october-prime-day-discounts-at-target-and-best-buy-still-in-stock/"><u>Ace Savings Alerts: Unmissable October Prime Day Discounts at Target and Best Buy Still in Stock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-ultimate-docking-solution-discover-our-high-tech-13-in-1-dual-4k-hdmi-dock-at-just-49-review-and-buy-on-zdnet-now/"><u>Budget-Friendly Ultimate Docking Solution: Discover Our High-Tech 13-in-1 Dual 4K HDMI Dock at Just $49, Review & Buy on ZDNET Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/diy-fixes-to-get-your-macbook-pro-charging-again-the-ultimate-free-troubleshooting-tutorial-zdnet/"><u>DIY Fixes to Get Your MacBook Pro Charging Again - The Ultimate Free Troubleshooting Tutorial | ZDNET</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/integrating-twitter-promotions-into-your-digital-strategy/"><u>Integrating Twitter Promotions Into Your Digital Strategy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/purchase-the-revolutionary-100-inch-ar-laptop-ultimate-viewing-experience-without-a-separate-monitor-exclusive-offer/"><u>Purchase the Revolutionary 100-Inch AR Laptop: Ultimate Viewing Experience without a Separate Monitor – Exclusive Offer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/steps-for-accessing-system-properties-on-windows-11-a-comprehensive-guide/"><u>Steps for Accessing System Properties on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-list-of-8-highly-addictive-mobile-gaming-experiences/"><u>Ultimate List of 8 Highly Addictive Mobile Gaming Experiences</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-tempo-a-guide-to-instagram-story-adjustments-for-2024/"><u>[New] Mastering Tempo A Guide to Instagram Story Adjustments for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-cinematic-tones-beyond-basic-adjustments/"><u>2024 Approved Mastering Cinematic Tones Beyond Basic Adjustments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/activating-pip-functionality-a-step-by-step-guide-on-using-youtubes-picture-in-picture-mode-in-chrome-and-firefox/"><u>Activating PiP Functionality: A Step-by-Step Guide on Using YouTube's Picture-in-Picture Mode in Chrome & Firefox</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-hp-printer-drivers-download-now/"><u>Easy Guide to Installing HP Printer Drivers - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-update-hp-elitebook-x360-1030-g2-full-driver-pack-available-to-download/"><u>Essential Update: HP EliteBook X360 1030 G2 Full Driver Pack Available to Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-official-hp-photosmart-c6189-all-in-one-printer-driver-here-free-downloads-available/"><u>Get the Official HP Photosmart C6189 All-in-One Printer Driver Here – Free Downloads Available</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/internal-oversights-by-chatgpt-writers/"><u>Internal Oversights by ChatGPT Writers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-realtek-wi-fi-usb-dongle-driver-for-windows-tn-free-download/"><u>Latest Version of Realtek Wi-Fi USB Dongle Driver for Windows ˈtɛn - Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-mouse-settings-a-guide-to-microsoft-drivers-update-for-windows-users/"><u>Mastering Mouse Settings: A Guide to Microsoft Drivers Update for Windows Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mp3-creation-from-vimeo-streaming-media/"><u>MP3 Creation From Vimeo Streaming Media</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New 2024 Approved Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-evolution-of-web-communication-a-deep-dive-into-the-world-of-http3/"><u>The Evolution of Web Communication: A Deep Dive Into the World of HTTP/3</u></a></li>
 </ul></div>
 

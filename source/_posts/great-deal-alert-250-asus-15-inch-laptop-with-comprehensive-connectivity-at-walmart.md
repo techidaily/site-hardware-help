@@ -1,7 +1,7 @@
 ---
 title: "Great Deal Alert: $250 ASUS 15-Inch Laptop with Comprehensive Connectivity at Walmart"
-date: 2025-01-26T18:34:35.032Z
-updated: 2025-01-30T18:12:43.785Z
+date: 2025-02-10T16:20:20.553Z
+updated: 2025-02-12T01:07:32.067Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,24 +87,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-transform-your-social-media-experience-livestream-fb-flawlessly/"><u>[New] In 2024, Transform Your Social Media Experience Livestream FB Flawlessly</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-content-capture-5-must-have-social-apps-for-2024/"><u>[New] Mastering Content Capture 5 Must-Have Social Apps for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-uncharted-visual-narrative-evaluation-and-parallel-proposals-for-2024/"><u>[New] Uncharted Visual Narrative Evaluation & Parallel Proposals for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-streaming-simplified-a-guide-to-using-onestream/"><u>2024 Approved Live Streaming Simplified A Guide to Using OneStream</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/2024s-leading-vpn-solutions-in-depth-analysis-and-expert-ratings-zdnet/"><u>2024'S Leading VPN Solutions: In-Depth Analysis and Expert Ratings | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/building-your-dream-gamers-paradise-a-comprehensive-guide/"><u>Building Your Dream Gamer's Paradise: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/capitalize-on-major-savings-grab-a-high-quality-lenovo-business-laptop-for-just-1000-less-ahead-of-octobers-exclusive-prime-deals-on-amazon/"><u>Capitalize on Major Savings: Grab a High-Quality Lenovo Business Laptop for Just $1,000 Less Ahead of October's Exclusive Prime Deals on Amazon!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-face-off-nintendo-switch-lite-versus-nintendo-switch-oled-review/"><u>Comprehensive Face-Off: Nintendo Switch Lite Versus Nintendo Switch OLED Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cyber-week-blowout-get-the-microsoft-surface-pro-8-for-600-less-post-black-friday-exclusive-zdnet-deal/"><u>Cyber Week Blowout! Get the Microsoft Surface Pro 8 for $600 Less Post-Black Friday - Exclusive ZDNET Deal</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/diagnose-and-fix-your-pcs-display-dilemmas-with-our-expert-tips-for-windows-10-graphics-cards-yl-software-solutions/"><u>Diagnose & Fix Your PC's Display Dilemmas with Our Expert Tips for Windows 10 Graphics Cards - YL Software Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-unmatched-performance-with-these-must-have-lenovo-laptop-attributes-for-serious-users-as-revealed/"><u>Experience Unmatched Performance with These Must-Have Lenovo Laptop Attributes for Serious Users, as Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-with-samsungs-latest-copilotplus-a-top-tier-budget-windows-laptop-offering-insights-from-zdnet/"><u>Experience with Samsung's Latest Copilot+: A Top-Tier Budget Windows Laptop Offering! - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/from-vast-views-to-virtual-visibility-sharing-immersive-content-online-for-2024/"><u>From Vast Views to Virtual Visibility Sharing Immersive Content Online for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-reno-8t-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo Reno 8T 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-y78-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo Y78 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterclass-diagnosing-and-fixing-stability-problems-with-mount-and-blade-2-bannerlord/"><u>Masterclass: Diagnosing and Fixing Stability Problems with Mount & Blade 2 - Bannerlord</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-portability-and-power-the-ultimate-7-device-charger-ready-to-go-tech-review/"><u>Maximize Portability and Power: The Ultimate 7-Device Charger, Ready to Go! | Tech Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/save-big-with-the-creme-de-la-creme-of-cyber-monday-laptop-deals-below-1k-at-costco-amazon-and-dell-insights/"><u>Save Big with the Crème De La Crème of Cyber Monday Laptop Deals Below $1K at Costco, Amazon, and Dell | Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-seasonal-charge-issues-why-devices-like-ipads-and-macbooks-may-fail-in-cold-weather/"><u>Understanding Seasonal Charge Issues: Why Devices Like iPads and MacBooks May Fail in Cold Weather</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ialing-in-on-youtube-success-identifying-ranks-boosters/"><u>[New] Dialing in on YouTube Success Identifying Ranks Boosters</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-mastering-the-art-of-earning-through-vlogs/"><u>[Updated] In 2024, Mastering the Art of Earning Through Vlogs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-unlocking-tiktoks-secrets-to-skyrocketing-engagement/"><u>[Updated] In 2024, Unlocking TikTok's Secrets to Skyrocketing Engagement</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-6-android-apps-for-immersive-music-videos-for-2024/"><u>[Updated] Top 6 Android Apps for Immersive Music Videos for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-how-to-setting-up-your-pc-with-the-keyspan-19hs-device-driver-in-minutes/"><u>Easy How-To: Setting Up Your PC with the Keyspan 19HS Device Driver in Minutes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-disconnected-sounds-to-cohesive-scenes-with-audacity/"><u>From Disconnected Sounds to Cohesive Scenes with Audacity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-started-fast-brother-mfc-9130cw-printer-driver-software-and-utilities/"><u>Get Started Fast: Brother MFC-9130CW Printer Driver Software & Utilities</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-resolve-dts-unavailable-on-your-audio-device-error-message/"><u>How to Resolve DTS Unavailable on Your Audio Device Error Message</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-80-pro-straight-screen-edition-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor 80 Pro Straight Screen Edition to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-installing-new-drivers-on-your-dell-d3100-graphics-card/"><u>Step-by-Step Process: Installing New Drivers on Your DELL D3100 Graphics Card</u></a></li>
 </ul></div>
 

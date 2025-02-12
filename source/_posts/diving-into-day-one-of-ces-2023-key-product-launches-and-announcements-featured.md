@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Day One of CES 2023: Key Product Launches and Announcements Featured"
-date: 2025-01-29T16:14:28.890Z
-updated: 2025-01-30T16:42:17.260Z
+date: 2025-02-05T18:32:40.124Z
+updated: 2025-02-12T02:06:31.049Z
 tags:
   - laptops
 categories:
@@ -19,12 +19,16 @@ Whether you've been busy with the kids or catching up with the daily news on you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
 
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We've been on the ground for the second day of the [largest tech conference in the US](https://www.zdnet.com/article/zdnets-guide-to-ces-what-is-it-and-who-can-attend/), bringing you the best of the announcements. 
 
@@ -37,10 +41,6 @@ And, if you're still waiting to hear from some major companies, keep checking ba
 ## LG saves its biggest (and best) TV for last
 
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 LG
 
@@ -70,6 +70,10 @@ MSI
 
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Roku and Hisense offer new models and upgrades
 
 Roku
@@ -88,6 +92,10 @@ Check out the article version of the interview [here](https://www.zdnet.com/arti
 
 **Also:** [**What's in the tech bag ZDNET's EIC takes to CES?**](https://www.zdnet.com/article/what-tech-is-in-the-ces-2023-bag-of-zdnets-editor-in-chief/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HP focuses on sustainability and hybrid work with new laptops
 
 HP
@@ -97,7 +105,7 @@ While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a se
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Track your feathered friends with the Bird Buddy smart feeder
@@ -108,10 +116,6 @@ You're used to indoor appliances with smart features, but now with the Bird Budd
 
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## HyperX debuts new gaming mice
 
 HyperX
@@ -119,10 +123,6 @@ HyperX
 Gamers can also pick up a new gaming mouse thanks to the announced Pulsefire Haste 2 gaming mouse (wired and wireless versions), shipping in March in stores and online. There's also the HyperX Clutch Gladiate Xbox Controller, available in April, and a new line of 3D-printed accessories, starting with a [Cozy Cat keycap](https://www.zdnet.com/home-and-office/home-entertainment/hyperx-launches-new-line-of-3d-printed-keycaps-headphone-backplates-and-more/). 
 
 Get the details on the [Pulsefire Haste 2 and Clutch Gladiate Xbox controller](https://www.zdnet.com/home-and-office/home-entertainment/hyperxs-ces-2023-lineup-includes-haste-2-mice-clutch-gladiate-xbox-controller/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AMD announces Ryzen 7040 series
 
@@ -170,21 +170,19 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-effective-webinar-logging-tips-avoiding-common-pitfalls-windows-macos/"><u>[New] Effective Webinar Logging Tips Avoiding Common Pitfalls (Windows, macOS)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-a-playlist-on-youtube/"><u>[New] In 2024, How to Create a Playlist on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-maximizing-video-quality-in-zoom-conferences/"><u>[Updated] 2024 Approved Maximizing Video Quality in Zoom Conferences</u></a></li>
-<li><a href="https://win-lab.techidaily.com/comment-faciliter-le-recuperation-des-donnees-dun-espace-de-stockage-cloud-une-methode-rapide-et-facile/"><u>Comment Faciliter Le Récupération Des Données D’un Espace De Stockage Cloud : Une Méthode Rapide Et Facile</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-cutting-edge-unveiling-the-features-and-performance-of-the-long-awaited-samsung-galaxy-book-pro-comprehensive-overview-on-zdnet/"><u>Exploring the Cutting Edge: Unveiling the Features and Performance of the Long-Awaited Samsung Galaxy Book Pro | Comprehensive Overview on ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/extend-your-macbooks-charged-hours-with-expert-tips-learn-more/"><u>Extend Your MacBook's Charged Hours with Expert Tips - Learn More</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-whispered-words-web-hidden-voice-recorders-for-smartphones/"><u>In 2024, Whispered Words Web Hidden Voice Recorders for Smartphones</u></a></li>
-<li><a href="https://win11.techidaily.com/masterclass-elevating-desktop-image-standards-on-windows-11/"><u>Masterclass: Elevating Desktop Image Standards on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/never-run-out-of-power-again-discover-the-ultimate-140w-multi-device-charger-with-extended-usage-for-on-the-go-life-exclusive-review-by-zdnet/"><u>Never Run Out of Power Again! Discover the Ultimate 140W Multi-Device Charger with Extended Usage for On-the-Go Life | Exclusive Review by ZDNET</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/repair-glitches-in-instagram-likescomments-for-2024/"><u>Repair Glitches in Instagram Likes/Comments for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-lenovo-laptops-tailored-for-hybrid-professionals-save-up-to-1k-in-our-latest-review/"><u>Top Lenovo Laptops Tailored for Hybrid Professionals: Save Up To $1K in Our Latest Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbelievable-deal-save-1100-on-top-notch-gaming-and-video-production-laptops-exclusive-offer/"><u>Unbelievable Deal: Save $1,100 on Top-Notch Gaming & Video Production Laptops - Exclusive Offer !</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-an-unmatched-gaming-experience-with-the-ultimate-speaker-set-now-discounted-on-amazon-insider-review/"><u>Unlock an Unmatched Gaming Experience with the Ultimate Speaker Set, Now Discounted on Amazon - Insider Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiled-apple-introduces-the-budget-friendly-m2-macbook-air-at-a-steal-for-799-before-prime-day-extravaganza-insights-from-zdnet/"><u>Unveiled: Apple Introduces the Budget-Friendly M2 MacBook Air at a Steal for $799 Before Prime Day Extravaganza - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-techniques-to-trigger-system-restore-on-windows-11-os/"><u>Unveiling Techniques to Trigger System Restore on Windows 11 OS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/zooms-true-power-tripled-transformation-techniques/"><u>Zoom's True Power Tripled Transformation Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-engineering-video-excerpts-for-online-platforms/"><u>[New] In 2024, Engineering Video Excerpts for Online Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-editing-to-sharing-youtube-mastery-with-adobe-premiere/"><u>[Updated] 2024 Approved From Editing to Sharing YouTube Mastery with Adobe Premiere</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-from-live-events-to-records-the-pathway-with-4-key-steps-on-fb/"><u>[Updated] From Live Events to Records The Pathway with 4 Key Steps on FB</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-c210-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia C210 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722961744072-ensure-seamless-wireless-connectivity-update-lenovo-bluetooth-drivers-on-windows-7-and-10-with-these-safe-downloads/"><u>Ensure Seamless Wireless Connectivity: Update Lenovo Bluetooth Drivers on Windows 7 & 10 with These Safe Downloads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-future-of-home-cleaning-save-on-the-irobot-braava-jet-m6-robot-mop-for-just-299-exclusive-offer/"><u>Experience the Future of Home Cleaning: Save on the iRobot Braava Jet M6 Robot Mop for Just $299 - Exclusive Offer!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-laserjet-p1006-drivers-for-windows-and-mac-os-x/"><u>Get the Latest HP LaserJet P1006 Drivers for Windows and Mac OS X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-printer-software-for-windows-10-and-windows-11-users/"><u>Get the Newest HP Printer Software for Windows 10 and Windows 11 Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-machines-with-toms-tutorials-innovative-approaches-to-hardware/"><u>Mastering Machines with Tom's Tutorials: Innovative Approaches to Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967100284-microsoft-wireless-mouse-5000-driver-downloads-speedy-hassle-free-setup/"><u>Microsoft Wireless Mouse 5000 Driver Downloads – Speedy, Hassle-Free Setup</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mirillis-honors-and-accolades-overview/"><u>Mirillis Honors & Accolades Overview</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-setup-tutorial-latest-version-of-wacom-intuos-brush-manager/"><u>Speedy Setup Tutorial: Latest Version of Wacom Intuos Brush Manager</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-solving-network-card-drivers-on-windows-7/"><u>Troubleshooting and Solving Network Card Drivers on Windows 7</u></a></li>
 </ul></div>
 

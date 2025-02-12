@@ -1,7 +1,7 @@
 ---
 title: "Power User's Dream: Essential Specs That Wowed Me in This Lenovo Notebook - Insights From ZDNet"
-date: 2025-01-25T17:12:10.748Z
-updated: 2025-01-30T19:09:37.449Z
+date: 2025-02-08T22:45:08.542Z
+updated: 2025-02-12T02:47:11.489Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,20 +116,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-multitasking-with-picture-in-picture-mode-on-microsoft-edge-browser/"><u>[New] Mastering Multitasking with Picture-in-Picture Mode on Microsoft Edge Browser</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-new-frontiers-in-immersive-experiences-the-best-metaverse-insights/"><u>[New] New Frontiers in Immersive Experiences The Best Metaverse Insights</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-secrets-of-effective-powerpoint-presentation-recordings/"><u>[New] Secrets of Effective PowerPoint Presentation Recordings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-video-preservation-direct-and-indirect-approaches/"><u>[Updated] 2024 Approved Instagram Video Preservation Direct & Indirect Approaches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-webcams-for-enhanced-podcast-production/"><u>[Updated] 2024 Approved Ultimate Webcams for Enhanced Podcast Production</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-emoji-magic-for-enhanced-discord-statues/"><u>[Updated] In 2024, Emoji Magic for Enhanced Discord Statues</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-adding-custom-images-to-youtube-videos-for-2024/"><u>[Updated] Step-by-Step Adding Custom Images to YouTube Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-exclusive-savings-on-the-msi-sword-laptop-shave-off-400-now-zdnet/"><u>Discover Exclusive Savings on the MSI Sword Laptop - Shave Off $400 Now! [ZDNet]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-budget-winning-laptop-of-2024-lenovos-new-749-thinkbook-reviewed-by-zdnet/"><u>Discover the Ultimate Budget Winning Laptop of 2024: Lenovo's New $749 ThinkBook Reviewed by ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-lava-agni-2-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Agni 2 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-the-best-vr-gear-with-metas-51-cuisines-deal-on-quest-3-during-october-prime-day-sale-still-available-now/"><u>Snag the Best VR Gear with Meta's 51 Cuisines Deal on Quest 3 During October Prime Day Sale - Still Available Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-the-ultimate-bargain-samsung-odyssey-neo-g8-monitor-for-550-at-best-buys-anti-prime-day-featured-by-zdnet/"><u>Snag the Ultimate Bargain: Samsung Odyssey Neo G8 Monitor for $550 at Best Buy’s Anti-Prime Day, Featured by ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-3-unbeatable-cyber-monday-2022-laptops-for-less-than-1k-from-walmart-best-buy-and-lenovo-techradar/"><u>Top 3 Unbeatable Cyber Monday 2022 Laptops for Less than $1K From Walmart, Best Buy & Lenovo - TechRadar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleashing-your-laptops-full-potential-with-a-hidden-gem-of-an-accessory-discover-how/"><u>Unleashing Your Laptop's Full Potential with a Hidden Gem of an Accessory - Discover How!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-every-graphic-artist-needs-to-know-about-this-incredible-feature-in-asus-newest-stealthy-laptop-zdnet-exclusive/"><u>Why Every Graphic Artist Needs to Know About This Incredible Feature in ASUS’ Newest Stealthy Laptop | ZDNet Exclusive</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-video-editing-tips-for-beginner-editors/"><u>[New] 2024 Approved YouTube Video Editing Tips for Beginner Editors</u></a></li>
+<li><a href="https://facebook.techidaily.com/conquer-fb-surveillance-using-the-off-fb-toolset/"><u>Conquer FB Surveillance Using the Off-FB Toolset</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-the-scansnap-s1300i-scanner-a-quick-guide/"><u>Download and Update the ScanSnap S1300i Scanner: A Quick Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-msi-gs65-graphics-and-system-drivers-for-enhanced-windows-experience/"><u>Download MSI GS65 Graphics and System Drivers for Enhanced Windows Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-use-of-windows-explorer-over-traditional-ls/"><u>Effective Use of Windows Explorer Over Traditional LS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elite-video-call-and-chat-service-selections-for-2024/"><u>Elite Video Call & Chat Service Selections for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/emerging-realities-speak-top-30-metaverse-expressions-arvr/"><u>Emerging Realities Speak Top 30 Metaverse Expressions [AR/VR]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensuring-optimal-display-a-how-to-on-installing-new-graphics-drivers-in-windows-11/"><u>Ensuring Optimal Display: A How-To on Installing New Graphics Drivers in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-artisan-1430-printer-driver-software-free-download-for-windows-users/"><u>Epson Artisan 1430 Printer Driver Software - Free Download for Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-a-blinking-display-on-your-mobile-device-discover-7-remedies-to-restore-stability/"><u>Experiencing a Blinking Display on Your Mobile Device? Discover 7 Remedies to Restore Stability</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fast-easy-free-uncovering-the-best-10-image-converters-for-2024/"><u>Fast, Easy, FREE Uncovering the Best 10 Image Converters for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-m-audio-fast-track-driver-for-your-pc-on-windows-10-7-8-and-81-now-available/"><u>Get the Latest M-Audio Fast Track Driver for Your PC on Windows 10, 7, 8 & 8.1 - Now Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-free-m-audio-ultratrack-drivers-today/"><u>Get Your Hands on the FREE M-Audio UltraTrack Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-sound-back-download-realtek-asio-windows-10-drivers-now-simple-steps-included/"><u>Get Your Sound Back! Download Realtek Asio Windows 10 Drivers Now - Simple Steps Included</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nokia-xr21-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nokia XR21 to iPod | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-play-8t-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor Play 8T is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/m-audio-fast-track-drivers-update-your-sound-experience-on-windows-version-supported-os-list/"><u>M-Audio Fast Track Drivers: Update Your Sound Experience on Windows (Version Supported OS List)</u></a></li>
 </ul></div>
 

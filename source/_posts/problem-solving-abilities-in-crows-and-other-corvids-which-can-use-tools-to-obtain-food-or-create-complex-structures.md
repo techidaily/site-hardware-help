@@ -1,7 +1,7 @@
 ---
 title: Problem-Solving Abilities in Crows and Other Corvids, Which Can Use Tools to Obtain Food or Create Complex Structures.
-date: 2025-01-27T19:02:14.485Z
-updated: 2025-01-30T18:08:28.392Z
+date: 2025-02-11T02:57:42.403Z
+updated: 2025-02-11T19:23:55.560Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell holiday deals
 
 * [Dell Inspiron 15 3520 Intel Core i5 touch laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-inspiron-15-3520-touch-laptop-intel-core-i5-8gb-memory-256gb-ssd-carbon-black%2F6553026.p%3FskuId%3D6553026&publisher_slug=itechdaily19598&exclusive=1) for $350 (save $250)
@@ -35,10 +31,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -98,7 +90,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell laptop holiday deals
@@ -110,7 +102,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -122,11 +114,19 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Optiplex 7080 Intel i5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7080-business-desktops-workstations%252Fp%252F1VK-0001-6GXW7) for $520 (save $179)
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell monitor holiday deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $180 (save $40)
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $297 (save $33)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
 
@@ -135,7 +135,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -210,24 +210,16 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/download-wireless-network-adapter-drivers-quickly-and-easily/"><u>[DOWNLOAD] Wireless Network Adapter Drivers | Quickly & Easily</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-tools-ranking-the-best-mobile-videography-apps/"><u>[Updated] 2024 Approved Essential Tools Ranking the Best Mobile Videography Apps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-smooth-transition-altering-snapchat-videos-tempo/"><u>[Updated] In 2024, Smooth Transition Altering Snapchat Videos' Tempo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>[Updated] Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-iphone-efficiency-discover-stealthy-voice-control-tricks-for-power-users-innovatetech/"><u>Boost Your iPhone Efficiency: Discover Stealthy Voice Control Tricks for Power Users | InnovateTech</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-15-plus-how-to-unlock-a-disabled-iphone-15-plus-by-drfone-ios/"><u>Disabled iPhone 15 Plus How to Unlock a Disabled iPhone 15 Plus?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-epson-l3110-driver-for-modern-operating-systems-windows-11107-compatible/"><u>Download Epson L3110 Driver for Modern Operating Systems: Windows 11/10/7 Compatible</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-nvidia-quadro-drivers-for-windows-10-latest-version-and-compatibility-guide/"><u>Download NVIDIA Quadro Drivers for Windows 10: Latest Version & Compatibility Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-opinion-on-slomo-recording-softwares-latest-version/"><u>Expert Opinion on SloMo Recording Software's Latest Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-deskjet-ink-advantage-2652-driver-optimized-for-windows-11-10-8-and-7/"><u>Get the Latest HP Deskjet Ink Advantage 2652 Driver: Optimized for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/halve-your-bill-payment-workload-with-norcos-innovative-solutions/"><u>Halve Your Bill Payment Workload with Norco's Innovative Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-overcome-corsair-h115i-driver-challenges-in-recent-windows-versions/"><u>How to Overcome Corsair H115i Driver Challenges in Recent Windows Versions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-gt-neo-5-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme GT Neo 5 Phone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-lenovo-x1-carbon-drivers-download-manual-for-windows-10-and-ebootable-in-windows-7/"><u>Latest Lenovo X1 Carbon Drivers - Download Manual for Windows 10 & Ebootable in Windows 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-fixes-how-to-seamlessly-update-scansnap-ix500-software-in-windows/"><u>Quick Fixes: How to Seamlessly Update ScanSnap iX500 Software in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-logitech-mx-stream-driver-download-tutorial/"><u>Step-by-Step Logitech MX Stream Driver Download Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-of-tech-jobs-how-cybersecurity-cloud-computing-and-programming-are-shaping-the-market-zdnet/"><u>The Future of Tech Jobs: How Cybersecurity, Cloud Computing & Programming Are Shaping the Market | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-downloading-and-setting-up-your-dell-mouse-driver-correctly/"><u>Troubleshooting Tips - Downloading and Setting Up Your Dell Mouse Driver Correctly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[New] 2024 Approved Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-key-elements-of-successful-youtube-channel-imagery/"><u>[New] 2024 Approved Key Elements of Successful YouTube Channel Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-harnessing-free-visual-content-creatively/"><u>2024 Approved Tips for Harnessing Free Visual Content Creatively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/corriges-handbrake-et-vlc-maintenant-avec-prise-en-charge-de-64-bits-erreur-supprimee/"><u>Corrigés Handbrake Et VLC: Maintenant Avec Prise en Charge De 64 Bits, Erreur Supprimée !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-logitech-c270-hd-webcam-drivers-compatible-with-windows-10-and-11/"><u>Download & Install Logitech C270 HD Webcam Drivers - Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968946351-download-compatible-drivers-for-ryzen-family-of-cpus-and-gpus-2023-edition/"><u>Download Compatible Drivers for Ryzen Family of CPUs & GPUs – 2023 Edition!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-lenovo-x1-carbon-drivers-for-windows-10-and-7-step-by-step-guide/"><u>Effortless Installation of Lenovo X1 Carbon Drivers for Windows 10 & 7 - Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959701326-how-to-update-your-logitech-k400-plus-mouse-with-new-drivers-start-here/"><u>How to Update Your Logitech K400 Plus Mouse with New Drivers - Start Here</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s23-tactical-edition-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S23 Tactical Edition by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-persistent-keyboard-delay-on-windows-11/"><u>Resolved: How to Fix Persistent Keyboard Delay on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toshiba-portable-computer-fresh-driver-updates-and-downloads-for-windows-operating-system/"><u>Toshiba Portable Computer - Fresh Driver Updates & Downloads for Windows Operating System</u></a></li>
 </ul></div>
 

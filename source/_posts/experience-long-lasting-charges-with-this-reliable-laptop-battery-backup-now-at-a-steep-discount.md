@@ -1,7 +1,7 @@
 ---
 title: Experience Long-Lasting Charges with This Reliable Laptop Battery Backup - Now at a Steep Discount !
-date: 2025-01-23T18:25:12.722Z
-updated: 2025-01-30T18:59:22.522Z
+date: 2025-02-05T16:58:52.955Z
+updated: 2025-02-12T01:03:24.033Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ So what does HD stand for? High density. Put simply, Baseus used a different bat
 [ZDNET RECOMMENDS Baseus Blade HD The Baseus Blade HD is an upgraded version of the Blade, and makes use of silicon-carbon lithium polymer battery technology, making it 18% lighter and 20% smaller than the previous version. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Charging-Portable-Charger-20000mAh%2Fdp%2FB0BZP6R4MH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9e5af2cd-174d-4168-9ba8-7222cb64c3bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Baseus Blade HD tech specs
@@ -102,7 +102,7 @@ Recharge times are also very acceptable, at 1.2 hours when using the included US
 One thing that hasn't changed from the previous incarnation is that every surface of the Blade HD, just like the Blade before it, is a dust magnet, and will pick up and show every bit of dirt that gets on it. But the textured finish is nice in that the power bank isn't slippery like a lot of them are, so it's less likely to fall on the floor or into your laptop's keyboard!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -139,18 +139,24 @@ That aside, the [Baseus Blade HD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-mute-non-stop-fb-video-ad-content/"><u>[New] How to Mute Non-Stop FB Video Ad Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-gold-medal-glory-olympic-speed-skating-short-track-highlights/"><u>[Updated] Gold Medal Glory Olympic Speed Skating Short Track Highlights</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-stroke-of-genius-best-10-creative-sketch-software-for-mac-free/"><u>[Updated] In 2024, Stroke of Genius Best 10 Creative Sketch Software for Mac (Free)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-art-of-reel-production-embedding-soundtracks-for-2024/"><u>[Updated] The Art of Reel Production Embedding Soundtracks for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-upended-my-entire-tech-setup-insights/"><u>A Week with an Ergonomic Split Keyboard: How One Change Upended My Entire Tech Setup - Insights</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-g54-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola G54 5G FRP</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cartoonify-your-images-in-seconds/"><u>In 2024, Cartoonify Your Images in Seconds</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-review-of-the-apple-m3-macbook-air-the-highlights-that-caught-my-attention-techspot/"><u>In-Depth Review of the Apple M3 MacBook Air: The Highlights That Caught My Attention | TechSpot</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/making-3d-visuals-mainstream-how-acer-is-revolutionizing-monitor-and-laptop-tech-for-wider-audiences-technewszdnet/"><u>Making 3D Visuals Mainstream: How Acer Is Revolutionizing Monitor and Laptop Tech for Wider Audiences | TechNewsZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speedy-guide-mastering-the-art-of-changing-macbook-pros-keyboard-light-intensity/"><u>Speedy Guide: Mastering the Art of Changing MacBook Pro's Keyboard Light Intensity</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-essential-guide-when-are-bluetooth-adapters-necessary-for-your-lightning-headphones/"><u>The Essential Guide: When Are Bluetooth Adapters Necessary for Your Lightning Headphones?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-antivirus-solutions-a-comprehensive-review/"><u>Top Rated Antivirus Solutions : A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-professionals-rejoice-lenovo-unveils-a-powerhouse-alternative-to-the-mac-studio/"><u>Windows Professionals Rejoice: Lenovo Unveils a Powerhouse Alternative to the Mac Studio!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-compre-cooked-tweets-the-complete-tweet-vids-guide/"><u>[New] 2024 Approved Compre Cooked Tweets The Complete Tweet Vids Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-recommendations-superior-voice-modification-tools/"><u>[New] Professional Recommendations Superior Voice Modification Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-incredible-trend-trackers-monitor-highest-youtube-spots/"><u>[Updated] 2024 Approved Incredible Trend Trackers Monitor Highest YouTube Spots</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-enhancing-creativity-with-filmoras-best-tools/"><u>[Updated] In 2024, Enhancing Creativity with Filmora's Best Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/baffled-by-bluetooth-master-the-art-of-connecting-iphones-to-computers-today/"><u>Baffled by Bluetooth? Master the Art of Connecting iPhones to Computers Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digging-up-drowned-chatgpt-memories/"><u>Digging Up Drowned ChatGPT Memories</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asus-realtek-audiophile-driver-at-no-cost/"><u>Download ASUS Realtek Audiophile Driver at No Cost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-hp-laserjet-p3015-drivers-for-windows-systems/"><u>Easy Guide to Downloading HP LaserJet P3015 Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-guide-for-updating-mouse-drivers-in-line-with-hid-standards/"><u>Essential Guide for Updating Mouse Drivers in Line with HID Standards</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-winx-dvd-ripper-convert-your-dvds-into-mp4avi-formats-for-ios-and-android-devices-effortlessly/"><u>Free WinX DVD Ripper: Convert Your DVDs Into MP4/AVI Formats for iOS and Android Devices Effortlessly!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-new-upgrade-usb-30-ethernet-controller-drivers-for-pcs-on-windows/"><u>Get the New Upgrade: USB 3.0 Ethernet Controller Drivers for PCs on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963530493-get-the-newest-toshiba-nb35-n704-dynabook-drivers-for-windows-free-downloads-available/"><u>Get the Newest Toshiba NB35-N704 Dynabook Drivers for Windows - Free Downloads Available</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-xr-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone XR Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-msi-audio-device-drivers-free-downloads-for-windows-users/"><u>Official MSI Audio Device Drivers: Free Downloads for Windows Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/al-youtube-playback-adjusting-speed-settings/"><u>Optimal YouTube Playback Adjusting Speed Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transforming-imagery-the-power-of-ps-curves/"><u>Transforming Imagery The Power of PS Curves</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-windows-driver-errors-for-arduino-uno/"><u>Troubleshooting and Fixing Windows Driver Errors for Arduino Uno</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-your-lg-display-on-pcs-running-windows-11-7-or-81/"><u>Troubleshooting Your LG Display on PCs Running Windows 11, 7 or 8.1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-canon-pixma-mg2522-printer-drivers-with-ease-free-download-guide/"><u>Update Your Canon PIXMA MG2522 Printer Drivers with Ease - Free Download Guide</u></a></li>
 </ul></div>
 

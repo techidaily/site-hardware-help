@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Prime Day Blowout Sales on Laptops: Your Ultimate Shopping Guide for October 2# - ZDNet"
-date: 2025-01-28T18:08:58.361Z
-updated: 2025-01-30T19:19:22.179Z
+date: 2025-02-04T23:04:06.738Z
+updated: 2025-02-11T23:56:45.171Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ From Apple's industry-leading [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TS
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -104,10 +100,6 @@ The Zenbook Duo challenged what a laptop could look like with its dual-screen fo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CRD1QRF4%2Fref%3Dasc%5Fdf%5FB0CRD1QRF41728212400000%3Fcreative%3D395261%26creativeASIN%3DB0CRD1QRF4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f64b335-552a-4991-a84d-741b89c5e7ab%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -116,10 +108,14 @@ Kyle Kucharski/ZDNET
 * [Lenovo IdeaPad 1](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Ryzen5-5500U-1920x1080-Storage%2Fdp%2FB0CJB5N9BQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f64b335-552a-4991-a84d-741b89c5e7ab%7Cdtp&dtb=1) for $389 (save $61): Lenovo's IdeaPads are designed to be accessible, well-rounded laptops for a diverse range of users, and the IdeaPad 1 is a solid, affordable option. The 8GB of RAM and 512 GB of memory on board are an accessible configuration for a machine that's well-equipped for the basics at a price that you can't argue with.
 * [Asus Chromebook CM14 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-Anti-Glare-1366x768-CM1402CM2A-DS44%2Fdp%2FB0CJS1399P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f64b335-552a-4991-a84d-741b89c5e7ab%7Cdtp&dtb=1) for $168 ($110 off) - Asus' CM14 is a sleek and lightweight Chromebook that comes loaded with the streamlined ChromeOS to get the basics done on an efficient machine. And for this price, you can't ask for a more affordable device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
@@ -127,7 +123,7 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals both before and after those days. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
@@ -135,7 +131,7 @@ Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -149,6 +145,10 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -215,22 +215,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-stealthy-sound-softening-with-garageband/"><u>[New] 2024 Approved Stealthy Sound Softening with Garageband</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mart-shoppers-guide-to-inexpensive-recording-gear-for-2024/"><u>[New] Smart Shopper's Guide to Inexpensive Recording Gear for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-boundless-gallery-of-forgotten-artists-for-2024/"><u>[New] The Boundless Gallery of Forgotten Artists for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-efficient-way-to-grab-all-episodes-on-your-idevice/"><u>[New] The Efficient Way to Grab All Episodes on Your iDevice</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/crafting-compelling-360-videos-for-social-media-streams-for-2024/"><u>Crafting Compelling 360 Videos for Social Media Streams for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-2630-printer-driver-for-windows-7-81-and-10/"><u>Download the Latest Epson WF-2630 Printer Driver for Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-resolving-windows-1087-driver-problems-for-the-ralink-rt3290-wireless-card/"><u>Guide to Resolving Windows 10/8/7 Driver Problems for the Ralink RT3290 Wireless Card</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-behringers-professional-audio-driver-for-seamless-usb-connectivity/"><u>How to Get Behringer's Professional Audio Driver for Seamless USB Connectivity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-drivers-for-your-dell-thunderbolt-port-expansion-unit-tb16/"><u>How to Get the Newest Drivers for Your Dell Thunderbolt Port Expansion Unit TB16</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-itel-a60s-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Itel A60s to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-logitech-stream-cam-drivers-on-windows-11-pcs/"><u>Install Logitech Stream Cam Drivers on Windows 11 PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-dell-ethernet-drivers-for-windows-7-free-downloads/"><u>Latest Dell Ethernet Drivers for Windows 7 - Free Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/preload-the-end-diastolic-volume-which-stretches-the-ventricles-to-their-greatest-geometric-dimensions/"><u>Preload (the End-Diastolic Volume, Which Stretches the Ventricles to Their Greatest Geometric Dimensions)</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-media-meets-live-audience-with-facebooks-update/"><u>Social Media Meets Live Audience with Facebook's Update</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/speedy-solutions-how-to-tackle-the-hidclasssys-issue-effortlessly/"><u>Speedy Solutions - How to Tackle the HIDCLASS.SYS Issue Effortlessly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-installing-latest-wifi-driver-updates-for-windows-10-and-11/"><u>Step-by-Step Tutorial on Installing Latest WiFi Driver Updates for Windows 10 and 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-itel-a60-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sharing-photos-and-videos-between-android-and-iphone/"><u>[New] Sharing Photos & Videos Between Android & iPhone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snippet-showcase-cinematic-samples-for-editing-artists/"><u>[New] Snippet Showcase Cinematic Samples for Editing Artists</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-brio-webcam-software-for-win-10-8-and-7/"><u>Download Logitech BRIO Webcam Software for Win 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-get-your-usb-rs232-drivers-instantly/"><u>Fast Track: Get Your USB RS232 Drivers Instantly!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-13-mini-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 13 mini Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/gamers-choice-which-iphone-delivers-the-best-gameplay/"><u>Gamer's Choice: Which iPhone Delivers the Best Gameplay?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-samsung-evo-driver-version-download-and-update-guide-windows/"><u>Get the Newest Samsung ^_^EVO Driver Version - Download & Update Guide (Windows)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-canon-mg3620-driver-safe-simple-steps-for-setup/"><u>Get Your Canon MG3620 Driver: Safe, Simple Steps for Setup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-install-new-dell-speaker-drivers-online/"><u>How To Seamlessly Install New Dell Speaker Drivers Online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/obtain-the-new-nvidia-geforce-rtx-2060-drivers-optimized-for-windows-11-10-8-and-7-platforms/"><u>Obtain the New NVIDIA GeForce RTX 2060 Drivers: Optimized for Windows 11, 10, 8 & 7 Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-update-issues-with-error-code-0x30017-in-windows/"><u>Remedying Update Issues with Error Code 0X30017 in Windows</u></a></li>
 </ul></div>
 
