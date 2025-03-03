@@ -1,7 +1,7 @@
 ---
 title: "Slash the Price: HP's New Victus 15 Game Laptop Hits $530 Markdown at Best Buy, Insights"
-date: 2025-01-24T19:20:39.188Z
-updated: 2025-01-30T16:16:45.663Z
+date: 2025-02-24T20:55:25.496Z
+updated: 2025-03-02T20:09:43.589Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,24 +59,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-visualizationvirtue-the-art-of-resizing-photos-and-videos-in-instagram/"><u>[New] 2024 Approved VisualizationVirtue The Art of Resizing Photos and Videos in Instagram</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fixing-unintended-you-mistakes-while-chatting-online-for-2024/"><u>[Updated] Fixing Unintended 'You' Mistakes While Chatting Online for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-maximizing-b-roll-impact-in-your-edits-for-2024/"><u>[Updated] Maximizing B-Roll Impact in Your Edits for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-disconnected-files-in-steam-library/"><u>Addressing Disconnected Files in Steam Library</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/broadcom-network-adapter-software-upgrade-for-windows-11-step-by-step-installation-guide/"><u>Broadcom Network Adapter Software Upgrade for Windows 11: Step-by-Step Installation Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-walkthrough-downloading-and-updating-the-epson-ds-n-series-driver-for-windows-systems/"><u>Complete Walkthrough: Downloading and Updating the Epson DS-N Series Driver for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-links-download-logitechs-advanced-g-series-driver-for-win-11-10-and-7/"><u>Direct Links: Download Logitech's Advanced G Series Driver for Win 11, 10 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/diy-fixes-for-when-your-samsung-blu-ray-player-stops-working/"><u>DIY Fixes for When Your Samsung Blu-Ray Player Stops Working</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-compatible-canon-mx410-drivers-fast-and-easy-setup-for-windows/"><u>Download Compatible Canon MX410 Drivers - Fast & Easy Setup for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tutorial-reinstalling-samsung-mobile-usb-drivers-made-simple/"><u>Easy Tutorial: Reinstalling Samsung Mobile USB Drivers Made Simple</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gepflegte-gute-nachtsprache-in-deutschen-kontexten/"><u>Gepflegte Gute-Nachtsprache in Deutschen Kontexten</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-laserjet-pro-m404n-driver-version-installed-easily-online/"><u>Get the Newest HP LaserJet Pro M404n Driver Version Installed Easily Online</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gtx-1650-super-graphics-card-driver-download-compatible-with-windows-10-and-11/"><u>GTX 1650 Super Graphics Card Driver Download: Compatible with Windows 10 and 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-12-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme 12 Pro 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-there-a-length-restriction-on-chatgpt-answers/"><u>Is There a Length Restriction on ChatGPT Answers?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-trustworthy-hardware-reviews-by-tom/"><u>Navigating the World of Tech: Trustworthy Hardware Reviews by Tom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tackling-peak-limit-problem-with-chatgpt-win/"><u>Tackling Peak Limit Problem with ChatGPT (Win)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-to-newest-realtek-device-driver-for-windows-10-download-here/"><u>Update to Newest Realtek Device Driver for Windows 10 – Download Here</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reimagine-virtual-engagements-with-customized-video-filters-in-zoom/"><u>[New] Reimagine Virtual Engagements with Customized Video Filters in Zoom</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-diving-deep-into-youtube-launching-and-earning-your-way/"><u>2024 Approved Diving Deep Into Youtube Launching and Earning Your Way</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mf8200c-printer-driver-installation-guide-windows-supported-versions-included/"><u>Canon MF8200C Printer Driver Installation Guide: Windows Supported Versions Included</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-instructions-for-hp-officejet-vee-3830-printer-driver-on-windows-pcs/"><u>Easy Installation Instructions for HP Officejet Vee 3830 Printer Driver on Windows PCs.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-updated-canon-pixma-ts3322-drivers-download-now/"><u>Easy Installation of Updated Canon PIXMA TS3322 Drivers: Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tips-for-refreshing-the-samsung-mobile-usb-drivers-on-windows-macos-and-linux/"><u>Easy Tips for Refreshing the Samsung Mobile USB Drivers on Windows, macOS & Linux</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-for-fast-and-simple-asus-touchpad-driver-setup-in-windows-10/"><u>Expert Tips for Fast and Simple ASUS Touchpad Driver Setup in Windows 10.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-drivers-for-your-msi-b350-motherboard-on-windows-pcs/"><u>How to Get the Latest Drivers for Your MSI B350 Motherboard on Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-hp-laserjet-1018-printing-drivers-for-smooth-operations/"><u>How to Obtain and Install HP LaserJet 1018 Printing Drivers for Smooth Operations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/important-warning-the-hidden-dangers-of-online-mkvwebm-converters-find-out-before-you-convert/"><u>Important Warning: The Hidden Dangers of Online MKV/WebM Converters - Find Out Before You Convert!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-snippet-screenplay-guide/"><u>In 2024, Snippet Screenplay Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-unlock-youtube-numbers-for-enhanced-performance/"><u>In 2024, Unlock YouTube Numbers for Enhanced Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/logitechs-comeback-resurrected-remote-device/"><u>Logitech's Comeback: Resurrected Remote Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-the-update-comprehensive-guide-for-xp-pen-pen-tablet-device-drivers-upgrade/"><u>Master the Update: Comprehensive Guide for XP-Pen Pen Tablet Device Drivers Upgrade</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-a24-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy A24? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/problemloseanleitung-fur-den-roten-bildschirm-des-todes-unter-windows-10-und-11/"><u>Problemlöseanleitung Für Den Roten Bildschirm Des Todes Unter Windows 10 Und 11</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728509138404-samsung-ssd/"><u>Samsung SSDが固まった時のデータセキュリティ確保：解除方法</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-problems-with-the-realtek-rtl8723be-network-adapter-a-comprehensive-guide/"><u>Solving Problems with the Realtek RTL8723BE Network Adapter: A Comprehensive Guide</u></a></li>
 </ul></div>
 

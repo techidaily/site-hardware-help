@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Match to MacBook: The Power of Microsoft Surface Pro Nine | ZDNet Review"
-date: 2025-02-11T00:41:40.951Z
-updated: 2025-02-11T20:58:34.945Z
+date: 2025-02-26T19:31:31.959Z
+updated: 2025-03-02T17:05:40.379Z
 tags:
   - laptops
 categories:
@@ -59,10 +59,6 @@ I've been using the Surface Laptop Studio 2 for just under a week, and I can con
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A much-needed performance upgrade
 
 Inside my review unit, Microsoft includes the 13th-generation Intel Core i7 H-series processor, which is an upgrade over the 11th-generation chips in the previous generation. Those chips were able to handle most people's workflows, which primarily involved a lot of creator-focused tools and apps being used for hours on end. After all, this laptop is primarily designed for creators to make their jobs easier, and with the new model, that experience gets even better.
@@ -103,10 +99,6 @@ Max Buondonno/ZDNET
 
 The Intel NPU also powers Microsoft's Windows Studio effects, which help to improve the quality of video and audio during calls. This includes keeping your head centered in the frame as you move around, blurring the background, maintaining eye contact with adaptive corrections to your eyes, and minimizing background noise. All of these features worked well in my testing, and made for a more enjoyable video chatting experience. You'll just have to live with a sub-par webcam: while the field of view is nice and wide for automatic framing, the Full HD resolution doesn't feel very sharp and generally looks blurry, even in good lighting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Gorgeous hardware and a unique screen
 
 All of this power is wrapped in what can only be described as a gorgeous design. The Surface Laptop Studio 2 is one of the most premium-feeling Windows laptops I've used, with a strong resemblance to that of Apple's MacBook Pro line and the silver aluminum to prove it. This generation is a bit thicker and heavier than the last one, weighing in at 4.37 pounds with Nvidia's graphics card. That's a difference of 0.37 pounds compared to the older model, so get ready for a shoulder exercise when carrying this thing around in your backpack.
@@ -127,10 +119,6 @@ It opens a realm of possibilities for creatives who want more precise control ov
 
 Speaking of comfortability, the keyboard on the Surface Laptop Studio 2 might be one of my favorites. It has 1.3 millimeters of travel and plenty of satisfying bounce, which helps to make it very comfortable to use for long periods of time. Part of me wishes the keys were slightly curved at the top instead of being totally flat, but that's just a personal preference.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The trackpad is a little different, and so are the ports
 
 Below the keyboard is a new trackpad from Microsoft. It's a trackpad that doesn't physically move but offers haptic feedback whenever you press down on it. Compared to my MacBook Pro (which has the greatest trackpad known to man), this trackpad is excellent. It's responsive, fluid, and delivers the same level of feedback no matter where you click.
@@ -143,10 +131,6 @@ It's also what Microsoft calls the "most inclusive" trackpad ever thanks to Adap
 
 In addition, there are more ports on the Surface Laptop Studio 2, including a USB-A port and a microSD card slot. They sit alongside the dual Thunderbolt 4 ports, Surface Connector, and a 3.5mm headphone jack. I would've liked to see a full-size SD card reader as well, but any extra IO is welcome in my book.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Battery life is…fine
 
 Microsoft says it improved the battery life on the Surface Laptop Studio 2, but it's not very noticeable. I didn't run any endless 4K video loops or scroll a webpage until it died, but I did use the machine for my everyday workload on a full charge, and all I got was just under six hours of use. This was after writing the copy for a variety of reviews and news pieces in Google Chrome, playing Spotify, using Photoshop and Lightroom occasionally, and watching YouTube.
@@ -158,10 +142,6 @@ With its [$1,999 starting price](https://click.linksynergy.com/deeplink?id=IokOf
 That being said, no laptop can do what the Studio 2 can and flex the screen down to be used as a writing canvas/tablet. The unique form factor, coupled with its beefier specs, will prove to be worth it for some creatives who want the most control out of their laptop. And while those who need to work in 8K video timelines or create complex Photoshops will want to look elsewhere (namely the latest MacBook Pros), everyone else will be just fine with what the [Surface Laptop Studio 2](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fstore%2Fconfigure%2Fsurface-laptop-studio-2%2F8rqr54krf1dz) offers.
 
 [ZDNET RECOMMENDS Microsoft Surface Laptop Studio 2 Microsoft delivers a solid experience with the Studio 2, one that's still as unique as it was the first time around. View at Microsoft](https://www.microsoft.com/en-us/store/configure/surface-laptop-studio-2/8rqr54krf1dz)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -182,22 +162,20 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/hannel-title-genius-ideas-for-your-video-hub-for-2024/"><u>[New] Channel Title Genius Ideas for Your Video Hub for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-video-integration-youtube-images-in-slide-decks/"><u>[New] In 2024, Video Integration YouTube Images in Slide Decks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-virtual-realitys-creativity-quandary-a-2023-outlook/"><u>[New] In 2024, Virtual Reality's Creativity Quandary - A 2023 Outlook</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-storyboard-to-screenplay-a-youtube-video-writers-journey/"><u>[Updated] In 2024, From Storyboard to Screenplay A YouTube Video Writer's Journey</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-full-page-capture-on-device/"><u>2024 Approved Full Page Capture on Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-r9-driver-update-and-installation-tutorials-for-windows-operating-system/"><u>AMD Radeon R9 Driver Update & Installation Tutorials for Windows Operating System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-elan-smbus-driver-on-windows-complete-guide/"><u>Download and Update ELAN SMBus Driver on Windows - Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-windows-11-10-8-and-7-drivers-for-amd-radeon-rx-6800-xt-graphics-card/"><u>Download Windows 11, 10, 8 & 7 Drivers for AMD Radeon RX 6800 XT Graphics Card</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-setup-latest-windows-7-compatible-driver-update-for-your-dell-v305-printer/"><u>Easy Setup: Latest Windows 7-Compatible Driver Update for Your Dell V305 Printer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-scanjet-driver-updates-for-windows-operating-systems/"><u>Get the Latest HP Scanjet Driver Updates for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-arduino-nano-driver-in-windows-solved/"><u>How to Download and Install Arduino Nano Driver in Windows [Solved]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/konica-minolta-printer-drivers-download-and-update-process-made-easy/"><u>Konica Minolta Printer Drivers: Download & Update Process Made Easy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-vision-with-the-best-4k-monitors-1-10-for-2024/"><u>Optimal Vision with the Best 4K Monitors, #1-10 for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a79-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A79 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-updating-graphics-and-chipset-drivers-on-your-dell-xps-15-with-windows/"><u>Step-by-Step Guide to Updating Graphics and Chipset Drivers on Your Dell XPS 15 with Windows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-switch-game-screencasting/"><u>The Ultimate Guide to Switch Game Screencasting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/upgraded-multitasking-with-microsofts-multi-display-feature-in-edge-for-2024/"><u>Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-inside-look-fundamentals-of-asmr-videos/"><u>[New] In 2024, Inside Look Fundamentals of ASMR Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences/"><u>2024 Approved Making Every Game a Masterpiece Proven Methods to Record and Relish Your Sims’ Experiences</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-utilizing-continuous-lights-for-comfortable-filming/"><u>2024 Approved Utilizing Continuous Lights for Comfortable Filming</u></a></li>
+<li><a href="https://blog-min.techidaily.com/can-i-safely-download-films-from-tubi-without-breaking-the-law/"><u>Can I Safely Download Films From Tubi Without Breaking the Law?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-a-pro-sports-youtube-feed-on-macos/"><u>Crafting a Pro Sports YouTube Feed on MacOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-download-and-install-hp-deskjet-2600-drivers-for-windows-7-8-and-10-systems/"><u>Easy Guide to Download and Install HP DeskJet 2600 Drivers for Windows 7, 8 & 10 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-updates-finding-and-downloading-dell-d3100-drivers-for-optimal-performance/"><u>Effortless Updates: Finding and Downloading Dell D3100 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-on-how-to-maintain-optimal-performance-by-updating-audio-technica-drivers/"><u>Expert Tips on How to Maintain Optimal Performance by Updating Audio Technica Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-wheel-game-drivers-supported-on-win-7810-platforms/"><u>Get Your Logitech Wheel Game Drivers - Supported on Win 7/8/10 Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971515182-hp-laserjet-pro-m404n-driver-downloads-latest-version-now-available/"><u>HP LaserJet Pro M404n Driver Downloads - Latest Version Now Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-graphics-card-software-compatible-rtx-3060-ti-drivers-for-win11-machines-free/"><u>Latest Graphics Card Software: Compatible RTX 3060 Ti Drivers for Win11 Machines Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-mpow-bluetooth-drivers-for-windows-get-your-download-here/"><u>Latest MPOW Bluetooth Drivers for Windows: Get Your Download Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quickening-window-time-in-yuzu-games/"><u>Quickening Window Time in Yuzu Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/smartphones-and-tablets-leading-gb-gameplayers/"><u>Smartphones & Tablets Leading GB Gameplayers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-enhancing-your-airpods-pro-experience-best-accessories-of-the-year-reviewed-by-cnet/"><u>The Ultimate Guide to Enhancing Your AirPods Pro Experience - Best Accessories of the Year Reviewed by CNET</u></a></li>
 </ul></div>
 

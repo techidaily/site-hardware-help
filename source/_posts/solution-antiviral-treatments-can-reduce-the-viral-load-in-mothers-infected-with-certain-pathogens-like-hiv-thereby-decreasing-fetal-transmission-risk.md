@@ -1,7 +1,7 @@
 ---
 title: "Solution: Antiviral Treatments Can Reduce the Viral Load in Mothers Infected with Certain Pathogens Like HIV, Thereby Decreasing Fetal Transmission Risk."
-date: 2024-08-19T11:03:02.247Z
-updated: 2024-08-20T11:03:02.247Z
+date: 2025-02-27T20:54:24.044Z
+updated: 2025-03-02T19:43:59.885Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
  Want to enjoy the best gaming performance with your **Geforce RTX 2080** ? Or do you want to keep it in good condition? If your answer is YES, try updating Geforce RTX 2080 driver to the latest version. By doing it, you can also avoid many unexpected gaming issues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **There are two methods to update your Geforce RTX 2080 driver:**
 
 [**Method 1** **– Automatically (Recommended):**](https://www.drivereasy.com/knowledge/geforce-rtx-2080-driver-download-for-windows/#b) This option is **much quicker and easier** . **All** you need to do is **just a couple of mouse clicks** !
@@ -40,25 +37,16 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
  2\. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
 
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
 
  You can download the updated driver file for your Geforce RTX 2080 graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  . You can follow the steps below:
@@ -67,16 +55,10 @@ _You can do it for free if you like, but it’s partly manual._
 
  2\. Under **Option 1** , for “Product Type”, select **GeForce** ; for “Product Series”, select **GeForce RTX 20 Series** ; for “Product”, select **Geforce RTX 2080** . Then select the Operating System according to the Windows operating system you’re currently using (If you don’t know which Windows OS you’re using, see [ How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) ). Then select your language and click **SEARCH** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
  3\. Click the **DOWNLOAD** button to download the driver file.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap461.png)
 
  4.**Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
@@ -92,8 +74,6 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +81,26 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-snapsizestrategy-optimize-your-visual-content-on-ig/"><u>[New] In 2024, SnapSizeStrategy Optimize Your Visual Content on IG</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-journey-beyond-top-10-global-explorer-channels-for-2024/"><u>[Updated] A Journey Beyond Top 10 Global Explorer Channels for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-assessing-magixs-multimedia-capabilities/"><u>[Updated] Assessing MAGIX's Multimedia Capabilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/a-comprehensive-examination-of-webcamflex-pro-for-2024/"><u>A Comprehensive Examination of WebcamFlex Pro for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-your-setup-elite-gadget-picks-of-computer-visualizers/"><u>Ace Your Setup: Elite Gadget Picks of Computer Visualizers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-pc-specs-breakdown-by-toms-systems-guides/"><u>Advanced PC Specs Breakdown by Tom's Systems Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/aged-technology-crt-screen-hits-unprecedented-700hz-opting-for-minimalist-120p-image-quality/"><u>Aged-Technology CRT Screen Hits Unprecedented 700Hz, Opting for Minimalist 120P Image Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-of-the-best-exclusive-offers-on-high-def-gaming-screens/"><u>Best of the Best - Exclusive Offers on High-Def Gaming Screens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/continuous-growth-in-oled-monitors-industry-insiders-anticipate-134m-units-by-end-year/"><u>Continuous Growth in OLED Monitors: Industry Insiders Anticipate 1.34M Units by End-Year</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-future-with-samsung-odyssey-and-viewflex-monitors-elevated-by-cutting-edge-artifice-intellect-features/"><u>Discover the Future with Samsung: Odyssey and ViewFlex Monitors Elevated by Cutting-Edge Artifice Intellect Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-correct-gsdll32dll-not-found-or-missing-windows-errors/"><u>Effective Solutions to Correct 'gSdll32.dll Not Found or Missing' Windows Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862803280-experience-gaming-excellence-acquire-the-stunning-acer-nitro-27-inch-at-an-unbeatable-149/"><u>Experience Gaming Excellence: Acquire the Stunning Acer Nitro, 27-Inch, at an Unbeatable $149</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862795676-huge-discount-experience-ultimate-gaming-with-the-sceptre-24-inch-curved-monitor-for-only-79/"><u>Huge Discount: Experience Ultimate Gaming with The Sceptre 24 Inch Curved Monitor for Only $79!</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-ranking-the-best-sites-for-superior-vectors/"><u>In 2024, Ranking the Best Sites for Superior Vectors</u></a></li>
+<li><a href="https://techidaily.com/revamp-your-mac-with-fedora-asahi-an-enhanced-linux-experience/"><u>Revamp Your Mac with Fedora Asahi: An Enhanced Linux Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-30-slept-on-speech-to-text-apps-for-macos-users-for-2024/"><u>Top 30 Slept-On Speech to Text Apps for macOS Users for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-unplanned-pc-restarts-expert-advice-from-yl-computing/"><u>Troubleshooting Unplanned PC Restarts: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862816091-unleash-immersive-gaming-experience-newly-launched-minisforum-portable-screen-156-hd-with-144hz-display-only-189/"><u>Unleash Immersive Gaming Experience: Newly Launched Minisforum Portable Screen – 15.6 HD with 144Hz Display Only $189!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yokus-island-odyssey-when-grand-adventures-transform-into-unforeseen-encounters/"><u>Yoku's Island Odyssey: When Grand Adventures Transform Into Unforeseen Encounters</u></a></li>
+</ul></div>
 

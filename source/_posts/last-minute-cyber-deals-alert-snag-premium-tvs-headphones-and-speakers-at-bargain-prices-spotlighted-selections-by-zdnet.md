@@ -1,7 +1,7 @@
 ---
 title: Last-Minute Cyber Deals Alert! Snag Premium TVs, Headphones & Speakers at Bargain Prices – Spotlighted Selections by ZDNet
-date: 2025-01-14T16:34:30.863Z
-updated: 2025-01-17T02:06:25.005Z
+date: 2025-02-25T02:22:22.967Z
+updated: 2025-03-03T01:46:29.166Z
 tags:
   - laptops
 categories:
@@ -44,10 +44,6 @@ Many of these deals have been available on and off since Black Friday, but we're
 * [CyberPower 1500VA Uninterruptible power supply (UPS) for $149 (Save $30)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/cyberpower-1500va--900watts-true-sine-wave-uninterruptible-power-supply-%28ups%29.product.100527623.html)
 * [Ring Stick Up Cam (3-Pack) for $200 (save $50)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-stick-up-cam-battery-%283rd-gen%29-%2b-mounts---3-pack.product.100572894.html)
 * [LG 23 cu ft side-by-side Refrigerator for $1400 (save $250)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/.product.4000037861.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Best Costco Cyber Monday deals still available**
 
@@ -135,10 +131,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Samsung Galaxy 10.4-inch S6 Lite Tab + Book cover for $260 (save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-10.4%22-tab-s6-lite-64gb---oxford-gray---includes-book-cover.product.100660228.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday headphone deals still available**
 
 [Samsung Galaxy Buds2 Pro for $170 (Save $50) plus get $20 Google Play gift code View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-buds2-pro-with-%2420-google-gift-code.product.4000037682.html)
@@ -148,10 +140,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Jlab Studio Pro Anc Headphones for $80 (save $20) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/jlab-studio-pro-anc-wireless-headphones.product.4000060912.html)
 
 [Apple AirPods (2nd Gen) for $100 (save $20) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/apple-airpods-wireless-headphones-with-charging-case-%282nd-generation%29.product.100487204.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday smartwatch deals still available**
 
@@ -173,10 +161,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Ring Security 14-pc Kit for $230 (Save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-security-alarm-14-piece-kit-%28gen-2%29-with-stick-up-cam%2c-smokeco-listener-and-range-extender.product.100849368.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Cyber Monday Costco deals?
 
 As a Costco member, I'm always on the lookout for the best deals and, thankfully, Costco makes this easy by consistently offering great deals on high-quality items. Here at ZDNET, we do the legwork for you and round up the best ones through research, experience, and our own expertise.
@@ -193,10 +177,6 @@ Here's how the different memberships stack up:
 | 1-2 people                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 3+ people for $60/each                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 1-2 people                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Purchase for resale                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Annual 2% cash back on qualified Costco purchases                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Additional benefits for Travel and Costco services                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What were Costco's holiday hours during Black Friday and Cyber Monday?
 
@@ -222,10 +202,6 @@ ZDNET scoured holiday sales to find the best deals this year:
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Holiday deals by retailer**
 
 * [The best holiday 2022 deals at Amazon](https://www.zdnet.com/article/amazon-best-holiday-deals-2022/)
@@ -235,20 +211,12 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 deals at Walmart](https://www.zdnet.com/article/walmart-best-holiday-deals-2022/)
 * [Top early holiday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-holiday-deals-2022/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Holiday deals by brand**
 
 * [The best holiday 2022 Apple deals](https://www.zdnet.com/article/apple-best-holiday-deals-2022/)
 * [The best holiday 2022 Samsung deals](https://www.zdnet.com/article/samsung-best-holiday-deals-2022/)
 * [The best holiday 2022 Dell deals](http://zdnet.com/article/dell-best-holiday-deals-2022/)
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Holiday deals by category**
 
@@ -324,14 +292,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-secrets-of-successful-online-entrepreneurs-on-fb/"><u>[Updated] 2024 Approved Secrets of Successful Online Entrepreneurs on FB</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-discovering-2023s-cinematic-hidden-gems/"><u>[Updated] Discovering 2023'S Cinematic Hidden Gems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-master-the-art-of-sharing-gaming-moments-xboxfb-livestream-for-2024/"><u>[Updated] Master the Art of Sharing Gaming Moments Xbox/FB Livestream for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/petcube-budget-smart-hd-pets-camera-review-quality-meets-affordability/"><u>Petcube Budget-Smart HD Pets Camera Review: Quality Meets Affordability</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-industry-rebounds-with-projection-of-39-million-motherboard-sales-matching-pre-pandemic-figures/"><u>Tech Industry Rebounds with Projection of 39 Million Motherboard Sales Matching Pre-Pandemic Figures</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-corner-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Corner: Exploring the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-detailed-insights-on-computer-components/"><u>Tom's Tech Review: Detailed Insights on Computer Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-computing-by-toms-technical-experts/"><u>Ultimate Guide to Computing by Tom's Technical Experts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mov-file-preservation-securing-and-organizing-on-windows-systems-for-2024/"><u>[New] .mov File Preservation Securing & Organizing on Windows Systems for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aji-kids-financial-flight-a-10-year-olds-path-to-prosperity-for-2024/"><u>[New] Kaji Kid’s Financial Flight A 10-Year-Old’s Path to Prosperity for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ac-users-mastering-mp3-conversion-from-youtube-for-2024/"><u>[New] Mac Users Mastering MP3 Conversion From YouTube for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-future-filming-top-15-video-cameras-to-watch/"><u>[Updated] 2024 Approved Future Filming – Top 15 Video Cameras to Watch</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-the-world-of-insta-influencers-5-pivotal-moves-and-results/"><u>[Updated] In 2024, Navigating the World of Insta Influencers 5 Pivotal Moves and Results</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-mechanics-behind-youtube-once-a-video-goes-live-for-2024/"><u>[Updated] The Mechanics Behind YouTube Once a Video Goes Live for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converse-confidently-with-nvidias-rtx-bot-on-your-computer/"><u>Converse Confidently with Nvidia's RTX Bot on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/d3dx927dll-file-not-detected-follow-our-complete-solution/"><u>d3dx9_27.dll File Not Detected? Follow Our Complete Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/say-goodbye-to-battery-woes-the-perfect-timing-for-buying-the-latest-portable-power-station/"><u>Say Goodbye to Battery Woes - The Perfect Timing for Buying the Latest Portable Power Station!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/shipping-delays-hit-galaxy-buds-3-pro-due-to-faulty-earpieces/"><u>Shipping Delays Hit Galaxy Buds 3 Pro Due to Faulty Earpieces</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slumber-savings-snag-discounted-headsets-for-a-blissful-nights-rest/"><u>Slumber Savings: Snag Discounted Headsets for a Blissful Night's Rest</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/story-1-the-misguided-belief-in-randomized-controlled-trials/"><u>Story 1: The Misguided Belief in Randomized Controlled Trials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-case-for-vertical-gpu-installation-why-its-a-game-changer/"><u>The Case for Vertical GPU Installation – Why It's a Game-Changer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-top-5-premium-protectors-ultimate-guide-to-the-best-11-inch-ipad-air-cases/"><u>The Top 5 Premium Protectors: Ultimate Guide to the Best 11-Inch iPad Air Cases</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-recovering-missing-apple-airpods-effectively/"><u>The Ultimate Guide: Recovering Missing Apple AirPods Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-bluetooth-transmitters-a-comprehensive-review/"><u>Top-Rated Bluetooth Transmitters : A Comprehensive Review</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/unlock-your-cinematic-potential-with-wonderfoxs-free-dvd-ripper-pro-v74-junes-must-have-tool-for-movie-enthusiasts/"><u>Unlock Your Cinematic Potential with WonderFox's FREE DVD Ripper Pro v7.4 - June's Must-Have Tool for Movie Enthusiasts</u></a></li>
 </ul></div>
 

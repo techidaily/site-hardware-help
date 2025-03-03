@@ -1,7 +1,7 @@
 ---
 title: Discover the Extended Impact of Apple's M3 Chip Across Devices, Not Just New Laptops/iPads | Insights
-date: 2025-01-13T01:10:06.596Z
-updated: 2025-01-16T17:55:53.373Z
+date: 2025-02-27T17:42:32.545Z
+updated: 2025-03-03T00:34:11.721Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ While the chips promise a notable leap in power and efficiency, the spotlight no
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fast, but an iterative advancement
 
 The new chips represent a commendable iterative achievement for Apple, particularly in enhancing silicon capabilities through increasing transistor count and lowering power requirements. But let's face it, the M2 and even the M1 were impressive, and most consumers and business users are still unable to utilize all of the performance of those chips. 
@@ -42,10 +38,6 @@ Jason Hiner/ZDNET
 
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## GPU optimization and AI improvements, but where are the apps?
 
 The enhancements in GPU optimization and improved and increased AI cores in the new chips were key highlights of the event. These will make the Mac an even more attractive platform for content creators, gamers, AI software developers, and end-users who require high-end graphics visualization (medical, sciences, aerospace, etc.). 
@@ -53,10 +45,6 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 **Also: [M3 MacBook Pro with top-of-the-line specs? You'll be surprised at how far it is under $10,000](https://www.zdnet.com/article/m3-macbook-pro-with-top-of-the-line-specs-youll-be-surprised-at-how-far-it-is-under-10000/)**
 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Generative AI question
 
@@ -72,10 +60,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Don't discount the low-end Macbook as an industry disruptor
 
 The obvious target for the new chips and corresponding hardware appeal to content creators and developers willing to invest in a high-performance system -- but we should not dismiss the [entry-level laptop priced at $1,599](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F14-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), which could set a new performance benchmark at that price point. 
@@ -85,10 +69,6 @@ The obvious target for the new chips and corresponding hardware appeal to conten
 I know of many professionals who aren't content creation types who spend a lot of time traveling or are on the go who would love the base Macbook Pro 14", especially in the 18GB RAM configuration for $1,999\. The 20-hour battery life with that level of performance is going to be too good to pass up for many corporate workers.
 
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
 
@@ -132,18 +112,20 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-laughter-in-every-note-essential-ringtones/"><u>[Updated] In 2024, Laughter in Every Note Essential Ringtones</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-digital-archivists-toolkit-downloading-videos-from-messenger/"><u>[Updated] In 2024, The Digital Archivist's Toolkit Downloading Videos From Messenger</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-unlocked-converting-text-formats-to-voice-ready-srt/"><u>2024 Approved Expertise Unlocked Converting Text Formats to Voice-Ready SRT</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-deeper-dive-into-high-definition-online-visibility/"><u>A Deeper Dive Into High Definition Online Visibility</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-for-performing-a-full-reboot-across-all-ipad-generations/"><u>Comprehensive Guide for Performing a Full Reboot Across All iPad Generations</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/maximizing-video-impact-on-youtube-top-video-formats/"><u>Maximizing Video Impact on YouTube – Top Video Formats</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-a-steal-high-definition-samsung-odyssey-g5ta-monitor-for-just-255-at-amazon/"><u>Score a Steal: High-Definition Samsung Odyssey G5tA Monitor for Just $255 at Amazon!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-choosing-computer-hardware-with-toms-insights/"><u>The Ultimate Guide to Choosing Computer Hardware with Tom's Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-the-dough-spectrum-black-27-inch-oled-professional-gamer-approved-quality-assessment/"><u>The Ultimate Guide to the Dough Spectrum Black 27-Inch OLED: Professional Gamer Approved Quality Assessment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-exploring-computer-components/"><u>Tom's Tech Hub: Exploring Computer Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-guides-on-hardware/"><u>Tom's Tech Reviews: Comprehensive Guides on Hardware</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-motorola-moto-g24-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Motorola Moto G24 Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-gaming-displays-optimal-choices-for-ps5-xbox-series-x-and-series-s/"><u>Top Gaming Displays: Optimal Choices for PS5, Xbox Series X, and Series S</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-pc-editing-skills-for-compelling-youtube-videos/"><u>[New] 2024 Approved Essential PC Editing Skills for Compelling YouTube Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-from-novice-to-pro-steps-in-online-streaming/"><u>[New] 2024 Approved From Novice to Pro Steps in Online Streaming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-exploring-the-world-of-blurry-backgrounds-on-social-media/"><u>[New] Exploring the World of Blurry Backgrounds on Social Media</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-faster-youtube-submission-via-smart-rendering-and-uploading/"><u>[Updated] 2024 Approved Unlock Faster YouTube Submission via Smart Rendering & Uploading</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/chronicles-of-communication-devices-unveiling-the-birthdate-of-the-pioneering-smartphone/"><u>Chronicles of Communication Devices: Unveiling the Birthdate of the Pioneering Smartphone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-of-the-amazon-fire-hd-10-for-children-beyond-just-playfulness-and-style/"><u>Comprehensive Analysis of the Amazon Fire HD 10 for Children: Beyond Just Playfulness and Style</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/copycat-alert-unveiling-similarities-with-the-iphone-14-pros-innovative-dynamic-island-feature/"><u>Copycat Alert: Unveiling Similarities with the iPhone 14 Pro's Innovative Dynamic Island Feature</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/demystifying-googles-tracking-feature-a-deep-dive-into-the-functionality-and-safety-of-find-my-device/"><u>Demystifying Google's Tracking Feature: A Deep Dive Into the Functionality & Safety of 'Find My Device'.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-share-web-urls-from-android-devices-to-windows-computers/"><u>Easy Steps to Share Web URLs From Android Devices to Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-big-phones-usability-with-niagara-the-top-ranked-android-launcher/"><u>Elevate Your Big Phone's Usability with Niagara, the Top-Ranked Android Launcher</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/explore-the-latest-in-smartwatch-tech-with-the-affordably-priced-google-pixel-watch-powered-by-wear-os/"><u>Explore the Latest in Smartwatch Tech with the Affordably Priced Google Pixel Watch Powered by Wear OS 지</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-14-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 14 Pro Max without Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-11-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 11 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unveiling-the-process-precision-recording-of-roblox-adventures-on-apple-devices/"><u>In 2024, Unveiling the Process Precision Recording of Roblox Adventures on Apple Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-m525-mouse-drivers-and-software-installation-downloads/"><u>Logitech M525 Mouse Drivers & Software Installation Downloads</u></a></li>
 </ul></div>
 

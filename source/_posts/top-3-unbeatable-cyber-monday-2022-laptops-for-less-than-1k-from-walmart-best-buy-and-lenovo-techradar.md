@@ -1,7 +1,7 @@
 ---
 title: Top 3 Unbeatable Cyber Monday 2022 Laptops for Less than $1K From Walmart, Best Buy & Lenovo - TechRadar
-date: 2025-02-08T19:37:07.713Z
-updated: 2025-02-12T00:58:27.122Z
+date: 2025-02-23T16:38:55.498Z
+updated: 2025-03-02T19:48:53.962Z
 tags:
   - laptops
 categories:
@@ -16,10 +16,6 @@ thumbnail: https://www.zdnet.com/a/img/resize/efff8ced9d3232ddc77187e54fba1aed9b
 Amazon
 
 Cyber Monday is finally here! Laptops are the first thing I think of today: I want the most affordable laptop with the best possible features. If you're in the same boat, there are three laptops to keep in mind that ring in for less than $1,000: [The MacBook Air with Apple's M1 chip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccb435a6f-a31e-4ea7-a1d4-ed465c701c0d%7Cdtp&dtb=1) for $799 at Amazon (save $200), [the LG gram 17-inch laptop](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-gram-17%22-intel-evo-platform-laptop---12th-gen-intel-i7-1260p---2560-x-1600-display---windows-11.product.100971154.html) at Costco for $999 (save $500), and [the Latitude 7420 business laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fdeals.dell.com%2Fen-us%2Fproductdetail%2Ffqnp) at Dell for $889 (save $1,320). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -79,24 +75,19 @@ Dell has the [Latitude 7420](https://shop-links.co/link/?exclusive=1&publisher_s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-strategy-for-organizing-a-zoom-event-on-your-phonetablet/"><u>[New] 2024 Approved The Ultimate Strategy for Organizing a Zoom Event on Your Phone/Tablet</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-visionvoice-tips-for-perfectly-sized-insta-posts/"><u>[Updated] 2024 Approved VisionVoice Tips for Perfectly Sized Insta Posts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comparative-review-of-premium-streaming-services/"><u>[Updated] Comparative Review of Premium Streaming Services</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-filmoras-secrets-to-captivating-youtube-trailers-for-2024/"><u>[Updated] Filmora's Secrets to Captivating YouTube Trailers for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-video-editing-101-and-alternative-sources/"><u>[Updated] YouTube Video Editing 101 & Alternative Sources</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/accelerate-your-lenovo-x240-the-fast-track-to-updated-drivers/"><u>Accelerate Your Lenovo X240: The Fast Track to Updated Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/bcm20702a0-driver-package-for-windows-users-swift-and-smooth-installation-steps/"><u>BCM20702A0 Driver Package for Windows Users – Swift and Smooth Installation Steps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/comprehensive-srt-to-xmlssa-transformation-guide-for-2024/"><u>Comprehensive SRT to XML/SSA Transformation Guide for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/critical-considerations-navigating-the-pre-purchase-process-for-gaming-consoles/"><u>Critical Considerations: Navigating the Pre-Purchase Process for Gaming Consoles</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-logitech-driver-download-made-easy-for-windows-computers/"><u>Effortless Logitech Driver Download Made Easy for Windows Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-installation-files-how-to-download-hp-officejet-4650-for-pcs-and-laptops/"><u>Free Installation Files: How to Download HP Officejet ˈ4650 for PCs and Laptops</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-se-2020-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone SE (2020) iCloud Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976436290-hassle-free-guide-to-downloading-and-updating-synaptics-drivers-on-your-windows-pc/"><u>Hassle-Free Guide to Downloading and Updating Synaptics Drivers on Your Windows PC!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-a-comprehensive-review-of-the-latest-picsart-updates/"><u>In 2024, A Comprehensive Review of the Latest PicsArt Updates</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-virtual-meeting-mastery-how-to-navigate-effortlessly-through-zoom-sessions/"><u>In 2024, Virtual Meeting Mastery How to Navigate Effortlessly Through Zoom Sessions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-to-obtaining-hp-driver-software/"><u>Quick & Simple Guide to Obtaining HP Driver Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-steps-to-updating-your-lenovos-bios-and-hardware-drivers/"><u>Simple Steps to Updating Your Lenovo's BIOS and Hardware Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-how-to-download-and-update-nvidia-graphics-card-drivers-gtx-940mx/"><u>Step-by-Step Guide: How To Download and Update Nvidia Graphics Card Drivers (GTX 940MX)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guitar-recording-setup-downloading-focusrites-scarlett-solo-on-windows/"><u>Ultimate Guitar Recording Setup: Downloading Focusrite's Scarlett Solo on Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-leading-edge-webcams-insiders-choice-in-windows-11/"><u>[Updated] In 2024, Leading Edge Webcams Insider's Choice in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mediamagic-8-edition/"><u>2024 Approved MediaMagic 8 Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cherry-mx-inspired-ducky-one-x-pioneering-the-revolutionary-inductive-switch-technology/"><u>Cherry MX-Inspired Ducky One X: Pioneering the Revolutionary Inductive Switch Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-process-of-clearing-restrictions-in-pcs/"><u>Demystifying the Process of Clearing Restrictions in PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-gadget-analysis-at-toms-electronic-insight-blog/"><u>Expert Gadget Analysis at Tom's Electronic Insight Blog</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-hardware-with-tom-in-depth-analysis-of-pc-specs-and-setup/"><u>Exploring Hardware with Tom: In-Depth Analysis of PC Specs and Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-features-of-the-logitech-g515-an-in-depth-look-at-its-low-profile-and-economical-pricing/"><u>Exploring the Features of the Logitech G515: An In-Depth Look at Its Low Profile and Economical Pricing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-overlay-photos-on-computer-desktop-and-online/"><u>How to Overlay Photos on Computer (Desktop & Online)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ultimate-list-10-best-phones-and-pc-for-chatting/"><u>In 2024, The Ultimate List 10 Best Phones & PC for Chatting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-hardware-reviews-by-toms-technology-experts/"><u>In-Depth Hardware Reviews by Tom's Technology Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lone-earbud-problem-resolution-guide/"><u>Lone Earbud Problem Resolution Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagrams-newest-feature-reels-explained-for-2024/"><u>Mastering Instagram's Newest Feature Reels Explained for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/secure-social-scale-the-premier-app-selection-for-ios-and-android-users/"><u>Secure Social Scale - The Premier App Selection for iOS & Android Users</u></a></li>
 </ul></div>
 

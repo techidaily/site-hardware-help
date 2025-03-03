@@ -1,7 +1,7 @@
 ---
 title: "Top 3 Affordable Laptops on Cyber Monday 2022: Unbeatable Offers From Costco, Amazon & Dell - ZDNet"
-date: 2025-01-27T18:18:59.812Z
-updated: 2025-01-30T18:41:24.090Z
+date: 2025-02-26T18:51:05.374Z
+updated: 2025-03-02T18:18:51.293Z
 tags:
   - laptops
 categories:
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 Amazon
 
 Cyber Monday is finally here! Laptops are the first thing I think of today: I want the most affordable laptop with the best possible features. If you're in the same boat, there are three laptops to keep in mind that ring in for less than $1,000: [The MacBook Air with Apple's M1 chip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2bbb7ce-e9ec-467f-8d21-f2caff3fcb3a%7Cdtp&dtb=1) for $799 at Amazon (save $200), [the LG gram 17-inch laptop](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-gram-17%22-intel-evo-platform-laptop---12th-gen-intel-i7-1260p---2560-x-1600-display---windows-11.product.100971154.html) at Costco for $999 (save $500), and [the Latitude 7420 business laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fdeals.dell.com%2Fen-us%2Fproductdetail%2Ffqnp) at Dell for $889 (save $1,320). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -79,17 +75,21 @@ Dell has the [Latitude 7420](https://shop-links.co/link/?exclusive=1&publisher_s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/lueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels-for-2024/"><u>[New] Blueprints for Breaking Ground in Edu-Video Production on YouTube Channels for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-channel-finale-strategy-plus-best-templates-and-makers/"><u>[New] In 2024, The Ultimate Channel Finale Strategy + Best Templates & Makers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-convenient-and-quality-passport-images-top-free-tools-listed-here/"><u>[Updated] In 2024, Convenient & Quality Passport Images - Top Free Tools Listed Here</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-world-of-kinemaster-a-deeper-look-at-gaming/"><u>2024 Approved Inside the World of KineMaster A Deeper Look at Gaming</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-compatible-logitech-speaker-drivers-for-your-windows-operating-system-11-7-or-8/"><u>Download Compatible Logitech Speaker Drivers for Your Windows Operating System (11, 7, or 8)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-latest-insignia-ns-pcy5bma2-drivers-for-windows-11107-platforms/"><u>Download Latest Insignia NS-PCY5BMA2 Drivers for Windows 11/10/7 Platforms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-digital-safety-activating-mfa-for-robust-protection-insights-and-steps-by-zdnet/"><u>Enhance Digital Safety: Activating MFA for Robust Protection - Insights & Steps by ZDnet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/extend-the-life-of-your-outdated-computer-before-switching-to-windows-10-top-5-budget-friendly-solutions-backed-by-zdnet/"><u>Extend the Life of Your Outdated Computer Before Switching to Windows 10: Top 5 Budget-Friendly Solutions Backed by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-driver-compatibility-guaranteed-simplified-downloading-and-installation-process/"><u>HP Driver Compatibility Guaranteed – Simplified Downloading & Installation Process</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-iphone-long-exposure-a-comprehensive-guide-for-2024/"><u>Mastering iPhone Long Exposure A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updated-acer-monitor-driver-software-free-downloads-available/"><u>Updated Acer Monitor Driver Software - Free Downloads Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-to-windows-8-and-enjoy-the-best-free-performance-with-amd-radeon-gpus/"><u>Upgrade to Windows 8 & Enjoy the Best Free Performance with AMD Radeon GPUs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unveiling-the-powerhouse-techniques-in-facebooks-360-streaming/"><u>[New] 2024 Approved Unveiling the Powerhouse Techniques in Facebook's 360 Streaming</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-google-pixel-8-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Google Pixel 8 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-the-ultimate-immersive-audio-experience-you-need-to-hear/"><u>Beyond Bose and Sonos: The Ultimate Immersive Audio Experience You Need to Hear</u></a></li>
+<li><a href="https://windows11.techidaily.com/differences-between-cloud-based-windows-installations/"><u>Differences Between Cloud-Based Windows Installations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-methods-to-save-youtube-videos-directly-onto-an-iphone-ipad-or-android-smartphone/"><u>Easy Methods to Save YouTube Videos Directly Onto an iPhone, iPad, or Android Smartphone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tricks-to-master-image-reverse-searches-on-your-android-phone/"><u>Easy Tricks to Master Image Reverse Searches on Your Android Phone!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tutorial-how-to-retrieve-voicemails-from-your-android-phone/"><u>Easy Tutorial: How to Retrieve Voicemails From Your Android Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-tab-management-auto-close-functions-on-android-devices/"><u>Effortless Tab Management: Auto-Close Functions on Android Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/endless-evolving-designs-how-frequently-switching-phone-backgrounds-became-a-daily-ritual/"><u>Endless Evolving Designs: How Frequently Switching Phone Backgrounds Became a Daily Ritual</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-experience-with-these-6-must-use-gestures-for-the-samsung-galaxy-devices/"><u>Enhance Your Experience with These 6 Must-Use Gestures for the Samsung Galaxy Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-offers-on-cutting-edge-electronics-grab-amazon-firestick-at-a-discount-charge-up-with-ecoflow-station-and-get-your-hands-on-samsungs-newest-model.5/"><u>Exclusive Offers on Cutting-Edge Electronics: Grab Amazon Firestick at a Discount, Charge Up with EcoFlow Station, and Get Your Hands on Samsung's Newest Model!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-fixing-voice-chat-glitches-in-among-us-for-pc-users/"><u>Expert Guide to Fixing Voice Chat Glitches in Among Us for PC Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-6-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6 Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-lava-yuva-3-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Lava Yuva 3 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-winhttpdll-file-not-detected-issue-on-your-computer/"><u>Resolving the winhttp.dll File Not Detected Issue on Your Computer</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-motorola-moto-g24-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Motorola Moto G24 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

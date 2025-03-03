@@ -1,7 +1,7 @@
 ---
 title: "Score Big Deals with Lenovo Half-Year Offer: Cut Costs by $1,500 on Your ThinkPad Selection – Insights From ZDNet"
-date: 2025-02-06T16:21:44.542Z
-updated: 2025-02-11T21:34:06.016Z
+date: 2025-02-28T21:08:10.369Z
+updated: 2025-03-03T01:18:59.121Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -72,10 +68,6 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I would recommend the [12th-generation ThinkPad X1 Carbon](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-carbon-gen-12-%2814-inch-intel%29%2Flen101t0083%3F&publisher_slug=itechdaily19598&exclusive=1) to just about everyone: casual users, professionals, programmers, and creators. There are a myriad of different ThinkPads out there, but this one stands out for its thoughtful attention to detail and improved design. Like all ThinkPads, it's durable and utilitarian, and light enough to commute to and from the office with. If you're someone that takes a lot of video calls, you'll love the webcam. 
@@ -112,16 +104,24 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-comparative-review-samsungs-imaging-suite-2023-edition/"><u>[New] 2024 Approved Comparative Review Samsung's Imaging Suite, 2023 Edition</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-streamline-your-viewing-experience-with-accelerated-or-slowed-videos/"><u>[New] 2024 Approved Streamline Your Viewing Experience with Accelerated or Slowed Videos</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963058324-ensure-your-hp-officejet-pro-8610-works-flawlessly-with-the-latest-driver-downloads-for-windows-operating-systems/"><u>Ensure Your HP Officejet Pro 8610 Works Flawlessly with the Latest Driver Downloads for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fix-hp-envy-7640-driver-issues-easily/"><u>Fix HP ENVY 7640 Driver Issues. Easily</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/grandest-video-humor-studio/"><u>Grandest Video Humor Studio</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-fixes-modifying-power-management-tools-on-your-lenovo-device/"><u>Quick Fixes: Modifying Power Management Tools on Your Lenovo Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-guide-dealing-with-the-problem-of-missing-dts-sound-capabilities-in-devices/"><u>Resolved Guide: Dealing with the Problem of Missing DTS Sound Capabilities in Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tutorial-esencial-mejores-tecnicas-para-rotar-en-grados-videos-mp4-manten-la-calidad-intacta/"><u>Tutorial Esencial: Mejores Técnicas Para Rotar en Grados Vídeos MP4 Mantén La Calidad Intacta</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/vdy-pro-recorder-summary-detailed-analysis-for-2024/"><u>VDY Pro Recorder Summary Detailed Analysis for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978702111-wacom-cintiq-driver-download-and-update-easily/"><u>Wacom Cintiq Driver Download & Update Easily!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-jest-journeys-charting-7-comedic-paths-to-viral-videos/"><u>[New] Jest Journeys Charting 7 Comedic Paths to Viral Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-directdownload-studio-fb/"><u>[Updated] 2024 Approved DirectDownload Studio FB</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-cutting-edge-filmmaking-the-essential-cinematic-tips-of-24/"><u>[Updated] Cutting Edge Filmmaking The Essential Cinematic Tips of '24</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-cutting-edge-techniques-for-creating-engaging-vr-content-in-adobe-premiere-for-2024/"><u>[Updated] Cutting-Edge Techniques for Creating Engaging VR Content in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-film-to-mp3-conversion-tactics/"><u>[Updated] Instagram Film to MP3 Conversion Tactics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-gpio-interface-support-instant-download-available/"><u>AMD GPIO Interface Support - Instant Download Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-how-to-installing-soundmax-drivers-on-your-windows-pc/"><u>Complete How-To: Installing SoundMax Drivers on Your Windows PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/designers-delight-incorporating-fonts-into-ae-projects-for-2024/"><u>Designer's Delight Incorporating Fonts Into AE Projects for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-get-logitech-mx-master-software-installed/"><u>Easy Steps to Get Logitech MX Master Software Installed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortlessly-update-acer-network-card-software-no-cost-download-options/"><u>Effortlessly Update Acer Network Card Software | No Cost Download Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-your-hp-printer-works-with-windows-11-get-the-right-driver-here/"><u>Ensure Your HP Printer Works With Windows 11 - Get The Right Driver Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-this-months-top-max-documentaries-a-guide-for-july-202n4/"><u>Explore This Month's Top Max Documentaries: A Guide for July 202N4</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-poco-f5-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Poco F5 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-navigating-the-world-of-drone-video-manipulation/"><u>In 2024, Navigating the World of Drone Video Manipulation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-hardware-solutions-with-toms-guidance/"><u>Mastering Hardware Solutions with Tom's Guidance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-new-developments-in-pc-components-at-toms-hardware-haven/"><u>Navigating New Developments in PC Components at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-setup-for-your-wi-fi-install-immediately-linksys-ae2500-router-drivers-available-now/"><u>Speedy Setup for Your Wi-Fi - [INSTALL IMMEDIATELY] Linksys AE2500 Router Drivers Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-solving-amd-radeon-rx-560-driver-glitches-across-windows-platforms/"><u>Troubleshooting and Solving AMD Radeon RX 560 Driver Glitches Across Windows Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-razer-devices-easily-with-compatible-drivers-in-windows-os-10-8-7-xp-and-vista/"><u>Update Your Razer Devices Easily with Compatible Drivers in Windows OS (10, 8, 7, XP & Vista)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden Gems: Exploring the Stealthy Trackpoint Feature on a Compact Lenovo Laptop | DigitalTechReview"
-date: 2025-01-23T17:24:20.911Z
-updated: 2025-01-30T18:33:00.903Z
+date: 2025-02-24T02:42:56.050Z
+updated: 2025-03-02T18:49:19.153Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -66,10 +62,6 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I do recommend the [Lenovo ThinkPad Z13 Gen 2](https://www.amazon.com/Lenovo-ThinkPad-21D2001RUS-Notebook-Board/dp/B0B7YQC7CC/?tag=zdnet-buy-button-20) if you're looking for a lightweight laptop for work, school, or as an entertainment machine while traveling. It's currently on sale on Lenovo's website in Artic Grey, with prices starting at $1,241\. 
@@ -106,14 +98,19 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/astering-video-success-a-list-of-20-pro-shortcuts-for-2024/"><u>[New] Mastering Video Success A List of 20 Pro Shortcuts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-photo-perfection-how-to-erase-background-noise-with-ease/"><u>[Updated] Photo Perfection How to Erase Background Noise with Ease</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-superior-audience-experiences/"><u>[Updated] Superior Audience Experiences</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-tomtom-bandit-camera-review-the-latest/"><u>2024 Approved TomTom Bandit Camera Review The Latest</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-camera-drivers-at-no-cost-for-your-pcwindows-system/"><u>Download Logitech Camera Drivers at No Cost for Your PC/Windows System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-access-to-nvidia-drivers-download-options-for-windows-1078-users/"><u>Easy Access to Nvidia Drivers: Download Options for Windows 10/7/8 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p1006-driver-and-utility-downloads-for-smooth-printing-experience/"><u>HP LaserJet P1006 Driver and Utility Downloads for Smooth Printing Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/roccat-mousedriver-setup-how-to-download-and-install-effortlessly/"><u>Roccat MouseDriver Setup - How To Download and Install Effortlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-your-way-out-of-secure-boot-stumbles-with-these-fixes/"><u>Win Your Way Out of Secure Boot Stumbles with These Fixes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-4-creative-ways-to-insert-youtube-content-in-presentations/"><u>[Updated] In 2024, 4 Creative Ways to Insert YouTube Content in Presentations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-clearing-tactics-for-youtubes-stored-video-queue/"><u>2024 Approved Clearing Tactics for YouTube's Stored Video Queue</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-making-text-dance-2-creative-animation-strategies/"><u>2024 Approved Making Text Dance 2 Creative Animation Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dissecting-reversed-photo-searches-in-the-virtual-cosmos-fb/"><u>Dissecting Reversed Photo Searches in the Virtual Cosmos (FB)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-find-uplifting-faith-songs-for-smartphone-alerts/"><u>How to Find Uplifting Faith Songs for Smartphone Alerts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-printers-performance-download-updated-epson-xp-420-drivers/"><u>Improve Your Printer’s Performance - Download Updated Epson XP-420 Drivers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unraveling-adobe-writes-on-shake-reduction-in-photos/"><u>In 2024, Unraveling Adobe’ Writes on Shake Reduction in Photos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-official-epson-stylus-artisan-1430-printer-drivers-for-modern-windows-systems-windows-11-10-and-8/"><u>Install Official Epson Stylus Artisan 1430 Printer Drivers for Modern Windows Systems (Windows 11, 10 & 8)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-firmware-and-drivers-for-logitech-mk710-secure-your-free-download-today/"><u>Latest Firmware & Drivers for Logitech MK710: Secure Your Free Download Today!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimized-video-transformation-on-macios-the-8-list-for-2024/"><u>Optimized Video Transformation on Mac/iOS The #8 List for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-setup-fresh-webcam-drivers-tailored-for-windows-7-systems/"><u>Seamless Setup: Fresh Webcam Drivers Tailored for Windows 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-to-download-and-install-drivers-for-the-gtx-780-on-windows-computers/"><u>Step-by-Step Instructions to Download & Install Drivers for the GTX 780 on Windows Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-constructing-a-high-performance-machine-for-farming-chia-crypto-assets/"><u>The Ultimate Guide to Constructing a High-Performance Machine for Farming Chia Crypto Assets</u></a></li>
 </ul></div>
 

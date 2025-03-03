@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking M.2 SSDs : Comprehensive Reviews by Tech Experts | TechRadar"
-date: 2025-02-10T04:27:25.975Z
-updated: 2025-02-11T18:35:42.639Z
+date: 2025-02-25T22:53:25.185Z
+updated: 2025-03-03T00:22:36.452Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ We prioritized machines that scored well in durability, portability, and of cour
 
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf3c6682-0c40-4517-88e0-5d9c7ea58c3c%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best laptop for college in 2024
 
 Show less 
@@ -46,10 +42,6 @@ Cons
 * Uninspiring speakers
 
 ## Apple MacBook Air M3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best college laptop overall
 
@@ -83,10 +75,6 @@ Cons
 
 ## HP Dragonfly Pro Chromebook
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Chromebook for college
 
 Instead of going for a Mac or a Windows machine, [Chromebooks, powered by ChromeOS](https://www.zdnet.com/article/five-reasons-chromebooks-are-the-perfect-laptop/) are a solid third option, and the best one for college students is the HP Dragonfly Pro Chromebook.
@@ -117,15 +105,7 @@ Cons
 * Screen isn't very bright
 * A little bulky
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Aspire Go 15
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best college laptop under $500
 
@@ -249,10 +229,6 @@ These are the factors that I weighed when selecting the best laptops for college
 * **Portability:** Carrying around a heavy laptop all day while on campus is a tough ask. That's why all five of these laptops were considered to be light enough to be carried around a full day at school, the heaviest of which (the Acer Aspire Go 15) is only 3.7 pounds.
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is mostly limited to mid-range devices.
@@ -266,10 +242,6 @@ All Windows devices listed here meet the requirements for Windows 11\. If you pu
 While premium Chromebooks like the [HP Dragonfly Pro](https://www.zdnet.com/article/hp-dragonfly-pro-chromebook-review/) are available, these lightweight models are generally considered more budget-friendly alternatives to traditional Windows or macOS devices.   
   
 Chromebooks operate on Google's Chrome operating system (OS) and are focused on mobile apps rather than traditional software. These laptops are used for basic browsing, studies, and entertainment, but if you have a particular software requirement, you must check for available support before you invest in a Chromebook. However, it is also possible to also use virtualization software (VMs) to circumvent such limitations. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative laptops for college worth considering?
 
@@ -317,18 +289,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-spicing-up-videos-with-youtube-music-linking-techniques/"><u>[Updated] Spicing Up Videos with YouTube Music Linking Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlocking-full-potential-steam-and-your-switch-pro-controller/"><u>[Updated] Unlocking Full Potential Steam and Your Switch Pro Controller</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-mpow-bluetooth-drivers-for-latest-windows-systems-including-windows-11-8-and-7/"><u>Download & Upgrade MPOW Bluetooth Drivers for Latest Windows Systems Including Windows 11, 8, and 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-graphics-drivers-for-your-nvidia-rtx-2080-on-windows-11-systems/"><u>Download Updated Graphics Drivers for Your NVIDIA RTX 2080 on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-nvidia-geforce-gtx-nvidia-460-graphics-card-drivers-for-windows-systems/"><u>Easy Installation of NVIDIA GeForce GTX nVidia 460 Graphics Card Drivers for Windows Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-history-with-google-how-wayback-machine-integration-brings-old-pages-back-into-search-results-zdnet/"><u>Explore History with Google: How Wayback Machine Integration Brings Old Pages Back Into Search Results - ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-track-your-pcs-graphics-performance-with-the-latest-nvidia-v1080-driver-for-windows-10/"><u>Fast Track Your PC’s Graphics Performance with the Latest NVIDIA V1080 Driver for Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-220-software-download-and-latest-firmware-upgrade/"><u>Free CanoScan LiDE 220 Software: Download and Latest Firmware Upgrade</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-decoding-metaverse-and-multimetase-distinctions-expert-perspective/"><u>In 2024, Decoding Metaverse & Multimetase Distinctions (Expert Perspective)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-enhancing-your-content-10-exceptional-reacting-techniques/"><u>In 2024, Enhancing Your Content 10 Exceptional Reacting Techniques</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-8-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 8</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-realme-gt-neo-5-se-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Realme GT Neo 5 SE Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fixes-to-your-realtek-alc887-hd-audio-woes-on-a-windows-computer/"><u>Step-by-Step Fixes to Your Realtek ALC887 HD Audio Woes on a Windows Computer.</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-crafting-engaging-tiktok-content-on-computers/"><u>[New] In 2024, Crafting Engaging TikTok Content on Computers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-loop-artisan-suite/"><u>[New] In 2024, Loop Artisan Suite</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-efficiently-archiving-mov-movies-on-windows-10-pcs/"><u>[Updated] In 2024, Efficiently Archiving .mov Movies on Windows 10 PCs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-boost-your-youtube-facebook-integration-with-hd-streams/"><u>2024 Approved Boost Your YouTube-Facebook Integration with HD Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-revamping-social-media-presence-efficient-changes-in-video-covers/"><u>2024 Approved Revamping Social Media Presence Efficient Changes in Video Covers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024-cpu-cost-guide-discover-the-most-affordable-prices-on-modern-processors/"><u>2024 CPU Cost Guide: Discover the Most Affordable Prices on Modern Processors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/avoid-gaming-crashes-on-intel-13th-and-14th-gen-cpus-with-new-in-game-warning-comprehebate-your-system-now/"><u>Avoid Gaming Crashes on Intel 13Th and 14Th Gen CPUs with New In-Game Warning – Comprehebate Your System Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722958451907-compatible-sound-device-software-for-windows-pcs-get-them-here/"><u>Compatible Sound Device Software for Windows PCs - Get Them Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-amds-newest-tech-the-french-release-of-ryzen-9-cpus-with-the-ryzen-9-9900x-at-649/"><u>Discover AMD's Newest Tech: The French Release of Ryzen 9 CPUs, with the Ryzen 9 9900X at €649</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-instal-corsair-void-pro-drivers-on-windows-quick-and-effortless/"><u>Download and Instal Corsair Void Pro Drivers on Windows: Quick & Effortless</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newly-updated-corsair-h80i-v2-graphics-card-cooler-drivers/"><u>Download the Newly Updated Corsair H80i V2 Graphics Card Cooler Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-logitechs-c525-webcam-software-on-windows/"><u>How to Download & Install Logitech's C525 Webcam Software on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-s17-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo S17 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s18e-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S18e to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-unlocking-tiktok-potential-how-to-upload-from-pcmac/"><u>In 2024, Unlocking TikTok Potential How to Upload From PC/Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211317551-9798869309617-passion-potions-and-love-rituals/"><u>Passion Potions and Love Rituals | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-gaming-mice-secure-logitech-g-pro-driver-software-now/"><u>Top-Rated Gaming Mice - Secure Logitech G Pro Driver Software Now!</u></a></li>
 </ul></div>
 

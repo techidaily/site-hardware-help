@@ -1,7 +1,7 @@
 ---
 title: HP Unveils Latest Lineup of AI-Enhanced Spectre Notebooks at CES, Complementing High-Tech Accessories - ZDNet
-date: 2025-02-08T22:29:52.180Z
-updated: 2025-02-11T20:12:20.025Z
+date: 2025-03-01T21:11:48.427Z
+updated: 2025-03-02T21:37:11.060Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -43,10 +39,6 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 [In his most recent newsletter](https://www.bloomberg.com/news/articles/2024-10-01/apple-readies-iphone-se-4-upgraded-ipad-air-for-early-2025?srnd=undefined), Apple watcher Mark Gurman stated that the M4 chip will be used in the upcoming MacBook Pros and iMacs. Gurman doesn't say whether or not there will be different configurations, but we expect to see the base M4 as well as M4 Pro and M4 Max options for the two Mac models. 
 
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
 
@@ -60,10 +52,6 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. New iPads
 
 Adam Breeden/ZDNET
@@ -73,10 +61,6 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 **Also: [Why I'm more excited about an iPad Mini with Apple Intelligence than the new iPhone 16 models](https://www.zdnet.com/article/why-im-more-excited-about-an-ipad-mini-with-apple-intelligence-than-the-new-iphone-16-models/)**
 
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
 
@@ -118,22 +102,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ideal-android-video-recording-tools-ranked-five-best/"><u>[New] Ideal Android Video Recording Tools Ranked Five Best</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-youtube-experience-creating-custom-subscription-bar-with-filmora/"><u>[New] Streamline Your YouTube Experience Creating Custom Subscription Bar with Filmora</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-intel-iris-graphics-540-driver-quickly-and-easily/"><u>[UPDATE] Intel Iris Graphics 540 Driver | Quickly & Easily</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-streamline-your-video-submissions-adding-imovie-content-to-vimeo/"><u>[Updated] 2024 Approved Streamline Your Video Submissions Adding iMovie Content to Vimeo</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-snapchat-spotlight-explained-how-it-works/"><u>[Updated] Snapchat Spotlight Explained How It Works</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-pinnacle-of-new-zooids-in-panzoids/"><u>[Updated] The Pinnacle of New Zooids in Panzoids</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/0-driver-now/"><u>0 Driver Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-pixma-mg2522-step-by-step-guide-for-driver-download-and-updates/"><u>Canon PIXMA MG2522: Step by Step Guide for Driver Download & Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-nvidia-1080-graphics-driver-for-windows-11-quick-and-simple-steps/"><u>Download NVIDIA 1080 Graphics Driver for Windows 11: Quick and Simple Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-brother-mfc-l26-670dw-printer-software-get-your-updates-here/"><u>Download the Latest Brother MFC-L26 670DW Printer Software - Get Your Updates Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-logitech-audio-drivers-on-windows-1178-step-by-step-guide/"><u>How to Get the Latest Logitech Audio Drivers on Windows 11/7/8: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-right-network-drivers-for-your-hp-system-on-win10win8win7/"><u>How to Get the Right Network Drivers for Your HP System on Win10/Win8/Win7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-1018-driver-installation-easy-guide-and-download-links/"><u>HP LaserJet 1018 Driver Installation: Easy Guide & Download Links</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/innovative-strategies-for-hosting-zero-cost-online-courses-for-2024/"><u>Innovative Strategies for Hosting Zero-Cost Online Courses for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963325618-the-femoral-artery-is-a-continuation-of-the-external-iliac-artery-and-becomes-the-popliteal-artery-behind-the-knee/"><u>The Femoral Artery Is a Continuation of the External Iliac Artery and Becomes the Popliteal Artery Behind the Knee.</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/twinning-inboxes-gmail-plus-outlook-for-windows-users-guide/"><u>Twinning Inboxes: Gmail + Outlook for Windows Users Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-light-and-shadow-masterful-edits-that-transform-images-for-2024/"><u>[New] Light & Shadow Masterful Edits That Transform Images for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-affordable-mcb-theme-images-for-channels-for-2024/"><u>[Updated] Affordable MCB Theme Images for Channels for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-screen-grab-mastery-for-windows-users-3-techniques/"><u>[Updated] In 2024, Screen Grab Mastery for Windows Users (3 Techniques)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/delving-into-high-tech-gear-with-toms-hardware-experts/"><u>Delving Into High-Tech Gear with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-update-get-your-pioneer-dj-ddj-sx2s-newest-software-instantly/"><u>Effortless Update: Get Your Pioneer DJ DDJ-SX2's Newest Software Instantly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-lurkers-to-leaders-elevate-your-facebook-game/"><u>From Lurkers to Leaders Elevate Your Facebook Game</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gem-online-video-grabber-seamlessly-save-streams-from-gemonlinetv/"><u>Gem Online Video Grabber: Seamlessly Save Streams From Gemonline.TV</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-usb-c-windows-10-driver-for-seamless-connectivity/"><u>Get the Latest USB-C Windows 10 Driver for Seamless Connectivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-version-released-compatible-firmware-for-your-lenovo-thinkpad-thunderbolt-3-hub/"><u>New Version Released: Compatible Firmware for Your Lenovo ThinkPad Thunderbolt 3 Hub</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-madden-22s-perpetual-startup-issue-with-these-simple-steps/"><u>Overcome Madden 22'S Perpetual Startup Issue with These Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quickly-update-your-sound-blaster-z-drivers-for-optimal-performance-on-windows-10/"><u>Quickly Update Your Sound Blaster Z Drivers for Optimal Performance on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-hardware-hub-a-comprehensive-resource-for-savvy-technology-enthusiasts/"><u>The Hardware Hub: A Comprehensive Resource for Savvy Technology Enthusiasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ken-burns-method-in-camtasia-9-explained-simply/"><u>The Ken Burns Method in Camtasia 9 Explained Simply</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-latest-nvidia-1080-drivers-for-seamless-performance-on-windows-11/"><u>Update to the Latest NVIDIA 1080 Drivers for Seamless Performance on Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-dual-approaches-to-audio-fades-in-final-cut-pro-a-step-by-step-guide/"><u>Updated 2024 Approved Dual Approaches to Audio Fades in Final Cut Pro A Step-by-Step Guide</u></a></li>
 </ul></div>
 

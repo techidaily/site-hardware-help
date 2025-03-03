@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Savings for Gamers: Snag an Alienamoe Aurora R13 and Cut $350 Off Prices – Limited-Time Deal on ZDNET!"
-date: 2025-02-11T02:45:17.530Z
-updated: 2025-02-11T22:14:36.939Z
+date: 2025-03-01T17:53:16.576Z
+updated: 2025-03-02T23:18:43.161Z
 tags:
   - laptops
 categories:
@@ -20,19 +20,11 @@ Taylor Clemons/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the deal?
 
 You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-stealth-14-14-165hz-fhd-ultra-thin-gaming-laptop-intel-core-i7-13620h-with-16gb-memory-rtx-4060-1tb-ssd-star-blue%2F6534580.p%3FskuId%3D6534580&publisher_slug=itechdaily19598&exclusive=1) with a 13th generation Intel Core CPU, Nvidia RTX 40 series graphics card, and a 1TB SSD at Best Buy for $250 off. You can also grab a one-month subscription to Xbox Game Pass Ultimate, and a 6-month subscription for Norton 360 Deluxe with VPN for free with your purchase.
 
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
 
@@ -64,10 +56,6 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 
 Taylor Clemons/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## My only real complaint
 
 The battery life is the only real complaint I have for the Stealth 14 Studio, especially when using the hybrid graphics mode. I ran several different battery tests for each graphics mode, and was only able to squeeze a little over 4 hours of use out of the laptop in integrated graphics mode. Discrete mode gave around 3.5 hours and the hybrid mode was the worst at just about 2 hours. However, I was expecting a short battery life since the laptop does use very power-hungry components. And if you're a content creator or creative professional using hybrid graphics mode, chances are you'll be plugged in any way while working on important projects or streaming and only needing to rely on battery power for short periods of time for tech demos or client meetings.
@@ -80,10 +68,6 @@ Taylor Clemons/ZDNET
 
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How it handles gaming
 
 And now we come to the part that everyone wants to know: How does it handle games? While I've never been one to try to keep up with all of the latest triple-A releases (mostly because I don't have the time to sink into a 100+ hour title), I do have an extensive Steam library to put any laptop through its paces.
@@ -93,10 +77,6 @@ I started simple with [The Long Drive](https://store.steampowered.com/app/101718
 Taylor Clemons/ZDNET
 
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### A worthy investment
 
@@ -140,19 +120,22 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-seo-guide-how-to-improve-search-rankings-for-your-youtube-videos/"><u>[New] 2024 Approved YouTube SEO Guide How to Improve Search Rankings For Your YouTube Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-comprehensive-list-of-15-competitors-to-gopro-cameras/"><u>[Updated] 2024 Approved A Comprehensive List of 15 Competitors to GoPro Cameras</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-elite-gamers-top-picks-best-4k-gaming-screens/"><u>[Updated] In 2024, Elite Gamers' Top Picks Best 4K Gaming Screens</u></a></li>
-<li><a href="https://games-able.techidaily.com/flawless-illusion-and-errors-in-pimaxs-vr-headset-crystal/"><u>Flawless Illusion & Errors in Pimax's VR Headset Crystal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974471432-get-your-latest-amd-ryzen-graphics-drivers-here/"><u>Get Your Latest AMD Ryzen Graphics Drivers Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-get-lenovo-thinkpad-t430-drivers-on-your-pc-windows-11-8-and-7/"><u>How to Easily Get Lenovo ThinkPad T430 Drivers on Your PC (Windows 11, 8 & 7)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oneplus-ace-2-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your OnePlus Ace 2 Data? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-premier-selection-ultimate-omnidirectional-cameras/"><u>In 2024, Premier Selection Ultimate Omnidirectional Cameras</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-g29-racing-wheel-driver-software-free-download-for-windows-users/"><u>Logitech G29 Racing Wheel Driver Software - Free Download for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-efficient-repair-of-bcm2045a0-driver-complications/"><u>Quick and Efficient Repair of BCM2045A0 Driver Complications</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-mobile-web-browsing-woes-top-10-tips-for-a-functional-iphone-safari/"><u>Resolve Mobile Web Browsing Woes: Top 10 Tips for a Functional iPhone Safari</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-successfully-mounting-keyspans-19hs-driver-on-windows-os/"><u>Step-by-Step Tutorial for Successfully Mounting Keyspan's 19HS Driver on Windows OS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-apple-iphone-offers-in-june-2024-exclusive-finds-from-zdnet/"><u>Top Apple iPhone Offers in June 2024: Exclusive Finds From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-hp-monitor-driver-glitches-for-windows-operating-systems/"><u>Troubleshooting and Fixing HP Monitor Driver Glitches for Windows Operating Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-sculpting-unique-fb-ad-visuals/"><u>[New] Sculpting Unique FB Ad Visuals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unlock-business-potentials-with-these-leading-15-facebook-market-analyzers/"><u>[Updated] In 2024, Unlock Business Potentials With These Leading 15 Facebook Market Analyzers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-recorders-bible-for-clear-conversations/"><u>2024 Approved The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/access-the-best-usb-c-drivers-tailored-for-windows-11-devices-free-download-now/"><u>Access the Best USB-C Drivers Tailored for Windows 11 Devices - Free Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-postpones-ryzen-9000-release-over-quality-concerns-expecting-an-august-debut-after-global-recall/"><u>AMD Postpones Ryzen 9000 Release Over Quality Concerns - Expecting an August Debut After Global Recall</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-install-techkey-bluetooth-adapter-drivers-for-windows-operating-systems-win10-win7-and-win-get-them-now/"><u>Easy-to-Install Techkey Bluetooth Adapter Drivers for Windows Operating Systems: Win10, Win7, and Win# – Get Them Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-driver-update-process-for-microsoft-sculpt-keyboards/"><u>Effortless Driver Update Process for Microsoft Sculpt Keyboards</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/explore-the-hidden-world-of-companions-with-pet-backgrounds-enhance-your-pc-with-secret-life-imagery-by-yl-computing/"><u>Explore the Hidden World of Companions with Pet Backgrounds – Enhance Your PC with Secret Life Imagery by YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-top-ringtones-for-pixel-devices/"><u>Explore Top Ringtones for Pixel Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965551962-get-the-best-out-of-gaming-on-dell-g3-upgrade-to-newest-graphics-card-driver-versions-for-ultimate-experience/"><u>Get the Best Out of Gaming on Dell G3: Upgrade to Newest Graphics Card Driver Versions for Ultimate Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-qualcomm-chipset-compatible-usb-drivers-now-download-for-windows-10-11-and-earlier-versions/"><u>Get Your [Qualcomm Chipset Compatible] USB Drivers Now – Download for Windows 10, 11 & Earlier Versions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-restore-your-compromised-windows-store-cache/"><u>How to Repair and Restore Your Compromised Windows Store Cache</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 11 Pro Max</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-high-dpi-adjustments-for-better-viewing/"><u>Mastering Window's High DPI Adjustments for Better Viewing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722961149310-quick-and-easy-installation-guide-for-killer-e2500-1gbe-network-adapter-drivers-download-now/"><u>Quick and Easy Installation Guide for Killer E2500 1GbE Network Adapter Drivers - Download Now</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-note-30-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Note 30 without backup.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-scanjet-software-for-windows-11-8-and-7-get-the-newest-version-today/"><u>Update Your HP Scanjet Software for Windows 11, 8 & 7 – Get the Newest Version Today!</u></a></li>
 </ul></div>
 

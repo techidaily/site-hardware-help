@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deals: Top-Performing Non-ThinkPad, Non-MacBook Found on Prime Day with $300 Savings! [ZDNet]"
-date: 2025-01-13T00:23:47.450Z
-updated: 2025-01-17T01:15:14.423Z
+date: 2025-02-26T17:15:22.142Z
+updated: 2025-03-02T17:27:28.728Z
 tags:
   - laptops
 categories:
@@ -20,10 +20,6 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the Amazon Prime Day deal?
 
 Amazon's October Prime Day event has officially ended, but many laptops are still on sale. The [Asus Vivobook S 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Snapdragon-X1E-78-100-Processor-S5507QAD-PS96%2Fdp%2FB0CWJY4YWF%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3c141e49-0680-49aa-952d-3085fa3ad72b%7Cdtp&dtb=1) in particular is seeing a $310 discount, dropping from $1,300 to $989\. It's the first Asus Copilot Plus PC and comes highly recommended for its performance.
@@ -31,10 +27,6 @@ Amazon's October Prime Day event has officially ended, but many laptops are stil
 **Also: [Amazon Prime Day: Best 160+ deals live ahead of October's Big Deal Days sale](https://www.zdnet.com/article/best-amazon-prime-day-deals-2024-10-08/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -106,10 +98,6 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [Asus Vivobook S 15](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.asus.com%2Fus%2Flaptops%2Ffor-home%2Fvivobook%2Fasus-vivobook-s-15-s5507%2F) is a sleek and lightweight laptop with a gorgeous OLED display and solid battery life -- as long as you're mindful about your power usage. I'd recommend it to forward-thinking digital nomads who want a performant, AI-ready laptop with the blazing-fast Snapdragon X Elite processor. It's a solid investment for people who regularly swap between creative work, productivity software, and media. 
@@ -146,24 +134,24 @@ All things considered, the [sale price of $989](https://www.awin1.com/awclick.ph
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-prime-selection-8-best-free-mobile-mp3-downloaders/"><u>[New] 2024 Approved Prime Selection - 8 Best Free Mobile MP3 Downloaders</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-android-moba-game-series-countdown-10/"><u>[New] In 2024, The Ultimate Android MOBA Game Series Countdown (#10)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-trick-turn-videos-upside-down/"><u>[New] Snapchat Trick Turn Videos Upside Down</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-quick-start-utilizing-zoom-in-windows-10-environment-for-2024/"><u>[Updated] Quick Start Utilizing Zoom in Windows 10 Environment for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-speaker-recorder-evaluation-tips/"><u>[Updated] Speaker Recorder Evaluation Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-13t-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi 13T Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/o-build-successful-youtube-advertisements-for-free/"><u>How to Build Successful YouTube Advertisements for Free?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-building-a-brand-through-expertly-planned-onestream-broadcasts/"><u>In 2024, Building a Brand Through Expertly Planned OneStream Broadcasts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-high-tech-horizons-with-toms-hardware-insights-and-analysis/"><u>Navigating High-Tech Horizons with Tom's Hardware Insights and Analysis</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-secret-to-affordable-final-cut-pro-education-bundle-revealed/"><u>New Discover the Secret to Affordable Final Cut Pro Education Bundle Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-the-ultimate-gamingproductivity-screen-the-samsung-pixel-dense-viewfinity-s9-monitor-with-stunning-5k-display-and-inbuilt-4k-cam-now-at-an-unbelievable47/"><u>Snag the Ultimate Gaming/Productivity Screen: The Samsung Pixel-Dense ViewFinity S9 Monitor with Stunning 5K Display & Inbuilt ^4K Cam – Now at an Unbelievable $899 Price, Save 44%</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-comprehensive-toms-computing-resource/"><u>The Comprehensive Tom's Computing Resource</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-display-warrior-asus-rog-swift-oled-pg32ucdp-review-a-stride-towards-perfection/"><u>The Ultimate Display Warrior: Asus ROG Swift OLED (PG32UCDP) Review - A Stride Towards Perfection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-gamers-guide-to-the-dough-spectrum-black-27-oled-display-in-depth-reveal-on-exceptional-color-precision-and-premium-quality-output/"><u>The Ultimate Gamer's Guide to the Dough Spectrum Black 27 OLED Display: In-Depth Reveal on Exceptional Color Precision & Premium Quality Output!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-reno-10-proplus-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo Reno 10 Pro+ 5G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-the-definitive-guide/"><u>Tom's Tech Insights: The Definitive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-affordable-4k-displays-of-2024-best-picks/"><u>Top Affordable 4K Displays of 2024: Best Picks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-picks-for-affordable-gaming-displays-including-curved-options-and-g-sync-support/"><u>Top Picks for Affordable Gaming Displays – Including Curved Options & G-Sync Support</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-156-portable-ips-monitor-under-70-limited-time-offer-for-6599/"><u>Top Rated 15.6 Portable IPS Monitor Under $70 - Limited Time Offer for $65.99</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-surge-video-popularity-with-essential-seo-aids/"><u>[Updated] In 2024, Surge Video Popularity with Essential SEO Aids</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-creating-chuckles-with-gifs-a-meme-masterclass/"><u>2024 Approved Creating Chuckles with GIFs A Meme Masterclass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/deep-dive-into-windows-pc-hdr-capabilities/"><u>Deep Dive Into Windows PC HDR Capabilities</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-methods-to-determine-high-space-consuming-apps-on-your-android-phone/"><u>Effective Methods to Determine High-Space Consuming Apps on Your Android Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-mastering-the-art-of-text-extraction-from-images-on-mobile-devices/"><u>Effortless Guide: Mastering the Art of Text Extraction From Images on Mobile Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enable-or-disable-permanent-screen-visibility-in-android-settings/"><u>Enable or Disable Permanent Screen Visibility in Android Settings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-ultimate-snapdragon-8-gen-2-devices-the-leading-android-phones/"><u>Exploring the Ultimate Snapdragon 8 Gen 2 Devices: The Leading Android Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/extend-your-android-devices-battery-life-a-comprehensive-guide/"><u>Extend Your Android Device's Battery Life: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/final-closure-barnes-and-noble-ends-support-for-aging-nook-devices/"><u>Final Closure: Barnes & Noble Ends Support for Aging Nook Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-early-access-to-the-new-asus-zenfone-9-shop-and-reserve-at-amazon-today/"><u>Get Early Access to the New ASUS Zenfone 9 - Shop and Reserve at Amazon Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/google-the-moment-is-now-for-crafting-an-ultimate-weather-application/"><u>Google: The Moment Is Now for Crafting an Ultimate Weather Application</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/googles-latest-wearable-gets-just-a-triennial-refresh-schedule/"><u>Google's Latest Wearable Gets Just a Triennial Refresh Schedule</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-lenovo-mouse-pad-up-and-running-again-on-windows-systems-windows-10-8-7/"><u>How to Get Your Lenovo Mouse Pad Up & Running Again on Windows Systems (Windows 10, 8, 7)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-smart-8-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix Smart 8</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x8b-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X8b to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-electronics-reliable-reviews-and-tips-by-toms-hardware-experts/"><u>Mastering Electronics: Reliable Reviews and Tips by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-s18-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo S18 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-zero-cost-flv-video-editing-top-5-tools-to-get-the-job-done/"><u>Updated 2024 Approved Zero-Cost FLV Video Editing Top 5 Tools to Get the Job Done</u></a></li>
 </ul></div>
 

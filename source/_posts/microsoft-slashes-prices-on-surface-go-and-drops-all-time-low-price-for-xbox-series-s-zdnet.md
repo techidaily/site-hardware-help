@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S - ZDNet
-date: 2025-02-10T04:42:56.452Z
-updated: 2025-02-11T16:19:59.686Z
+date: 2025-02-24T16:17:25.705Z
+updated: 2025-03-02T18:24:08.024Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Save hundreds on Surface tablets and laptops**
 
 The Surface Pro 9 demonstrates all the newest capabilities of Microsoft's 2-in-1 line. Taking digital notes has never been easier with the Surface Slim Pen. Video calls have also never been more in focus, thanks to Automatic Framing. 
@@ -42,10 +38,6 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Get the Xbox Series S at its lowest price ever**
 
 The Xbox Series is proof fun things can come in compact sizes. It's fast, promoting 120 FPS per second. So, as long as you have a fast internet connection, you'll experience next-gen gaming the way it's supposed to be.
@@ -57,10 +49,6 @@ This is a digital console, meaning you'll have ample room to download games on i
 **Also: [The best gaming consoles](https://www.zdnet.com/home-and-office/home-entertainment/best-game-console/)** 
 
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
 
@@ -110,14 +98,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-dive-into-the-world-of-podcasting-from-concept-to-finalized-scripts/"><u>[New] Dive Into the World of Podcasting From Concept to Finalized Scripts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-places-to-find-background-music-for-videos/"><u>[New] Top Places to Find Background Music for Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-techniques-for-compressing-ts-videos-without-sacrificing-picture-and-sound-quality/"><u>Effective Techniques for Compressing .TS Videos Without Sacrificing Picture and Sound Quality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-intel-nvme-driver-setup-beginner-friendly-tutorial/"><u>Effortless Intel NVMe Driver Setup - Beginner-Friendly Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-smooth-functionality-for-your-logitech-k350-with-these-tips-and-driver-links/"><u>Ensure Smooth Functionality for Your Logitech K350 with These Tips & Driver Links</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-free-focusrite-scarlett-2i2-drivers-for-pc-fast-and-easy-installation/"><u>Get Your Free Focusrite Scarlett 2I2 Drivers for PC - Fast and Easy Installation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-swiftly-update-your-acer-sound-device-drivers-for-enhanced-quality/"><u>How to Swiftly Update Your Acer Sound Device Drivers for Enhanced Quality</u></a></li>
-<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sticker-free-crafting-revamp-your-tiktok-content-for-2024/"><u>Sticker-Free Crafting Revamp Your TikTok Content for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-steps-to-establish-a-viable-youtube-sponsor-relationship/"><u>[New] 2024 Approved Steps to Establish a Viable YouTube Sponsor Relationship</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sdr-to-super-hd-a-practical-guide-for-quality-improvement/"><u>[Updated] SDR to Super HD A Practical Guide for Quality Improvement</u></a></li>
+<li><a href="https://fox-links.techidaily.com/beginners-guide-to-gopro-extras/"><u>Beginner's Guide to GoPro Extras</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-on-how-to-refresh-samsung-mobile-usb-drivers/"><u>Easy Instructions on How to Refresh Samsung Mobile USB Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-or-update-logitech-wireless-receiver-software-for-windows-users/"><u>How to Install or Update Logitech Wireless Receiver Software for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-gearbox-in-depth-analysis-of-latest-hardware-by-experts/"><u>Inside Tom's Gearbox: In-Depth Analysis of Latest Hardware by Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-bings-ai-features-for-android-users/"><u>Navigating Bing's AI Features for Android Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-the-art-of-film-making-on-facebook/"><u>Navigating the Art of Film Making on Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/on-schedule-delivery-amd-puts-an-end-to-speculations-with-confirmed-ryzen-5000xt-release-this-month/"><u>On Schedule Delivery: AMD Puts an End to Speculations with Confirmed Ryzen 5000XT Release This Month</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-5-9600x-cpu-preorder-launches-on-amazon-canada-compare-prices-and-find-out-if-the-472-deal-stacks-up/"><u>Ryzen 5 9600X CPU Preorder Launches on Amazon Canada: Compare Prices & Find Out If the $472 Deal Stacks Up</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-xiaomi-redmi-k70-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Xiaomi Redmi K70 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-puzzle-of-programmed-passion-can-ai-grasp-the-heartache/"><u>The Puzzle of Programmed Passion: Can AI Grasp the Heartache?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-seamless-blend-of-images-into-majestic-collage-art/"><u>The Seamless Blend of Images Into Majestic Collage Art</u></a></li>
 </ul></div>
 

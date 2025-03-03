@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Showdown: M3 Vs. M2 MacBook Air - Expert Review on Which Model Reigns Supreme for Users | Digital Trends"
-date: 2025-01-14T22:18:32.618Z
-updated: 2025-01-16T17:00:57.516Z
+date: 2025-02-26T22:43:03.081Z
+updated: 2025-03-03T02:30:51.951Z
 tags:
   - laptops
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -76,10 +72,6 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -137,10 +129,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -171,10 +159,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -184,10 +168,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,21 +215,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-essential-tips-precise-video-trimming-on-vimeo-5-methods/"><u>[New] 2024 Approved Essential Tips Precise Video Trimming on Vimeo [5 Methods]</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ssential-steps-for-online-gamers-banner-use-for-2024/"><u>[New] Essential Steps for Online Gamers' Banner Use for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-ultimate-essential-guide-for-beginners-in-final-cut-pro/"><u>2024 Approved The Ultimate Essential Guide for Beginners in Final Cut Pro</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/download-free-heic-image-converter-supports-windows-11-10-8-and/"><u>Download Free HEIC Image Converter: Supports Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-digital-interactions-with-these-powerful-prompt-crafting-methods/"><u>Elevate Your Digital Interactions with These Powerful Prompt-Crafting Methods</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mac-file-deletion-wizard-stellar-file-eraser-5-with-automatic-cleanup-schedules/"><u>Mac File Deletion Wizard: Stellar File Eraser 5 with Automatic Cleanup Schedules</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-tech-maze-insider-tips-from-toms-hardware-specialists/"><u>Navigating the Tech Maze: Insider Tips From Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pastel-colored-intel-icraft-b760m-motherboard-perfect-for-anime-enthusiasts/"><u>Pastel-Colored Intel iCraft B760M Motherboard – Perfect for Anime Enthusiasts!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/patch-notes-decoded-why-is-my-overwatch-voice-chat-not-working/"><u>Patch Notes Decoded: Why Is My Overwatch Voice Chat Not Working?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/protect-your-system-with-msis-latest-fix-agesa-120-updates-tackle-amd-zenbleed-issue-once-and-for-all/"><u>Protect Your System with MSI's Latest Fix: AGESA 1.2.0 Updates Tackle AMD Zenbleed Issue Once and For All</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rethinking-cpu-thermal-improvements-intels-new-lga18n-socket-and-the-end-of-custom-contact-frame-requirements-for-optimal-temps/"><u>Rethinking CPU Thermal Improvements: Intel's New LGA18n Socket and The End of Custom Contact Frame Requirements for Optimal Temps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/save-big-premium-asus-x670-p-wifi-am5-motherboard-priced-at-only-135/"><u>Save Big: Premium Asus X670-P WiFi AM5 Motherboard Priced at Only $135</u></a></li>
-<li><a href="https://win-dash.techidaily.com/secure-download-of-enhanced-amd-ryzen-3-2200g-gpu-and-cpu-drivers/"><u>Secure Download of Enhanced AMD Ryzen 3 2200G GPU and CPU Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-amd-ryzen-msis-updated-agesa-120c-tackles-the-notorious-zenbleed-issue-effectively/"><u>Secure Your AMD Ryzen: MSI's Updated AGESA 1.2.0.C Tackles the Notorious Zenbleed Issue Effectively</u></a></li>
-<li><a href="https://windows11.techidaily.com/snipview-missteps-corrective-strategies-within-reach/"><u>SnipView Missteps? Corrective Strategies Within Reach</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-complete-guide-to-computer-components-by-toms-hardware-expertise/"><u>The Complete Guide to Computer Components by Tom's Hardware Expertise</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-augmenting-learning-with-vr/"><u>[Updated] In 2024, Augmenting Learning with VR</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-lava-yuva-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/complete-transfer-process-for-iphone-7-users-sync-files-with-your-mac-effortlessly/"><u>Complete Transfer Process for iPhone 7 Users: Sync Files with Your Mac Effortlessly</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/festplattenpartitionsverschiebungen-vermeiden-strategien-zur-vermeidung-von-datenschaden/"><u>Festplattenpartitionsverschiebungen Vermeiden: Strategien Zur Vermeidung Von Datenschäden</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-se-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone SE and iPad</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nokia-g310-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nokia G310 Data? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-top-8-laptop-skins-and-backdrops/"><u>In 2024, The Ultimate Guide to Top 8 Laptop Skins & Backdrops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-vr-headset-earphones-a-comprehensive-guide/"><u>Top-Rated VR Headset Earphones : A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-dreame-x4e-439p-robotic-vac-top-review-for-your-smart-home-sanitizing-needs/"><u>Ultimate Guide to the Dreame X4e-439P Robotic Vac: Top Review for Your Smart Home Sanitizing Needs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-protection-sleek-and-durable-ipad-pro-13-inch-cases-reviewed/"><u>Ultimate Protection: Sleek & Durable iPad Pro 13-Inch Cases Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-ranking-the-leading-thermal-interface-materials-for-enhanced-cooling-performance/"><u>Ultimate Ranking: The Leading Thermal Interface Materials for Enhanced Cooling Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deals-on-dependable-anker-true-wireless-earphones-available-today/"><u>Unbeatable Deals on Dependable Anker True Wireless Earphones Available Today</u></a></li>
 </ul></div>
 

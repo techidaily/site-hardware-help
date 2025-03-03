@@ -1,7 +1,7 @@
 ---
 title: "CES 2023 Highlights: Top Tech Unveiled on the Second Day Featured by ZDNet"
-date: 2025-01-11T17:09:24.440Z
-updated: 2025-01-16T18:19:34.855Z
+date: 2025-03-01T23:20:50.624Z
+updated: 2025-03-02T16:38:59.725Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ The first day of [CES 2023](https://www.zdnet.com/topic/ces-2023-the-biggest-tre
 
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Set to run through Sunday, Jan. 8, the weeklong conference is when most major tech companies announce [new innovations for consumers](https://www.zdnet.com/article/ces-2023-preview-4-big-questions-that-will-shape-the-week/). 
 
 This year, while we're still expecting announcements from many major companies, some have already begun their announcements.
@@ -35,10 +31,6 @@ This year, while we're still expecting announcements from many major companies, 
 **Also:** [**CES 2023 Day 2: The biggest reveals**](https://www.zdnet.com/home-and-office/ces-2023-day-2-the-biggest-reveals/)
 
 Below, you'll find today's biggest announcements from major players like Samsung, Nvidia, and GE.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Nvidia's GeForce RTX 40 series GPU drop
 
@@ -56,10 +48,6 @@ If you're tired of the kids complaining about not having their video games on ro
 
 **Read more:** [Nvidia's GeForce Now gaming service is coming to cars](https://www.zdnet.com/article/nvidias-geforce-now-gaming-service-is-coming-to-cars-to-make-rides-more-entertaining/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer announces new gaming Predator and Nitro laptops
 
 Acer
@@ -75,10 +63,6 @@ LG
 The first of the major tech companies to reveal a new TV during CES, LG didn't disappoint, offering major upgrades to consumer-favorite panels like the C2, G2, and Z2\. All TV panels will feature a new a9 AI processor Gen6 chip for improved performance for both cinephiles and console gamers.
 
 **Read more:** [LG announces new C, G, and Z OLED TV lineups at CES 2023](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Intel's 13th gen family expands
 
@@ -101,10 +85,6 @@ Samsung
 Ahead of Samsung's First Look event tonight, the tech company announced new additions to its Odyssey family: the Odyssey OLED G9, the 49-inch gaming monitor with "dual UHD" technology; and the upgraded Odyssey Neo G9\. Also announced today was the[5K ViewFinity S9 monitor](https://www.zdnet.com/article/samsungs-5k-viewfinity-s9-monitor-is-a-new-apple-studio-display-rival/) for studio workers.
 
 **Read more:** [Samsung's Odyssey G9 gaming monitor family to add OLED, 8K models](https://www.zdnet.com/home-and-office/home-entertainment/samsungs-odyssey-g9-gaming-monitor-family-adds-oled-8k-models/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Also announced: Samsung upgrades its TV lines
 
@@ -154,20 +134,20 @@ In the meantime, be sure to check back tomorrow to get the scoop on more announc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-10-fastest-growing-youtube-channels-to-light-up-your-mind/"><u>[New] 10 Fastest Growing YouTube Channels to Light Up Your Mind</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/verage-revenue-what-every-view-contributes-to-creators/"><u>[New] Average Revenue What Every View Contributes to Creators</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-advanced-tips-for-zooms-video-filters-for-2024/"><u>[Updated] Advanced Tips for Zoom's Video Filters for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-adventure-worlds-unleashed-excluding-gta-v/"><u>2024 Approved Adventure Worlds Unleashed (Excluding GTA V)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-offer-shop-the-incredible-240hz-32-4k-alienware-monitor-with-200-off-today/"><u>Exclusive Offer: Shop the Incredible 240Hz, 32 4K Alienware Monitor with $200 Off Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-enhanced-visuals-with-the-affordable-lg-34499-curved-ultragear-monitor-upgrade/"><u>Experience Enhanced Visuals with the Affordable LG 34$499 Curved UltraGear Monitor Upgrade!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-next-level-gaming-with-msis-new-range-of-240hz-qd-oled-monitors-34-and-27-inch-1440p-ultra-fast-screens-enhanced-by-usb-c-connectivity/"><u>Experience Next-Level Gaming with MSI's New Range of 240Hz QD-OLED Monitors – 34 and 27 Inch 1440P Ultra-Fast Screens Enhanced by USB-C Connectivity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-the-game-like-never-before-with-the-discounted-acer-nitro-monitor-now-81/"><u>Experience the Game Like Never Before with the Discounted Acer Nitro Monitor - Now $81</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-the-pinnacle-of-professional-monitoring-asus-newest-creation-the-unrivaled-8k-mini-led-proart-display-brilliance-at-1200-nits-and-customizable-wi54/"><u>Experience the Pinnacle of Professional Monitoring: Asus' Newest Creation, The Unrivaled 8K Mini LED ProArt Display - Brilliance at 1200 Nits and Customizable with Cuatro Mil Lighting Zones</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-lg-ultragear-34-qhd-display-with-g-sync-for-549-at-amazon-limited-time-offer/"><u>Get the LG Ultragear 34 QHD Display with G-Sync for $549 at Amazon – Limited Time Offer!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/peek-inside-how-do-vr-headsets-connect/"><u>Peek Inside How Do VR Headsets Connect?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/schnelles-handwerk-hochwertiges-video-aus-dvds-mit-mp4-konvertertechnik/"><u>Schnelles Handwerk: Hochwertiges Video Aus DVDs Mit MP4 Konvertertechnik</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-blank-gpu-not-detected-2020/"><u>Screen Blank: GPU Not Detected 2020</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-minecraft-top-reviews-for-multi-generational-building-fun/"><u>Ultimate Guide to Minecraft: Top Reviews for Multi-Generational Building Fun</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-introduction-to-adding-new-fonts-in-ae/"><u>[New] Introduction to Adding New Fonts in AE</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-guide-to-the-best-bridal-films-8-from-youtube-plus-vimeo/"><u>[Updated] A Guide to the Best Bridal Films (8 From YouTube + Vimeo)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-tools-for-perfect-images/"><u>[Updated] Essential Tools for Perfect Images</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-ordinary-to-extraordinary-profile-videos/"><u>2024 Approved From Ordinary to Extraordinary Profile Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m34-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M34 5Gwith/without a PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-vr-movie-might-change-the-world-for-2024/"><u>How VR Movie Might Change the World for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media/"><u>In 2024, Quick Conversion Tactics Extracting MP3 From Vids on Social Media</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-popular-protective-covers-for-the-new-samsung-galaxy-s2e-plus/"><u>Most Popular Protective Covers for the New Samsung Galaxy S2e +</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-hack-mastering-quick-screen-captures-using-just-a-tap-on-your-android-smartphones-rear/"><u>Tech Hack: Mastering Quick Screen Captures Using Just a Tap on Your Android Smartphone's Rear</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-top-3-benefits-of-equipping-smartphones-with-dual-usb-c-connectors/"><u>The Top 3 Benefits of Equipping Smartphones with Dual USB-C Connectors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-6-beneficial-ways-to-use-your-samsung-dex-a-comprehensive-guide/"><u>Top 6 Beneficial Ways to Use Your Samsung DeX - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-recommended-android-file-manager-apps-better-options-than-default/"><u>Top Recommended Android File Manager Apps: Better Options Than Default</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transformations-unveiled-discover-how-google-pay-evolved-into-the-new-google-wallet/"><u>Transformations Unveiled: Discover How Google Pay Evolved Into the New Google Wallet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-battery-issues-how-to-check-and-optimize-high-energy-consuming-apps-in-android/"><u>Troubleshooting Battery Issues: How to Check and Optimize High Energy Consuming Apps in Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/turn-off-notifications-with-ease-a-guide-to-mutifying-incoming-calls-on-your-android-smartphone/"><u>Turn Off Notifications with Ease: A Guide to Mutifying Incoming Calls on Your Android Smartphone</u></a></li>
 </ul></div>
 

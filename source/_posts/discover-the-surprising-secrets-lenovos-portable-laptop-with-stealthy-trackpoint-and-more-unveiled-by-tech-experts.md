@@ -1,7 +1,7 @@
 ---
 title: "Discover the Surprising Secrets: Lenovo's Portable Laptop with Stealthy Trackpoint & More | Unveiled by Tech Experts"
-date: 2025-01-27T19:11:59.131Z
-updated: 2025-01-30T17:04:10.762Z
+date: 2025-03-01T17:24:03.723Z
+updated: 2025-03-02T20:31:05.449Z
 tags:
   - laptops
 categories:
@@ -45,10 +45,6 @@ Image: Charles McLellan / ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Design
 
 Lenovo's ThinkPads rarely stray far from the familiar black livery with red and silver accents, and the ThinkPad X13s is no exception. The chassis, which is made of magnesium-aluminium (top) and [GFRP](https://en.wikipedia.org/wiki/Fibre-reinforced%5Fplastic) (bottom), is Thunder Black in colour, with branding on the lid and wrist rest, the iconic red TrackPoint embedded in the keyboard, and three buttons above the trackpad. Lenovo says that 90% of the magnesium used in the chassis is recycled, as is 97% of the plastic in the speaker enclosure, while 90% of the packaging is recycled and/or sustainable. 
@@ -69,10 +65,6 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Features
 
 As noted earlier, the ThinkPad X13s is powered by Qualcomm's latest [Snapdragon 8cx Gen 3](https://www.qualcomm.com/products/application/mobile-computing/snapdragon-8-series-mobile-compute-platforms/snapdragon-8cx-gen-3-compute-platform), a 5nnm SoC with 8 Kyro CPU cores (4 performance, 4 efficiency) and an Adreno 690 GPU. RAM is soldered onto the motherboard and, therefore, not user-upgradeable, and comes in 8GB, 16GB or 32GB capacities. Our review unit had 16GB, along with 256GB of M.2 2442 PCIe SSD storage (512GB and 1TB capacities are also available). 
@@ -82,10 +74,6 @@ The Snapdragon 8cx Gen 3 also handles wireless connectivity, supporting Wi-Fi 6E
 There are three screen options, all IPS panels with WUXGA (1920 x 1200) resolution: non-touch at 300 nits or 400 nits with lower power consumption and EyeSafe certification; and multi-touch at 300 nits with a 1000:1 contrast ratio rather than 1500:1 and 72% NTSC colour gamut support rather than 100% sRGB. Viewing angles are 170° across the board. Our review unit had the 300 nits non-touch screen, which although not suited for outdoor use is fine indoors. 
 
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Performance & battery life
 
@@ -114,10 +102,6 @@ Like the M2 MacBook Air, the ThinkPad X13s runs on a sufficiently low-power proc
 Thermal camera images of the ThinkPad X13s under load.
 
 Images: Charles McLellan / ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Conclusions
 
@@ -169,10 +153,6 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Alternatives to consider
 
 [Dell XPS 13 View now at Dell](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Fxps-13-laptop%2Fspd%2Fxps-13-9315-laptop)
@@ -218,24 +198,24 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-deciphering-the-lack-of-contacts-and-snaps-on-snapchat/"><u>[New] Deciphering the Lack of Contacts and Snaps on Snapchat</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-navigating-a-fresh-start-guide-to-altering-your-tiktok-username/"><u>[Updated] 2024 Approved Navigating a Fresh Start Guide to Altering Your TikTok Username</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-art-of-kinemaster-made-memes/"><u>[Updated] The Art of KineMaster-Made Memes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/0-download-and-update-your-printers-driver-software-today/"><u>0, Download & Update Your Printer's Driver Software Today</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-elite-4-covert-content-retrievers/"><u>2024 Approved Elite 4 Covert Content Retrievers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975544834-effortless-download-of-nvidia-geforce-gt-drivers-optimize-your-pc-today/"><u>Effortless Download of NVIDIA GeForce GT Drivers - Optimize Your PC Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/eliminate-secondary-monitor-latency-during-gaming-sessions-in-windows-1011-with-these-expert-tips/"><u>Eliminate Secondary Monitor Latency During Gaming Sessions in Windows 10/11 with These Expert Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-audio-experience-with-new-m-audio-drivers-win-117881-ready/"><u>Enhance Your Audio Experience with New M-Audio Drivers – Win 11/7/8/8.1 Ready</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/evaluating-the-effectiveness-of-windows-defender-in-shielding-your-system-from-cyber-threats-insights-by-yl-computing/"><u>Evaluating the Effectiveness of Windows Defender in Shielding Your System From Cyber Threats - Insights by YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-canon-mx340-printing-software-compatible-with-windows-7-8-and-10/"><u>Find and Install Canon MX340 Printing Software: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-v500-printer-driver-on-your-device-now/"><u>Get the Latest Epson V500 Printer Driver on Your Device Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977390229-get-your-logitech-bluetooth-mouse-driver-on-windows-pcs-here/"><u>Get Your Logitech Bluetooth Mouse Driver on Windows PCs Here</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-14-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from 14 Pro.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-10t-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme 10T 5G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-beats-audio-driver-issue-in-windows-1087-solved/"><u>HP Beats Audio Driver Issue in Windows 10/8/7 [Solved]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-pci-device-encryptdecrypt-controller-drivers-update-now/"><u>Resolved PCI Device Encrypt/Decrypt Controller Drivers - Update Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-updating-your-epson-tm-t88v-driver-on-windows/"><u>Step-by-Step Guide to Downloading & Updating Your EPSON TM-T88v Driver on Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ontent-creators-dilemma-vimeo-or-youtube/"><u>The Content Creator’s Dilemma Vimeo or YouTube?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-the-spoken-word-writing-compelling-narratives/"><u>[New] Crafting the Spoken Word Writing Compelling Narratives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-meme-mechanic-generating-online-engagement-through-videos-for-2024/"><u>[Updated] The Meme Mechanic Generating Online Engagement Through Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-recommendations-the-finest-skype-recorders-of-2023/"><u>2024 Approved Expert Recommendations The Finest Skype Recorders of 2023</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-fastest-8-capture-tools-unveiled/"><u>2024 Approved Fastest 8 Capture Tools Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-for-staying-positive-in-the-face-of-critical-youtube-comments/"><u>2024 Approved Tips for Staying Positive in the Face of Critical YouTube Comments</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-top-5-free-streaming-options-for-watching-mlb-matches/"><u>2024 Approved Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262295676-amds-new-epyc-9755-turin-chip-unveiling-the-powerhouse-128-core-processor-that-exceeded-108k-points/"><u>AMD's New Epyc 9755 Turin Chip: Unveiling the Powerhouse 128-Core Processor That Exceeded 108K Points</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-your-samsung-m207n-fw-drivers-downloaded-today/"><u>Effortless Installation: Get Your Samsung M207n FW Drivers Downloaded Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-dell-xps-15s-performance-the-ultimate-tutorial-for-driver-updates-on-windows-pcs/"><u>Enhance Your Dell XPS 15'S Performance: The Ultimate Tutorial for Driver Updates on Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-experience-free-drivers-available-for-geforce-gtx-1650-super-on-windows-1011/"><u>Enhance Your Gaming Experience: Free Drivers Available for GeForce GTX 1650 Super on Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-acer-wireless-network-adapter-driver-fast-installation-guide/"><u>Free Acer Wireless Network Adapter Driver - Fast Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-intel-uhd-graphics-software-on-windows-11-installation-guide-and-update-tips/"><u>Get the Newest Intel UHD Graphics Software on Windows 11 - Installation Guide & Update Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fetch-and-install-updated-drivers-for-nvidia-geforce-mx1-on-windows/"><u>How to Fetch and Install Updated Drivers for NVIDIA GeForce MX1# on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-m404n-driver-upgrade-enhanced-compatibility-and-stability-for-your-printer/"><u>HP LaserJet Pro M404n Driver Upgrade: Enhanced Compatibility and Stability for Your Printer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-rtx-ti-drivers-for-enhanced-gaming-on-windows-11/"><u>Latest NVIDIA GeForce RTX 지류티 (Ti) Drivers for Enhanced Gaming on Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/optimal-room-decorations-for-livestreams/"><u>Optimal Room Decorations for Livestreams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-next-evolution-in-coding-how-generative-ai-is-paving-the-way-from-low-code-to-no-code-systems/"><u>The Next Evolution in Coding: How Generative AI Is Paving the Way From Low-Code to No-Code Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-science-of-creating-audience-driven-fb-groups-polls/"><u>The Science of Creating Audience-Driven FB Groups Polls</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965562607-whats-new-with-logitech-extreme-3d-unveiling-the-recent-update-details/"><u>What's New with Logitech Extreme 3D: Unveiling the Recent Update Details</u></a></li>
 </ul></div>
 

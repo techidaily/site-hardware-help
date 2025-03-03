@@ -1,7 +1,7 @@
 ---
 title: "Introducing Lenovo's Genius Innovation: A Versatile Dual-Natured Device That Blurs the Lines Between Laptop and Tablet."
-date: 2025-01-14T17:43:40.234Z
-updated: 2025-01-16T18:40:32.187Z
+date: 2025-02-25T02:32:02.257Z
+updated: 2025-03-03T02:39:37.338Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -82,10 +78,6 @@ I was surprised to see this because I thought the Power Efficiency would increas
 
 Unfortunately, there isn't a way to use Windows 11 on just the tablet -- you have to use Android.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [Lenovo ThinkBookPlus Gen 5 Hybrid](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-plus%2Flenovo-thinkbook-plus-gen-5-hybrid-14-inch-station-and-tab%2Flen101b0047&publisher_slug=itechdaily19598&exclusive=1) starts at $3,518\. Due to its high price tag and unorthodox dual system, I can't recommend this to most people. The fifth-generation ThinkBook Plus Gen 5 just doesn't offer an engaging laptop experience beyond its, admittedly fun, gimmick.
@@ -122,18 +114,22 @@ Not only is it expensive, but its design makes it difficult to use. This model h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-bringing-back-windows-photo-viewer-a-quick-guide-for-win-11-users/"><u>[New] 2024 Approved Bringing Back Windows Photo Viewer A Quick Guide for Win 11 Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-video-capture-obs-versus-bandicam/"><u>[New] In 2024, The Ultimate Guide to Video Capture OBS versus Bandicam</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cost-effective-recorder-selections-for-youtube-vloggers/"><u>[Updated] 2024 Approved Cost-Effective Recorder Selections for YouTube Vloggers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-introduction-to-plot-and-character-dynamics/"><u>[Updated] Introduction to Plot and Character Dynamics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/discover-clear-sound-recording-on-discord-for-2024/"><u>Discover Clear Sound Recording on Discord for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/empower-yourself-top-10-inspirational-movie-selections-for-2024/"><u>Empower Yourself Top 10 Inspirational Movie Selections for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-gaming-efficiency-with-reduced-cpu-demand/"><u>Enhancing Gaming Efficiency with Reduced CPU Demand</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-gt-neo-5-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme GT Neo 5 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-checklist-for-finding-film-specialists/"><u>In 2024, The Ultimate Checklist for Finding Film Specialists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-your-build-advanced-tips-from-toms-hardware-professionals/"><u>Master Your Build: Advanced Tips From Tom's Hardware Professionals</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-gameplay-with-the-asus-rog-strix-xg27acs-a-review-of-its-180hz-gaming-capabilities/"><u>Mastering Gameplay with the Asus ROG Strix XG27ACS: A Review of Its 180Hz Gaming Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-tech-knowledge-with-expert-analysis-on-toms-hardware/"><u>Mastering Tech Knowledge with Expert Analysis on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-high-tech-choices-with-toms-wise-selection/"><u>Navigating High-Tech Choices with Tom's Wise Selection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-achieving-flawless-photos-with-size-tweaks-on-ios/"><u>[New] In 2024, Achieving Flawless Photos with Size Tweaks on iOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transform-your-instagram-photos-with-creative-borders/"><u>[New] In 2024, Transform Your Instagram Photos with Creative Borders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-virtual-verbal-excellence-proven-methods-for-effective-zoom-interactions/"><u>[New] In 2024, Virtual Verbal Excellence Proven Methods for Effective Zoom Interactions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hythmic-roadmap-your-guide-to-music-submission-for-2024/"><u>[New] Rhythmic Roadmap Your Guide to Music Submission for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-technological-testing-vlles-app-analysis-for-2024/"><u>[New] Technological Testing VLLE's App Analysis for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-11documents4/"><u>如何在Windows 11中迁移Documents磁盘：4个有效方法解析</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-clear-and-consistent-slug-lines-for-2024/"><u>Crafting Clear and Consistent Slug Lines for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/les-meilleurs-outils-de-copie-et-de-mise-a-jour-des-informations-pour-systemes-bases-sur-windows-tops-liste/"><u>Les Meilleurs Outils De Copie Et De Mise À Jour Des Informations Pour Systèmes Basés Sur Windows - Tops Liste</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mosaicmaker-elite-designing-with-digital-threads-for-2024/"><u>MosaicMaker Elite Designing with Digital Threads for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-creating-an-on-the-go-workstation-in-your-car-for-productive-beachside-days/"><u>The Ultimate Guide to Creating an On-the-Go Workstation in Your Car for Productive Beachside Days.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-unconventional-marvel-of-home-maintenance-a-comprehensive-review-of-ecovacs-winbot-w2-omni-the-futuristic-robot-window-washer/"><u>The Unconventional Marvel of Home Maintenance: A Comprehensive Review of Ecovacs Winbot W2 Omni, The Futuristic Robot Window Washer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tech-bargains-save-on-jbl-bar-700-speakers-amazons-fire-hd-max-tablet-video-doorbells-and-more/"><u>Top Tech Bargains: Save on JBL Bar 700 Speakers, Amazon's Fire HD Max Tablet, Video Doorbells & More!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-affordable-wireless-bluetooth-sound-systems-in-2e24/"><u>Top-Rated Affordable Wireless Bluetooth Sound Systems in 2E24</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-external-hard-drives-for-rapid-data-storage/"><u>Top-Rated External Hard Drives for Rapid Data Storage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-designing-a-user-friendly-smart-home-for-everyone-in-the-household/"><u>Ultimate Guide: Designing a User-Friendly Smart Home for Everyone in the Household</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deals-on-ultra-fast-smooth-and-reliable-wifi-networks-meet-g309-lightspeed/"><u>Unbeatable Deals on Ultra-Fast, Smooth & Reliable WiFi Networks: Meet G309 LIGHTSPEED</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-differences-between-ultrasonic-and-optical-fingerprint-sensors-find-out-how-they-stack-up/"><u>Unveiling the Differences Between Ultrasonic and Optical Fingerprint Sensors – Find Out How They Stack Up!</u></a></li>
 </ul></div>
 

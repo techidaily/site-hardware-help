@@ -1,7 +1,7 @@
 ---
 title: "1. Huge Discount Alert: Top-Tier Gaming Laptop Slashes Price by 50%% During October Prime Day - Insider Report From ZDNet"
-date: 2025-02-08T20:34:42.439Z
-updated: 2025-02-12T01:04:05.545Z
+date: 2025-02-25T18:41:35.855Z
+updated: 2025-03-03T02:27:36.121Z
 tags:
   - laptops
 categories:
@@ -20,10 +20,6 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the Amazon Prime Day deal?
 
 Amazon's October Prime Day event has officially ended, but many laptops are still on sale. The [Asus Vivobook S 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Snapdragon-X1E-78-100-Processor-S5507QAD-PS96%2Fdp%2FB0CWJY4YWF%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3c141e49-0680-49aa-952d-3085fa3ad72b%7Cdtp&dtb=1) in particular is seeing a $310 discount, dropping from $1,300 to $989\. It's the first Asus Copilot Plus PC and comes highly recommended for its performance.
@@ -31,10 +27,6 @@ Amazon's October Prime Day event has officially ended, but many laptops are stil
 **Also: [Amazon Prime Day: Best 160+ deals live ahead of October's Big Deal Days sale](https://www.zdnet.com/article/best-amazon-prime-day-deals-2024-10-08/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -106,10 +98,6 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [Asus Vivobook S 15](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.asus.com%2Fus%2Flaptops%2Ffor-home%2Fvivobook%2Fasus-vivobook-s-15-s5507%2F) is a sleek and lightweight laptop with a gorgeous OLED display and solid battery life -- as long as you're mindful about your power usage. I'd recommend it to forward-thinking digital nomads who want a performant, AI-ready laptop with the blazing-fast Snapdragon X Elite processor. It's a solid investment for people who regularly swap between creative work, productivity software, and media. 
@@ -146,22 +134,14 @@ All things considered, the [sale price of $989](https://www.awin1.com/awclick.ph
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-final-cut-pro-masterclass-top-10-plugin-guide/"><u>[New] Final Cut Pro Masterclass Top 10 Plugin Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-simplified-strategies-to-acquire-and-download-vimeo-videos/"><u>[New] In 2024, Simplified Strategies to Acquire & Download Vimeo Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastering-motion-effects-in-ai-enhancing-photoshop-images/"><u>[Updated] 2024 Approved Mastering Motion Effects in AI Enhancing Photoshop Images</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-soundtrack-your-life-a-complete-guide-to-adding-personalized-ringtones-and-sounds/"><u>[Updated] 2024 Approved Soundtrack Your Life A Complete Guide to Adding Personalized Ringtones & Sounds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-big-sur-specifications-system-and-hardware-required/"><u>[Updated] In 2024, Big Sur Specifications System & Hardware Required</u></a></li>
-<li><a href="https://article-posts.techidaily.com/crypto-clout-how-much-does-the-youtube-gamer-make-for-2024/"><u>Crypto Clout How Much Does the YouTube Gamer Make for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-fixes-dealing-with-compatibility-issues-of-ralink-rt3290-drivers-on-older-windows-versions/"><u>Effective Fixes: Dealing with Compatibility Issues of Ralink RT3290 Drivers on Older Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/efficiently-install-updated-hp-officejet-pro-8720-drivers-on-your-windows-pc/"><u>Efficiently Install Updated HP OfficeJet Pro 8720 Drivers on Your Windows PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-your-sound-blaster-mic-when-it-fails-to-work/"><u>Expert Tips for Repairing Your Sound Blaster Mic When It Fails to Work</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-find-the-best-surge-protector-for-electronic-equipment/"><u>Expert Tips to Find the Best Surge Protector for Electronic Equipment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-of-up-to-date-geforce-rtx-80-ti-windows-drivers-win-10-8-7/"><u>Free Download of Up-to-Date GeForce RTX 지오 80 Ti Windows Drivers (Win 10, 8, 7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-microsoft-bluetooth-driver-on-windows-operating-systems-windows-111087/"><u>How to Update Your Microsoft Bluetooth Driver on Windows Operating Systems (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-lava-yuva-3-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Lava Yuva 3 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-update-amd-rx-6700-xt-drivers-available-for-windows-users/"><u>Latest Update: AMD RX 6700 XT Drivers Available for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-960-evo-updates-comprehensive-downloads-and-installation-tips-for-windows-users/"><u>Samsung 960 EVO Updates: Comprehensive Downloads & Installation Tips for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/selection-of-fire-suppression-agents-must-consider-both-effectiveness-against-specific-fire-classes-and-potential-damage-to-assets-or-equipment/"><u>Selection of Fire Suppression Agents Must Consider Both Effectiveness Against Specific Fire Classes and Potential Damage to Assets or Equipment.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-the-synaptics-pointing-stick-driver-for-windows-10-systems/"><u>Troubleshooting the Synaptics Pointing Stick Driver for Windows 10 Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-debugging-techniques-identifying-and-resolving-common-javascript-errors/"><u>[New] In 2024, Debugging Techniques Identifying and Resolving Common JavaScript Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/benchmark-dev-reveals-strong-performance-of-snapdragon-x-cpu-captures-65-of-past-months-geekbench-n-data/"><u>Benchmark Dev Reveals Strong Performance of Snapdragon X CPU, Captures 6.5% of Past Month's Geekbench N Data</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-geforce-gtx-980-drivers-quick-and-simple-guide/"><u>Download GeForce GTX 980 Drivers: Quick & Simple Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-official-hp-laserjet-pro-mfp-m127fn-printer-drivers/"><u>Download the Official HP LaserJet Pro MFP M127FN Printer Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-msi-b350-toms-tomahawk-drivers-compatible-with-windows-11-and-windows-n-operating-systems/"><u>Essential MSI B350 TOM'S TOMAHAWK Drivers - Compatible with Windows 11 and Windows N Operating Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explaining-unpredictable-playback-in-instagram-videos/"><u>In 2024, Explaining Unpredictable Playback in Instagram Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-infuse-your-snap-with-japanese-pop-culture-the-anime-filter-tutorial/"><u>In 2024, Infuse Your Snap with Japanese Pop Culture The Anime Filter Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-usb-adb-driver-download-how-to-connect-devices/"><u>Samsung USB ADB Driver Download: How to Connect Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-troubleshooting-tips-successfully-updating-lg-monitor-drivers-on-various-windows-platforms-like-7-81-and-1011/"><u>Ultimate Troubleshooting Tips: Successfully Updating LG Monitor Drivers on Various Windows Platforms Like 7, 8.1 & 10/11</u></a></li>
 </ul></div>
 

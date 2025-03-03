@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Experience the Ultimate Audio Quality with a 50%% Discount on Best Buy's Top-Rated Speakers – ZDNet Review"
-date: 2025-02-08T22:05:38.772Z
-updated: 2025-02-12T05:25:48.881Z
+date: 2025-02-26T17:24:06.290Z
+updated: 2025-03-02T17:46:58.049Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -80,10 +76,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc4971bf4-e194-46b2-8b0b-6bcc868c45a4%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -91,10 +83,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc4971bf4-e194-46b2-8b0b-6bcc868c45a4%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -130,22 +118,21 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-restore-windows-photo-viewer-efficiency-on-windows-10-pcs/"><u>[New] Restore Windows Photo Viewer Efficiency on Windows 10 PCs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-apex-smartphone-triad-for-ultimate-video-quality/"><u>[Updated] Apex Smartphone Triad for Ultimate Video Quality</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mac-users-guide-to-best-4k-display-technology/"><u>[Updated] Mac Users' Guide to Best 4K Display Technology</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-daily-output-top-7-methods-chatgpt-improves-job-efficiency/"><u>Boosting Daily Output: Top 7 Methods ChatGPT Improves Job Efficiency</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-how-to-install-behringers-usb-audio-device-drivers/"><u>Complete Guide: How to Install Behringer's USB Audio Device Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-dell-g15-graphics-card-drivers-on-windows/"><u>Download and Install Dell G15 Graphics Card Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-gaming-wheel-g29-drivers-compatible-with-windows-10-11-and-7/"><u>Download Logitech Gaming Wheel G29 Drivers: Compatible with Windows 10, 11 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-webcam-software-and-drivers-for-free-on-windows/"><u>Download Logitech Webcam Software & Drivers for Free on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-samsung-usb-drivers-for-windows-11-quick-and-simple-guide/"><u>Download Samsung USB Drivers for Windows 11 – Quick and Simple Guide</u></a></li>
-<li><a href="https://win-unique.techidaily.com/easy-steps-to-update-your-account-nickname-via-control-panel/"><u>Easy Steps to Update Your Account Nickname via Control Panel</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-microsoft-ergonomic-4000-keyboard-comprehensive-driver-guide/"><u>Effortless Installation: Microsoft Ergonomic 4000 Keyboard - Comprehensive Driver Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-best-7-platforms-for-transforming-art-into-nfts-for-2024/"><u>Explore the Best 7 Platforms for Transforming Art Into NFTs for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-proficiently-use-twitter-archives/"><u>In 2024, How to Proficiently Use Twitter Archives?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-driver-update-utility-location-tips-and-tricks/"><u>Intel Driver Update Utility Location Tips and Tricks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/social-media-savvy-your-guide-to-success-for-2024/"><u>Social Media Savvy Your Guide to Success for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/usb-30-driver-updates-and-installation-manual-for-windows-systems/"><u>USB 3.0 Driver Updates and Installation Manual for Windows Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-through-a-headsets-lens-a-history-of-vr/"><u>[New] In 2024, Through a Headset's Lens A History of VR</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-get-rid-of-youtube-shorts-a-comprehensible-guide/"><u>[Updated] Get Rid of YouTube Shorts A Comprehensible Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-6-online-networking-hubs-for-enterprises/"><u>[Updated] Leading 6 Online Networking Hubs for Enterprises</u></a></li>
+<li><a href="https://blog-min.techidaily.com/como-eliminar-correctamente-las-bandas-oscuras-de-tu-contenido-audiovisual-con-cinco-metodos-simples-y-efectivos/"><u>Cómo Eliminar Correctamente Las Bandas Oscuras De Tu Contenido Audiovisual Con Cinco Métodos Simples Y Efectivos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-to-enhance-your-epson-xp-640-with-newest-windows-driver-update/"><u>Easy Instructions to Enhance Your Epson XP-640 with Newest Windows Driver Update</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s without Passcode or Face ID</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-nokia-g22-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Nokia G22 Phone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unleash-photos-on-instagram-with-ease-follow-this-guide/"><u>In 2024, Unleash Photos on Instagram with Ease – Follow This Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-tech-ultimate-insights-on-computer-hardware/"><u>Inside Tom's Tech: Ultimate Insights on Computer Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-realtek-pcie-chipset-support-in-windows-11-updates/"><u>Refresh Realtek PCIe Chipset Support in Windows 11 Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-hp-p2035-laserjet-driver-problems-for-windows-users/"><u>Resolving HP P2035 Laserjet Driver Problems for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-getting-the-most-recent-driver-for-brother-mfc-l2690dw-printers/"><u>Step by Step Tutorial on Getting the Most Recent Driver for Brother MFC-L2690DW Printers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-download-resource-compatible-canon-mp280-driver-software-for-microsoft-windows-users-versions-1187-available/"><u>Ultimate Download Resource: Compatible Canon MP280 Driver Software for Microsoft Windows Users (Versions 11/8/7 Available)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-resource-for-power-users-the-tech-savvy-world-of-tomn-hardware/"><u>Ultimate Resource for Power Users: The Tech Savvy World of Tom'n Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-lenovo-display-fast-track-to-the-latest-drivers/"><u>Update Your Lenovo Display - Fast Track to the Latest Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/will-the-apple-vision-pro-ease-your-flight-experience-a-look-into-the-future-of-airline-comfort/"><u>Will the Apple Vision Pro Ease Your Flight Experience: A Look Into the Future of Airline Comfort?</u></a></li>
 </ul></div>
 

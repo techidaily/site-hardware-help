@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad X1 Carbon (Gen 9+) Unboxed & Assessed – Surpassing All in Business Laptops?
-date: 2025-02-07T03:27:29.705Z
-updated: 2025-02-12T03:52:53.892Z
+date: 2025-02-28T20:36:33.638Z
+updated: 2025-03-02T16:07:17.653Z
 tags:
   - laptops
 categories:
@@ -45,10 +45,6 @@ Image: Charles McLellan / ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Design
 
 Lenovo's ThinkPads rarely stray far from the familiar black livery with red and silver accents, and the ThinkPad X13s is no exception. The chassis, which is made of magnesium-aluminium (top) and [GFRP](https://en.wikipedia.org/wiki/Fibre-reinforced%5Fplastic) (bottom), is Thunder Black in colour, with branding on the lid and wrist rest, the iconic red TrackPoint embedded in the keyboard, and three buttons above the trackpad. Lenovo says that 90% of the magnesium used in the chassis is recycled, as is 97% of the plastic in the speaker enclosure, while 90% of the packaging is recycled and/or sustainable. 
@@ -69,10 +65,6 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Features
 
 As noted earlier, the ThinkPad X13s is powered by Qualcomm's latest [Snapdragon 8cx Gen 3](https://www.qualcomm.com/products/application/mobile-computing/snapdragon-8-series-mobile-compute-platforms/snapdragon-8cx-gen-3-compute-platform), a 5nnm SoC with 8 Kyro CPU cores (4 performance, 4 efficiency) and an Adreno 690 GPU. RAM is soldered onto the motherboard and, therefore, not user-upgradeable, and comes in 8GB, 16GB or 32GB capacities. Our review unit had 16GB, along with 256GB of M.2 2442 PCIe SSD storage (512GB and 1TB capacities are also available). 
@@ -82,10 +74,6 @@ The Snapdragon 8cx Gen 3 also handles wireless connectivity, supporting Wi-Fi 6E
 There are three screen options, all IPS panels with WUXGA (1920 x 1200) resolution: non-touch at 300 nits or 400 nits with lower power consumption and EyeSafe certification; and multi-touch at 300 nits with a 1000:1 contrast ratio rather than 1500:1 and 72% NTSC colour gamut support rather than 100% sRGB. Viewing angles are 170° across the board. Our review unit had the 300 nits non-touch screen, which although not suited for outdoor use is fine indoors. 
 
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Performance & battery life
 
@@ -114,10 +102,6 @@ Like the M2 MacBook Air, the ThinkPad X13s runs on a sufficiently low-power proc
 Thermal camera images of the ThinkPad X13s under load.
 
 Images: Charles McLellan / ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Conclusions
 
@@ -169,10 +153,6 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Alternatives to consider
 
 [Dell XPS 13 View now at Dell](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Fxps-13-laptop%2Fspd%2Fxps-13-9315-laptop)
@@ -218,20 +198,17 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-how-to-stop-recording-on-quicktime/"><u>[New] How To Stop Recording on QuickTime</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-achieve-stardom-in-the-digital-world-by-growing-your-facebook-followers/"><u>[New] In 2024, Achieve Stardom in the Digital World by Growing Your Facebook Followers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-navigating-new-user-registration-on-twitter/"><u>[Updated] 2024 Approved Navigating New User Registration on Twitter</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-a-critique-of-dogmatism/"><u>[Updated] In 2024, A Critique of Dogmatism</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-instant-setup-corsair-void-pro-driver-software-for-windows-users/"><u>Download & Instant Setup: Corsair Void Pro Driver Software for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-up-to-date-drivers-enhance-your-gaming-on-nvidia-gtx-amoled-with-windows-11-support/"><u>Download Up-to-Date Drivers: Enhance Your Gaming on Nvidia GTX Amoled with Windows 11 Support</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722966589965-hps-thunderbolt-station-g2-find-the-right-driver-for-120w-and-230w-models-here/"><u>HP's Thunderbolt Station G2: Find the Right Driver for 120W & 230W Models Here!</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/vesting-in-a-monthly-youtube-premium-worthwhile/"><u>Is Investing in a Monthly YouTube Premium Worthwhile?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-secure-geforce-gtx-460-drivers-downloading-guide-for-windows-users/"><u>Quick and Secure GeForce GTX 460 Drivers Downloading Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972626557-secure-boot-and-trusted-execution-technology-txt/"><u>Secure Boot and Trusted Execution Technology (TXT)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/spectaculous-14-animated-text-illustration-samples/"><u>Spectaculous 14 Animated Text Illustration Samples</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-for-your-hp-laserjet-p2035-printers-driver-woes-in-the-windows-environment-solved/"><u>Step-by-Step Fix for Your HP LaserJet (P2035) Printer's Driver Woes in the Windows Environment [Solved]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-x9a-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor X9a Phone Pattern Lock</u></a></li>
-<li><a href="https://article-helps.techidaily.com/transform-your-vfx-workflow-implementing-luts-within-after-effects/"><u>Transform Your VFX Workflow Implementing LUTs Within After Effects</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-hp-officejet-printer-driver-official-guidelines-for-windows-users/"><u>Update Your HP Officejet Printer Driver - Official Guidelines for Windows Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-live-stream-perfection-ranking-the-best-recorder-gadgets-in-tech-for-2024/"><u>[New] Live Stream Perfection Ranking the Best Recorder Gadgets in Tech for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-complete-tiktok-text-to-speech-guidebook/"><u>[New] The Complete TikTok Text-to-Speech Guidebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-ppts-potential-with-voiceover-techniques-for-2024/"><u>[Updated] Unlocking PPT's Potential with Voiceover Techniques for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-printing-with-updated-hp-pro-m404n-driver-software/"><u>Ensure Smooth Printing with Updated HP Pro M404n Driver Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-newly-released-amd-radeon-r5-driver-update-for-microsoft-windows-win-11-win-10-win-8-win-7/"><u>Get Newly Released AMD Radeon R5 Driver Update for Microsoft Windows (Win 11, Win 10, Win 8, Win 7)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-civi-3-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Civi 3 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keeping-your-epson-xp-420-up-to-date-finding-and-installing-recent-drives/"><u>Keeping Your Epson XP-420 Up-To-Date: Finding & Installing Recent Drives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-extended-warranty-period-announced-by-intel-for-gen-13-and-gen-14-processors-amidst-rising-instability-reports/"><u>New Extended Warranty Period Announced by Intel for Gen 13 and Gen 14 Processors Amidst Rising Instability Reports</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/obtain-the-most-recent-windows-compatible-audio-drivers-from-msi-today/"><u>Obtain the Most Recent Windows-Compatible Audio Drivers From MSI Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-on-new-ryzen-9000-cpus-at-best-buy-undercut-the-initial-costs-of-ryzen-7000-series/"><u>Save Big on New Ryzen 9000 CPUs at Best Buy – Undercut the Initial Costs of Ryzen 7000 Series</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-collaboration-guide-to-find-partners-and-make-collab-videos/"><u>YouTube Collaboration Guide to Find Partners and Make Collab Videos</u></a></li>
 </ul></div>
 

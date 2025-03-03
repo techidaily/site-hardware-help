@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air Discounted: Purchase the Newest Model for Just $280 – Shop Now at ZDNet!"
-date: 2025-01-11T01:49:51.032Z
-updated: 2025-01-16T23:23:09.315Z
+date: 2025-02-27T23:51:46.851Z
+updated: 2025-03-02T17:25:12.560Z
 tags:
   - laptops
 categories:
@@ -20,19 +20,11 @@ Kerry Wan/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the deal?
 
 Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-15-inch-Laptop%2Fdp%2FB0CX235DJ6%2F%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C34bbc0d0-ca0c-4a60-a455-de63e6e7f82e%7Cdtp&dtb=1), whether you opt for the 256GB or 512GB variant.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -106,10 +98,6 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 All that is to say, the [15-inch MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-15-inch-Laptop%2Fdp%2FB0CX235DJ6%2F%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C34bbc0d0-ca0c-4a60-a455-de63e6e7f82e%7Cdtp&dtb=1) faces the same criticisms as the older [13-inch model](https://www.zdnet.com/article/apple-macbook-air-m2-2022-review/), like the lack of utility ports and a slower refresh rate display. And for those reasons, it's not the laptop for me.
@@ -146,21 +134,19 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/oost-engagement-crafting-effective-thumbnails/"><u>[New] Boost Engagement Crafting Effective Thumbnails</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-huaweis-built-in-recorder-screen-capture-for-mate-and-p-series/"><u>[New] Huawei's Built-In Recorder Screen Capture for Mate and P Series</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-focused-growth-instagrams-must-use-tags-to-watch-out-for/"><u>[New] In 2024, Focused Growth Instagram's Must-Use Tags to Watch Out For</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-mastering-quick-profile-retrieval-on-facebook/"><u>[New] Mastering Quick Profile Retrieval on Facebook</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-voice-over-advantage-elevating-video-quality/"><u>[Updated] In 2024, The Voice-Over Advantage Elevating Video Quality</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhancing-chrome-performance-for-hd-facebook-content/"><u>2024 Approved Enhancing Chrome Performance for HD Facebook Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-best-premiere-plans-free-for-pros/"><u>2024 Approved Unveiling the Best Premiere Plans, FREE for Pros</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/8-free-instagram-story-savers-save-instagram-stories-without-limits-for-2024/"><u>8 Free Instagram Story Savers-Save Instagram Stories without Limits for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-latest-tech-in-depth-reviews-at-toms-hardware/"><u>Navigating the Latest Tech: In-Depth Reviews at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-technology-insights-from-toms-digital-world/"><u>Pioneering Technology Insights From Tom's Digital World</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/powerful-performance-on-screen-the-definitive-gigabyte-aorus-oled-monitor-guide-with-rich-colors-and-dynamic-range/"><u>Powerful Performance on Screen: The Definitive Gigabyte Aorus OLED Monitor Guide with Rich Colors & Dynamic Range</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/retro-computer-monitor-reaches-impressive-700hz-by-lowering-resolution-to-120p/"><u>Retro Computer Monitor Reaches Impressive 700Hz by Lowering Resolution to 120P</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/reviews-of-viewsonic-xg2n328-2k-oled-a-look-at-its-brilliance-and-vivid-colors/"><u>Reviews of ViewSonic XG2n328-2k OLED - A Look at Its Brilliance & Vivid Colors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsungs-odyssey-g9-the-new-ultrawide-49-oled-now-at-an-unprecedented-discount/"><u>Samsung's Odyssey G9: The New UltraWide 49 OLED Now at an Unprecedented Discount</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/shop-the-sale-32-gs32q-qhd-display-with-rapid-refresh-rate-of-170hz-from-gigabyte-for-199/"><u>Shop the Sale - 32 GS32Q QHD Display with Rapid Refresh Rate of 170Hz From Gigabyte for $199</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-a24-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy A24 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tightening-timelines-the-essential-guide-to-youtube-trimming/"><u>[New] Tightening Timelines The Essential Guide to YouTube Trimming</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/pcwordexcel/"><u>「PC上でWord/Excelファイルを探す究極ガイド：どこにデータが格納されていますか？」</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/opusmovavi/"><u>「オンラインOPUSファイルを自在に変換：Movaviの使いやすく無料ツール」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hilarity-in-harmony-great-ringtone-websites/"><u>2024 Approved Hilarity in Harmony Great Ringtone Websites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/an-in-depth-analysis-of-verizons-progress-in-5g-connectivity/"><u>An In-Depth Analysis of Verizon's Progress in 5G Connectivity</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-asus-rog-phone-8-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Asus ROG Phone 8 Is Unlocked</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-android-settings-how-to-reassign-primary-app-functionality/"><u>Mastering Android Settings: How to Reassign Primary App Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-customization-adjusting-text-and-icon-sizes-on-android-phones-and-tablets/"><u>Mastering Customization: Adjusting Text & Icon Sizes on Android Phones & Tablets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-real-time-subtitles-a-guide-to-activating-live-caption-features-on-your-google-pixel-device/"><u>Mastering Real-Time Subtitles: A Guide to Activating Live Caption Features on Your Google Pixel Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-benefits-of-reading-mode-a-comprehensive-guide-for-android-users/"><u>Mastering the Benefits of Reading Mode: A Comprehensive Guide for Android Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mobile-magic-learn-how-to-retrieve-written-content-from-photographs-using-your-smartphone/"><u>Mobile Magic: Learn How to Retrieve Written Content From Photographs Using Your Smartphone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-moto-g73-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Moto G73 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/retain-your-data-a-step-by-step-guide-to-reverting-back-to-previous-android-application-versions/"><u>Retain Your Data: A Step-by-Step Guide to Reverting Back to Previous Android Application Versions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-speedy-streams-the-noobs-snapchat-guide/"><u>Unlocking Speedy Streams The Noob’s Snapchat Guide</u></a></li>
 </ul></div>
 

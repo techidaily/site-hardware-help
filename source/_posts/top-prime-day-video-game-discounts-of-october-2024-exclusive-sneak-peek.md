@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek
-date: 2025-02-10T03:35:44.770Z
-updated: 2025-02-11T20:18:05.047Z
+date: 2025-02-26T02:24:56.675Z
+updated: 2025-03-02T22:57:09.042Z
 tags:
   - laptops
 categories:
@@ -88,10 +88,6 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -120,10 +116,6 @@ ZDNET
 * [Razer quick charging station for PS5 controllers in blue for $25 (save $15 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-quick-charging-stand-for-ps5-controllers-blue%2F6520072.p%3FskuId%3D6520072&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A USB-C charging stand for keeping your extra controllers powered up and at-the-ready.
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -169,10 +161,6 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -187,10 +175,6 @@ Kyle Kucharski/ZDNET
 * [HP Omen 45L for $2,200 (save $800 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-by-hp-45l-gaming-desktop-gt22-2085t-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming PC built with a 14th generation Intel Core i7 CPU, GeForce RTX 4080 Super GPU, 16GB of RAM, and a 1TB SSD.
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
 
@@ -226,10 +210,6 @@ Samsung/ZDNET
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
 * [Asus Nvidia GeForce RTX 4070 Overclock for $580 (save $100 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6540002.p%3FskuId%3D6540002&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This Nvidia-based GPU offers 12GB of DDR6 VRAM, a base clock speed of 2.55GHz that can be overclocked to 2.58GHz, 8K video output support, and support for up to 4 displays.
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -275,19 +255,24 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-best-practices-apps-and-sites-mastering-photo-framing/"><u>[New] 2024 Approved Best Practices Apps & Sites - Mastering Photo Framing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-silence-to-soundscape-embedding-mp3s-in-presentations/"><u>[New] From Silence to Soundscape Embedding MP3s in Presentations</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-how-to-avoid-watermarks-in-stock-purchases/"><u>[Updated] How To Avoid Watermarks in Stock Purchases</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-2023-fb-live-essentials-watching-made-easy/"><u>[Updated] In 2024, 2023 FB Live Essentials Watching Made Easy</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-instant-guide-setup-snapchat-for-mac-users-for-2024/"><u>[Updated] Instant Guide Setup Snapchat for Mac Users for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975049188-asus-z370-e-motherboard-download-latest-drivers-now/"><u>ASUS Z370-E Motherboard: Download Latest Drivers Now!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/beginners-ultimate-guide-to-cryptocurrency-markets-by-yl-software-experts/"><u>Beginner's Ultimate Guide to Cryptocurrency Markets by YL Software Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-m-audio-fast-track-drivers-here-works-with-windows-10-7-8-and-81-systems/"><u>Get Your M-Audio Fast Track Drivers Here - Works with Windows 10, 7, 8 and 8.1 Systems</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-add-youtube-end-screen-and-cards-effectively/"><u>How to Add YouTube End Screen and Cards Effectively</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oneplus-ace-2-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your OnePlus Ace 2 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-up-to-date-drivers-download-compatibility-suite-for-hp-elitebook-x360-1030-g2-laptop/"><u>Install Up-to-Date Drivers: Download Compatibility Suite for HP EliteBook X360 1030 G2 Laptop</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quick-quirks-making-manipulations-more-minimal/"><u>Quick Quirks Making Manipulations More Minimal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-the-updated-elan-smbus-driver-for-windows-users/"><u>Step-by-Step Installation of the Updated ELAN SMBus Driver for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updating-your-epson-ds-510-printer-software-made-simple-for-windows-operating-system/"><u>Updating Your Epson DS-510 Printer Software Made Simple - For Windows Operating System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-acer-touchpad-driver-windows-10/"><u>[Download] Acer Touchpad Driver Windows 10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-combine-videos-on-iphone-for-2024/"><u>[New] How to Combine Videos on iPhone for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-google-meeting-documentation-a-time-saving-guide-for-2024/"><u>[Updated] Mastering Google Meeting Documentation A Time-Saving Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-future-of-development-understanding-the-impact-of-next-gen-frameworks/"><u>[Updated] The Future of Development Understanding the Impact of Next-Gen Frameworks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-youtube-monetization-with-500-subscribers/"><u>[Updated] Unlock YouTube Monetization with 500 Subscribers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-easy-way-to-spot-and-view-trending-youtube-feedback/"><u>2024 Approved The Easy Way to Spot and View Trending YouTube Feedback</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-optimal-performance-update-your-sas-drives-on-windows-1187/"><u>Ensure Optimal Performance: Update Your SAS Drives on Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-msi-gs65-graphics-and-chipset-drivers-for-your-pc/"><u>Get the Newest MSI GS65 Graphics and Chipset Drivers for Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-or-renew-razer-naga-mice-drivers-on-windows-computers/"><u>How to Install or Renew Razer Naga Mice Drivers on Windows Computers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-realme-12-proplus-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Realme 12 Pro+ 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-gaming-speaker-t630-on-your-computer-windows-os-guide/"><u>Install Logitech Gaming Speaker T630 on Your Computer - Windows OS Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-realtek-rtl8188cu-wireless-lan-driver-optimized-for-windows-107-devices/"><u>Install Realtek RTL8188CU Wireless LAN Driver: Optimized for Windows 10/7 Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-gadgets-with-toms-computer-guide/"><u>Navigating the World of Gadgets with Tom's Computer Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rapid-rooting-of-new-words-through-these-brain-workouts/"><u>Rapid Rooting of New Words Through These Brain Workouts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/time-travel-through-free-visual-storerooms-for-2024/"><u>Time Travel Through Free Visual Storerooms for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-ranked-zoonotic-patterns-for-2024/"><u>Top-Ranked Zoonotic Patterns for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967488495-ultimate-lenovo-thinkpad-driver-downloads-your-assured-source-for-updates-and-safety/"><u>Ultimate Lenovo ThinkPad Driver Downloads – Your Assured Source for Updates & Safety.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-details-of-intels-prolonged-assurance-plan-for-their-new-core-series-i5-i7-i9-generations-13-to-14/"><u>Unlocking the Details of Intel's Prolonged Assurance Plan for Their New Core Series (I5, I7, I9) - Generations 13 to 14</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Files: Snag the High-Capacity 4TB Samsung T5 SSD for Just 50%% Less at Amazon | Tech News From ZDNET"
-date: 2025-02-09T01:35:33.356Z
-updated: 2025-02-11T16:57:32.647Z
+date: 2025-02-26T21:38:59.395Z
+updated: 2025-03-02T16:43:07.818Z
 tags:
   - laptops
 categories:
@@ -20,19 +20,11 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the deal?
 
 Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-edge%2Fbuy%2Fgalaxy-book4-edge-14-qualcomm-snapdragon-x-elite-512gb-sapphire-blue-np940xma-kb1us&publisher_slug=itechdaily19598&exclusive=1) or earn up to $500 off with an eligible device trade-in (promo price starting from $950) as part of the [Discover Samsung Fall Sale](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fdiscover-samsung-event%2F&publisher_slug=itechdaily19598&exclusive=1). 
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -118,19 +110,11 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book4-edge-copilot-pc-14-amoled-touch-screen-laptop-snapdragon-x-elite-16gb-memory-512gb-storage-sapphire-blue%2F6583789.p&publisher_slug=itechdaily19598&exclusive=1) is a powerful laptop that's worth the cost if you're willing to commit to the 16-inch, 1TB version with the top-tier Snapdragon processor. The deal is even sweeter if you have a Samsung smartphone and appreciate the integration this laptop brings to the Samsung ecosystem of devices. 
 
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -166,16 +150,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-essential-guide-to-rapid-signature-removal/"><u>[New] Essential Guide to Rapid Signature Removal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-improve-your-digital-art-experience-with-the-newest-wacom-cintiq-driver/"><u>Download & Improve Your Digital Art Experience with the Newest Wacom Cintiq Driver!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-the-simple-way-to-install-a-new-validity-fingerprint-sensor-driver/"><u>Download and Upgrade: The Simple Way to Install a New Validity Fingerprint Sensor Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978462934-fast-track-to-compatibility-update-your-surface-drivers-today/"><u>Fast Track to Compatibility: Update Your Surface Drivers Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-driver-for-brother-hl-l23eb4e6dprinter-instant-download-available/"><u>Get the Latest Driver for Brother HL-L23eb4e6d_Printer - Instant Download Available</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-pro-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 13 Pro Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721448703425-instagram-performance-issues-heres-a-guide-with-6-tips-to-speed-up-your-app-on-any-device/"><u>Instagram Performance Issues? Here's a Guide with 6 Tips to Speed Up Your App on Any Device!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/introducing-the-new-microsoft-copilot-mobile-app-available-on-ios/"><u>Introducing the New Microsoft Copilot Mobile App: Available on iOS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-fix-for-intel-nuc-easy-driver-update-process/"><u>Quick Fix for Intel NUC - Easy Driver Update Process</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/segmentscreen-examination/"><u>SegmentScreen Examination</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-easy-guide-to-downloading-qualcomm-atheros-ar3011-bluetooth-30-driver-software/"><u>[Fast Track] Easy Guide to Downloading Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-enhance-video-quality-by-cutting-out-background-sounds/"><u>[New] 2024 Approved Enhance Video Quality by Cutting Out Background Sounds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-ethical-engagement-sustainable-strategies-for-content-creeps/"><u>[Updated] 2024 Approved Ethical Engagement Sustainable Strategies for Content Creeps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-windows-10-syncing-guide-effortless-mov-file-management/"><u>2024 Approved Windows 10 Syncing Guide Effortless .mov File Management</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-technology-fails-steps-for-success/"><u>Advanced Technology Fails: Steps for Success?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-ready-to-order-ryzen-5-9600x-hits-canadian-shelves-is-it-worth-the-price/"><u>Get Ready to Order: Ryzen 5 9600X Hits Canadian Shelves - Is It Worth the Price?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-make-facebook-video-ads-in-an-creative-way/"><u>How to Make Facebook Video Ads in An Creative Way?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-trailblazing-the-future-of-3d-color-grading-tools/"><u>In 2024, Trailblazing the Future of 3D Color Grading Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-official-logitech-g27-steering-wheel-drivers-on-windows-11107/"><u>Install the Official Logitech G27 Steering Wheel Drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installupdate-hp-printer-driver-for-optimal-performance-on-windows-11/"><u>Install/Update HP Printer Driver for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-ideapad-100-driver-downloads-and-updates-for-enhanced-performance-on-windows-10/"><u>Lenovo IdeaPad 100 Driver Downloads & Updates for Enhanced Performance on Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-insight-sony-s6500-bd-reader-update/"><u>New Insight Sony S6500 BD Reader Update</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/reliable-techniques-by-sony-cyber-shot-expert-strategies-in-photograph-retrieval/"><u>Reliable Techniques by Sony Cyber Shot: Expert Strategies in Photograph Retrieval</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-like-a-native-innovative-vr-language-learning/"><u>Speak Like a Native: Innovative VR Language Learning</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-architect-behind-amds-success-speaks-out-mike-clark-on-pioneering-the-shift-to-5nm-zen-cpus-and-redefining-compact-desktops/"><u>The Architect Behind AMD's Success Speaks Out - Mike Clark on Pioneering the Shift to 5Nm Zen CPUs and Redefining Compact Desktops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-canoscan-lide-220-drivers-download-instructions-and-best-practices/"><u>Update Your CanoScan LiDE 220 Drivers: Download Instructions & Best Practices</u></a></li>
 </ul></div>
 

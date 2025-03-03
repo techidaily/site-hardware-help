@@ -1,7 +1,7 @@
 ---
 title: Top Rated Versatile Computer Stuns Users with Its Durable Components and Wide Appeal | CNET
-date: 2025-02-05T23:01:07.153Z
-updated: 2025-02-11T20:56:36.027Z
+date: 2025-02-28T23:48:38.597Z
+updated: 2025-03-02T22:39:18.355Z
 tags:
   - laptops
 categories:
@@ -95,19 +95,11 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-65%22-class---qn850bf-series---8k-uhd-neo-qled-lcd-tv---allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage%2A.product.100973437.html) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday TV deals still available**
 
 [LG 77-inch Class B2 Series 4K OLED TV for $2,000 (Save $300) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-77%22-class---oled-b2-series----4k-uhd-oled-tv---allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage%2A.product.100979801.html)
 
 [Samsung 55-inch OLED S95B Series 4K TV for $1,700 (save $450) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-55%22-class---oled-s95b-series---4k-uhd-tv---allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage%2A.product.4000045530.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday laptop & computer deals still available**
 
@@ -116,10 +108,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [HP 17.3" touchscreen laptop AMD Ryzen 5 for $450 (Save $150) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/hp-17.3%22-touchscreen-laptop---amd-ryzen-5-5625u---windows-11.product.100941337.html)
 
 [Acer Swift Edge 16" 4K OLED Laptop for $1,000 (Save $500) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/acer-swift-edge-16%22-4k-oled-laptop---amd-ryzen-7-6800u---windows-11.product.4000056371.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday gaming deals still available**
 
@@ -190,10 +178,6 @@ Here's how the different memberships stack up:
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Purchase for resale                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Annual 2% cash back on qualified Costco purchases                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Additional benefits for Travel and Costco services                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What were Costco's holiday hours during Black Friday and Cyber Monday?
 
 The Costco warehouses closed for Thanksgiving, but the retailer did have some exclusive deals through the online store. 
@@ -201,10 +185,6 @@ The Costco warehouses closed for Thanksgiving, but the retailer did have some ex
 Costco opened at 9:00 am on Black Friday, November 25, 2022\. 
 
 Though most warehouses open at 10:00am Monday through Friday, Cyber Monday deals at Costco were online-only, as is the tradition for the Cyber Monday sale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When was Cyber Monday 2022?
 
@@ -214,10 +194,6 @@ Cyber Monday takes place on the next Monday following the Thanksgiving holiday a
 
 Black Friday 2022 was on November 25th, 2022; the day after Thanksgiving.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best holiday deals 2022?
 
 ZDNET scoured holiday sales to find the best deals this year:
@@ -225,10 +201,6 @@ ZDNET scoured holiday sales to find the best deals this year:
 * [The best holiday 2022 deals](https://www.zdnet.com/article/best-early-black-friday-deals-amazon-walmart-best-buy-and-more/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Holiday deals by retailer**
 
@@ -271,10 +243,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found:
 
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -324,24 +292,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/get-now-amd-rx-6900-xt-driver-software-for-all-windows-users-111087/"><u>[Get Now] AMD RX 6900 XT Driver Software for All Windows Users (11/10/8/7)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-screen-recorder-showdown-top-choices-explored-for-2024/"><u>[New] Screen Recorder Showdown Top Choices Explored for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-windows-11-visualizer-for-rapid-images/"><u>[Updated] 2024 Approved Top Windows 11 Visualizer for Rapid Images</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-a-visual-voyage-exploring-pexels-for-perfect-shots/"><u>[Updated] A Visual Voyage Exploring Pexels for Perfect Shots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/claude-vs-chatgpt-why-this-new-bot-takes-the-lead-in-conversational-ai/"><u>Claude Vs. ChatGPT: Why This New Bot Takes the Lead in Conversational AI</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-microsoft-ergo-keyboard-4000-drivers-with-simple-steps-for-optimal-performance/"><u>Download and Update Microsoft Ergo Keyboard 4000 Drivers with Simple Steps for Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-method-to-upgrade-lenovo-energy-control-system-components/"><u>Effortless Method to Upgrade Lenovo Energy Control System Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-razer-optimal-performance-with-updated-drivers-for-windows-11-xp-to-vista-users/"><u>Ensure Razer Optimal Performance with Updated Drivers for Windows 11, XP to Vista Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-tips-to-repair-hp-monitor-connectivity-issues-via-windows-drivers-windows-1087/"><u>Expert Tips to Repair HP Monitor Connectivity Issues via Windows Drivers (Windows 10/8/7)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-gigabyte-nic-drivers-now-direct-download-links-available/"><u>Get Your Gigabyte NIC Drivers Now - Direct Download Links Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-windows-11-7-or-8-device-ready-zexmtes-ultimate-bluetooth-adapter-drivers-download/"><u>Get Your Windows 11, 7 or 8 Device Ready: Zexmte's Ultimate Bluetooth Adapter Drivers Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-or-install-your-epson-wf-7710-printer-driver-for-windows-108187-step-by-step-guide/"><u>How to Update or Install Your EPSON WF-7710 Printer Driver for Windows 10/8.1/8/7 - Step by Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-civi-3-disney-100th-anniversary-edition-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi Civi 3 Disney 100th Anniversary Edition Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hps-comprehensive-print-drivers-for-windows-systems-download-now/"><u>HP's Comprehensive Print Drivers for Windows Systems - Download Now</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-narzo-60-pro-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme Narzo 60 Pro 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-guide-to-youtube-copyright/"><u>In 2024, The Ultimate Guide to YouTube Copyright</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-bugs-how-to-troubleshoot-assassins-creed-valhalla-for-smooth-performance-on-your-computer/"><u>No More Bugs: How to Troubleshoot Assassin's Creed Valhalla for Smooth Performance on Your Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-updating-intel-irisplus-graphics-640-driver-effortless-and-speedy-setup/"><u>Step by Step Tutorial for Updating Intel Iris+ Graphics 640 Driver – Effortless & Speedy Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tales-of-arise-overcoming-the-ue4-critical-bug-challenge/"><u>Tales of Arise: Overcoming the UE4 Critical Bug Challenge</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-channel-visuals-hub-icon-and-banner-crafting-tips/"><u>[New] Channel Visuals Hub Icon & Banner Crafting Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-snap-and-share-smoothly-androids-most-reliable-screen-capture-tools-of-the-eight-best/"><u>[New] In 2024, Snap & Share Smoothly - Android's Most Reliable Screen Capture Tools of the Eight Best</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-10-raspberry-pi-5-pcie-expansion-board-revolutionizing-cost-effective-high-performance-data-management/"><u>Affordable $10 Raspberry Pi 5 PCIe Expansion Board: Revolutionizing Cost-Effective, High-Performance Data Management</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-unwanted-disk-filling-on-a-windows-system/"><u>Combatting Unwanted Disk Filling on a Windows System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-advanced-gadgets-with-toms-guide-to-computer-hardware/"><u>Discover Advanced Gadgets with Tom's Guide to Computer Hardware</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/efficient-screen-capture-devices-for-education/"><u>Efficient Screen Capture Devices for Education</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-computing-a-deep-dive-with-toms-hardware/"><u>Exploring the Latest in Computing - A Deep Dive with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-ready-affordable-12-m2-hardware-adapter-now-available-for-your-raspberry-pi-5/"><u>Get Ready: Affordable $12 M.2 Hardware Adapter Now Available for Your Raspberry Pi 5</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-future-predicted-by-this-customizable-raspberry-pi-fortune-teller-gadget/"><u>Get Your Future Predicted by This Customizable Raspberry Pi Fortune Teller Gadget</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-13-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 13 without Security Questions?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone X Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-the-power-of-ai-thumbnail-generators/"><u>New In 2024, The Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/raspberry-pi-model-bplus-transformation-tips-installing-16gb-ram-and-overcoming-boot-issues/"><u>Raspberry Pi Model B+ Transformation Tips: Installing 16GB RAM & Overcoming Boot Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-physxloaderdll-is-missing-a-step-by-step-guide/"><u>Resolving 'PhysXLoader.DLL' Is Missing - A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-non-functional-bluetooth-drivers-for-qualcomm-atheros-devices-on-windows-11/"><u>Resolving Non-Functional Bluetooth Drivers for Qualcomm Atheros Devices on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-expert-insights-into-cutting-edge-equipment/"><u>Tom's Tech Review: Expert Insights Into Cutting-Edge Equipment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-into-hardware-performance/"><u>Tom's Tech Reviews: Expert Insights Into Hardware Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-grove-plug-ins-for-enhanced-raspberry-pi-and-arduino-control/"><u>Top Grove Plug-Ins for Enhanced Raspberry Pi & Arduino Control</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart with ZDNet"
-date: 2025-02-10T17:04:48.590Z
-updated: 2025-02-12T05:11:12.793Z
+date: 2025-02-26T23:20:20.076Z
+updated: 2025-03-02T17:58:21.073Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,6 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -81,19 +77,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-insiders-guide-maximizing-windows-11-efficiency/"><u>[Updated] Insider's Guide Maximizing Windows 11 Efficiency</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-full-potential-of-video-creation-with-vida/"><u>2024 Approved Unlocking the Full Potential of Video Creation with Vida</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-acer-monitor-driver-downloads-for-optimal-performance/"><u>Complete Acer Monitor Driver Downloads for Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/driver-fixes-installed-addressing-compatibility-for-xbox-controllers-in-windows-os-versions-10-8-and-7/"><u>Driver Fixes Installed! Addressing Compatibility for Xbox Controllers in Windows OS Versions 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-download-hps-laserjet-pro-m127fn-printer-drivers-now/"><u>Easy Installation: Download HP's Laserjet Pro M127FN Printer Drivers Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-brother-mfc-7360n-printer-software-for-windows-11-8-and-7/"><u>Effortless Installation: Brother MFC-7360N Printer Software for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-mobile-entertainment-emulating-dreamcatcher-games-on-android/"><u>Enhance Mobile Entertainment: Emulating Dreamcatcher Games on Android</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-advice-on-getting-your-samsung-blu-ray-disc-player-back-up-and-running/"><u>Expert Advice on Getting Your Samsung Blu-Ray Disc Player Back Up and Running</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prodigious-editing-power-utilizing-inshot-on-devices/"><u>In 2024, Prodigious Editing Power Utilizing Inshot on Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-top-3-best-nintendo-switch-emulators-you-can-find/"><u>In 2024, Top 3 Best Nintendo Switch Emulators You Can Find</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ios-1-release-highlights-include-enhanced-podcast-functionality-fresh-emojis-and-eu-specific-changes-for-the-apple-marketplace-gadget-digest/"><u>New iOS 1# Release Highlights Include Enhanced Podcast Functionality, Fresh Emojis, and EU-Specific Changes for the Apple Marketplace | Gadget Digest</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-guide-how-to-install-or-upgrade-synaptics-touchpad-drivers-on-windows/"><u>Quick Guide: How to Install or Upgrade Synaptics Touchpad Drivers on Windows!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-effortless-battery-driver-updates-for-windows-users/"><u>Step-by-Step Tutorial: Effortless Battery Driver Updates for Windows Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-of-the-line-earbuds-face-off-galaxy-buds-vs-pixel-buds-vs-airpods-which-reigns-supreme/"><u>Top-of-the-Line Earbuds Face-Off: Galaxy Buds Vs. Pixel Buds Vs. AirPods – Which Reigns Supreme?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-artistic-advancements-top-smartphone-innovations/"><u>[New] Artistic Advancements Top Smartphone Innovations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-detailed-exploration-lightroom-app-on-the-android-platform-for-2024/"><u>[New] Detailed Exploration Lightroom App on the Android Platform for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/alarming-increase-in-returns-for-intels-13th-generation-cpus-retailers-report-fourfold-rise-compared-to-previous-gen/"><u>Alarming Increase in Returns for Intel's 13Th Generation CPUs - Retailers Report Fourfold Rise Compared to Previous Gen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-unseen-display-options-in-windows-11/"><u>Discover Unseen Display Options in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-geforce-rtx-3080-driver-now-compatible-with-windows-1187-systems/"><u>Get the Newest GeForce RTX 3080 Driver Now! Compatible with Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-gt-neo-5-se-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme GT Neo 5 SE via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovos-ultimate-guide-to-updating-and-securing-your-windows-710-bluetooth-drivers-trustworthy-download-options/"><u>Lenovo's Ultimate Guide to Updating and Securing Your Windows 7/10 Bluetooth Drivers - Trustworthy Download Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/llvm-compiler-abandons-3dnow-instruction-set-marking-a-technological-shift-for-amd/"><u>LLVM Compiler Abandons 3DNow! Instruction Set, Marking a Technological Shift for AMD</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/random-computer-turnoffs-could-a-faulty-psu-be-the-issue-expert-advice-from-yl-computing/"><u>Random Computer Turnoffs: Could a Faulty PSU Be the Issue? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/retaining-fl1-chip-style-in-new-zen-vee-cpus-future-refreshes-to-feature-advanced-rtx-graphics/"><u>Retaining FL1 Chip Style in New Zen Vee CPUs – Future Refreshes to Feature Advanced RTX Graphics?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/superior-hd-gameplay-through-top-captures/"><u>Superior HD Gameplay Through Top Captures</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-modern-hardware-by-toms-experts/"><u>The Ultimate Guide to Modern Hardware by Tom's Experts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-honor-x9a-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Honor X9a Phones</u></a></li>
 </ul></div>
 

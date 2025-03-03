@@ -1,7 +1,7 @@
 ---
 title: Discovering the Leading Copilot+ Gaming Laptops of IFA 2Eight-Two (IFA) | Expert Reviews
-date: 2025-01-15T22:59:42.039Z
-updated: 2025-01-17T02:36:33.239Z
+date: 2025-02-28T16:43:31.910Z
+updated: 2025-03-02T17:57:54.778Z
 tags:
   - laptops
 categories:
@@ -36,10 +36,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Dell XPS 13
 
 Cesar Cadenas/ZDNET
@@ -47,10 +43,6 @@ Cesar Cadenas/ZDNET
 Dell revealed it is relaunching its [XPS 13 laptop](https://www.tkqlhce.com/click-9041660-15815779-1715964270000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), which will now house Qualcomm's Snapdragon X Elite chipset. It's already available for pre-order at a discounted $999\. The device possesses all of the great features the series is known for, such as the lattice-style keyboard and gorgeous display. This time, it'll have an NPU to enhance the user experience and also have a battery life of up to 27 hours.
 
 What's particularly great is that it is cheaper than the Intel Core Ultra Series 1 model. Thanks to Qualcomm's hardware, the revamped XPS 13 will most likely perform at a similar level to the older laptop, which every user can appreciate.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Acer TravelMate P6 14 AI
 
@@ -62,10 +54,6 @@ Acer came out the gate strongly, announcing four Copilot+ PCs before IFA even be
 
 To ensure it can fit inside bags, Acer gave this laptop a friendly 14-inch WQXGA Plus (2880 x 1800 pixels) display. The glass is surrounded by thin bezels and supports a 100% sRGB color gamut. Together, the two features enable "outstanding picture quality," the company says. While this model won't be powered by Qualcomm hardware, it instead leverages Intel's new Core Ultra Series 2 processor, and we're excited to see how that fares.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Samsung Galaxy Book 5 Pro 360
 
 Samsung/ZDNET
@@ -76,10 +64,6 @@ Samsung is also getting into the fray, with the tech giant revealing its first G
 
 The Galaxy Book 5 Pro 360 will possess one of the upcoming Intel Core Ultra Series 2 processors. Samsung is planning to inject its own AI tech into the laptop, such as Live Translate, Circle to Search, and Chat Assist.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Asus ProArt PZ13
 
 Asus/ZDNET
@@ -87,10 +71,6 @@ Asus/ZDNET
 Asus, like Acer, revealed many models leading up to IFA 2024, but the most fascinating is the [ProArt PZ13](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-proart-pz13-13-3k-detachable-laptop-copilot-pc-qualcomm-snapdragon-x-plus-16gb-memory-1tb-ssd-nano-black%2F6585178.p%3FskuId%3D6585178&publisher_slug=itechdaily19598&exclusive=1). It is a detachable laptop for artists on the go, with vibes similar to that of [Microsoft's Surface Pro 11](https://www.zdnet.com/article/the-tablet-i-recommend-most-for-business-travel-is-not-an-ipad-or-thinkpad/). It features the company's Lumina OLED touchscreen, supporting "stylus input," and boasts stunning visual fidelity. 
 
 The ProArt PZ13 can output 3K resolution images, much like the Galaxy Book 5 model. Plus, it is Pantone Validation certified, allowing it to showcase realistic-looking colors and skin tones. Unlike previous ProArt models, Asus is notably more budget-friendly, starting at $1,099.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. MSI Stealth 16 AI Plus
 
@@ -130,22 +110,14 @@ The chipset comes equipped with an NPU capable of reaching 50 TOPS, up from the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/uick-calculator-your-video-monetization/"><u>[New] Quick Calculator Your Video Monetization</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capturing-moments-like-never-before-toolwiz-apps-2023-review/"><u>[Updated] Capturing Moments Like Never Before Toolwiz App's 2023 Review</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-digital-doppelganger-deliberation-building-caricatured-characters/"><u>[Updated] Digital Doppelganger Deliberation Building Caricatured Characters</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-photo-changers-ultimate-online-upgrade/"><u>2024 Approved Essential Photo Changers Ultimate Online Upgrade</u></a></li>
-<li><a href="https://win-trending.techidaily.com/budget-friendly-microsoft-office-suite-get-project-and-visio-pro-for-only-20-from-zdnet-today/"><u>Budget-Friendly Microsoft Office Suite: Get Project and Visio Pro for Only $20 From ZDNet Today!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/capture-the-stars-top-skies-sites-reviewed/"><u>Capture the Stars Top Skies Sites Reviewed</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/essential-tips-choosing-the-right-printer-for-your-needs/"><u>Essential Tips: Choosing the Right Printer for Your Needs</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 15 Pro/iPad? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-the-gadget-jar-deep-dives-into-toms-electronic-universe/"><u>Inside the Gadget Jar: Deep Dives Into Tom’s Electronic Universe</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-toms-gear-workshop-expert-advice-on-building-pcs/"><u>Inside Tom's Gear Workshop: Expert Advice on Building PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/look-for-disciplinary-changes-at-school-contact-their-school-if-necessary-to-get-a-better-understanding-of-any-disciplinary-issues-or-changes-in-behavior-fr92/"><u>Look for Disciplinary Changes at School: Contact Their School if Necessary to Get a Better Understanding of Any Disciplinary Issues or Changes in Behavior From Teachers and Staff Who See Your Child on a Daily Basis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-digital-world-with-guidance-from-toms-hardware-reviews/"><u>Mastering the Digital World with Guidance From Tom’s Hardware Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-hardware-trends-at-toms-digital-workshop/"><u>Pioneering Hardware Trends at Tom's Digital Workshop</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionary-maxsun-mini-itx-board-unique-rear-gpu-mounting-design/"><u>Revolutionary MaxSun Mini-ITX Board: Unique Rear GPU Mounting Design</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionizing-space-maxsun-introduces-cutting-edge-backside-gpu-mini-itx-motherboard/"><u>Revolutionizing Space: Maxsun Introduces Cutting-Edge Backside GPU Mini-ITX Motherboard</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-analysis-inside-the-world-of-tomve-hardware-hub/"><u>Tech Analysis: Inside the World of Tom've Hardware Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-uncontrollable-scroll-troubleshooting-steps/"><u>Windows Uncontrollable Scroll: Troubleshooting Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-strategies-for-succeeding-with-facebook-video-marketing-and-revenue/"><u>[New] In 2024, Strategies for Succeeding with Facebook Video Marketing and Revenue</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-masterful-content-creation-with-these-top-editing-tools-for-2024/"><u>[New] Masterful Content Creation with These Top Editing Tools for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-amd-radeon-r9-faults-on-windows-10/"><u>Fixing AMD Radeon R9 Faults on Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/review-of-the-sonos-ace-falling-for-high-end-bluetooth-earphones-with-unmatched-sound-quality/"><u>Review of the Sonos ACE: Falling for High-End Bluetooth Earphones with Unmatched Sound Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reviving-gaming-glory-the-case-for-a-wii-u-inspired-controller-on-the-nintendo-switch/"><u>Reviving Gaming Glory: The Case for a Wii U-Inspired Controller on the Nintendo Switch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-and-googles-upcoming-smartphones-highlighted-in-the-latest-tech-weekly-digest/"><u>Samsung & Google's Upcoming Smartphones Highlighted in the Latest Tech Weekly Digest</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-unveils-revolutionary-galaxy-z-flip-6-the-next-generation-of-foldable-technology/"><u>Samsung Unveils Revolutionary Galaxy Z Flip 6: The Next Generation of Foldable Technology</u></a></li>
 </ul></div>
 

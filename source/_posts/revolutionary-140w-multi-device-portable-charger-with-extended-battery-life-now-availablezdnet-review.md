@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 140W Multi-Device Portable Charger with Extended Battery Life - Now Available![ZDNet Review]
-date: 2025-01-13T21:53:58.384Z
-updated: 2025-01-17T00:30:08.896Z
+date: 2025-02-27T01:50:51.450Z
+updated: 2025-03-02T17:09:15.393Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ Jack Wallen/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ZDNET's key takeaways
 
 * The Baseus 140W portable charger is available now on [Amazon for $109](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3594bbf8-78b1-4bd7-99c3-66ac94315a67%7Cdtp&dtb=1).
@@ -44,10 +40,6 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 
 [ZDNET Recommends Baseus 140W Portable Charger This portable charger packs a 24000mAh battery for plenty of charges. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3594bbf8-78b1-4bd7-99c3-66ac94315a67%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The specs
 
 * PD 3.1 technology to deliver 140W super-fast charge.
@@ -58,10 +50,6 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 * 1 USB-A and 2 USB-C ports.
 * Actual dimensions - 5.43" X 3.38" X 1.26".
 * 18-month warranty.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## My experience
 
@@ -86,10 +74,6 @@ One thing to keep in mind is that I charged the tablet with the slower-charged U
 **Also: [This monster 4-port travel adapter can charge all of your tech, at home or on the go](https://www.zdnet.com/home-and-office/this-monster-4-port-travel-adapter-can-charge-all-of-your-tech-at-home-or-on-the-go/)**
 
 According to the specs, the power bank allows for fast charging of an iPhone 15 Pro Max to 56% and a MacBook Pro 16" laptop to 55% in just 30 minutes. My MacBook Pro is a 13" with an M1 chip and I was able to go from 63-100% in about 20 minutes. Of course, using the fast charge with the MacBook Pro alone consumed about 25% of the charge from the bank. It's pretty easy to conclude that if you're only charging phones, you'll get even more life from a full charge.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -127,21 +111,16 @@ Although it took considerable time to get this bank to a full charge, the result
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-reddits-hidden-gems-6-tactics-that-transform-beginners-into-titans/"><u>[New] In 2024, Reddit's Hidden Gems 6 Tactics That Transform Beginners Into Titans</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-step-by-step-streaming-on-discord-tips-to-engage-and-retain-viewers/"><u>[Updated] 2024 Approved Step-by-Step Streaming on Discord Tips to Engage and Retain Viewers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-streamlining-social-signals-with-tiktok-and-linktree-bio-mix/"><u>[Updated] Streamlining Social Signals with TikTok and Linktree Bio Mix</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comparing-powerhouses-samsungs-latest-laptop-vs-macbook-pro-in-a-showdown-gadget-review-blog/"><u>Comparing Powerhouses: Samsung's Latest Laptop Vs. MacBook Pro in a Showdown | Gadget Review Blog</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-x-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone X</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-setting-and-changing-personalized-iphone-tones/"><u>In 2024, Setting & Changing Personalized iPhone Tones</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-nokia-c210-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Nokia C210 Phone Pattern Lock</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/lost-data-restoration-a-comprehensive-guide-to-retrieving-deleted-files-from-your-android-tablet/"><u>Lost Data Restoration: A Comprehensive Guide to Retrieving Deleted Files From Your Android Tablet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-computer-systems-expert-reviews-by-toms-hardware-specialists/"><u>Mastering Computer Systems: Expert Reviews by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-hardware-with-tom-in-depth-analysis-and-expert-advice/"><u>Mastering Hardware with Tom: In-Depth Analysis and Expert Advice</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-technology-choices-through-toms-hardware-evaluations/"><u>Mastering Technology Choices Through Tom's Hardware Evaluations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-art-of-computer-components-with-toms-hardware-wisdom/"><u>Mastering the Art of Computer Components with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-market-an-in-depth-look-at-asuss-certified-supermom-csm-b760m-ct-motherboard/"><u>Mastering the Market: An In-Depth Look at Asus's Certified Supermom (CSM) B760M-CT Motherboard</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/msi-launches-critical-agesa-12nv-bios-update-to-address-amds-zen-2-zero-day-vulnerability/"><u>MSI Launches Critical AGESA 1.2.nv BIOS Update to Address AMD's Zen 2 Zero-Day Vulnerability</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-high-tech-world-with-toms-equipment-experts/"><u>Navigating High-Tech World with Tom's Equipment Experts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unlocking-gopro-potential-model-by-model-insight-for-2024/"><u>Unlocking Gopro Potential Model By Model Insight for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ound-to-word-converter-for-videos-for-2024/"><u>[New] Sound to Word Converter for Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quick-recording-visuals-plus-verbal-input/"><u>[Updated] In 2024, Quick Recording Visuals + Verbal Input</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify some outdated your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-gt-5-240w-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme GT 5 (240W) FRP Locks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipados-16-released-discover-the-new-functions-and-updates-for-free/"><u>IPadOS 16 Released! Discover the New Functions and Updates for Free</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premium-video-collaboration-software-guides/"><u>Premium Video Collaboration Software Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-missing-link-in-gaming-peripherals-the-need-for-screenshot-functionality-in-mouse-designs/"><u>The Missing Link in Gaming Peripherals: The Need for Screenshot Functionality in Mouse Designs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-versatile-audio-companion-unpacking-the-features-of-the-jbl-extreme-4-review/"><u>The Versatile Audio Companion: Unpacking the Features of the JBL Extreme 4 Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/thrice-the-sound-delight-discover-why-i-love-my-bluetooth-speakers-so-much/"><u>Thrice the Sound Delight - Discover Why I Love My Bluetooth Speakers So Much</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-wireless-keyboard-picks-for-2e24-a-comprehensive-guide/"><u>Top-Ranked Wireless Keyboard Picks for 2E24: A Comprehensive Guide</u></a></li>
 </ul></div>
 

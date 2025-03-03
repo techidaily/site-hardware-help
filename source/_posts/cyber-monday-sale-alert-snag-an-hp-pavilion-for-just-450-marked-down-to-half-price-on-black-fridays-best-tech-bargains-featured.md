@@ -1,7 +1,7 @@
 ---
 title: "Cyber Monday Sale Alert: Snag an HP Pavilion for Just $450, Marked Down to Half Price on Black Friday's Best Tech Bargains - Featured"
-date: 2025-01-27T18:26:01.122Z
-updated: 2025-01-30T18:05:15.254Z
+date: 2025-03-01T02:15:22.212Z
+updated: 2025-03-02T16:17:17.519Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,22 +59,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-hero-black-vs-keymission-for-the-ultimate-cinematographer/"><u>[Updated] In 2024, HERO Black vs Keymission For the Ultimate Cinematographer</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-top-7-best-4k-action-cameras/"><u>[Updated] Top 7 Best 4K Action Cameras</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-data-into-strategic-content-moves/"><u>[Updated] Transforming Data Into Strategic Content Moves</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-blizzard-of-champions-highlighting-snowboard-cross-excellence-22-olympics/"><u>2024 Approved Blizzard of Champions Highlighting Snowboard Cross Excellence, '22 Olympics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-thunderbolt-3-drivers-for-windows-10-8-and-7/"><u>Download & Install Latest Thunderbolt 3 Drivers for Windows 10, 8, & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-updating-your-amd-smbus-controller-drivers/"><u>Easy Guide: Updating Your AMD Smbus Controller Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tutorial-refresh-samsung-monitor-drivers-in-windows-pcs/"><u>Easy Tutorial: Refresh Samsung Monitor Drivers in Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-ds-530-driver-update-install-on-windows-11-64-bit-step-by-step-guide/"><u>Epson DS-530 Driver Update: Install on Windows 11 (64-Bit) – Step by Step Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/exploring-digital-asset-trading-platforms-with-yl-softwares-comprehensive-guide-to-crypto-exchanges/"><u>Exploring Digital Asset Trading Platforms with YL Software's Comprehensive Guide to Crypto Exchanges</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-and-install-thinkpad-t420s-drivers-for-smooth-windows-t-10-experience/"><u>How to Update and Install ThinkPad T420s Drivers for Smooth Windows T 10 Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-150-2023-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia 150 (2023) Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-nokia-c210-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Nokia C210 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-microsoft-store-eradicating-code-0x80072f30/"><u>Mastering the Microsoft Store: Eradicating Code 0X80072F30</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-steps-updating-your-intel-graphics-driver-made-easy/"><u>Simple Steps: Updating Your Intel Graphics Driver Made Easy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/steelseries-gaming-mouse-drivers-free-download-now/"><u>SteelSeries Gaming Mouse Drivers - Free Download Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-silent-infiltrator-confronting-wacatacbml-in-your-windows-domain/"><u>The Silent Infiltrator: Confronting Wacatac.B!ml in Your Windows Domain</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975919869-update-your-asus-laptop-software-download-required-drivers-now/"><u>Update Your ASUS Laptop Software - Download Required Drivers Now</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-visual-narratives-with-mastered-stories-bokeh-for-2024/"><u>[New] Elevate Your Visual Narratives with Mastered Stories Bokeh for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-conversations-and-sharing-in-facebook-world-for-2024/"><u>[Updated] Mastering Conversations and Sharing in Facebook World for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unveiling-the-best-cinematic-love-top-8-premium-wedding-videos-online/"><u>2024 Approved Unveiling the Best Cinematic Love Top 8 Premium Wedding Videos Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/acer-predator-helios-300-optimize-your-system-with-latest-graphics-driver-updates/"><u>Acer Predator Helios 300 - Optimize Your System With Latest Graphics Driver Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-conscious-buyers-bounty-seal-the-best-deals-for-todays-processors/"><u>Budget-Conscious Buyer's Bounty: Seal the Best Deals for Today's Processors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/build-and-optimize-lessons-in-hardware-selection-from-toms-circuitry/"><u>Build and Optimize: Lessons in Hardware Selection From Tom's Circuitry</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968598062-fast-fix-update-dell-g7-drivers-in-a-snap/"><u>Fast Fix: Update Dell G7 Drivers in a Snap!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-serial-device-drivers-ch3e0g-compatible-with-windows-11/"><u>How to Install Updated Serial Device Drivers: CH3e0G Compatible with Windows 11</u></a></li>
+<li><a href="https://win-data.techidaily.com/maximieren-sie-die-power-von-shadow-copy-funktionen-unter-windows-11-expertenrat/"><u>Maximieren Sie Die Power Von Shadow Copy-Funktionen Unter Windows 11: Expertenrat</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-8-most-popular-book-apps-to-enhance-your-reading-experience/"><u>The 8 Most Popular Book Apps to Enhance Your Reading Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-essential-checklist-for-full-facebook-messaging-archives/"><u>The Essential Checklist for Full Facebook Messaging Archives</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-demystifying-ai-game-generators-from-definition-to-distinction-for-2024/"><u>Updated Demystifying AI Game Generators From Definition to Distinction for 2024</u></a></li>
 </ul></div>
 

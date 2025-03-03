@@ -1,7 +1,7 @@
 ---
 title: Get Your New Asus VivoBook Pro Today for 30%% Less! Limited-Time Offer Exclusively Featured by ZDNet at Amazon
-date: 2025-02-07T21:29:56.088Z
-updated: 2025-02-11T19:37:04.297Z
+date: 2025-02-25T17:11:49.427Z
+updated: 2025-03-02T20:28:31.807Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -74,10 +70,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf998dda9-780b-4b6b-95cc-06c2f0c424b7%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -85,10 +77,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf998dda9-780b-4b6b-95cc-06c2f0c424b7%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -124,24 +112,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-premier-computing-choices-the-finest-selection/"><u>[New] 2024 Approved Premier Computing Choices The Finest Selection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-chart-your-course-to-adventure-the-comprehensive-guide-to-vr-tours/"><u>[New] Chart Your Course to Adventure The Comprehensive Guide to VR Tours</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-step-by-step-windows-10-audio-capture-for-2024/"><u>[New] Step-by-Step Windows 10 Audio Capture for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-step-by-step-to-snapchat-stardom-become-a-gif-virtuoso/"><u>[Updated] 2024 Approved Step-by-Step to Snapchat Stardom Become a GIF Virtuoso</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-xbox-screen-sharing-setting-up-for-fb-livestreaming/"><u>[Updated] In 2024, Xbox Screen Sharing Setting Up for FB Livestreaming</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976993955-challenges-include-cavitation-erosion-and-maintaining-stable-two-phase-flow-patterns/"><u>Challenges Include Cavitation, Erosion, and Maintaining Stable Two-Phase Flow Patterns</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-setup-tutorial-configuring-logitech-mx-master-with-dedicated-software/"><u>Complete Setup Tutorial: Configuring Logitech MX Master with Dedicated Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-downloading-and-updating-your-dell-laptops-latitude-e6430-windows-drivers/"><u>Comprehensive Guide to Downloading & Updating Your Dell Laptop's Latitude E6430 Windows Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-epson-v700-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Epson V700 Printer Drivers - Compatible with Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-epson-wf-2630-printer-driver-compatible-with-windows-7-81-and-10/"><u>Download Epson WF-2630 Printer Driver: Compatible with Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-ways-to-send-documents-through-fax-on-your-smartphone/"><u>Easy Ways to Send Documents Through Fax on Your Smartphone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722966500617-effortless-installation-of-the-latest-amd-smbus-drivers-get-started-now/"><u>Effortless Installation of the Latest AMD SMBus Drivers - Get Started Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elevate-your-pcs-performance-with-msi-z370-a-pro-drivers-free-download-available-now/"><u>Elevate Your PC's Performance with MSI Z370-A Pro Drivers – Free Download Available Now</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/immerse-in-pc-game-moments-capture-perfectly-in-2024/"><u>Immerse in PC Game Moments - Capture Perfectly, In 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/implementing-windows-11-version-2004-update-includes-new-conexant-drivers/"><u>Implementing Windows 11 Version 2004 - Update Includes New Conexant Drivers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-guide-to-whatsapp-vocal-exchange/"><u>In 2024, Comprehensive Guide to WhatsApp Vocal Exchange</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hearing-heroism-essential-online-picks-for-tts-files/"><u>In 2024, Hearing Heroism Essential Online Picks for TTS Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-data-transfer-update-your-windows-computers-pl2303-serial-port-driver-today/"><u>Secure Your Data Transfer: Update Your Windows Computer's PL2303 Serial Port Driver Today</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211311018--tough-love-tarot/"><u>Tough Love Tarot | Free Book</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-jumpstart-your-channel-key-hashtags-for-6-figure-impact/"><u>[New] In 2024, Jumpstart Your Channel Key Hashtags for 6-Figure Impact</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-pathway-to-saving-social-media-gifs-on-different-devices/"><u>[New] In 2024, The Ultimate Pathway to Saving Social Media GIFs on Different Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-host-smart-and-cheap-your-guide-to-youtube-seminars-for-2024/"><u>[Updated] Host Smart and Cheap Your Guide to Youtube Seminars for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024s-ultimate-computing-power-list-detailed-cpu-scorecard-and-benchmark-analysis/"><u>2024'S Ultimate Computing Power List: Detailed CPU Scorecard & Benchmark Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-nvidias-upcoming-blackwood-and-geforce-rtx-50-series-reveal-specs-launch-timelines-costs-and-latest-news/"><u>Comprehensive Guide to Nvidia's Upcoming Blackwood & GeForce RTX 50 Series Reveal: Specs, Launch Timelines, Costs, and Latest News</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-to-set-up-wake-on-lan-in-windows-11/"><u>Comprehensive Tutorial to Set Up Wake-on-LAN in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciding-on-device-duration-how-often-should-new-phones-be-purchased/"><u>Deciding on Device Duration: How Often Should New Phones Be Purchased?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/explore-the-world-of-computing-with-toms-hardware-reviews-and-news/"><u>Explore the World of Computing with Tom's Hardware Reviews and News</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-toms-hardware-authoritative-articles-on-latest-electronics/"><u>Exploring Gadgets with Tom's Hardware: Authoritative Articles on Latest Electronics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-gt-bootloader-easily-by-drfone-android/"><u>How to Unlock Honor 90 GT Bootloader Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huaweis-future-processor-strategy-drawing-inspiration-from-apples-m-series-and-intels-lunar-lake-for-next-gen-kirin-cpu/"><u>Huawei's Future Processor Strategy: Drawing Inspiration From Apple's M-Series & Intel's Lunar Lake for Next-Gen Kirin CPU</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-pushes-back-launch-of-groundbreaking-tech-expo-until-2025-due-to-staff-cuts-and-market-instability/"><u>Intel Pushes Back Launch of Groundbreaking Tech Expo Until 2025 Due to Staff Cuts and Market Instability</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-drivers-problems-for-hp-envy-asterisk3-printer-in-microsoft-windows/"><u>Resolving Drivers Problems for HP Envy Asterisk(3) Printer in Microsoft Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-expert-guides-on-pc-components-and-gadgets/"><u>Tom's Tech Hub: Expert Guides on PC Components & Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-expert-insights-on-pc-components-and-gadgets/"><u>Tom's Tech Review: Expert Insights on PC Components and Gadgets</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/youtube-videos-into-soundtracks/"><u>Turn YouTube Videos Into Soundtracks</u></a></li>
 </ul></div>
 

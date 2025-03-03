@@ -1,7 +1,7 @@
 ---
 title: Affordable Lenovo Device Ideal for Hybrid Professionals - Save 1K Now![ZDNet]
-date: 2025-02-05T18:46:39.637Z
-updated: 2025-02-11T17:51:40.922Z
+date: 2025-02-28T16:36:41.566Z
+updated: 2025-03-02T23:45:59.511Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,6 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C84c53c5f-f96c-4610-b720-0889991981e4%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C84c53c5f-f96c-4610-b720-0889991981e4%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Since October Prime Day has already wrapped up, we're not entirely sure how long these sales will continue, but if you've got your eye on a new machine, we recommend acting fast. 
@@ -77,21 +73,15 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-revolutionize-your-content-delivery-with-live-streaming-expertise/"><u>[New] In 2024, Revolutionize Your Content Delivery with Live Streaming Expertise</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-secure-and-updated-altering-numbers-in-tiktok-profiles/"><u>[New] Secure and Updated Altering Numbers in TikTok Profiles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-saving-instagrams-a-step-by-step-approach-for-windowsmacos-users/"><u>[Updated] In 2024, Saving Instagrams A Step-by-Step Approach for Windows/macOS Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/broadcom-bluetooth-driver-free-download-for-windows-1087-users/"><u>Broadcom Bluetooth Driver: Free Download for Windows 10/8/7 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-installing-epson-v500-scanprint-utility-driver/"><u>Complete Guide: Installing Epson V500 Scan/Print Utility Driver</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-cinematic-tales-in-documentary-scripts/"><u>Crafting Cinematic Tales in Documentary Scripts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-brother-hl-2270dw-on-windows-easy-guide-and-instructions/"><u>Download Updated Drivers for Brother HL-2270DW on Windows - Easy Guide & Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-ds-30-printer-software-for-windows-operating-systems-including-10-and-8/"><u>Get the Latest Epson DS-30 Printer Software for Windows Operating Systems Including 10 and 8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-logitech-momo-racing-controller-pc-gaming-setup-guide/"><u>Get the Logitech MOMO Racing Controller - PC Gaming Setup Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722959283196-hp-designjet-500-driver-setup-secure-and-fast-downloads-now-available/"><u>HP DesignJet 500 Driver Setup - Secure and Fast Downloads Now Available!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-how-to-embellish-videos-with-melodies-on-iphone-three-free-ways/"><u>In 2024, How to Embellish Videos with Melodies on iPhone – Three Free Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Phone without PIN</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-12-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 12 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>New In 2024, Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-motherboard-drivers-in-windows/"><u>Step-by-Step Guide: Updating Your Motherboard Drivers in Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-a24-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy A24 Phones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-guide-to-selective-object-removal-in-iphone-images-for-2024/"><u>[New] Ultimate Guide to Selective Object Removal in iPhone Images for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-filmmakers-companion-the-journey-from-capturing-to-post-production-of-360-videos/"><u>[Updated] In 2024, A Filmmaker's Companion The Journey From Capturing to Post-Production of 360 Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-home-studio-heroics-your-path-to-effectful-artistry/"><u>2024 Approved Home Studio Heroics Your Path to Effectful Artistry</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/6-ways-to-increase-audience-retention-on-youtube-for-2024/"><u>6 Ways To Increase Audience Retention on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dell-sm-bus-controller-software-revision-whats-new/"><u>Dell SM Bus Controller Software Revision - What's New?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-steelseries-arctis-cued-up-downloading-and-installing-the-latest-drivers/"><u>Get Your SteelSeries Arctis Cued Up: Downloading & Installing the Latest Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-logitech-wireless-gaming-mouse-setup-with-our-windows-driver-guide/"><u>Secure Your Logitech Wireless Gaming Mouse Setup with Our Windows Driver Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonoma-macos-a-deep-dive-into-apples-game-mode-efficiency-boost/"><u>Sonoma macOS: A Deep Dive Into Apple's Game Mode Efficiency Boost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-setup-for-your-linksys-ae2500-secure-the-most-recent-wireless-router-drivers-today/"><u>Speedy Setup for Your Linksys AE2500: Secure the Most Recent Wireless Router Drivers Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-invisible-fullscreen-window/"><u>Windows 10: Invisible Fullscreen Window?</u></a></li>
 </ul></div>
 

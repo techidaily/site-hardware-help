@@ -1,7 +1,7 @@
 ---
 title: "Disassembling Dell's Innovative Luna: The Modular Laptop of Tomorrow?"
-date: 2025-01-11T23:19:40.571Z
-updated: 2025-01-17T01:36:32.408Z
+date: 2025-02-26T21:41:43.686Z
+updated: 2025-03-03T02:41:42.017Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kyle Kucharski/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -108,10 +104,6 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [HP OmniBook X 14](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omnibook-x-copilot-pc-14-2-2k-touch-screen-laptop-snapdragon-x-elite-16gb-memory-1tb-sdd-meteor-silver%2F6583279.p&publisher_slug=itechdaily19598&exclusive=1) is a solid choice for remote workers, digital nomads, and professionals who need a powerful laptop with a marathon battery. I would also recommend this laptop to those who are actively engaged with AI-related tasks and all in with its future applications. 
@@ -148,24 +140,17 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-5-essential-gameplay-cams-for-live-streamers/"><u>[New] 2024 Approved Top 5 Essential Gameplay Cams for Live Streamers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-pros-picks-6-superior-background-cleaners-for-your-photos/"><u>[New] In 2024, Pro's Picks – 6 Superior Background Cleaners for Your Photos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-essential-guide-to-transferring-tunes-across-platforms-for-2024/"><u>[New] The Essential Guide to Transferring Tunes Across Platforms for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-in-depth-look-at-high-quality-minecraft-recordings/"><u>[Updated] In 2024, In-Depth Look at High-Quality Minecraft Recordings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-tips-for-uncovering-missing-exclusive-photos/"><u>[Updated] In 2024, Tips for Uncovering Missing Exclusive Photos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-evaluations-by-tom-the-hardware-hub/"><u>Comprehensive Evaluations by Tom: The Hardware Hub</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-cutting-edge-asus-expertbook-p5-with-intel-core-i7-and-lunar-lake-technology-inside/"><u>Discover the Cutting-Edge ASUS ExpertBook P5 with Intel Core I7 and Lunar Lake Technology Inside</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-top-tier-computing-hardware-insights-at-toms-digital-workbench/"><u>Discover Top-Tier Computing Hardware Insights at Tom's Digital Workbench</u></a></li>
-<li><a href="https://video-capture.techidaily.com/effortless-dvd-conversion-to-mkv-format-on-windows-11-and-10/"><u>Effortless DVD Conversion to MKV Format on Windows 11 & 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-asus-rog-zephyrus-g16-bargain-save-big-with-advanced-intel-processor-stunning-nvidia-graphics-and-240hz-oled-visuals-get-it-for-250-less/"><u>Exclusive ASUS ROG Zephyrus G16 Bargain: Save Big with Advanced Intel Processor, Stunning NVIDIA Graphics and 240Hz OLED Visuals – Get It for $250 Less</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862702293-exclusive-deal-m3-macbook-air-with-16gb-ram-and-13-display-now-at-just-1149/"><u>Exclusive Deal: M3 MacBook Air with 16GB RAM and 13 Display Now at Just $1,149!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-versatile-video-tools-for-linux-windows-and-macos-for-2024/"><u>Free, Versatile Video Tools for Linux, Windows & MacOS for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-huawei-nova-y71-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Huawei Nova Y71 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-mastering-access-free-picturing-content-streams/"><u>In 2024, Mastering Access Free Picturing Content Streams</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862727008-memorial-day-memories-asus-tuf-a15-gaming-laptop-at-an-unbeatable-price-of-just-658-in-2n4/"><u>Memorial Day Memories: ASUS TUF A15 Gaming Laptop at an Unbeatable Price of Just $658 in 2N4!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862731130-msi-bravo-with-rtx-4060-gpu-unbeatable-gaming-performance-under-1000/"><u>MSI Bravo with RTX 4060 GPU: Unbeatable Gaming Performance Under $1,000!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862702166-the-latest-review-on-the-powerful-asus-zenbook-s16-featuring-thorough-testing-of-the-amd-ryzen-ai-9-hx-370-processor/"><u>The Latest Review on the Powerful Asus Zenbook S16, Featuring Thorough Testing of the AMD Ryzen AI 9 HX 370 Processor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862704811-toms-tech-reviews-in-depth-hardware-evaluations/"><u>Tom's Tech Reviews - In-Depth Hardware Evaluations</u></a></li>
-<li><a href="https://driver-download.techidaily.com/wpcs-combine-the-aesthetic-appeal-of-wood-with-the-durability-and-maintenance-benefits-of-plastics-creating-materials-that-resist-moisture-decay-and-insect-280/"><u>WPCs Combine the Aesthetic Appeal of Wood with the Durability and Maintenance Benefits of Plastics, Creating Materials that Resist Moisture, Decay, and Insect Damage.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tep-by-step-techniques-for-efficiently-timestamp-youtube-content-for-2024/"><u>[New] Step-by-Step Techniques for Efficiently Timestamp YouTube Content for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-invisible-scrutiny-unlocking-ig-selfie-verification-secrets/"><u>2024 Approved The Invisible Scrutiny Unlocking IG Selfie Verification Secrets</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-modern-warfare-3-fps-hitching-problems-revealed-solutions-and-prevention-tips/"><u>Call of Duty: Modern Warfare 3 FPS Hitching Problems Revealed: Solutions & Prevention Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy Z Fold 5?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-c67-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme C67 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mitigating-phosphor-flash-interruptions/"><u>Mitigating Phosphor Flash Interruptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-complexities-of-ai-and-its-threats/"><u>Navigating the Complexities of AI and Its Threats</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/surge-in-second-hand-smartphone-sales-shows-changing-consumer-behavior/"><u>Surge in Second-Hand Smartphone Sales Shows Changing Consumer Behavior</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/task-killers-unnecessary-learn-proper-app-management-techniques-for-an-optimized-android-experience/"><u>Task Killers Unnecessary? Learn Proper App Management Techniques for an Optimized Android Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-list-of-indispensable-devices-for-fixing-your-cell-phones/"><u>The Ultimate List of Indispensable Devices for Fixing Your Cell Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-5-advantages-why-choose-a-samsung-galaxy-tablet-over-the-apple-ipad/"><u>Top 5 Advantages: Why Choose a Samsung Galaxy Tablet Over the Apple iPad?</u></a></li>
 </ul></div>
 

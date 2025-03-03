@@ -1,7 +1,7 @@
 ---
 title: Top-Performing Workhorse Laptop Unveiled, Surpasses Thoughtpad & Macbook in Tests - Insights From ZDNet
-date: 2025-02-11T05:46:27.751Z
-updated: 2025-02-11T23:28:04.973Z
+date: 2025-02-23T18:37:44.247Z
+updated: 2025-03-03T02:06:02.016Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,6 @@ ASUS/ZDNET
 * [Asus ROG Strix G16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV7XQ9V9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6558249a-9d4b-4a86-97d7-d0e0d87ba550%7Cdtp&dtb=1): $1700 (save $300)
 * [Asus ROG Strix Scar 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-GeForce-Keyboard-G533ZW-AS94Q%2Fdp%2FB0BDTVSXS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6558249a-9d4b-4a86-97d7-d0e0d87ba550%7Cdtp&dtb=1): $1450 (save $600)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday gaming laptop deals at Best Buy
 
 MSI/ZDNET
@@ -78,10 +74,6 @@ Lenovo/ZDNET
 * [Xenia XPG 15](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1766432-REG%2Fxpg%5F15260180%5F15%5F6%5Fxenia%5F15g%5Fgaming.html): $1200 (save $500)
 * [HP Omen 17](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1792500-REG%2Fhp%5F8r7u2ua%5Faba%5F17%5F3%5Fomen%5F17%5Fck2059nr%5Flaptop.html): $2499 (save $720)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday laptop deals at Walmart
 
 * [XPG Xenia 15G](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FXPG-Xenia-15G-15-6-FHD-Gaming-Laptop-Intel-Core-i7-13700H-16-GB-DDR5-NVIDIA-GeForce-RTX-4060-1-TB-SSD-Windows-11-Home-Black-75260049%2F2130763084%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $1149 (save $551)
@@ -106,10 +98,6 @@ Lenovo/ZDNET
 * [PNY Revel Epic-X GeForce RTX 3070 XLR8](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1664982-REG%2Fpny%5Ftechnologies%5Fvcg30708ltfxppb%5Fgeforce%5Frtx%5F3070%5F8gb.html): $500 (save $220 at B&H Photo)
 * [Zotac GeForce RTX 4070 Twin Edge](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FZOTAC-GAMING-GeForce-RTX-4070-Twin-Edge-DLSS-3-12GB-GDDR6X-192-bit-21-Gbps-PCIE-4-0-Compact-Gaming-Graphics-Card-IceStorm-2-0-Advanced-Cooling-SPECTR%2F3228525314%3Fathbdg%3DL1600&subId1=zd-__COM_CLICK_ID__-dtp): $550 (save $95 at Walmart)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday gaming headset deals
 
 * [Razer Nari](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-nari-ultimate-wireless-gaming-headset-for-pc-ps5-and-ps4-gunmetal%2F6298660.p%3FskuId%3D6298660&publisher_slug=itechdaily19598&exclusive=1): $100 (save $100 at Best Buy)
@@ -120,10 +108,6 @@ Lenovo/ZDNET
 * [Logitech G G735 wireless](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1715999-REG%2Flogitech%5F981%5F001082%5Fg735%5Flightspeed%5Fwireless%5Frgb.html): $160 (save $70 at B&H Photo)
 * [Razer Barracuda X wireless](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRazer-Barracuda-X-Wireless-Stereo-Gaming-and-Mobile-Headset-for-PC-PS5-Nintendo-Switch-Android-2-4Ghz-Black%2F513768484%3Fathbdg%3DL1300&subId1=zd-__COM_CLICK_ID__-dtp): $69 (save $30 at Walmart)
 * [Corsair HS55 Surround wired](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FCORSAIR-HS55-Stereo-Gaming-Headset-Carbon-Multi-Platform-Compatible-Most-Devices-Including-PC-Mac-PS5-PS4-Xbox-Series-X-Nintendo-Switch-Mobile-Device%2F974565238&subId1=zd-__COM_CLICK_ID__-dtp): $39 (save $20 at Walmart)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday gaming monitor deals
 
@@ -150,10 +134,6 @@ We also looked over customer reviews to find out what matters to real people who
 ## What is the best gaming laptop?
 
 ZDNET's Lena Borrelli chose the Razer Blade 17 as her top pick for the [best gaming laptop](https://www.zdnet.com/article/best-gaming-laptop/). It features an Nvidia GeForce RTX 3080 Ti graphics card and an Intel Core i9 processor for plenty of power to handle almost any game in your library or on your wishlist. It also has a 17-inch display capable of producing refresh rates of up to 300MHz to make motion blur all but a thing of the past.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best cheap gaming laptop?
 
@@ -228,18 +208,14 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-exclusive-list-11-pioneering-cost-free-online-title-makers-for-yt/"><u>[New] Exclusive List 11 Pioneering, Cost-Free Online Title Makers for YT</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-achieving-peak-video-clarity-with-youtubes-tools/"><u>[New] In 2024, Achieving Peak Video Clarity with YouTube's Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-shopping-spree-videography/"><u>[New] Mastering the Art of Shopping Spree Videography</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-regain-lost-content-after-an-unexpected-tiktok-reload/"><u>2024 Approved Regain Lost Content After an Unexpected TikTok Reload</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-simplicity-guide-to-iphone-screen-recordings/"><u>2024 Approved Ultimate Simplicity Guide to iPhone Screen Recordings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974464921-download-and-update-lenovo-ideapad-100-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update Lenovo IdeaPad 100 Drivers for Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-nvidia-rtx-2080-graphics-card-driver-for-win-10-7-and-8/"><u>Download Updated NVIDIA RTX 2080 Graphics Card Driver for Win 10, 7 & 8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-to-follow-guide-on-updating-your-acer-audio-drivers-swift-methods-inside/"><u>Easy-to-Follow Guide on Updating Your Acer Audio Drivers – Swift Methods Inside!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-edge-in-gaming-step-by-step-amd-vega-graphics-card-firmware-update/"><u>Get the Edge in Gaming: Step-by-Step AMD Vega Graphics Card Firmware Update</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-right-driver-files-for-epson-scanning-devices-free/"><u>Get the Right Driver Files for Epson Scanning Devices - Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovo-x1-carbon-driver-installation-for-windows-10-and-7-quick-guide/"><u>Lenovo X1 Carbon Driver Installation for Windows 10 & 7 - Quick Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-issues-in-ituness-audio-setup/"><u>Troubleshooting: Resolving Issues in iTunes's Audio Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/visit-the-manufacturers-official-website-to-find-the-most-recent-drivers-compatible-with-your-system-eg-dell-or-hp-download-all-essential-drivers-related-to121/"><u>Visit the Manufacturer's Official Website to Find the Most Recent Drivers Compatible with Your System, E.g., Dell or HP. Download All Essential Drivers Related to USB Ports and Chipset Firmware Updates if Available.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-how-to-record-with-nvidia-screen-recorder/"><u>[New] 2024 Approved How to Record with NVIDIA Screen Recorder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-jumpstart-high-res-webcam-filming-for-amazing-results/"><u>[Updated] 2024 Approved Jumpstart High-Res WebCam Filming for Amazing Results</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-official-drivers-for-ricoh-mp-c3003-printers/"><u>Download & Install Official Drivers for Ricoh MP C3003 Printers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-epson-wf-3520-printing-software-for-windows-compatible-with-all-versions/"><u>Get the Newest Epson WF 3520 Printing Software for Windows - Compatible with All Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-free-amd-radeon-gpu-drivers-now-compatible-with-windows/"><u>Get Your Free AMD Radeon GPU Drivers Now - Compatible with Windows!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-do-a-poll-on-instagram-stories-the-only-guide-you-need-to-read-for-2024/"><u>How to Do a Poll on Instagram Stories The Only Guide You Need to Read for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-discord-high-cpu-usage-2024-guide/"><u>How to Fix Discord High CPU Usage - 2024 Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insider-tips-to-fix-error-code-19-and-restore-your-pcs-performance/"><u>Insider Tips to Fix Error Code 19 and Restore Your PC's Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975632922-realtek-rtl8723be-driver-fixes-solve-your-network-card-issues-now/"><u>Realtek RTL8723BE Driver Fixes – Solve Your Network Card Issues Now!</u></a></li>
 </ul></div>
 

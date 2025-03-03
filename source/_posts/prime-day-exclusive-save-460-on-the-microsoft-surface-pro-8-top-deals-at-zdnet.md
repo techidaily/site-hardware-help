@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Exclusive: Save $460 on the Microsoft Surface Pro 8 | Top Deals at ZDNet"
-date: 2025-02-04T23:47:16.081Z
-updated: 2025-02-12T04:43:02.765Z
+date: 2025-02-26T16:01:41.608Z
+updated: 2025-03-02T23:40:47.453Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -79,10 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727866800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -107,20 +99,12 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -152,10 +136,6 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -230,21 +210,20 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-evaluating-zdsofts-prowess-in-screen-recorder-tech/"><u>[New] 2024 Approved Evaluating ZDSoft's Prowess in Screen Recorder Tech</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-ultimate-compendium-hands-free-device-interaction/"><u>[Updated] 2024 Approved The Ultimate Compendium Hands-Free Device Interaction</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-elevating-visuals-the-shift-from-sdr-to-hdr-in-editing/"><u>[Updated] In 2024, Elevating Visuals The Shift From SDR to HDR in Editing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-prime-picture-selections-captivating-live-viewing/"><u>[Updated] In 2024, Prime Picture Selections Captivating Live Viewing</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-y27-4g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo Y27 4G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-viewing-guide-watching-movies-on-your-windows-1011-pc/"><u>DVD Viewing Guide: Watching Movies on Your Windows 10/11 PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-your-canoscan-lide-220s-driver-program/"><u>Easy Guide to Updating Your CanoScan LiDE 220'S Driver Program</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-resolve-logitech-c615-driver-problems/"><u>Effortless Guide to Resolve Logitech C615 Driver Problems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-and-update-epson-ds-510-software-on-your-pc-a-comprehensive-guide/"><u>How to Install and Update Epson DS-510 Software on Your PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-amd-drivers-on-your-windows-11-10-or-7-computer/"><u>How to Install the Latest AMD Drivers on Your Windows 11, 10, or 7 Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-magic-v2-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor Magic V2</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-huawei-nova-y71-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Huawei Nova Y71?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-logitech-k40-to-the-max-free-compatible-k400-plus-controller-software/"><u>Install Logitech K40 to the Max: FREE Compatible K400 Plus Controller Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-microsoft-windows-acpi-battery-driver-problems-with-new-update/"><u>Resolving Microsoft Windows ACPI Battery Driver Problems with New Update</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speed-up-your-printing-easy-download-for-brother-hl-3170cdw-drivers/"><u>Speed up Your Printing: Easy Download for Brother HL-3170CDW Drivers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-definitive-list-of-premium-cable-modems-dominating-internet-speeds-this-year/"><u>The Definitive List of Premium Cable Modems Dominating Internet Speeds This Year</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ace-the-hd-audiovideo-experience-in-android/"><u>[New] 2024 Approved Ace the HD Audio/Video Experience in Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-samsungs-image-manipulation-masterclass-a-review/"><u>[New] Samsung's Image Manipulation Masterclass A Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-tap-into-the-rhythm-web-free-and-comprehensive/"><u>[Updated] 2024 Approved Tap Into the Rhythm Web (FREE & Comprehensive)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-shooting-gear-top-10-cameras-without-jitters/"><u>Best Shooting Gear Top 10 Cameras Without Jitters</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-deskjet-inkjet-printer-driver-vijey-software-compatible-with-windows-10/"><u>Download HP Deskjet Inkjet Printer Driver Vijey Software Compatible with Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-usb-c-driver-downloads-to-enhance-your-windows-10-experience/"><u>Essential USB-C Driver Downloads to Enhance Your Windows 10 Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g430-mic-a-step-by-step-guide-to-restoring-functionality/"><u>Fixing Your Logitech G430 Mic - A Step-by-Step Guide to Restoring Functionality</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-mastering-twitter-videos-in-ultra-hd/"><u>In 2024, Mastering Twitter Videos in Ultra HD</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-installation-process-how-to-get-wd-ses-drives-up-and-running-with-recent-usb-drivers/"><u>Navigating the Installation Process: How to Get WD SES Drives Up and Running with Recent USB Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/respect-for-acting/"><u>Respect for Acting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-nvidia-1080-drivers-compatible-with-windows-11/"><u>Seamless Installation: NVIDIA 1080 Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95723543-9781626259119-shakti-rising/"><u>Shakti Rising | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-epson-xp-430-driver-download-on-pc/"><u>Step by Step Tutorial for Epson XP-430 Driver Download on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-updating-and-downloading-the-ch340g-serial-converter-drivers-for-modern-windows-systems/"><u>Step-by-Step Tutorial on Updating and Downloading the CH340G Serial Converter Drivers for Modern Windows Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-hot-30-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Infinix Hot 30 5G Device</u></a></li>
 </ul></div>
 

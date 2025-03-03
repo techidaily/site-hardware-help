@@ -1,7 +1,7 @@
 ---
 title: Unleashing Creativity with the New Apple MacBook Pro 16-Inch M2 Max Chip | Expert Review - ZDNET
-date: 2025-02-10T02:56:25.514Z
-updated: 2025-02-11T18:13:33.336Z
+date: 2025-02-23T21:04:51.598Z
+updated: 2025-03-02T17:16:01.766Z
 tags:
   - laptops
 categories:
@@ -58,10 +58,6 @@ Instead, I enlisted the help of [Tom Filip](https://www.flip-cam.com/), a produc
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new with this model
 
 On the surface level, much of the new MacBook Pro's hardware has been carried over from the [2021 models](https://www.zdnet.com/article/apple-16-inch-macbook-pro-m1-max-late-2021-review-apple-supercharges-its-flagship-laptop/), including the firm and sturdy aluminum chassis, 1080p FaceTime camera notched up top, finger-grease-loving keyboard, and side-firing speakers that remain the best that I've heard on a laptop. That means budget and size preference remain the two most important factors when deciding between the 14-inch and 16-inch MacBooks.
@@ -100,10 +96,6 @@ While video editors like Philip may not stress the "faster internet" bit, being 
 
 The 2023 MacBook Pro also gets a bump with the more stable Bluetooth 5.3 and more versatile HDMI 2.1\. The latter of which was the most appealing upgrade to Filip, who was already extending his MacBook onto a [34-inch LG 5K monitor](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1382968-REG%2Flg%5F34wk95u%5F34%5Fnano%5Fips.html%2F%3F), but has long considered kicking it to an [8K display](https://www.zdnet.com/home-and-office/home-entertainment/samsungs-odyssey-g9-gaming-monitor-family-adds-oled-8k-models/) for future-proofing. If and when that happens -- we both chuckle at the idea of pixels we can't even fully conceptualize on a desktop screen -- the Apple laptop will be more than able of supporting the higher resolution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Battery life that impresses everyone
 
 The MacBook deck retains the dual firing speakers and force touch trackpad.
@@ -120,10 +112,6 @@ When deciding between the [M2 Pro](https://apple.sjv.io/c/159047/435031/7613?&sh
 
 For the work that both Filip and I do, there's not much to complain about with the M2 Max, 16-inch MacBook Pro -- performance-wise, at least. The laptop starts at [$3,499](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), which I'll applaud Apple for retaining the 2021's M1 Max price tag. Considering the price, here are two nitpicks that would make the larger MacBook experience even better.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. A lighter form factor
 
 Imagine a large-screen laptop that doesn't feel like a dumbbell.
@@ -137,10 +125,6 @@ Part of the reason for the heavier hand feel in general is the MacBook Pro's box
 **Review: [Galaxy Book 3 Ultra: The laptop Samsung fans have been waiting for](https://www.zdnet.com/article/samsung-galaxy-book-3-ultra-review/)**
 
 That's why, if you're switching over to a 2023 MacBook Pro and don't require a maxed-out workstation, I'd heavily consider the 14-inch model. It's just as snappy, has the same ports, and is more fit for travel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. A notch that does more
 
@@ -163,10 +147,6 @@ Reviewing the M2 Max MacBook Pro side-by-side with its predecessor also demonstr
 ### Should I buy one?
 
 That's why if you already have an [M1-powered MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLate-Apple-MacBook-Silver-Renewed%2Fdp%2FB09RLXYM8J%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4a8b2844-8b7b-4d32-8328-3ef262b4a648%7Cdtp&dtb=1), keep it. If you're upgrading from anything older, I suggest you buy this. At a [starting price of $3,499](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the 16-inch, M2 Max MacBook Pro is no impulse purchase. But if you need a laptop that can power through pro-grade apps and services as efficiently as possible, with some Apple perks on the side like iPhone syncing, a magical force-touch trackpad, and the company's reputable after-sales service, then I can't recommend anything better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -202,20 +182,19 @@ That's why if you already have an [M1-powered MacBook Pro](https://buy.geni.us/P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/urning-hair-videos-into-income-streams/"><u>[New] Turning Hair Videos Into Income Streams</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95855111-9780525503804-dark-star-rising/"><u>Dark Star Rising | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-et-2750-printer-driver-for-windows-computers/"><u>Download the Latest Epson ET-2750 Printer Driver for Windows Computers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/effortless-screen-capture-on-w10-os/"><u>Effortless Screen Capture on W10 OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-brother-mfc-7360n-drivers-now-compatible-with-windows-11-8-and-7-download-here/"><u>Get the Latest Brother MFC-7360N Drivers Now! Compatible with Windows 11, 8 & 7 - Download Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-update-your-sapphire-graphics-card-drivers-for-windows-pcs-easily/"><u>How to Download and Update Your Sapphire Graphics Card Drivers for Windows PCs Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y36-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y36</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-hd-graphics-520-driver-update-enhance-your-system-with-just-a-few-clicks/"><u>Intel HD Graphics 520 Driver Update - Enhance Your System with Just a Few Clicks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-through-peak-fluid-gaming-titles/"><u>Navigating Through Peak Fluid Gaming Titles</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-setup-for-hewlett-packard-speaker-systems-with-no-cost-drivers/"><u>Quick Setup for Hewlett-Packard Speaker Systems with No Cost Drivers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/securing-the-future-with-totan-banerjee-on-data-preservation/"><u>Securing the Future with Totan Banerjee on Data Preservation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-7-network-adapter-driver-issues-solved/"><u>Windows 7 Network Adapter Driver Issues [SOLVED]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/worsened-wound-infections/"><u>Worsened Wound Infections</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-expertise-pathway-choosing-between-standard-studio-and-beta-for-2024/"><u>YouTube Expertise Pathway Choosing Between Standard Studio and Beta for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-complete-guide-to-netflix-screen-capture-discover-six-efficient-ways-on-macos/"><u>[Updated] 2024 Approved The Complete Guide to Netflix Screen Capture - Discover Six Efficient Ways on macOS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deciding-on-apple-tvs-financial-feasibility/"><u>Deciding on Apple TV's Financial Feasibility</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-canon-mg2520-printer-drivers-on-windows-step-by-step-guide/"><u>Download and Update Canon MG2520 Printer Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-hp-officejet-pro-8620-drivers-on-windows-guide/"><u>Download and Update HP OfficeJet Pro 8620 Drivers on Windows - Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-access-configuring-quick-startup-feature-in-windows-os/"><u>Effortless Access: Configuring Quick Startup Feature in Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-perfect-connectivity-logitech-t630-drivers-for-all-win7-win10-versions/"><u>Ensure Perfect Connectivity: Logitech T630 Drivers for All Win7-Win10 Versions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-poco-by-drfone-android/"><u>How to Bypass FRP from Poco?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-most-recent-canon-mg2900-printer-drivers-installed-on-your-computer/"><u>How to Get the Most Recent Canon MG2900 Printer Drivers Installed on Your Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-sas-drivers-for-your-pc-running-on-win10-win8-or-win7/"><u>How to Get the Newest SAS Drivers for Your PC Running on Win10, Win8, or Win7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-y55s-5g-2023-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo Y55s 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-your-hp-universal-printer-drivers-on-a-pc-step-by-step-tutorial/"><u>Installing Your HP Universal Printer Drivers on a PC: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-unable-to-open-on-ges-sharing-feature/"><u>Remedy for Unable to Open on GE's Sharing Feature</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-ranked-cloud-stores-analysis-and-pricing-insights/"><u>Top-Ranked Cloud Stores Analysis & Pricing Insights</u></a></li>
 </ul></div>
 

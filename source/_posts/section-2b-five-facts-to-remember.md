@@ -1,7 +1,7 @@
 ---
 title: "Section 2B: Five Facts to Remember"
-date: 2025-02-08T20:09:23.943Z
-updated: 2025-02-12T02:13:17.485Z
+date: 2025-03-02T02:01:54.410Z
+updated: 2025-03-02T17:39:05.632Z
 tags:
   - laptops
 categories:
@@ -32,10 +32,6 @@ If you're stuck for ideas regarding laptops suitable to give as gifts, check out
 * [The best cheap tech gifts under $75](https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-tech-gifts-under-75/)
 * [The best cheap tech gifts under $50](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-50/)
 * [The best cheap tech gifts under $25](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-25/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **The best laptop gift ideas**
 
@@ -216,10 +212,6 @@ Below are other laptop deals ZDNET has found at Walmart.
 
 [Lenovo Ideapad 5i Chromebook for $429 (save $100) $429 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Ideapad-5i-Chromebook-16-0-WQXGA-Gaming-Laptop-Intel-Core-i3-1215U-8GB-RAM-128GB-eMMC-Storm-Grey-Chrome-OS-82V80009UX-Includes-3-Free-Months-N%2F1867344969%3Fathbdg%3DL1101&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The best laptop deals at Best Buy**
 
 Below are other laptop deals ZDNET has found at Best Buy. 
@@ -227,10 +219,6 @@ Below are other laptop deals ZDNET has found at Best Buy.
 [HP 15.6" touchscreen laptop for $649 (save $150) $649 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-15-6-touch-screen-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver%2F6477889.p%3FskuId%3D6477889&publisher%5Fslug=zdnet&article%5Fname=21%20laptops%20that%20make%20great%20gifts%20in%202023&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-gift%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Dell XPS 15 15.6-inch laptop for $2300 (save $500) $2,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-xps-15-15-6-3-5k-oled-touch-screen-laptop-12th-gen-intel-core-i9-32gb-memory-nvidia-geforce-rtx-3050-ti-1tb-ssd-silver%2F6504382.p%3FskuId%3D6504382&publisher%5Fslug=zdnet&article%5Fname=21%20laptops%20that%20make%20great%20gifts%20in%202023&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-gift%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these laptop gift ideas?
 
@@ -256,19 +244,11 @@ You tend to see many Apple MacBook Airs and Pros around campus, and the majority
 
 However, if the course is creative, things can become a little more complicated, as you will probably want to focus on a screen of at minimum 15.6-inch, at least 16GB RAM, and a high-quality graphics card. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does laptop storage matter?
 
 The amount of storage on offer when you buy a laptop varies. Typically, you can expect storage to range between 128GB and 1/2TB solid-state drive (SSD) storage, although when it comes to Chromebooks, the smaller form facts mean that embedded MultiMediaCard (eMMC) storage is used, reducing capacity drastically.
 
 1TB is usually adequate for apps, software, games, and music. However, in any case, you can purchase portable hard drives to boost your storage space -- and create backups of your valuable data. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best gifts for 2023?
 
@@ -352,22 +332,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-deciding-the-best-for-screens-is-obs-more-effective-than-fraps-for-2024/"><u>[New] Deciding the Best for Screens Is OBS More Effective than Fraps for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-proven-strategies-for-unveiling-pure-photospace-using-photopea/"><u>[New] In 2024, Proven Strategies for Unveiling Pure Photospace Using Photopea</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-strategies-for-captivate-demonstrations/"><u>[New] Innovative Strategies for Captivate Demonstrations</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-perfect-pairings-combining-song-and-scene-in-tiktok-vids/"><u>[New] Perfect Pairings Combining Song and Scene in TikTok Vids</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-top-rated-mkv-player-mobile-laptop/"><u>[Updated] 2024 Approved Top-Rated MKV Player Mobile, Laptop</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-building-a-brand-with-captivating-haul-videos-and-edits/"><u>[Updated] In 2024, Building a Brand with Captivating Haul Videos and Edits</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-and-androids-best-in-class-top-10-skin-modifiers-reviewed/"><u>2024 Approved IPhone & Android's Best in Class Top 10 Skin Modifiers Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-latest-hp-deskjet-2700-printer-driver-software-updated-version/"><u>Download Latest HP DeskJet 2700 Printer Driver Software: Updated Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-mastering-the-surface-dock-driver-in-minutes/"><u>Effortless Installation: Mastering the Surface Dock Driver in Minutes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ghostly-replay-techniques-for-editors-for-2024/"><u>Ghostly Replay Techniques for Editors for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-s24-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy S24 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-and-best-windows-compatible-bluetooth-adapter-drivers-free-downloads-available-now/"><u>Latest and Best Windows-Compatible Bluetooth Adapter Drivers – Free Downloads Available Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-cross-platform-80211n-driver-pack-for-windows-download-today/"><u>Latest Cross-Platform 802.11N Driver Pack for Windows: Download Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-epson-artisan-1430-printer-driver-installation-for-windows-11108-get-your-download-here/"><u>Official Epson Artisan 1430 Printer Driver Installation for Windows 11/10/8 - Get Your Download Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-download-source-for-official-nvidia-driver-update-compatible-with-win10-8/"><u>Ultimate Download Source for Official NVIDIA Driver Update - Compatible with Win10, 8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-and-install-hp-printer-software-on-your-computer-the-official-guide-to-the-laserjet-p3t15-drivers/"><u>Update and Install HP Printer Software on Your Computer - The Official Guide to the LaserJet P3t15 Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updated-and-optimized-gigabyte-ethernet-driver-for-flawless-internet-connection/"><u>Updated and Optimized Gigabyte Ethernet Driver for Flawless Internet Connection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discover-6-premier-nft-services-boosting-artist-imagination/"><u>[New] Discover 6 Premier NFT Services Boosting Artist Imagination</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-chromium-device-live-screen-recorder/"><u>[Updated] 2024 Approved Chromium Device Live Screen Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ideal-5-safe-platforms-for-remote-work-in-startups/"><u>[Updated] Ideal 5 Safe Platforms for Remote Work in Startups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>[Updated] The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-operations-of-your-lenovo-x1-carbon-with-new-driver-downloads-for-windows-11-and-windows-7/"><u>Ensure Smooth Operations of Your Lenovo X1 Carbon with New Driver Downloads for Windows 11 and Windows 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-note-30-vip-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Note 30 VIP Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-canon-dr-c22ec225-drivers-on-modern-windows-systems-tutorial/"><u>Installing Canon DR-C22e/C225 Drivers on Modern Windows Systems: Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-huion-penpad-step-by-step-guide-to-downloading-and-updating-drivers-on-windows/"><u>Mastering the Huion PenPad: Step-by-Step Guide to Downloading and Updating Drivers on Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/seamlessly-integrate-with-stellar/"><u>Seamlessly Integrate with Stellar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-data-download-the-latest-samsung-850-evo-ssd-drivers/"><u>Secure Your Data: Download the Latest Samsung 850 EVO SSD Drivers</u></a></li>
 </ul></div>
 

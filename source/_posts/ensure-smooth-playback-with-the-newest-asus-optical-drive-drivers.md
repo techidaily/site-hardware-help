@@ -1,7 +1,7 @@
 ---
 title: Ensure Smooth Playback with the Newest ASUS Optical Drive Drivers
-date: 2024-08-19T11:02:30.101Z
-updated: 2024-08-20T11:02:30.101Z
+date: 2025-02-27T22:40:37.567Z
+updated: 2025-03-03T00:41:57.532Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 
  If you’re using a Logitech G402 mouse and it stops working all of a sudden, it could be a driver issue. This post will show you how to download the right driver for your Logitech mouse and give you some general troubleshooting tips.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Table of contents
 
 * [How to get the correct driver?](https://tools.techidaily.com/drivereasy/download/)  
@@ -31,26 +28,16 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## How to get the correct driver?
 
  There are two ways you can get the right driver for your Logitech G402 mouse:
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### **Option 1 – Download and install the driver manually**
 
  Logitech keeps updating the G402 driver. To get the latest driver, you need to go to the **[Logitech official website](https://tools.techidaily.com/drivereasy/download/)**  , find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2 – Automatically install the Logitech G402 driver
 
  If you don’t have the time, patience or computer skills to update your mouse driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,18 +50,6 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-19-38.jpg)
 
 **3)** Click the **Update**  button next to the Logicool HID-compliant Cordless Mouse to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -88,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Fix Logitech M402 Mouse not Working Issues?
 
  Apart from a corrupted driver, there’re other reasons that can cause Logitech M402 mouse not working issues.
@@ -118,8 +90,6 @@ Lastly, you may want to try your wireless mouse on metal surfaces.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +97,22 @@ Lastly, you may want to try your wireless mouse on metal surfaces.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/aximizing-your-reach-with-youtube-shorts-templates-for-2024/"><u>[New] Maximizing Your Reach with YouTube Shorts Templates for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unblemished-visuals-buying-high-quality-images-for-2024/"><u>[New] Unblemished Visuals Buying High-Quality Images for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-retailing-revelations-and-methods-for-2024/"><u>[Updated] Retailing Revelations and Methods for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>[Updated] Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubers-toolkit-essential-setup-guidelines/"><u>[Updated] Youtubers' Toolkit Essential Setup Guidelines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/first-impressions-matter-get-up-close-with-microsofts-latest-innovations-the-new-and-enhanced-surface-plus-surface-pro-plus-copilotplus-ai/"><u>First Impressions Matter: Get Up Close with Microsoft’s Latest Innovations – The New & Enhanced Surface + Surface Pro + Copilot+ AI</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-no-rest-for-the-wicked-computer-freezes-and-interruptions-tips-and-tricks/"><u>Fixing 'No Rest for the Wicked' Computer Freezes & Interruptions – Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-microsoft-copilot-enabled-laptops-check-out-these-available-snapdragon-elite-x-models/"><u>Get Microsoft Copilot-Enabled Laptops: Check Out These Available Snapdragon Elite X Models!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-best-bargain-asus-tuf-gaming-laptop-with-amd-ryzen-for-a-shocking-memorial-day-sale-only-658/"><u>Get the Best Bargain - Asus TUF (Gaming) Laptop with AMD Ryzen for a Shocking Memorial Day Sale: Only $658!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/handheld-tech-pioneer-gpd-unveils-sneak-peek-of-revolutionary-dual-screen-oled-laptop/"><u>Handheld Tech Pioneer GPD Unveils Sneak Peek of Revolutionary Dual-Screen OLED Laptop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-asus-zenbook-s16-test-drive-with-amd-ryzen-9-hx-370-performance-insights/"><u>In-Depth Asus Zenbook S16 Test Drive with AMD Ryzen 9 HX 370 - Performance Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-examination-of-the-lenovo-legion-pro-5i-gen-9-exceptional-gaming-laptop-bargain/"><u>In-Depth Examination of the Lenovo Legion Pro 5I (Gen 9) - Exceptional Gaming Laptop Bargain</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-world-of-computing-insights-from-toms-hardware/"><u>Inside the World of Computing: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-harmony-hub-unveiling-the-premier-linux-auditory-editors-comparative-study-of-free-and-paid-choices-for-2024/"><u>New Harmony Hub Unveiling the Premier Linux Auditory Editors - Comparative Study of Free & Paid Choices for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/why-virtual-reality-lack-of-content-in-2024/"><u>Why Virtual Reality Lack of Content, In 2024</u></a></li>
+</ul></div>
 

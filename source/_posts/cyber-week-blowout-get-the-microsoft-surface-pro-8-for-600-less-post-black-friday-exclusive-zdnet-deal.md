@@ -1,7 +1,7 @@
 ---
 title: Cyber Week Blowout! Get the Microsoft Surface Pro 8 for $600 Less Post-Black Friday - Exclusive ZDNET Deal
-date: 2025-01-10T23:23:24.410Z
-updated: 2025-01-17T00:59:52.968Z
+date: 2025-02-23T22:07:15.128Z
+updated: 2025-03-03T02:03:33.716Z
 tags:
   - laptops
 categories:
@@ -30,10 +30,6 @@ The [Microsoft Surface Pro 8](https://www.microsoft.com/en-us/store/configure/Su
 The lowest price point available is $799 for a platinum model with an Intel Evo Core i5 processor, 8GB RAM, and 128GB SSD storage. However, if you want more power in your device, you can still save on a Surface Pro 8 equipped with an Intel Evo Core i7 processor, 16GB RAM, and 1TB SSD storage -- normally priced at [$2,199, but now available for $1,899](https://www.microsoft.com/en-us/store/configure/Surface-Pro-8/8qwcrtq8v8xg?crosssellid=&selectedColor=86888a&ranMID=24542&ranEAID=IokOf8qagZo&ranSiteID=IokOf8qagZo-B8WOUfFT3AkbKuRP5V7sZg&epi=IokOf8qagZo-B8WOUfFT3AkbKuRP5V7sZg&irgwc=1&OCID=AID2200057%5Faff%5F7593%5F1243925&tduid=%28ir%5F%5Frnj6nxuqhgkfbk2ptnk2gyq6jn2xcxb9cey3r6on00%29%287593%29%281243925%29%28IokOf8qagZo-B8WOUfFT3AkbKuRP5V7sZg%29%28%29&irclickid=%5Frnj6nxuqhgkfbk2ptnk2gyq6jn2xcxb9cey3r6on00).
 
 **Read on:** [Microsoft Surface Pro 8 for Business review: Still in love](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -77,18 +73,17 @@ ZDNET is also keeping an eye out for other tablet deals on the market in the run
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pcs-premier-ps3-clones-2023-edition/"><u>[New] 2024 Approved PC's Premier PS3 Clones - 2023 Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/20-most-memorable-anime-series-intros/"><u>20 Most Memorable Anime Series Intros</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-conversations-demystified-exploring-the-8-problematic-areas-of-gpt/"><u>AI Conversations Demystified: Exploring the 8 Problematic Areas of GPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-app-crashes-how-to-fix-and-prevent-unplanned-closures/"><u>COD Modern Warfare 3 App Crashes: How To Fix & Prevent Unplanned Closures</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/e-your-learning-best-15-science-yt-experts/"><u>Curate Your Learning Best 15 Science YT Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-savvy-upgrades-transforming-a-broken-lenovo-keyboard-into-a-high-tech-gaming-rig-with-custom-case-and-mechanical-switches/"><u>Tech Savvy Upgrades: Transforming a Broken Lenovo Keyboard Into a High-Tech Gaming Rig with Custom Case and Mechanical Switches</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-essentials-of-artificial-intelligence-desktops-are-they-worth-it/"><u>The Essentials of Artificial Intelligence Desktops: Are They Worth It?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-high-performance-computers-by-toms-review-center/"><u>The Ultimate Guide to High-Performance Computers by Tom’s Review Center</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-in-depth-computer-insights/"><u>Tom's Tech Hub: In-Depth Computer Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-the-ultimate-guide/"><u>Tom's Tech Hub: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-unraveling-the-latest-in-hardware/"><u>Tom's Tech Insights: Unraveling the Latest in Hardware</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/youtube4kpc/"><u>YouTubeの高解像度4K動画PCでダウンロードテクニック</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unbeatable-mobilized-game-slowdowns/"><u>[New] Unbeatable Mobilized Game Slowdowns</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-spotify-how-to-halt-default-podcast-additions/"><u>[Updated] Spotify How to Halt Default Podcast Additions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-20-great-free-options-for-web-based-photo-tinkering/"><u>2024 Approved 20 Great Free Options for Web-Based Photo Tinkering</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/an-exclusive-chat-with-apple-staff-the-remarkable-reasons-to-embrace-the-vision-pro-featured-by-zdnet/"><u>An Exclusive Chat with Apple Staff: The Remarkable Reasons to Embrace the Vision Pro, Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/creating-separate-accounts-a-step-by-step-guide-to-setting-up-multi-user-profiles-in-android/"><u>Creating Separate Accounts: A Step-by-Step Guide to Setting up Multi-User Profiles in Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-least-attractive-smartphones-ever-created-a-ranking-of-the-5-most-unsightly-devices/"><u>Discover the Least Attractive Smartphones Ever Created: A Ranking of the 5 Most Unsightly Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/does-the-google-pixel-operate-on-stock-android-os/"><u>Does the Google Pixel Operate on Stock Android OS?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-locating-your-android-devices-downloaded-files/"><u>Easy Steps: Locating Your Android Device's Downloaded Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-techniques-for-reducing-video-file-size-on-your-android-device/"><u>Effective Techniques for Reducing Video File Size on Your Android Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-ultimate-guide-to-voice-to-text-conversion-using-ms-words-advanced-features/"><u>In 2024, The Ultimate Guide to Voice-to-Text Conversion Using MS Word's Advanced Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-era-mercedes-elevates-conversation-with-gpt-in-cars/"><u>New Era: Mercedes Elevates Conversation with GPT in Cars</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-gone-iphone-applications-discover-where-they-went-and-how-to-retrieve-them/"><u>Solving the Mystery of Gone iPhone Applications: Discover Where They Went and How to Retrieve Them</u></a></li>
 </ul></div>
 

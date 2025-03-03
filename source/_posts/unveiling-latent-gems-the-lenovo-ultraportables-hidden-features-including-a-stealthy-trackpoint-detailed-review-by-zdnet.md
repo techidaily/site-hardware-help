@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review by ZDNet"
-date: 2025-02-07T23:20:08.331Z
-updated: 2025-02-11T22:17:23.050Z
+date: 2025-02-24T16:05:36.599Z
+updated: 2025-03-03T00:34:41.957Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -76,10 +72,6 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I do recommend the [Lenovo ThinkPad Z13 Gen 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21D2001RUS-Notebook-Board%2Fdp%2FB0B7YQC7CC%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf169cf74-93ad-47a4-86fd-6049162230fe%7Cdtp&dtb=1) if you're looking for a lightweight laptop for work, school, or as an entertainment machine while traveling. It's currently on sale on Lenovo's website in Artic Grey, with prices starting at $1,241\. 
@@ -116,17 +108,17 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-twitch-content-integration-boosting-engagement-with-fb-sharing/"><u>[New] In 2024, Twitch Content Integration Boosting Engagement with FB Sharing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nlocking-potential-solving-common-youtube-short-problems/"><u>[New] Unlocking Potential Solving Common YouTube Short Problems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-essential-blueprint-setting-up-your-first-xbox-recorder-for-2024/"><u>[Updated] The Essential Blueprint Setting Up Your First Xbox Recorder for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-essential-guide-broadcast-360-videos-on-facebook/"><u>2024 Approved Essential Guide Broadcast 360 Videos on Facebook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-list-of-text-tools-and-plugins/"><u>2024 Approved Ultimate List of Text Tools & Plugins</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-drivers-for-hp-color-laserjet-pro-multi-function-printer-m477/"><u>Download Drivers for HP Color LaserJet Pro Multi-Function Printer M477</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-graphics-card-guide-addressing-csr8510-a10-driver-errors-on-your-pc-solutions-included/"><u>Intel Graphics Card Guide: Addressing CSR8510 A10 Driver Errors on Your PC – Solutions Included</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-drivers-available-connect-your-epson-xp-245-with-windows-7-8-and-10-systems/"><u>Latest Drivers Available: Connect Your Epson XP-245 with Windows 7, 8 & 10 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-brio-webcam-driver-downloads-for-windows-users-compatible-with-version-10-8-and-7/"><u>Logitech Brio Webcam Driver Downloads for Windows Users – Compatible with Version 10, 8 & 7</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pioneers-of-possibilities-the-leading-6-in-artistic-realms/"><u>Pioneers of Possibilities The Leading 6 in Artistic Realms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/plate-tectonics-explains-the-movement-of-earths-lithospheric-plates-which-can-cause-metamorphism/"><u>Plate Tectonics Explains the Movement of Earth's Lithospheric Plates, Which Can Cause Metamorphism.</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-comprehensive-guide-scaling-up-youtube-media/"><u>[New] 2024 Approved Comprehensive Guide Scaling Up YouTube Media</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/liminated-non-display-of-shorts-videos/"><u>[New] Eliminated Non-Display of Shorts Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-architectural-wonders-top-6-sleek-mc-homes/"><u>[Updated] In 2024, Architectural Wonders Top 6 Sleek MC Homes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-epson-es-400-scandriver-on-windows-a-step-by-step-guide/"><u>Download & Install the Epson ES-400 ScanDriver on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/expert-evaluation-logitech-c920-ultra-high-definition-webcam-performance-analysis/"><u>Expert Evaluation: Logitech C920 Ultra High-Definition Webcam Performance Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-announces-q3-launch-date-for-high-performance-lunar-lake-and-core-i7-ultra-series-chips/"><u>Intel Announces Q3 Launch Date for High-Performance Lunar Lake and Core I7-Ultra Series Chips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-t450-drivers-upgrade-efficient-and-user-friendly-methods-revealed/"><u>Lenovo T450 Drivers Upgrade - Efficient and User-Friendly Methods Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-privacy-unveil-faces-less-clearly-for-2024/"><u>Master Privacy Unveil Faces Less Clearly for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/rediscovering-your-past-messages-a-reliable-method-to-retrieve-emails-from-decades/"><u>Rediscovering Your Past Messages: A Reliable Method to Retrieve Emails From Decades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-decades-guide-to-superior-social-media-management-smm/"><u>The Decade's Guide to Superior Social Media Management (SMM)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-gaming-experience-free-nvidia-gtx-980-ti-graphics-drivers-for-enhanced-performance/"><u>Ultimate Gaming Experience: Free Nvidia GTX 980 Ti Graphics Drivers for Enhanced Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-system-intuitive-setup-for-the-latest-intel-iris-540-graphics-drivers/"><u>Update Your System: Intuitive Setup for the Latest Intel Iris 540 Graphics Drivers</u></a></li>
 </ul></div>
 

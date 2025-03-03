@@ -1,7 +1,7 @@
 ---
 title: Experience Long-Lasting Charges with This Reliable Laptop Battery Backup - Now at a Steep Discount !
-date: 2025-02-05T16:58:52.955Z
-updated: 2025-02-12T01:03:24.033Z
+date: 2025-02-28T02:18:00.100Z
+updated: 2025-03-02T17:47:05.401Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ Adrian Kingsley-Hughes/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ZDNET's key takeaways
 
 * The Baseus Blade HD portable power bank is available on [Amazon for $70](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Charging-Portable-Charger-20000mAh%2Fdp%2FB0BZP6R4MH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9e5af2cd-174d-4168-9ba8-7222cb64c3bd%7Cdtp&dtb=1) thanks to the nearly 38% off lightning deal, plus a 10% off coupon.
@@ -43,10 +39,6 @@ The other day a reader asked if I was still using the [Baseus Blade HD](https://
 So what does HD stand for? High density. Put simply, Baseus used a different battery technology to allow the same charge capacity to be crammed into a smaller space. 
 
 [ZDNET RECOMMENDS Baseus Blade HD The Baseus Blade HD is an upgraded version of the Blade, and makes use of silicon-carbon lithium polymer battery technology, making it 18% lighter and 20% smaller than the previous version. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Charging-Portable-Charger-20000mAh%2Fdp%2FB0BZP6R4MH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9e5af2cd-174d-4168-9ba8-7222cb64c3bd%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Baseus Blade HD tech specs
 
@@ -101,10 +93,6 @@ Recharge times are also very acceptable, at 1.2 hours when using the included US
 
 One thing that hasn't changed from the previous incarnation is that every surface of the Blade HD, just like the Blade before it, is a dust magnet, and will pick up and show every bit of dirt that gets on it. But the textured finish is nice in that the power bank isn't slippery like a lot of them are, so it's less likely to fall on the floor or into your laptop's keyboard!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 That aside, the [Baseus Blade HD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Charging-Portable-Charger-20000mAh%2Fdp%2FB0BZP6R4MH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9e5af2cd-174d-4168-9ba8-7222cb64c3bd%7Cdtp&dtb=1) is a fantastic power bank for laptop users, and while the form factor means that this is never going to fit in your pocket, it's perfect for slipping into a laptop bag. And right now you can pick it up for $70 (remember to click the 10% off coupon). If you want the original [Baseus Blade](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-Charging-20000mAh%2Fdp%2FB09N3PRJZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9e5af2cd-174d-4168-9ba8-7222cb64c3bd%7Cdtp&dtb=1), that's also currently available for only $70 (click the 30% off coupon to get this deal).
@@ -139,24 +127,15 @@ That aside, the [Baseus Blade HD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-compre-cooked-tweets-the-complete-tweet-vids-guide/"><u>[New] 2024 Approved Compre Cooked Tweets The Complete Tweet Vids Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-professional-recommendations-superior-voice-modification-tools/"><u>[New] Professional Recommendations Superior Voice Modification Tools</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-incredible-trend-trackers-monitor-highest-youtube-spots/"><u>[Updated] 2024 Approved Incredible Trend Trackers Monitor Highest YouTube Spots</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-enhancing-creativity-with-filmoras-best-tools/"><u>[Updated] In 2024, Enhancing Creativity with Filmora's Best Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/baffled-by-bluetooth-master-the-art-of-connecting-iphones-to-computers-today/"><u>Baffled by Bluetooth? Master the Art of Connecting iPhones to Computers Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digging-up-drowned-chatgpt-memories/"><u>Digging Up Drowned ChatGPT Memories</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-asus-realtek-audiophile-driver-at-no-cost/"><u>Download ASUS Realtek Audiophile Driver at No Cost</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-hp-laserjet-p3015-drivers-for-windows-systems/"><u>Easy Guide to Downloading HP LaserJet P3015 Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-guide-for-updating-mouse-drivers-in-line-with-hid-standards/"><u>Essential Guide for Updating Mouse Drivers in Line with HID Standards</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-winx-dvd-ripper-convert-your-dvds-into-mp4avi-formats-for-ios-and-android-devices-effortlessly/"><u>Free WinX DVD Ripper: Convert Your DVDs Into MP4/AVI Formats for iOS and Android Devices Effortlessly!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-new-upgrade-usb-30-ethernet-controller-drivers-for-pcs-on-windows/"><u>Get the New Upgrade: USB 3.0 Ethernet Controller Drivers for PCs on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963530493-get-the-newest-toshiba-nb35-n704-dynabook-drivers-for-windows-free-downloads-available/"><u>Get the Newest Toshiba NB35-N704 Dynabook Drivers for Windows - Free Downloads Available</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-xr-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone XR Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-msi-audio-device-drivers-free-downloads-for-windows-users/"><u>Official MSI Audio Device Drivers: Free Downloads for Windows Users</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/al-youtube-playback-adjusting-speed-settings/"><u>Optimal YouTube Playback Adjusting Speed Settings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transforming-imagery-the-power-of-ps-curves/"><u>Transforming Imagery The Power of PS Curves</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-windows-driver-errors-for-arduino-uno/"><u>Troubleshooting and Fixing Windows Driver Errors for Arduino Uno</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-your-lg-display-on-pcs-running-windows-11-7-or-81/"><u>Troubleshooting Your LG Display on PCs Running Windows 11, 7 or 8.1</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-canon-pixma-mg2522-printer-drivers-with-ease-free-download-guide/"><u>Update Your Canon PIXMA MG2522 Printer Drivers with Ease - Free Download Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-best-camcorder-selections-for-snowboardingskiing/"><u>[New] 2024 Approved Best Camcorder Selections for Snowboarding/Skiing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-discovering-periscope-its-features-pricing-and-user-registration/"><u>[New] In 2024, Discovering Periscope Its Features, Pricing & User Registration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-configure-youtube-pip-on-iphone-quickly/"><u>2024 Approved Configure YouTube PIP on iPhone Quickly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-top-tips-understanding-asmr-recordings/"><u>2024 Approved Top Tips Understanding ASMR Recordings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-8-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 8 Online</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/discovering-the-artistic-works-of-daria-masson-on-movavi-platform/"><u>Discovering the Artistic Works of Daria Masson on Movavi Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fixes-to-enhance-wi-fi-connectivity-with-driver-updates-in-windows-11-and-10/"><u>Easy Fixes to Enhance Wi-Fi Connectivity with Driver Updates in Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-the-official-driver-for-brother-mfc-l2690dw-laserjet/"><u>Free Download: The Official Driver for Brother MFC-L2690DW Laserjet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-compatibility-with-new-hp-printer-software-update-download-now/"><u>Seamless Compatibility with New HP Printer Software Update - Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-secure-your-wacom-intuos-pro-driver-for-optimal-windows-10-performance/"><u>Step by Step: Secure Your Wacom Intuos Pro Driver for Optimal Windows 10 Performance</u></a></li>
 </ul></div>
 

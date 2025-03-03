@@ -1,7 +1,7 @@
 ---
 title: "Historic President's Day Price Drop: Score a Brand New 2023 M2 MacBook Pro Now for Just $300 Less - Special Exclusive at ZDNet!"
-date: 2025-01-12T19:01:21.566Z
-updated: 2025-01-17T02:17:05.883Z
+date: 2025-02-24T21:31:16.440Z
+updated: 2025-03-02T22:20:00.009Z
 tags:
   - laptops
 categories:
@@ -20,10 +20,6 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the Amazon Prime Day deal?
 
 Amazon's October Prime Day event is here, and with its arrival, many laptops are seeing big discounts across the board. The [Asus Vivobook S 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Snapdragon-X1E-78-100-Processor-S5507QAD-PS96%2Fdp%2FB0CWJY4YWF%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C813a4068-bc1e-4f76-b015-0b309b6e2810%7Cdtp&dtb=1) is seeing a $300 discount, dropping from $1,300 to $1,000\. It's the first Asus Copilot Plus PC and comes highly recommended for its performance.
@@ -31,10 +27,6 @@ Amazon's October Prime Day event is here, and with its arrival, many laptops are
 **Also: [Amazon Prime Day: Best 160+ deals live ahead of October's Big Deal Days sale](https://www.zdnet.com/article/best-amazon-prime-day-deals-2024-10-08/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -106,10 +98,6 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [Asus Vivobook S 15](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.asus.com%2Fus%2Flaptops%2Ffor-home%2Fvivobook%2Fasus-vivobook-s-15-s5507%2F) is a sleek and lightweight laptop with a gorgeous OLED display and solid battery life -- as long as you're mindful about your power usage. I'd recommend it to forward-thinking digital nomads who want a performant, AI-ready laptop with the blazing-fast Snapdragon X Elite processor. It's a solid investment for people who regularly swap between creative work, productivity software, and media. 
@@ -146,16 +134,22 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-the-best-10-cost-free-photo-hosters/"><u>[New] Ultimate Guide to the Best 10 Cost-Free Photo Hosters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-professional-obs-edits-the-ultimate-top-5-guide/"><u>[Updated] 2024 Approved Professional OBS Edits The Ultimate Top 5 Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-analysis-from-toms-gadget-hub/"><u>Expert Analysis From Tom's Gadget Hub</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-analysis-on-the-chilly-and-expensive-gigabyt-b650-aorus-elite-ax-board-with-extra-usb-ports/"><u>Expert Analysis on the Chilly and Expensive Gigabyt B650 Aorus Elite AX Board with Extra USB Ports</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-entry-level-beast-3-monitor-compatible-gigabyte-b760m-ds3h-micro-atx-review/"><u>Exploring the Entry-Level Beast: 3-Monitor Compatible Gigabyte B760M DS3H Micro ATX Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-computing-with-toms-hardware-insights/"><u>Exploring the Latest in Computing with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/high-performance-meets-efficient-heat-dissipation-review-of-asuss-rog-maximus-z790-formula-motherboard/"><u>High Performance Meets Efficient Heat Dissipation: Review of Asus's ROG Maximus Z790 Formula Motherboard</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-a34-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy A34 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-checklist-12-must-have-cameras-for-vlogging-professionals/"><u>In 2024, The Ultimate Checklist 12 Must-Have Cameras for Vlogging Professionals</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/tailor-made-winterral-ambiance/"><u>Tailor-Made WinTerral Ambiance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2023-how-to-autoplay-facebook-videos-for-2024/"><u>[Updated] 2023 | How to Autoplay Facebook Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rectifying-the-curved-illusion-in-your-gopro-videos/"><u>[Updated] Rectifying the Curved Illusion in Your GoPro Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-pova-5-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-projected-inexpensive-vision-pro-glasses-still-seem-more-myth-than-reality-an-analysis-by-zdnet/"><u>Apple's Projected Inexpensive Vision Pro Glasses Still Seem More Myth Than Reality – An Analysis by ZDNET</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/effortless-techniques-to-share-igtv-in-stories-for-2024/"><u>Effortless Techniques to Share IGTV in Stories for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-yuneec-typhoon-h-examined-an-extensive-review/"><u>In 2024, Yuneec Typhoon H Examined An Extensive Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/low-cost-twitch-channel-setup-check-if-your-current-equipment-fits-the-bill/"><u>Low-Cost Twitch Channel Setup? Check if Your Current Equipment Fits the Bill!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/meet-the-innovative-duo-raspberry-pi-pico-2-revolutionizes-with-its-twofold-risc-blueprint/"><u>Meet the Innovative Duo: Raspberry Pi Pico 2 Revolutionizes with Its Twofold RISC Blueprint</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-airdot-charger-with-adjustable-volume-feature-desired/"><u>Next Gen AirDot Charger with Adjustable Volume Feature Desired</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimal-gaming-performance-with-mid-range-processors-why-top-tier-options-arent-necessary/"><u>Optimal Gaming Performance with Mid-Range Processors: Why Top-Tier Options Aren't Necessary</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/review-and-guide-on-installing-blindsmagic-smart-motorized-roller-shades-a-comprehensive-diy-smart-home-upgrade/"><u>Review & Guide on Installing BlindsMagic Smart Motorized Roller Shades - A Comprehensive DIY Smart Home Upgrade</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/struggling-with-wifi-issues-discover-10-proven-fixes-for-a-stable-internet-connection/"><u>Struggling with WiFi Issues? Discover 10 Proven Fixes for a Stable Internet Connection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/surprise-reveal-the-remarkable-undiscovered-use-for-logitecs-latest-pen/"><u>Surprise Reveal: The Remarkable, Undiscovered Use for Logitec's Latest Pen!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-journey-swiv-universal-charger-reviewed-more-than-meets-the-eye-beyond-simple-travel-convenience/"><u>The Journey Swiv Universal Charger Reviewed: More Than Meets the Eye Beyond Simple Travel Convenience</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>Updated The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-ace-2v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Ace 2V Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

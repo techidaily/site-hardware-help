@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Personalized DNS Settings on Your Chromebook: A Step-by-Step Guide and Its Advantages"
-date: 2025-01-14T23:56:11.943Z
-updated: 2025-01-16T19:48:10.515Z
+date: 2025-02-26T23:43:26.091Z
+updated: 2025-03-02T22:57:12.340Z
 tags:
   - laptops
 categories:
@@ -38,17 +38,9 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to configure specific DNS servers on your Chromebook
 
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open Settings
 
@@ -60,10 +52,6 @@ Screenshot by Jack Wallen/ZDNET
 
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Disable automatic IP address configuration
 
 On the resulting page, click Network and then click the On/Off slider for Configure IP Address Automatically until it's in the Off position.
@@ -71,10 +59,6 @@ On the resulting page, click Network and then click the On/Off slider for Config
 By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS server, you must opt for a manual setup.
 
 Screenshot by Jack Wallen/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
 
@@ -120,20 +104,20 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/op-5-video-marketing-effective-tagging-techniques-for-2024/"><u>[New] Top 5 Video Marketing Effective Tagging Techniques for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-enhancing-video-appeal-mac-thumbnails-tutorial/"><u>[Updated] In 2024, Enhancing Video Appeal Mac Thumbnails Tutorial</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-the-best-performance-out-of-your-intel-hardware-driver-update-guide/"><u>Getting the Best Performance Out of Your Intel Hardware - Driver Update Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-13c-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi 13C Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maxio-unveils-high-speed-china-made-ssd-controllers-up-to-148gbs-with-pcie-5-technology/"><u>Maxio Unveils High-Speed China-Made SSD Controllers, Up to 14.8GB/S with PCIe 5 Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/meet-kioxias-game-changing-solid-state-drives-harnessing-the-power-of-light-for-superior-performance-and-extended-reach-to-processors-over-40m/"><u>Meet Kioxia's Game-Changing Solid State Drives: Harnessing the Power of Light for Superior Performance and Extended Reach to Processors over 40M</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-computer-world-the-comprehensive-guide-by-tom/"><u>Navigating Computer World: The Comprehensive Guide by Tom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-technology-through-toms-lens/"><u>Navigating Technology Through Tom's Lens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-hardware-with-expert-insights-from-tom-your-go-to-resource-for-gadget-comparisons-and-buying-advice/"><u>Navigating the World of Hardware with Expert Insights From Tom - Your Go-To Resource for Gadget Comparisons and Buying Advice</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-generation-of-solid-state-storage-how-wds-qlc-drives-surpass-last-years-tlc-by-over-16-sn5000s-vs-sn740/"><u>New Generation of Solid-State Storage: How WD's QLC Drives Surpass Last Year's TLC by Over 16% (SN5000S Vs. SN740)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/pickus-triumph-in-android-photo-editing-a-comprehensible-review/"><u>PickU's Triumph in Android Photo Editing – A Comprehensible Review</u></a></li>
-<li><a href="https://win-latest.techidaily.com/securely-transfer-hot-movies-and-porn-from-mofos-as-high-quality-videos-mp4-mov-avi/"><u>Securely Transfer Hot Movies and Porn From Mofos as High-Quality Videos (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unlocking-enigmas-ranked-puzzle-experiences-explored/"><u>Unlocking Enigmas Ranked Puzzle Experiences Explored</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-mac-gif-saving-best-10-gif-apps/"><u>[New] Top Mac GIF Saving Best 10 Gif Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mycams-journey-from-concept-to-reality-explored/"><u>2024 Approved MyCam's Journey From Concept to Reality Explored</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/convertisseur-gratuit-de-fichiers-rw2-en-png-tapez-et-cliquez/"><u>Convertisseur Gratuit De Fichiers RW2 en PNG - Tapez Et Cliquez</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-surprising-insights-can-your-children-identify-these-top-10-obsolete-devices/"><u>Discover Surprising Insights: Can Your Children Identify These Top 10 Obsolete Devices?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-ways-to-keep-your-asus-maximus-x-hero-video-card-drivers-up-to-date/"><u>Easy Ways to Keep Your ASUS Maximus X Hero Video Card Drivers Up-to-Date</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/endless-desire-to-purchase-earphones-is-it-my-fault-or-a-habit/"><u>Endless Desire to Purchase Earphones - Is It My Fault or a Habit?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-apple-watch-series-6-analysis-solid-improvements-maintain-its-leading-edge/"><u>In-Depth Apple Watch Series 6 Analysis: Solid Improvements Maintain Its Leading Edge</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-intel-headed-towards-a-fate-similar-to-nokias-decline/"><u>Is Intel Headed Towards a Fate Similar to Nokia's Decline?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-poor-television-sound-quality-effective-alternatives-and-techniques-available-now/"><u>Overcoming Poor Television Sound Quality: Effective Alternatives and Techniques Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pixel-9-pro-launched-ahead-of-schedule-by-google/"><u>Pixel 9 Pro Launched Ahead of Schedule by Google</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-absence-of-an-audio-device-error-on-windows-11-systems/"><u>Troubleshooting the Absence of an Audio Device Error on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-display-clarity-comparing-1080p-144-monitor-showdown-the-clear-distinctions-between-1080p-1440p-and-4k-screens/"><u>Understanding Display Clarity: Comparing 1080P, 144 Monitor Showdown: The Clear Distinctions Between 1080P, 1440P & 4K Screens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-allure-of-apples-latest-creation-the-high-end-ipad-pro-m4/"><u>Unveiling the Allure of Apple's Latest Creation: The High-End iPad Pro (M4)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-8-best-video-quality-enhancers-free-and-paid/"><u>Updated 2024 Approved Top 8 BEST Video Quality Enhancers Free & Paid</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated PC and Console Game Discounts This October: Your Ultimate Prime Day Guide (October 2N°)"
-date: 2025-01-14T23:27:48.708Z
-updated: 2025-01-17T01:21:15.000Z
+date: 2025-02-27T19:03:55.009Z
+updated: 2025-03-02T19:45:34.592Z
 tags:
   - laptops
 categories:
@@ -131,10 +131,6 @@ ZDNET
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 * [Madden NFL 25 for $48 (save $23)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMadden-NFL-25-PlayStation-5%2Fdp%2FB0D3PGHSM3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): The latest entry in the popular franchise features physics-based tackling, a rebalanced player system, and refreshed franchise mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -188,10 +184,6 @@ Kyle Kucharski/ZDNET
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -201,10 +193,6 @@ Lenovo
 * [Asus ROG Zephyrus G16 for $2,300 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-zephyrus-g16-16-oled-240hz-gaming-laptop-intel-core-ultra-9-32gb-lpddr5x-nvidia-geforce-rtx-4080-1tb-ssd-eclipse-gray%2F6570223.p%3FskuId%3D6570223&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This high-end gaming laptop has a 16-inch OLED display capable of a 240Hz refresh rate and 2560 x 1600 resolution. It's also built with an Intel Core Ultra 9 CPU and Nvidia RTX 4080 graphics card.
 * [Razer Blade 18 for $4,050 (save $450 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-blade-18-18-gaming-laptop-qhd-300hz-mini-led-intel-core-i9-nvidia-geforce-rtx-4090-32gb-ram-2tb-ssd-black%2F6580403.p%3FskuId%3D6580403&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A premium grade creator laptop featuring an 18-inch mini LED display with a 300Hz refresh rate and 2560 x 1600 resolution. It's built with a 14th gen Intel Core i9 CPU, Nvidia RTX 4090 graphics card, 32GB of RAM, and a 2TB SSD.
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
 
@@ -232,10 +220,6 @@ Samsung/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
@@ -247,10 +231,6 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -317,16 +297,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-artful-expression-on-tablets-leading-ios-drawers/"><u>[Updated] Artful Expression on Tablets Leading iOS Drawers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-five-leading-pc-tools-for-sonys-ps1-experience/"><u>[Updated] In 2024, The Five Leading PC Tools for Sony's PS1 Experience</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-youtube-tv-everything-you-need-to-know/"><u>2024 Approved YouTube TV - Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-conscious-gaming-with-asrocks-b760m-pro-rs-robust-m2-capabilities-included/"><u>Budget-Conscious Gaming with ASRock's B760M Pro RS - Robust M.2 Capabilities Included</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-hardware-mastery-with-toms-expert-reviews/"><u>Dive Into Hardware Mastery with Tom's Expert Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/diy-mastermind-user-friendly-motherboards-to-streamline-your-custom-pc-craftsmanship/"><u>DIY MasterMind: User-Friendly Motherboards to Streamline Your Custom PC Craftsmanship</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-gear-analysis-by-toms-technology-hub-unveiling-the-best-in-pc-components/"><u>Expert Gear Analysis by Tom's Technology Hub - Unveiling the Best in PC Components</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/infusing-realism-in-spark-ar-worlds-via-application-of-luts-for-2024/"><u>Infusing Realism in Spark AR Worlds via Application of LUTs for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-world-of-9gag-memes-made-easy/"><u>Navigating the World of 9GAG Memes Made Easy</u></a></li>
-<li><a href="https://fox-within.techidaily.com/quick-and-easy-tutorial-restore-accidentally-deleted-files-from-your-network-storage/"><u>Quick & Easy Tutorial: Restore Accidentally Deleted Files From Your Network Storage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-to-resolve-photoshops-scratch-disk-full-problem/"><u>Step-by-Step Fixes to Resolve Photoshop’s ‘Scratch Disk Full’ Problem</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-evaluation-report-elite-parrot-ar-drone-20/"><u>[New] Evaluation Report Elite Parrot AR Drone 2.0</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722095133536-android-users-rejoice-download-the-newly-updated-chatgpt-mobile-application/"><u>Android Users Rejoice: Download the Newly Updated ChatGPT Mobile Application</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oneplus-open-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus Open Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-modern-flip-smartphone-by-tcl-featuring-fast-4g-lte-speeds-and-convenient-usb-c-port/"><u>Discover the Modern Flip Smartphone by TCL: Featuring Fast 4G LTE Speeds and Convenient USB-C Port</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ditch-frustration-discover-open-source-solutions-streaming-seamlessly-with-moonlight-and-sunshine/"><u>Ditch Frustration: Discover Open-Source Solutions - Streaming Seamlessly with Moonlight & Sunshine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/double-click-success-why-a-two-mouse-system-reigns-supreme/"><u>Double Click Success: Why a Two-Mouse System Reigns Supreme</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-correcting-steam-deck-glide-anomalies/"><u>Effective Solutions for Correcting Steam Deck Glide Anomalies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-running-experience-with-the-best-earbuds-according-to-my-expert-review/"><u>Enhance Your Running Experience with The Best Earbuds According to My Expert Review!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/evaluating-the-mighty-dji-power-1000-a-robust-quadcopter-lacking-in-certain-features/"><u>Evaluating the Mighty DJI Power 1000: A Robust Quadcopter Lacking in Certain Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/evaluating-the-withings-scanwatch-light-striking-balance-between-vintage-charm-and-smart-technology/"><u>Evaluating the Withings ScanWatch Light: Striking Balance Between Vintage Charm & Smart Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restart-your-audio-services-on-a-win-7-machine/"><u>How to Restart Your Audio Services on a Win 7 Machine</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-masterful-methods-for-adding-melodies-to-ig-media/"><u>In 2024, Masterful Methods for Adding Melodies to IG Media</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-counteract-sagging-monitor-panels/"><u>Strategies to Counteract Sagging Monitor Panels</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-comprequad-video-captioning-techniques-for-youtube/"><u>The Comprequad Video Captioning Techniques for YouTube</u></a></li>
 </ul></div>
 

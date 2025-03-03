@@ -1,7 +1,7 @@
 ---
 title: "Unmissable October Prime Deals on Games: Grab Your Last Chance for Huge Savings of up to $1,000 with ZDNET's Exclusive Offers!"
-date: 2025-01-11T20:36:04.176Z
-updated: 2025-01-16T18:15:31.574Z
+date: 2025-02-26T21:56:57.486Z
+updated: 2025-03-02T17:34:12.593Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
 
@@ -136,10 +132,6 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals still available
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -168,10 +160,6 @@ Nintendo/ZDNET
 * [Bayonetta 3 for $44 (save $16 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBayonetta-3-Nintendo-Switch%2F838016510%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Bayonetta returns to take on an invading host of bioweapons called the Homunculi. She'll use her signature pistols, magic abilities, and new companion, Viola, to take down monsters and save reality from destruction.
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals still available
 
@@ -223,10 +211,6 @@ Samsung/ZDNET
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
@@ -234,10 +218,6 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -304,16 +284,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/from-creator-to-earnings-successful-youtube-short-strategies/"><u>From Creator to Earnings Successful YouTube Short Strategies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-latest-sound-blaster-z-wireless-drivers/"><u>Get Your Hands on the Latest Sound Blaster Z Wireless Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-converter-videomaterialen-rmvb-naar-flv-met-movavi-online/"><u>Gratis Converter Videomaterialen - RMVB Naar FLV Met Movavi Online</u></a></li>
-<li><a href="https://media-tips.techidaily.com/hassle-free-guide-converting-media-files-for-android-touchscreen-gadgets/"><u>Hassle-Free Guide: Converting Media Files for Android Touchscreen Gadgets</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-m34-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy M34 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/transform-your-phones-health-with-dfu-restores-on-the-5-biggest-iphone-troubles/"><u>Transform Your Phone's Health with DFU Restores on the 5 Biggest iPhone Troubles</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unique-mutant-asus-frankenboard-maxximus-xiii-model-featuring-so-dimm-ram-slots-and-distinctive-kingston-fury-branding/"><u>Unique Mutant ASUS Frankenboard Maxximus XIII Model: Featuring SO-DIMM RAM Slots and Distinctive Kingston Fury Branding</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unraveling-gadgets-with-toms-hardware-experts/"><u>Unraveling Gadgets with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-new-gadgets-and-components-at-toms-hardware-hub/"><u>Unveiling New Gadgets and Components at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-asrock-z790i-lightning-wi-fi-compact-brilliance-gigantic-performance/"><u>Unveiling the ASROCK Z790I Lightning Wi-Fi: Compact Brilliance, Gigantic Performance!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-top-hardware-choices-by-technology-authority-toms-review-site/"><u>Unveiling Top Hardware Choices by Technology Authority, Tom's Review Site</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-pushing-photographic-limits/"><u>[New] 2024 Approved The Art of Pushing Photographic Limits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-your-youtube-url-your-way-easy-personalization-steps/"><u>[New] In 2024, Your YouTube URL, Your Way Easy Personalization Steps</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/44cm5b6p5y6f5pa55rov5ryu56s677ya6kej5rg65lqu56iu5lin5yplusv6k6a5qqu5qgi5oiw55uu6yye5lif5asx55qe5oqa5ben44cn/"><u>「復原方法演示：解決五種不可讀檔案或目錄丟失的技巧」</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-sonos-roam-2-the-enhanced-smart-speaker-with-refined-elegance/"><u>1. Sonos Roam 2: The Enhanced Smart Speaker with Refined Elegance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-insights-by-tom-your-trusted-source/"><u>Expert Hardware Insights by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-13-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 13 Data Completely | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-s18e-by-drfone-android/"><u>How to Bypass FRP on Vivo S18e?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immerse-viewers-advanced-tiktok-visuals-for-2024/"><u>Immerse Viewers Advanced TikTok Visuals for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-reviews-of-the-ecovacs-deebot-t30s-combo-revolutionizing-cleaning-with-its-unique-stair-navigation/"><u>Top Reviews of the Ecovacs Deebot T30S Combo – Revolutionizing Cleaning with Its Unique Stair Navigation</u></a></li>
+<li><a href="https://win-web.techidaily.com/ultimate-guide-leading-soundproof-window-treatments-for-noise-reduction-hometechreview/"><u>Ultimate Guide: Leading Soundproof Window Treatments for Noise Reduction | HomeTechReview</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deals-on-pre-owned-computer-gear-why-now-is-the-perfect-moment/"><u>Unbeatable Deals on Pre-Owned Computer Gear: Why Now Is the Perfect Moment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-convenience-with-aqara-finding-the-perfect-smart-lock-option-for-your-home/"><u>Unlocking Convenience with Aqara: Finding the Perfect Smart Lock Option for Your Home</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-patch-resolves-intel-processor-stability-issues/"><u>Upcoming Patch Resolves Intel Processor Stability Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-i-choose-2-in-1-convertibles-over-regular-laptops-a-users-perspective/"><u>Why I Choose 2-in-1 Convertibles Over Regular Laptops: A User’s Perspective</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-debate-over-desktop-enhancements-fails-to-hold-water-in-todays-tech-landscape/"><u>Why the Debate Over Desktop Enhancements Fails to Hold Water in Today's Tech Landscape</u></a></li>
 </ul></div>
 

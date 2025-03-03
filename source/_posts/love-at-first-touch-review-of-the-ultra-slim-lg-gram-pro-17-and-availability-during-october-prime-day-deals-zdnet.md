@@ -1,7 +1,7 @@
 ---
 title: "Love at First Touch: Review of the Ultra-Slim LG Gram Pro 17 & Availability During October Prime Day Deals - ZDNet"
-date: 2025-02-09T16:44:59.167Z
-updated: 2025-02-11T22:59:36.414Z
+date: 2025-02-27T01:09:26.642Z
+updated: 2025-03-03T01:04:15.451Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -87,10 +83,6 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -98,10 +90,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -117,10 +105,6 @@ Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -148,10 +132,6 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
@@ -230,22 +210,20 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-iphone-tips-free-techniques-to-incorporate-music-in-video-projects-for-2024/"><u>[New] IPhone Tips Free Techniques to Incorporate Music in Video Projects for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/complete-audio-solution-for-incomplete-youtube-and-fb-sounds-for-2024/"><u>Complete Audio Solution for Incomplete YouTube and FB Sounds for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-today-the-essential-hp-officejet-pro-7520-printer-software-package/"><u>Download Today: The Essential HP OfficeJet Pro 7520 Printer Software Package</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976359599-easy-installation-of-rtl8188cu-driver-software-for-wireless-network-adapters-on-win-10-7-download-instantly/"><u>Easy Installation of RTL8188CU Driver Software for Wireless Network Adapters on Win 10, 7 - Download Instantly!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-peak-performance-with-updated-drivers-for-the-msi-gs65-on-your-pc/"><u>Ensure Peak Performance with Updated Drivers for the MSI GS65 on Your PC</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/guida-sicura-e-semplice-per-eseguire-il-backup-di-file-su-windows-server-nas-e-qnap-un-approccio-fattibile/"><u>Guida Sicura E Semplice per Eseguire Il Backup Di File Su Windows Server, NAS, E QNAP: Un Approccio Fattibile</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-itel-a60s-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Itel A60s? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s21-fe-5g-2023-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-and-install-new-drivers-for-your-nvidia-quadro-rtx-4000-graphics-card/"><u>How to Easily Update and Install New Drivers for Your NVIDIA Quadro RTX 4000 Graphics Card</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-toshiba-nb205-s746-dynadock-windows-driver-software-and-upgrade-instructions/"><u>Latest Toshiba NB205-S746 DynaDock Windows Driver Software and Upgrade Instructions</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/losungen-finden-warum-ihr-computer-uber-nacht-ausfallt-and-nicht-wieder-startet-erfahre-die-8-bewahrten-schritte/"><u>Lösungen Finden: Warum Ihr Computer Über Nacht Ausfällt & Nicht Wieder Startet - Erfahre Die 8 Bewährten Schritte!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-the-art-of-refreshing-your-pcs-graphic-capabilities-in-windows-11-a-beginner-friendly-guide/"><u>Master the Art of Refreshing Your PC's Graphic Capabilities in Windows 11: A Beginner-Friendly Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transcodificar-3gpp-para-archivos-de-audio-wma-en-linea-sin-costo-con-movavi/"><u>Transcodificar 3GPP Para Archivos De Audio WMA en Línea Sin Costo Con Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-to-the-newest-drivers-for-your-msi-x470-motherboard-today/"><u>Update to the Newest Drivers for Your MSI X470 Motherboard Today</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-make-a-fake-face-online-for-free-top-rated-tools/"><u>Updated Make a Fake Face Online for Free Top Rated Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/xbox-360-gamepad-drivers-free-downloads-available/"><u>Xbox 360 Gamepad Drivers: Free Downloads Available</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-beginners-primer-on-essential-camera-movements-in-film/"><u>[New] A Beginner's Primer on Essential Camera Movements in Film</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamlessly-integrate-apple-podcasts-into-your-routine/"><u>[New] Seamlessly Integrate Apple Podcasts Into Your Routine</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-elevating-zooms-video-resolution-expert-advice/"><u>[Updated] 2024 Approved Elevating Zoom's Video Resolution Expert Advice</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-craft-how-to-produce-mukbang-videos/"><u>[Updated] Mastering the Craft How to Produce Mukbang Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-multi-version-bluetooth-driver-for-your-pc-running-windows-10-7-or-8/"><u>Easy Install: Multi-Version Bluetooth Driver for Your PC Running Windows 10, 7, or 8</u></a></li>
+<li><a href="https://article-tips.techidaily.com/expert-filmmakers-picks-best-windows-video-editors-compared-for-2024/"><u>Expert Filmmaker's Picks Best Windows Video Editors Compared for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-nvidia-driver-software-how-to-download-and-update-effortlessly/"><u>Get the Most Recent NVIDIA Driver Software – How to Download & Update Effortlessly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-visionary-writing-spanning-eight-cinematic-divisions/"><u>In 2024, Visionary Writing Spanning Eight Cinematic Divisions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-epson-wf-3620-drivers-compatible-with-windows-1087-download-now/"><u>Latest Version of Epson WF-3620 Drivers: Compatible with Windows 10/8/7 - Download Now</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/masterclass-review-of-vidma-screen-reporter-app/"><u>Masterclass Review of Vidma Screen Reporter App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-technology-with-insights-from-toms-workshop/"><u>Navigating the World of Technology with Insights From Tom's Workshop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-edits-made-simple-with-garageband-tools-for-2024/"><u>Precision Edits Made Simple with GarageBand Tools for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-of-samsungs-updated-usb-drivers-for-optimal-windows-11-performance/"><u>Quick Download of Samsung's Updated USB Drivers for Optimal Windows 11 Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-securing-the-newest-drivers-for-hp-laserjet-pro-m402n-in-a-click-for-windows-users/"><u>Quick Fix: Securing the Newest Drivers for HP LaserJet Pro M402n in a Click – For Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-scansnap-s11n-setup-how-to-install-and-optimize-speedily/"><u>Seamless Scansnap S11n Setup: How to Install & Optimize Speedily</u></a></li>
 </ul></div>
 

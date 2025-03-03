@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultra-Affordable MacBook Air Priced Just $280 - Exclusive Scoop and Deals From ZDNet!
-date: 2025-01-09T21:31:59.938Z
-updated: 2025-01-16T23:37:54.169Z
+date: 2025-02-23T19:11:07.943Z
+updated: 2025-03-02T17:24:14.078Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,6 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -81,20 +77,14 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-virtual-horizons-where-is-the-new-frontier-of-vr-for-2024/"><u>[New] Virtual Horizons Where Is the New Frontier of VR for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-definitive-guide-to-superior-hdr-photography-gear/"><u>[Updated] In 2024, The Definitive Guide to Superior HDR Photography Gear</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/acclaimed-tools-the-finest-ps1-emulators-for-pc-gaming/"><u>Acclaimed Tools The Finest PS1 Emulators for PC Gaming</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-high-speed-tech-sapphire-introduces-budget-am5-motherboard-with-pcie-gen-4-to-china/"><u>Affordable High-Speed Tech: Sapphire Introduces Budget AM5 Motherboard with PCIe Gen 4 to China</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amds-logofail-bug-tackled-with-latest-bios-revisions-from-affiliated-manufacturers/"><u>AMD's LogoFAIL Bug Tackled with Latest BIOS Revisions From Affiliated Manufacturers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asrock-z790i-lightning-wireless-lan-review-harnessing-the-storm-with-miniaturized-power/"><u>ASRock Z790I Lightning Wireless LAN Review – Harnessing the Storm with Miniaturized Power</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asrocks-latest-release-cutting-edge-amd-ryzen-9000-boards/"><u>ASRock's Latest Release: Cutting-Edge AMD Ryzen 9000 Boards</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/choosing-a-wise-cryptocurrency-investment-key-factors-explained-by-yl-software-experts/"><u>Choosing a Wise Cryptocurrency Investment: Key Factors Explained by YL Software Experts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-6-plus-how-to-unlock-a-disabled-iphone-6-plus-drfone-by-drfone-ios/"><u>Disabled iPhone 6 Plus How to Unlock a Disabled iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-restore-excel-2013-file-stellar-by-stellar-guide/"><u>How Do I Restore Excel 2013 File ? | Stellar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-out-tech-unveiling-high-performance-pc-parts-at-toms-hardware/"><u>Inside Out Tech: Unveiling High-Performance PC Parts at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-technology-the-comprehensive-guide-to-hardware-by-tom/"><u>Mastering Technology: The Comprehensive Guide to Hardware by Tom</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/maximizing-impact-the-best-instagram-hashtag-list/"><u>Maximizing Impact The Best Instagram Hashtag List</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862867782-maxsun-unveils-intel-and-amds-latest-gear-an-extensive-selection-of-31-high-performance-chipsets-meet-the-future/"><u>Maxsun Unveils Intel and AMD's Latest Gear: An Extensive Selection of 31 High-Performance Chipsets - Meet the Future!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/sion-cuts-at-a-touch-select-the-best-short-form-editors/"><u>Precision Cuts at a Touch Select the Best Short Form Editors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-ultimate-guide-to-creating-click-enticing-youtube-thumbnails/"><u>[New] The Ultimate Guide to Creating Click-Enticing YouTube Thumbnails</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-zoom-room-basics-for-newbies/"><u>[Updated] Zoom Room Basics for Newbies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-craft-the-perfect-livestream-on-youtube-and-twitch-with-obs/"><u>2024 Approved Craft the Perfect Livestream on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-seamless-windows-performance-on-your-steam-deck-oled-a-comprehensive-guide/"><u>Experience Seamless Windows Performance on Your Steam Deck OLED: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-privacy-risks-associated-with-using-chatgpt-technology/"><u>Exploring the Privacy Risks Associated with Using ChatGPT Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/facing-poor-wifi-connectivity-follow-these-five-steps-prior-to-purchasing-a-new-router/"><u>Facing Poor WiFi Connectivity? Follow These Five Steps Prior to Purchasing a New Router</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/frame-production-innovations-showcase-by-amds-fluid-motion-no-specialized-hardware-required-for-ai-processing/"><u>Frame Production Innovations Showcase by AMD's Fluid Motion - No Specialized Hardware Required for AI Processing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-comfort-better-sound-discover-the-best-substitutes-for-aged-headphone-foam-ear-pads/"><u>Fresh Comfort, Better Sound: Discover the Best Substitutes for Aged Headphone Foam Ear Pads</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-y200e-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo Y200e 5G FRP</u></a></li>
 </ul></div>
 

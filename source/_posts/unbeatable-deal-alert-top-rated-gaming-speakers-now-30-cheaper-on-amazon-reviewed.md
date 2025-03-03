@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal Alert: Top-Rated Gaming Speakers Now 30%% Cheaper on Amazon - Reviewed"
-date: 2025-02-04T20:00:54.827Z
-updated: 2025-02-12T00:42:48.723Z
+date: 2025-02-26T00:17:56.138Z
+updated: 2025-03-02T23:28:43.363Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -74,10 +70,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca8c73da7-dafc-438a-80e6-a8887159da66%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -85,10 +77,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca8c73da7-dafc-438a-80e6-a8887159da66%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -124,18 +112,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-from-current-applications-to-future-drone-horizons/"><u>[New] From Current Applications to Future Drone Horizons</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-visual-excellence-roundup-top-6-high-definition-dslrs-for-2024/"><u>[New] Visual Excellence Roundup Top 6 High-Definition DSLRs for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-effortless-download-and-installation-of-wacom-intuos-pro-drivers-windows-10/"><u>[Step-by-Step Tutorial]: Effortless Download & Installation of Wacom Intuos Pro Drivers (Windows 10)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/android-video-playback-turning-ends-into-beginnings-for-2024/"><u>Android Video Playback Turning Ends Into Beginnings for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-hl2280dw-printer-software-downloads-for-windows-11-10-8-and-7-users/"><u>Brother HL2280DW Printer Software Downloads for Windows 11, 10, 8 & 7 Users</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/niently-share-your-videos-youtube-shorts-mobilecomputer-tips-for-2024/"><u>Conveniently Share Your Videos YouTube Shorts Mobile/Computer Tips for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-guide-to-hp-officejet-pro-8610-drivers-compatible-with-multiple-windows-versions/"><u>Download and Update Guide to HP Officejet Pro #8610 Drivers Compatible with Multiple Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-logitech-g602-mice-software-for-windows-computers/"><u>Get the Latest Logitech G602 Mice Software for Windows Computers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-crafting-concentration-in-photos-with-insta-zoom-tricks/"><u>In 2024, Crafting Concentration in Photos with Insta Zoom Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-intel-irisplus-graphics-driver-version-update-for-quick-and-smooth-setup/"><u>Latest Intel Iris+ Graphics Driver Version [Update] for Quick & Smooth Setup</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/styling-your-content-a-compreran-guide-to-insta-photo-watermarks-for-2024/"><u>Styling Your Content A Compreran Guide to Insta Photo Watermarks for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-world-of-toms-hardware-insights-into-cutting-edge-computing-tools/"><u>The World of Tom's Hardware: Insights Into Cutting-Edge Computing Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/untangle-your-gaming-experience-by-solving-anthems-infinite-load-issue/"><u>Untangle Your Gaming Experience by Solving Anthem's Infinite Load Issue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-virtual-world-cinema-lineup/"><u>[New] Ultimate Virtual World Cinema Lineup</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-downloading-pinterest-videos-made-easy-top-5-free-options/"><u>2024 Approved Downloading Pinterest Videos Made Easy Top 5 FREE Options</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/beam-bright-navigating-the-world-of-snapchat-gifs/"><u>Beam Bright Navigating the World of Snapchat GIFS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/behind-the-scenes-recording-your-facebook-live-stream/"><u>Behind the Scenes Recording Your Facebook Live Stream</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-total-up-multiple-excel-cells-a-comprehensive-tutorial/"><u>Efficiently Total Up Multiple Excel Cells - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-everything-on-your-iphone-with-ease-discover-the-best-data-destruction-softwares-ranked-1-10/"><u>Erase Everything on Your iPhone with Ease - Discover the Best Data Destruction Softwares Ranked #1-10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fire-tv-with-insignia-ns-43df710na19-alexa-voice-control-and-stunning-4k-experience-at-great-value/"><u>Fire TV with Insignia NS-43DF710NA19: Alexa Voice Control & Stunning 4K Experience at Great Value</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-euros-latest-processor-craze-amd-ryzen-9-price-drop-to-750-in-france/"><u>Get Your Hands on Euro's Latest Processor Craze: AMD Ryzen 9 Price Drop to €750 in France!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-8610-latest-drivers-and-updates-for-windows-1087xpvista/"><u>HP Officejet Pro 8610: Latest Drivers & Updates for Windows 10/8/7/XP/Vista</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-setup-how-to-get-the-right-driver-software-for-your-keyboard-on-windows-7/"><u>Speedy Setup: How to Get the Right Driver Software for Your Keyboard on Windows 7</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-building-a-dual-boot-usb-drive-with-rufus-for-various-windows-versions/"><u>Step-by-Step Guide: Building a Dual Boot USB Drive with Rufus for Various Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-swift-lenovo-x220-driver-download-and-installation-tips/"><u>Step-by-Step: Swift Lenovo X220 Driver Download & Installation Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-path-to-professional-pictures-with-video-enhance-v22-for-2024/"><u>The Path to Professional Pictures with Video Enhance V2.2 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-secrets-of-hardware-with-toms-expertise/"><u>Unlocking the Secrets of Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-fresh-install-of-insignia-bluetooth-adapter-driver-for-pcs/"><u>Update or Fresh Install of Insignia Bluetooth Adapter Driver for PCs</u></a></li>
 </ul></div>
 

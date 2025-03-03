@@ -1,7 +1,7 @@
 ---
 title: "Discount Alert: Cut Costs by $30 with the Anker 737 High-Capacity Travel Charger - Exclusive Offer!"
-date: 2025-02-07T00:35:17.464Z
-updated: 2025-02-12T00:40:47.766Z
+date: 2025-02-26T00:43:15.239Z
+updated: 2025-03-02T21:35:12.476Z
 tags:
   - laptops
 categories:
@@ -20,19 +20,11 @@ Kerry Wan/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the deal?
 
 Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-15-inch-Laptop%2Fdp%2FB0CX235DJ6%2F%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb9448434-993e-4eae-90e3-4ad551516226%7Cdtp&dtb=1), whether you opt for the 256GB or 512GB variant.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -106,10 +98,6 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 All that is to say, the [15-inch MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-15-inch-Laptop%2Fdp%2FB0CX235DJ6%2F%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb9448434-993e-4eae-90e3-4ad551516226%7Cdtp&dtb=1) faces the same criticisms as the older [13-inch model](https://www.zdnet.com/article/apple-macbook-air-m2-2022-review/), like the lack of utility ports and a slower refresh rate display. And for those reasons, it's not the laptop for me.
@@ -146,16 +134,20 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-unboxing-the-logitech-4k-webcam-review/"><u>[New] In 2024, Ultimate Unboxing The Logitech 4K Webcam Review</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-luminary-lessons-teaching-the-power-of-proper-lighting/"><u>[Updated] Luminary Lessons Teaching the Power of Proper Lighting</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-transforming-your-yt-gaming-content-with-hashtags/"><u>2024 Approved Step-by-Step Guide Transforming Your YT Gaming Content with Hashtags</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-intuitive-usb-30-driver-software-for-windows-10/"><u>Download & Install Intuitive USB 3.0 Driver Software for Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-samsung-sm961-m2-ssd-drivers-on-windows/"><u>Download & Setup Guide: Samsung SM961 M.2 SSD Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-apply-intels-latest-graphics-driver-updates-for-optimal-performance-on-windows-10-11/"><u>Find and Apply Intel's Latest Graphics Driver Updates for Optimal Performance on Windows 10 / 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-logitech-g910-drivers-and-software-update-for-pcs/"><u>Get the Newest Logitech G910 Drivers and Software Update for PCs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-masterful-moment-captures-with-expert-photo-frames-online/"><u>In 2024, Masterful Moment Captures with Expert Photo Frames Online</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-seamless-transition-of-youtube-videos-into-instagram-stories/"><u>In 2024, Seamless Transition of YouTube Videos Into Instagram Stories</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-metadata-ranking-of-7-leading-online-youtube-tag-extractors/"><u>In 2024, Streamline Metadata Ranking of 7 Leading Online Youtube Tag Extractors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-to-next-gen-networking-usb-30-card-drivers-updated-for-windows-computers/"><u>Upgrade to Next-Gen Networking: USB 3.0 Card Drivers Updated for Windows Computers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-auditory-adventure-navigating-soundtracks-for-unboxing-content-for-2024/"><u>[New] Auditory Adventure Navigating Soundtracks for Unboxing Content for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-secrets-of-the-trade-in-sourcing-professional-filmmakers-for-2024/"><u>[New] Secrets of the Trade in Sourcing Professional Filmmakers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964489331-59-bargain-alert-get-your-hands-on-the-vintage-8bitdo-famicom-inspired-keyboard-today/"><u>$59 Bargain Alert! Get Your Hands on the Vintage 8BitDo Famicom-Inspired Keyboard Today!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-crafting-an-engaging-fb-slideshow-experience/"><u>2024 Approved Crafting an Engaging FB Slideshow Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-apple-watchs-battery-performance-with-8-key-configuration-tweaks-tips-from-a-tech-expert/"><u>Boost Your Apple Watch's Battery Performance with 8 Key Configuration Tweaks: Tips From a Tech Expert</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-7a-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel 7a If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-y78t-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Y78t?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-is-m1-suitability-for-professional-editing-confirmed/"><u>In 2024, Is M1 Suitability for Professional Editing Confirmed?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964488313-steal-a-deal-iconic-famicom-style-retro-keyboard-by-8bitdo-now-just-59/"><u>Steal a Deal: Iconic Famicom-Style Retro Keyboard by 8BitDo Now Just $59</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964490584-stream-or-game-like-a-pro-score-an-unbelievable-audio-package-including-the-rodecaster-duo-and-free-rode-nth-100m-headset-at-a-steal-for-only-374/"><u>Stream or Game Like a Pro! Score an Unbelievable Audio Package, Including the Rodecaster Duo and Free Rode NTH-100M Headset, at a Steal for Only $374.</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-snap-open-apps-in-windows-11/"><u>Swiftly Snap Open Apps in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-tom-guide-in-depth-reviews-and-analysis-of-latest-computer-hardware/"><u>The Tom Guide: In-Depth Reviews & Analysis of Latest Computer Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-in-depth-guides-and-reviews-on-latest-hardware/"><u>Tom's Tech Hub: In-Depth Guides & Reviews on Latest Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-unraveling-the-world-of-hardware/"><u>Tom's Tech Insights: Unraveling the World of Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Game On! HP Victus 15 Laptop Now a Bargain Find for $530 at Best Buy, Revealed Experts
-date: 2025-01-11T18:34:52.357Z
-updated: 2025-01-17T01:24:59.226Z
+date: 2025-02-25T22:04:23.137Z
+updated: 2025-03-02T20:12:49.861Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an Nvidia GeForce RTX 3050 GPU and a screen capable of a 144Hz refre
 **Also: [Best laptops under $1,000](https://www.zdnet.com/article/best-laptop-under-1000/)**
 
 With 8GB of RAM, a 512GB SSD, and a 12th-gen Intel Core i5 processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,18 +59,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-fast-and-fun-the-quick-guide-to-taking-screenshots-on-chromebook-for-2024/"><u>[New] Fast & Fun The Quick Guide to Taking Screenshots on Chromebook for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-toolwiz-photosapp-overview-a-complete-analysis-and-future-prospects/"><u>[Updated] Toolwiz PhotosApp Overview - A Complete Analysis and Future Prospects</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-phantom-slow-motion-camera-guide/"><u>2024 Approved Phantom Slow Motion Camera Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/expert-techniques-for-file-recovery-post-sudden-computer-shutdown-a-comprehensive-guide/"><u>Expert Techniques for File Recovery Post Sudden Computer Shutdown - A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/high-quality-fb-videos-for-ff-browser-users/"><u>High-Quality FB Videos for FF Browser Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x50iplus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X50i+ Phone?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/spot-the-difference-a-bargain-chinese-seller-reveals-quirky-2k-display-with-thor-and-darth-vader-design-for-only-139/"><u>Spot the Difference: A Bargain Chinese Seller Reveals Quirky 2K Display with Thor & Darth Vader Design for Only $139</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tailored-interaction-on-a-single-display-introducing-jdis-2vd-screen-that-provides-two-personalized-touch-experiences/"><u>Tailored Interaction on a Single Display - Introducing JDI's 2VD Screen that Provides Two Personalized Touch Experiences</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-most-advanced-and-best-quality-pc-displays-on-the-market-202-text/"><u>The Most Advanced and Best Quality PC Displays on the Market, 202 [TEXT]</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ew-wave-of-youtube-channel-titles-perfect-for-vloggers-limited-to-156-characters/"><u>The New Wave of YouTube Channel Titles Perfect for Vloggers (Limited to 156 Characters)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-computer-gear-expert-reviews-and-advice/"><u>Tom's Computer Gear: Expert Reviews and Advice</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio/"><u>Updated In 2024, The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-concealing-identity-swift-methods-for-picscanner/"><u>[New] Concealing Identity Swift Methods for PicScanner</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-benq-sw320-review-a-gateway-to-true-high-definition/"><u>[Updated] 2024 Approved BenQ SW320 Review A Gateway to True High Definition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1-complete-guide-to-creating-videos-with-the-observatory-tool-movavi/"><u>1. Complete Guide to Creating Videos with the Observatory Tool: Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/apple-silicon-showdown-a-detailed-comparison-of-m4-vs-m3-chips/"><u>Apple Silicon Showdown: A Detailed Comparison of M4 Vs. M3 Chips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-storage-speed-dont-miss-out-on-this-prime-day-offer-for-next-gen-nvme-ssds/"><u>Boost Your Storage Speed: Don't Miss Out on This Prime Day Offer for Next-Gen NVMe SSDs!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/classic-meets-contemporary-an-in-depth-review-of-beats-solo-4-headphones/"><u>Classic Meets Contemporary: An In-Depth Review of Beats Solo 4 Headphones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compare-device-performance-using-the-latest-geekbench-assessment/"><u>Compare Device Performance Using the Latest Geekbench Assessment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-review-of-baseus-powercombo-mini-the-ultimate-5-in-1-67w-power-adapter/"><u>Comprehensive Review of Baseus PowerCombo Mini - The Ultimate 5-in-1 67W Power Adapter</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/comprehensive-solution-to-overcome-the-ls-0013-bug-in-fortnite/"><u>Comprehensive Solution to Overcome the LS-0013 Bug in Fortnite</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-epic-scenarios-with-ai-assistance/"><u>Crafting Epic Scenarios with AI Assistance</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cing-viewer-experience-with-immersive-360-video-content-for-youtube/"><u>Enhancing Viewer Experience with Immersive 360 Video Content for YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/solo-sound-setback-fix-it-now-for-2024/"><u>Solo Sound Setback Fix It Now for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-gaps-in-systems-startup-list/"><u>Troubleshooting Gaps in System's Startup List</u></a></li>
 </ul></div>
 

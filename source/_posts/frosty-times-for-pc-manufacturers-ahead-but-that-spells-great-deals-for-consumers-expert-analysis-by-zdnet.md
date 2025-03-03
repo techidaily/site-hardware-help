@@ -1,7 +1,7 @@
 ---
 title: Frosty Times For PC Manufacturers Ahead, But That Spells Great Deals for Consumers | Expert Analysis by ZDNET
-date: 2025-01-09T23:02:09.895Z
-updated: 2025-01-16T20:33:28.277Z
+date: 2025-03-01T02:39:38.396Z
+updated: 2025-03-02T21:56:57.716Z
 tags:
   - laptops
 categories:
@@ -31,10 +31,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -93,10 +89,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1): $1,000 (save $150)
@@ -104,10 +96,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 5635](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-5000-5635-Laptop%2Fdp%2FB09BW611ZP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1): $836 (save $163)
 * [Dell Inspiron 16 Plus](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Finspiron-16-plus-laptop%2Fspd%2Finspiron-16-7630-laptop%2Fusichbts7630gbkt): $1,100 (save $350)
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1) for $1,071 (save $429)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
 
@@ -124,19 +112,11 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1) for $297 (save $33)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -210,14 +190,21 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-thumbnail-theories-selecting-the-most-effective-youtube-fonts/"><u>[New] 2024 Approved Thumbnail Theories Selecting the Most Effective YouTube Fonts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-honor-play-40c-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor Play 40C Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/masterclass-on-motherboards-dissecting-the-asus-rog-maximus-z790-with-hybrid-cooling-innovations-and-high-performance-components/"><u>Masterclass on Motherboards: Dissecting the Asus ROG Maximus Z790 with Hybrid Cooling Innovations & High Performance Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-tech-trends-with-guidance-from-toms-hardware/"><u>Mastering Tech Trends with Guidance From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/msi-implements-intel-recommended-power-specifications-for-i9-processors-aiming-to-resolve-stability-issues-during-continuous-investigation-by-intel/"><u>MSI Implements Intel Recommended Power Specifications for I9 Processors, Aiming to Resolve Stability Issues During Continuous Investigation by Intel</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/msi-releases-information-on-z790-board-failures-due-to-flawed-pch-chips-manufacturing-glitch-affects-select-units-latest-news/"><u>MSI Releases Information on Z790 Board Failures Due to Flawed PCH Chips - Manufacturing Glitch Affects Select Units (Latest News)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-video-trailer-creation-tools/"><u>New Top Video Trailer Creation Tools</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-poco-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Poco</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-in-this-article-we-will-introduce-some-cool-video-effects-that-you-can-use-in-filmora-as-well-as-the-step-by-step-guide-about-how-to-add-coo/"><u>Updated In 2024, In This Article, We Will Introduce some Cool Video Effects that You Can Use in Filmora as Well as the Step-by-Step Guide About How to Add Cool Effects to Videos for Making a Cool Edit with This Cool V</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-subtle-sonic-reduction-in-the-world-of-audio-editing/"><u>[New] 2024 Approved Subtle Sonic Reduction in the World of Audio Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-capture-and-share-top-no-cost-screen-recorders-for-windowsmac-users/"><u>[New] In 2024, Capture and Share - Top No-Cost Screen Recorders for Windows/Mac Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-guide-to-dji-drone-video-livestreams-on-fb-for-2024/"><u>[New] The Ultimate Guide to DJI Drone Video Livestreams on FB for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-kinemaster-edition-creating-polished-transitions-in-filmmaking/"><u>[Updated] Kinemaster Edition Creating Polished Transitions in Filmmaking</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-lightweight-obs-adjustments-for-thriftier-systems/"><u>In 2024, Lightweight OBS Adjustments for Thriftier Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964477710-save-big-on-your-dream-rig-the-stylish-fractal-design-north-case-at-just-119/"><u>Save Big on Your Dream Rig: The Stylish Fractal Design North Case at Just $119</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-rebooting-your-iphone-without-a-previous-backup-using-stellar/"><u>Step-by-Step Guide: Rebooting Your iPhone Without a Previous Backup Using Stellar</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-nikon-z7-phenomenon-mirrorless-photography-redefined/"><u>The Nikon Z7 Phenomenon: Mirrorless Photography Redefined</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-nostalgic-return-how-beige-computers-are-making-a-modern-day-resurgence/"><u>The Nostalgic Return: How Beige Computers Are Making A Modern-Day Resurgence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-necessary-electronics-for-todays-on-the-move-professionals/"><u>The Ultimate Guide to Necessary Electronics for Today's On-the-Move Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-gaming-experience-with-a-curved-ultrawide-display/"><u>Transforming Gaming Experience with a Curved Ultrawide Display</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-your-space-why-home-assistant-is-the-ultimate-smart-home-solution/"><u>Transforming Your Space: Why Home Assistant Is the Ultimate Smart Home Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unboxing-joy-once-more-i-cant-resist-ankers-funniest-power-bank/"><u>Unboxing Joy - Once More, I Can't Resist Anker's Funniest Power Bank!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-and-evaluating-your-macbook-battery-performance-and-longevit/"><u>Understanding and Evaluating Your MacBook Battery Performance & Longevit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unfolding-potential-how-foldable-screen-technology-is-better-suited-for-laptops-than-mobile-devices/"><u>Unfolding Potential: How Foldable Screen Technology Is Better Suited for Laptops than Mobile Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-affiliate-marketing-how-to-make-money-with-it-for-2024/"><u>YouTube Affiliate Marketing How to Make Money with It for 2024</u></a></li>
 </ul></div>
 

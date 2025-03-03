@@ -1,7 +1,7 @@
 ---
 title: Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available | ZDNET Insider Tips
-date: 2025-02-07T22:02:09.407Z
-updated: 2025-02-11T17:47:09.210Z
+date: 2025-02-24T18:05:05.194Z
+updated: 2025-03-02T21:50:15.324Z
 tags:
   - laptops
 categories:
@@ -37,10 +37,6 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at ZDNET.com. 
@@ -75,24 +71,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-cooking-cut-away-classics-top-7-techniques-for-tasty-videos/"><u>[Updated] 2024 Approved Cooking Cut-Away Classics - Top 7 Techniques for Tasty Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-fan-count-top-tactics-for-fb-page-ranks-for-2024/"><u>[Updated] Elevate Your Fan Count Top Tactics for FB Page Ranks for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-clearer-picture-remove-borders-and-boost-recording-quality/"><u>[Updated] The Clearer Picture Remove Borders and Boost Recording Quality</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-guide-to-metaverse-memes-and-diy-humor-mastery/"><u>[Updated] The Ultimate Guide to Metaverse Memes and DIY Humor Mastery</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-capture-the-magic-of-moonlight-iphonely/"><u>2024 Approved Capture the Magic of Moonlight iPhonely</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-hl-l234er-dual-toner-laser-printer-setup-and-software-for-windows-free-downloads/"><u>Brother HL-L234er Dual Toner Laser Printer Setup and Software for Windows - Free Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-hp-laserjet-m506-printer-drivers-easy-guide/"><u>Download and Update HP LaserJet M506 Printer Drivers - Easy Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-wf-7710-driver-download-guide-ready-for-windows-108187-operating-systems/"><u>Epson WF-7710 Driver Download Guide - Ready for Windows 10/8.1/8/7 Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-the-most-recent-drivers-for-toshiba-office-machines-using-windows-operating-systems/"><u>Find and Install the Most Recent Drivers for Toshiba Office Machines Using Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-amds-gpio-drivers-for-direct-access-to-gpu-resources/"><u>Get the Latest Version of AMD's GPIO Drivers for Direct Access to GPU Resources</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-hp-deskjet-2700-software-for-your-device/"><u>How to Get the Newest HP DeskJet 2700 Software for Your Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-your-ati-radeon-graphics-cards-drivers-using-windows/"><u>How To Successfully Update Your ATI Radeon Graphics Card's Drivers Using Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-or-fix-asus-pce-ac56-network-adapter-drivers-across-various-windows-versions-guide/"><u>How to Update or Fix ASUS PCE-AC56 Network Adapter Drivers Across Various Windows Versions [GUIDE]</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-snap-your-next-podcast-pick-for-sharing/"><u>In 2024, Snap Your Next Podcast Pick for Sharing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-techkeys-bluetooth-driver-seamless-connection-for-all-windows-versions/"><u>Install Techkey's Bluetooth Driver: Seamless Connection for All Windows Versions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/launch-budget-friendly-home-based-chatgpt-alternative/"><u>Launch Budget-Friendly, Home-Based ChatGPT Alternative</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-found-restoring-functionality-to-a-broken-backspace-key/"><u>Solution Found: Restoring Functionality to a Broken Backspace Key</u></a></li>
-<li><a href="https://discover-best.techidaily.com/understanding-and-resolving-pcs-blue-screen-error-with-yl-software-solutions/"><u>Understanding and Resolving PC's Blue Screen Error with YL Software Solutions.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-crafting-perfect-slack-filmo-meeting-experiences/"><u>[New] Crafting Perfect Slack-Filmo Meeting Experiences</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nnovators-roundtable-for-youtube/"><u>[New] Innovators’ Roundtable for YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-instant-youtube-financial-forecasting/"><u>[Updated] Instant YouTube Financial Forecasting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-download-the-ultimate-behringer-usb-audio-controller-drivers/"><u>Direct Download – The Ultimate Behringer USB Audio Controller Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978613267-download-and-install-microsoft-surface-pro-4-drivers-on-your-pc-step-by-step-guide/"><u>Download and Install Microsoft Surface Pro 4 Drivers on Your PC: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asus-bluetooth-drivers-with-simple-updates-streamlined-compatibility/"><u>Download ASUS Bluetooth Drivers with Simple Updates: Streamlined Compatibility</u></a></li>
+<li><a href="https://win-net.techidaily.com/guide-complet-execution-de-la-reparation-du-demarrage-windows-win-avec-linvite-de-commandes/"><u>Guide Complet : Exécution De La Reparation Du Démarrage Windows ([Win) Avec L'Invite De Commandes</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-90-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor 90 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-12-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi 12 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/inserting-a-tiny-brand-icon-into-your-browsers-taskbar-a-guide-for-flipbuilder-users/"><u>Inserting a Tiny Brand Icon Into Your Browser’s Taskbar: A Guide for FlipBuilder Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-setup-a-guide-to-downloading-and-installing-arduino-nano-drivers-on-your-windows-computer/"><u>Mastering the Setup: A Guide to Downloading and Installing Arduino Nano Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sades-headset-drivers-download-for-windows-100-safe/"><u>Sades Headset Drivers Download for Windows [100% Safe]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-amd-zen-5-fire-series-cpus-maintain-fl1-chip-design-implications-for-next-gen-rtx-40-graphics-in-refreshed-laptops/"><u>Upcoming AMD Zen 5 Fire Series CPUs Maintain FL1 Chip Design: Implications for Next-Gen RTX 40 Graphics in Refreshed Laptops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-canoscan-lide-220-scanner-step-by-step-guide-to-latest-software/"><u>Update Your CanoScan LiDE 220 Scanner - Step-By-Step Guide To Latest Software</u></a></li>
 </ul></div>
 

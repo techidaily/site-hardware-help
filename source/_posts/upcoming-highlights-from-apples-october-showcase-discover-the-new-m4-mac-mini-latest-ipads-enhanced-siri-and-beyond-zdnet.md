@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Highlights From Apple's October Showcase: Discover the New M4 Mac Mini, Latest iPads, Enhanced Siri & Beyond | ZDNet"
-date: 2025-01-24T16:04:07.830Z
-updated: 2025-01-30T19:08:19.412Z
+date: 2025-02-23T17:19:06.871Z
+updated: 2025-03-02T19:12:00.793Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -43,10 +39,6 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 [In his most recent newsletter](https://www.bloomberg.com/news/articles/2024-10-01/apple-readies-iphone-se-4-upgraded-ipad-air-for-early-2025?srnd=undefined), Apple watcher Mark Gurman stated that the M4 chip will be used in the upcoming MacBook Pros and iMacs. Gurman doesn't say whether or not there will be different configurations, but we expect to see the base M4 as well as M4 Pro and M4 Max options for the two Mac models. 
 
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
 
@@ -60,10 +52,6 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. New iPads
 
 Adam Breeden/ZDNET
@@ -73,10 +61,6 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 **Also: [Why I'm more excited about an iPad Mini with Apple Intelligence than the new iPhone 16 models](https://www.zdnet.com/article/why-im-more-excited-about-an-ipad-mini-with-apple-intelligence-than-the-new-iphone-16-models/)**
 
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
 
@@ -118,22 +102,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/est-websites-for-downloading-youtube-intro-templates/"><u>[New] Best Websites for Downloading YouTube Intro Templates</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-getting-started-with-youtube-tv-a-must-read-article/"><u>[New] In 2024, Getting Started with YouTube TV A Must-Read Article</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pickup-or-something-else-unveiling-best-android-photo-editor/"><u>[Updated] 2024 Approved PickUp or Something Else? Unveiling Best Android Photo Editor</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-huawei-nova-y71-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Huawei Nova Y71 support MOV videos ?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-logitech-g29-game-controller-software-works-with-win11-win10-win7/"><u>Download & Install Logitech G29 Game Controller Software – Works with Win11, Win10, Win7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-compatible-zexmte-bluetooth-dongle-driver-for-windows-10-7-and-8/"><u>Free Download: Compatible ZexMTE Bluetooth Dongle Driver for Windows 10, 7 & 8</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lava-blaze-2-frp-by-drfone-android/"><u>Full Guide to Bypass Lava Blaze 2 FRP</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/genomic-selection-can-accelerate-breeding-programs-by-reducing-the-reliance-on-field-trials/"><u>Genomic Selection Can Accelerate Breeding Programs by Reducing the Reliance on Field Trials.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-intel-chipset-up-to-date-with-quick-driver-downloads/"><u>Get Your Intel Chipset Up to Date with Quick Driver Downloads!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-windows-pc-optimized-with-new-nvidia-geforce-drivers-free/"><u>Get Your Windows PC Optimized with New NVIDIA GeForce Drivers - Free!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-xlb-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlb Online with DigiSigner</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-drivers-for-epson-xp-310-free-downloads-and-installation-tips/"><u>Latest Drivers for Epson XP 310 - Free Downloads and Installation Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/safe-driver-update-instructions-for-amds-powerful-ryzen-processors/"><u>Safe Driver Update Instructions for AMD's Powerful Ryzen Processors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-msi-x470-motherboard-free-latest-drivers-to-maximize-efficiency-and-reliability/"><u>Secure Your MSi X470 Motherboard: Free Latest Drivers to Maximize Efficiency and Reliability</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/thriving-as-an-online-gaming-content-creator-for-2024/"><u>Thriving as an Online Gaming Content Creator for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-guide-to-adding-filters-effects-and-masks-in-google-meet/"><u>[New] In 2024, Guide to Adding Filters, Effects, and Masks in Google Meet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-become-an-expert-at-youtube-live-streams-with-google-meet/"><u>[Updated] In 2024, Become an Expert at YouTube Live Streams with Google Meet</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-tiktok-gaming-top-10-gaming-tiktokers/"><u>[Updated] In 2024, Tiktok Gaming | Top 10 Gaming Tiktokers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-5-samsung-gear-360-camera-alternatives-2023-update/"><u>[Updated] Top 5 Samsung Gear 360 Camera Alternatives -2023 Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-5-7600x-available-at-just-174-on-newegg-limited-time-offer/"><u>AMD Ryzen 5 7600X Available At Just $174 On Newegg - Limited Time Offer!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corporate-governance-policies-and-ethical-standards/"><u>Corporate Governance Policies and Ethical Standards</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-run-the-sfc-tool-successfully/"><u>Essential Tips to Run the SFC Tool Successfully</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-x50-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964673483-overcoming-intel-chipset-drivers-hurdles-csr85-and-a10-on-windows-systems-fixed/"><u>Overcoming Intel Chipset Drivers Hurdles: CSR85# and A10 on Windows Systems Fixed!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/power-and-precision-combined-how-amds-flagship-zen-5-ryzen-9-9950x-outclasses-its-ancestor-the-ryzen-9-7950x-by-a-remarkable-24-in-new-benchmark-studies/"><u>Power and Precision Combined: How AMD's Flagship Zen #5 Ryzen 9 9950X Outclasses Its Ancestor, the Ryzen 9 7950X by a Remarkable 24% in New Benchmark Studies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-updating-your-intel-dual-band-wireless-ac-31003160-chip-drivers-released/"><u>Quick Guide to Updating Your Intel Dual Band Wireless AC 3100/3160 Chip - Drivers Released!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/razer-naga-mouse-driver-downloads-find-and-update-your-windows-software-today/"><u>Razer Naga Mouse Driver Downloads: Find and Update Your Windows Software Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/selecting-the-class-president/"><u>Selecting the Class President</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-fixing-startechs-device-drivers-on-windows-systems/"><u>The Definitive Guide to Fixing StarTech's Device Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-download-epson-v600-print-driver-step-by-step-process/"><u>Update or Download Epson V600 Print Driver: Step by Step Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-overhaul-alteration-of-ruleset/"><u>Windows Security Overhaul: Alteration of Ruleset</u></a></li>
 </ul></div>
 

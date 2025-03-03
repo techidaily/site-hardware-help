@@ -1,7 +1,7 @@
 ---
 title: "October's Prime Day Bonanza: Top Discounted Items to Shop This Year | CNET Special Report"
-date: 2025-02-10T20:31:54.629Z
-updated: 2025-02-12T03:21:48.026Z
+date: 2025-02-24T19:34:37.254Z
+updated: 2025-03-02T22:54:30.520Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -98,10 +94,6 @@ Asus/ZDNET
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C217d5b37-7654-4c26-b95c-e50427f08c9f%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C217d5b37-7654-4c26-b95c-e50427f08c9f%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best laptops for photo editing
 
 * [Acer Chromebook Spin 714](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CP714-1WN-53M9-i5-1235U-1920x1200-Keyboard%2Fdp%2FB0BJH9LGK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C217d5b37-7654-4c26-b95c-e50427f08c9f%7Cdtp&dtb=1) for $545 ($227 off): If you're looking for a good sale price on a convertible 2-in-1, Acer's Chromebook Spin 714 brings all the light efficiency of a Chromebook to a portable form factor. This is a great editing device if you often use Google Photos. Also, with a new purchase, you get Gemini Advanced, 2TB of cloud storage, and more free for three months.
@@ -118,10 +110,6 @@ Kyle Kucharski/ZDNET
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C217d5b37-7654-4c26-b95c-e50427f08c9f%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy laptop deals
 
 * [Asus ROG Strix Scar 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-strix-scar-17-3-240hz-gaming-laptop-wqhd-amd-ryzen-9-x3d-with-32gb-memory-nvidia-geforce-rtx-4090-2tb-ssd-off-black%2F6564531.p%3FskuId%3D6564531&publisher_slug=itechdaily19598&exclusive=1) for $3,000 (save $700): This high-end gaming laptop is built with an AMD Ryzen 9 X3D processor, 32GB of RAM, a 2TB SSD, and Nvidia GeForce RTX 4090 graphics card.
@@ -134,19 +122,11 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
@@ -230,24 +210,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs/"><u>[New] 2024 Approved Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-gigglegraphs-imagejesterhub/"><u>2024 Approved GiggleGraphs ImageJesterHub</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unveiling-the-finest-free-online-recorders-top-picks/"><u>2024 Approved Unveiling the Finest Free Online Recorders – Top Picks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-pcs-power-with-free-intel-z270-pro-gamers-board-download/"><u>Boost Your PC's Power with [Free] Intel Z270 Pro Gamers Board Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-the-ultimate-steering-wheel-controller-from-logitech/"><u>Download and Setup Guide: The Ultimate Steering Wheel Controller From Logitech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-epson-wf-2940-printer-drivers-compatible-with-windows-7-81-and-10-free/"><u>Download Epson WF-2940 Printer Drivers Compatible with Windows 7, 8.1 & 10 - Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-proper-functionality-kyocera-printer-driver-setup-on-microsoft-windows/"><u>Ensure Proper Functionality: KYOCERA Printer Driver Setup on Microsoft Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-focusrite-scarlett-solo-18i20-windows-sound-card-driver-download/"><u>Free Focusrite Scarlett Solo 18I20 Windows Sound Card Driver Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-installation-of-logitech-webcams-driver-downloads-for-windows-users/"><u>Free Installation of Logitech Webcams: Driver Downloads for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967004177-get-the-latest-windows-drivers-for-your-brother-hl-l2380dw-laser-printer-now/"><u>Get the Latest Windows Drivers for Your Brother HL-L2380DW Laser Printer Now</u></a></li>
-<li><a href="https://video-capture.techidaily.com/how-to-save-powerpoint-presentation-as-video-on-windows-and-mac-os-for-2024/"><u>How to Save PowerPoint Presentation as Video on Windows and Mac OS for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pros-and-cons-of-syma-x8c/"><u>In 2024, Pros and Cons of Syma X8C</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-and-optimize-powershells-execution-policy-landscape/"><u>Navigate & Optimize PowerShell's Execution Policy Landscape</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/professional-tips-how-to-download-and-implement-linksys-wusb6300-drivers-seamlessly/"><u>Professional Tips: How to Download and Implement Linksys WUSB6300 Drivers Seamlessly</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-6-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 6 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-troubleshooting-tips-updating-your-elan-smbus-driver-on-a-windows-pc/"><u>Ultimate Troubleshooting Tips: Updating Your ELAN SMBus Driver on a Windows PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96176764-9781605291802-uncommon-wisdom/"><u>Uncommon Wisdom | Free Book</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-exploring-the-depth-of-editing-with-gopro-studios-capabilities/"><u>[New] 2024 Approved Exploring the Depth of Editing with GoPro Studio's Capabilities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-infuse-rhythms-into-your-whatsapp-story/"><u>[New] 2024 Approved Infuse Rhythms Into Your WhatsApp Story</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-masterclass-splitting-your-screen-for-maximum-impact-on-facebook-live/"><u>[New] Masterclass Splitting Your Screen for Maximum Impact on Facebook Live</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-best-10-drones-for-high-quality-cinematography/"><u>[Updated] 2024 Approved Best 10 Drones for High-Quality Cinematography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-advanced-methods-for-bending-digital-images/"><u>[Updated] Advanced Methods for Bending Digital Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-transcribe-a-youtube-video-free/"><u>[Updated] How to Transcribe a YouTube Video [FREE]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-pro-100-printer-drivers-for-windows-easy-installation-guide/"><u>Canon Pro 100 Printer Drivers for Windows: Easy Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-bluetooth-usb-driver-for-windows-quick-reliable-guide-to-downloading-and-updating/"><u>Get the Newest Bluetooth USB Driver for Windows - Quick, Reliable Guide to Downloading & Updating</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-install-the-latest-iphone-drivers-on-your-windows-10-pc/"><u>How to Get & Install the Latest iPhone Drivers on Your Windows 10 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-or-upgrade-your-pcs-pl2303-drivers-on-windows/"><u>How to Install or Upgrade Your PC's PL2303 Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-amd-radeon-rx-470-drivers-quick-download-guide/"><u>Latest AMD Radeon RX 470 Drivers: Quick Download Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unleash-your-creativity-top-movie-trailer-editors-for-mac-and-windows/"><u>New 2024 Approved Unleash Your Creativity Top Movie Trailer Editors for Mac and Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/no-more-language-barriers-your-95-off-lifetime-pass/"><u>No More Language Barriers - Your 95% Off Lifetime Pass</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/prime-foreign-tongues-pursued-by-americans/"><u>Prime Foreign Tongues Pursued by Americans</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-overcome-format-required-error/"><u>Quick Guide to Overcome Format Required Error</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-9000-launch-on-hold-exploring-the-impact-of-a-mislabeled-ryzen-7-chip-and-ryzen-5-series-disruption/"><u>Ryzen 9000 Launch on Hold? Exploring the Impact of a Mislabeled Ryzen 7 Chip & Ryzen 5 Series Disruption</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-update-to-intel-dual-band-wifi-ac-3160-a-user-friendly-guide-for-speedier-connectivity/"><u>Seamless Update to Intel Dual Band WiFi AC 3160: A User-Friendly Guide for Speedier Connectivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/startech-usb-to-vga-adapter-drivers-immediate-download-available/"><u>StarTech USB to VGA Adapter Drivers - Immediate Download Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-razer-blade-17-graphics-and-system-drivers-on-windows-11-10-8-and-7/"><u>Step-by-Step Guide: Updating Your Razer Blade 17 Graphics and System Drivers on Windows 11, 10, 8 & 7</u></a></li>
 </ul></div>
 

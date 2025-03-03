@@ -1,7 +1,7 @@
 ---
 title: "Reviews & Recommendations: Discover How This Super-Light Laptop Is Transforming the World of Remote Workers"
-date: 2025-02-08T20:12:38.205Z
-updated: 2025-02-11T19:36:59.286Z
+date: 2025-03-01T21:46:30.425Z
+updated: 2025-03-03T00:04:45.042Z
 tags:
   - laptops
 categories:
@@ -42,10 +42,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best podcasts
 
 1.) **MacBreak Weekly** \-- The best place to start if you're looking for a weekly roundup of Apple news and analysis is one of the longest-running Apple-focused podcasts, [MacBreak Weekly](https://twit.tv/shows/macbreak-weekly). It still has Mac in the name because the Mac was the center of the Apple universe when it started in 2006, but it has always focused broadly on the whole Apple ecosystem. Leo Laporte and Alex Lindsay have been there since the beginning and there have been a long list of co-hosts who have done stints on the show, including Rene Ritchie, Justine Ezarik (see iJustine below), Luria Petrucci (Cali Lewis), Kiki Sanford, Amber MacArthur, and others. The current regular hosts along with Laporte and Lindsay are Andy Ihnatko and Jason Snell. The podcast combines humor from Laporte and Ihnatko with deep technical analysis from Lindsay and Snell (the former editor of MacWorld, who is also co-host on another excellent Apple-focused podcast called [Upgrade](https://www.relay.fm/upgrade)). If you want one Apple podcast to listen to every week to catch up on the latest developments and get the best analysis, this is the one.
@@ -61,10 +57,6 @@ TWiT Network
 5.) **AppleInsider Podcast** \-- Speaking of AppleInsider, another weekly Apple podcast that focuses on analysis, but with a different take, is the [AppleInsider Podcast](https://appleinsider.com/podcast/appleinsider-podcast). The best thing about this one is that host Stephen Robles has a very calm, non-bombastic vibe and he's a deep subject matter expert on Apple devices who always wants to share helpful tips and advice. And his co-hosts follow that lead. 
 
 **Also:** [**Unlock the best new features in iPhone 15, iOS 17, and Apple Watch with these tips**](https://www.zdnet.com/article/apple-tips-2023/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## YouTube channels
 
@@ -116,22 +108,20 @@ MKBHD/Marques Brownlee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-cinema-teasers-compilation/"><u>[New] 2024 Approved Top Cinema Teasers Compilation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-moziscreen-plugins-for-firefox-for-2024/"><u>[New] MoziScreen Plugins for Firefox for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-pixel-power-the-top-10-cameras-for-clear-images-for-2024/"><u>[New] Pixel Power The Top 10 Cameras for Clear Images for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-techniques-that-elevate-your-ppt-recording-experience/"><u>[Updated] 2024 Approved Techniques that Elevate Your PPT Recording Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977807734-easy-setup-for-zebra-gk420d-download-the-right-driver-today/"><u>Easy Setup for Zebra GK420D: Download the Right Driver Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tips-for-installing-the-latest-samsung-usb-drivers-on-smartphones/"><u>Easy Tips for Installing the Latest Samsung USB Drivers on Smartphones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-corsair-mouse-gameplay-with-new-firmware-download/"><u>Enhance Your Corsair Mouse Gameplay with New Firmware Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964700853-get-the-newest-gigabyte-wb867d-chipset-drivers-instantly/"><u>Get the Newest GIGABYTE WB867D Chipset Drivers Instantly!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-sas-software-drivers-compatible-with-windows-versions-11-8-7/"><u>Get the Newest SAS Software Drivers Compatible with Windows Versions: 11, 8, 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-the-logitech-g920-controller-on-windows-pcs-tutorial-for-windows-111087-systems/"><u>How to Install the Logitech G920 Controller on Windows PCs - Tutorial for Windows 11/10/8/7 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-horizon-zero-dawns-stability-issues-on-windows-a-comprehensive-guide/"><u>How to Resolve Horizon Zero Dawn's Stability Issues on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-x50i-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor X50i Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/linksys-ae1200-support-your-fast-path-to-downloading-and-installing-the-right-drivers/"><u>Linksys AE1200 Support - Your Fast Path to Downloading and Installing the Right Drivers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ftc-crackdown-penalties-imposed-on-businesses-using-fraudulent-customer-testimonials/"><u>New FTC Crackdown: Penalties Imposed on Businesses Using Fraudulent Customer Testimonials</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-framework-for-captivating-streams-on-youtube-for-2024/"><u>The Ultimate Framework for Captivating Streams on YouTube for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-gaming-experience-free-steelseries-mouse-driver-download-available/"><u>Upgrade Your Gaming Experience - Free SteelSeries Mouse Driver Download Available</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/your-essential-guide-to-the-april-2024-solar-eclipse-tips-for-safe-viewing-and-required-gear-explained-tech-insights/"><u>Your Essential Guide to the April 2024 Solar Eclipse - Tips for Safe Viewing & Required Gear Explained | Tech Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mac-screenshots-transforming-extensions/"><u>[New] 2024 Approved Mac Screenshots Transforming Extensions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-easy-to-use-screen-recording-software-including-apowersoft/"><u>[New] In 2024, Easy-to-Use Screen Recording Software, Including Apowersoft</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-tailoring-content-to-engage-an-igtv-video-dimension-blueprint/"><u>[New] Tailoring Content to Engage An IGTV Video Dimension Blueprint</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-why-are-my-instagram-videos-playing-sideways-troubleshoot/"><u>[Updated] 2024 Approved Why Are My Instagram Videos Playing Sideways? Troubleshoot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-components-of-a-successful-digital-twin-strategy-integrating-ai-for-enhanced-business-outcomes-tech-insights-by-zdnet/"><u>Essential Components of a Successful Digital Twin Strategy: Integrating AI for Enhanced Business Outcomes | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-rankings-the-best-computing-units-for-serious-gamers/"><u>Expert Rankings: The Best Computing Units for Serious Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixes-and-solutions-realtek-wifi-driver-problems-on-windows-11-10-and-7/"><u>Fixes & Solutions: RealTek WiFi Driver Problems on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-your-moment-iphone-apps-for-efficient-photo-cropping-for-2024/"><u>Frame Your Moment IPhone Apps for Efficient Photo Cropping for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-and-update-lenovo-x260-laptop-drivers-on-microsofts-newest-os-windows-11/"><u>How to Find and Update Lenovo X260 Laptop Drivers on Microsoft's Newest OS: Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-13-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 13 From Your Apple ID</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-m34-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy M34 Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-tech-with-toms-hardware-essentials/"><u>Mastering Tech with Tom's Hardware Essentials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unreal-engine-and-intel-chips-transform-modelfarms-game-creation-now-switching-to-amd-ryzen-for-peak-performance/"><u>Unreal Engine and Intel Chips Transform ModelFarm's Game Creation - Now Switching to AMD Ryzen for Peak Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-install-new-drivers-on-epson-scanners-with-these-direct-downloads/"><u>Update or Install New Drivers on Epson Scanners with These Direct Downloads</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-send-unforgettable-invites-with-these-best-video-apps-for-ios-and-android/"><u>Updated In 2024, Send Unforgettable Invites with These Best Video Apps for iOS & Android</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Finding Happiness Elusive in Windows Devices Says Enthusiastic MacBook User at Google | ZDNet
-date: 2025-02-06T01:16:46.305Z
-updated: 2025-02-12T01:11:25.289Z
+date: 2025-02-26T00:21:59.884Z
+updated: 2025-03-02T20:50:18.551Z
 tags:
   - laptops
 categories:
@@ -26,17 +26,9 @@ Not just in the way that [bosses manage employees](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![microsoft-surface-laptop-3-laptop-review.png](https://www.zdnet.com/a/img/resize/e0f6d314e4806309add28003f30e4e0ed93682c4/2021/02/04/27735ebc-dd78-4651-afc4-160fa0c6a355/microsoft-surface-laptop-3-laptop-review.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best laptops Our recommended models for every use case and platform.  Read now](https://www.zdnet.com/article/best-laptop/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Feelings about technology are important too.
 
@@ -51,10 +43,6 @@ I judge this from a _Business Insider_ [exposé](https://www.businessinsider.com
 There were terrible stories of so-called frupidity. This is the glorious blend of frugality and stupidity that seems to infect too many companies. 
 
 One of the most pungent complaints, however, came from a former Amazon product manager. It seems that Amazon didn't think these vital employees were worthy of [MacBooks](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Instead, they were given "subpar Windows laptops."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -81,10 +69,6 @@ How much, though, of the product manager's observations might be based on percep
 **Also:** [**HP launches a laptop in a way even Apple wouldn't dare**](https://www.zdnet.com/article/hp-launches-a-laptop-in-a-way-even-apple-wouldnt-dare/)
 
 Microsoft has fought the image of laborious stodginess by creating its own [Surface brand](https://www.zdnet.com/article/microsofts-october-12-surface-launch-whats-on-tap/). You might have many views about these devices, but substandard they're not. Creative, they largely are. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -132,20 +116,22 @@ That must explain why [there's so much joy at Google right now](https://www.zdne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-tutorial-crafting-photo-videos-in-pixiz/"><u>[New] Step-by-Step Tutorial Crafting Photo Videos in Pixiz</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-detailed-handbook-for-optimizing-googles-ai-powered-text-conversion/"><u>[Updated] Detailed Handbook for Optimizing Google's AI-Powered Text Conversion</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-firefoxs-multitasking-toolkit-the-pip-mode/"><u>[Updated] In 2024, Firefox's Multitasking Toolkit The PIP Mode</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/clear-cut-content-how-to-minimize-unwanted-elements-in-video/"><u>Clear Cut Content How to Minimize Unwanted Elements in Video</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/borative-video-workflows-for-content-growth-for-2024/"><u>Collaborative Video Workflows for Content Growth for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-link-to-dell-certified-bluetooth-drivers-for-all-windows-versions/"><u>Direct Link to Dell-Certified Bluetooth Drivers for All Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/efficiently-install-hp-elitebook-8460-p-driver-for-windows-os-comprehensive-tutorial-resolved/"><u>Efficiently Install HP EliteBook 8460 P Driver for Windows OS - Comprehensive Tutorial [RESOLVED]</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-quadro-rtx-8000-windows-drivers-for-a-smooth-gamingcad-experience-on-os-1087/"><u>Get the Latest Nvidia Quadro RTX 8000 Windows Drivers for a Smooth Gaming/CAD Experience on OS 10/8/7!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-video-card-software-for-pcs/"><u>Get the Newest AMD Video Card Software for PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-right-driver-ultimate-downloads-for-your-epson-scanner/"><u>Get the Right Driver - Ultimate Downloads for Your Epson Scanner</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-quickly-secure-and-update-drivers-for-your-epson-xp-440-printer/"><u>How to Quickly Secure and Update Drivers for Your Epson XP-440 Printer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-integration-of-updated-rndis-usb-connectivity-on-your-windows-pc/"><u>Seamless Integration of Updated RNDIS USB Connectivity on Your Windows PC</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transfert-de-donnees-sans-pertes-ssd-par-opposition-a-lhdd-fantome/"><u>Transfert De Données Sans Pertes : SSD Par Opposition À L'HDD Fantôme</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-nokia-130-music-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Nokia 130 Music fingerprint</u></a></li>
-<li><a href="https://discover-best.techidaily.com/1725289433797-winxvideo-ai/"><u>Winxvideo AI를 사용하여 비디오 품질 클럽에 들어갑시다</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-using-laptopsmobile-for-google-meet-join/"><u>[New] 2024 Approved Using Laptops/Mobile for Google Meet Join</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-high-quality-edits-explore-these-9-cloud-apps/"><u>[New] In 2024, Free, High-Quality Edits Explore These 9 Cloud Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-5-macos-safari-video-conversion-apps/"><u>[New] In 2024, Top 5 macOS Safari Video Conversion Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smart-snip-skills-advanced-tips-for-iphone-photo-cropping/"><u>2024 Approved Smart Snip Skills Advanced Tips for iPhone Photo Cropping</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-8-plus-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 8 Plus by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-follow-instructions-downloading-your-microsoft-comfort-keyboard-4000-drivers/"><u>Easy-to-Follow Instructions: Downloading Your Microsoft Comfort Keyboard 4000 Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971714850-effortless-setup-with-behringers-professional-usb-audio-driver-start-here/"><u>Effortless Setup with Behringer's Professional USB Audio Driver - Start Here!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-errors-steering-clear-of-common-missteps-with-ai-generation-tech/"><u>Essential Errors: Steering Clear of Common Missteps with AI Generation Tech</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-hardware-reviews-and-guides-from-toms-hardware/"><u>In-Depth Hardware Reviews & Guides From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-rx-250-software-installation-for-windows-operating-systems-windows-7810/"><u>Latest Logitech RX-250 Software Installation for Windows Operating Systems (Windows 7/8/10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-thinkpad-driver-downloads-secure-and-up-to-date-solutions/"><u>Lenovo ThinkPad Driver Downloads: Secure and Up-to-Date Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/png-naar-bmp-verzamelen-vrije-online-tools-von-movavi/"><u>PNG Naar BMP Verzamelen: Vrije Online-Tools Von Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-startech-drivers-problems-on-windows-11-8-and-7-comprehensive-fixes/"><u>Resolving StarTech Drivers Problems on Windows 11, 8 & 7: Comprehensive Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silverman-artists-unite-lawsuit-against-ai-giants/"><u>Silverman, Artists Unite: Lawsuit Against AI Giants</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/turbocharge-ryzen-9-9950x-to-a-whopping-6ghz-unleash-up-to-27-more-core-power-and-impress-on-the-geekbench-scale/"><u>Turbocharge Ryzen 9 9950X to a Whopping 6GHz: Unleash Up to 27% More Core Power & Impress on the GeekBench Scale.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-fixes-acpi-compatible-control-method-driver-problem-with-microsofts-battery-support/"><u>Update Fixes ACPI-Compatible Control Method Driver Problem with Microsoft's Battery Support</u></a></li>
 </ul></div>
 

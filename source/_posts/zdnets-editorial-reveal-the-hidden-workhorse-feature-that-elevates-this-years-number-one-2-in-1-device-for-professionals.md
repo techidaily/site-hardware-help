@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Editorial Reveal: The Hidden Workhorse Feature That Elevates This Year’s Number One 2-in-1 Device for Professionals"
-date: 2025-02-09T21:40:32.362Z
-updated: 2025-02-11T20:38:47.886Z
+date: 2025-02-23T21:35:00.440Z
+updated: 2025-03-02T20:38:51.908Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -72,10 +68,6 @@ The ThinkPad X1 2-in-1 performs well in most cases, although it's not necessaril
 
 It also did well on the benchmark tests I ran, even outperforming the Intel Core i9-9880H. I'm very familiar with the Ultra 7, so I expected solid performance. Indeed, it is because of this familiarity that I was surprised to see this model's price. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [Lenovo ThinkPad X1 2-in-1](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fca%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Flenovo-thinkpad-x1-2-in-1-gen-9-%2814-inch-intel%29%2Flen101t0085%3F&publisher_slug=itechdaily19598&exclusive=1) offers decent hardware performance, a hi-res touchscreen, and a long battery life. You may be thinking that there are many non-enterprise users out there who would appreciate a computer like this, and normally I would agree, but its starting price of $2,531 is hard to justify beyond the enterprise context, even if it is a convertible. 
@@ -112,24 +104,21 @@ Additionally, keep in mind that adding options like an OLED screen and hardware 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-instavid-angle-mystery-vertical-reversals-on-the-rise/"><u>[New] InstaVid Angle Mystery Vertical Reversals on the Rise</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-skills-for-non-audio-shooting/"><u>[Updated] 2024 Approved Essential Skills for Non-Audio Shooting</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists/"><u>2024 Approved Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-track-to-your-ft232r-uart-driver-download-speedy-setup-tips/"><u>Fast Track to Your FT232R UART Driver Download – Speedy Setup Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-logitech-g35-audio-drivers-for-windows-operating-systems-windows-7810/"><u>Get Logitech G35 Audio Drivers for Windows Operating Systems (Windows 7/8/10)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-canon-mx49n-printer-up-to-date-with-new-windows-drivers-here/"><u>Get Your Canon MX49n Printer Up-to-Date with New Windows Drivers Here!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/googles-next-leap-in-artificial-intelligence-understanding-the-goals-and-progress-of-project-gemini/"><u>Google's Next Leap in Artificial Intelligence: Understanding the Goals and Progress of Project Gemini</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-deskjet-2755e-printer-drivers-and-software-download-for-windows/"><u>HP DeskJet 2755E Printer Drivers & Software Download for Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-nokia-c22-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Nokia C22 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-youtube-partnership-unlocked-break-through-at-10k-vistas/"><u>In 2024, YouTube Partnership Unlocked Break Through at 10K Vistas</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965131367-private-markets-often-fail-to-provide-public-goods-at-optimal-levels-due-to-difficulties-in-charging-users-directly/"><u>Private Markets Often Fail to Provide Public Goods at Optimal Levels Due to Difficulties in Charging Users Directly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sapphire-drivers-download-and-update-on-windows/"><u>SAPPHIRE Drivers Download & Update on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-repairing-hp-laptop-camera-issues-on-windows-11/"><u>Step-by-Step Tutorial for Repairing HP Laptop Camera Issues on Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/swirling-shadows-adding-realistic-motion-to-photoshop-images-for-2024/"><u>Swirling Shadows Adding Realistic Motion to Photoshop Images for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-fresh-download-of-netgear-a6100-windows-driver-latest-version-available-now/"><u>Update or Fresh Download of Netgear A6100 Windows Driver - Latest Version Available Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-and-install-the-newest-epson-wf-372cued-to-provide-you-with-comprehensive-answers-and-guidance/"><u>Upgrade & Install the Newest Epson WF-372cued to Provide You with Comprehensive Answers and Guidance.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973378204-windows-11-compatible-sound-blaster-z-driver-get-it-now/"><u>Windows 11 Compatible Sound Blaster Z Driver - Get It Now!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rofessional-thumbnails-from-your-phone-for-youtube/"><u>[New] Professional Thumbnails From Your Phone for YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-download-essential-video-intros-for-beginners/"><u>[Updated] In 2024, Download Essential Video Intros for Beginners</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-10-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 10 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-reality-and-fantasy-ai-driven-worldbuilding/"><u>Bridging Reality and Fantasy: AI-Driven Worldbuilding</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-new-magicard-rio-pro-driver-update-compatible-with-windows-1011-81-and-win-7/"><u>Download the New Magicard Rio Pro Driver Update - Compatible with Windows 10/11, 8.1 & Win 7</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dual-environment-clarity-vs-style-compromise-a-critical-look-at-the-clearstream-2v-tv-signal-receiver/"><u>Dual-Environment Clarity vs Style Compromise: A Critical Look at the ClearStream 2V TV Signal Receiver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-hp-officejet-4650-printer-software-suite-for-windows/"><u>Free Download: HP OfficeJet 4650 Printer Software Suite for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-g29-racing-wheel-drivers-and-software-for-windows-11-and-earlier-versions/"><u>Free Logitech G29 Racing Wheel Drivers & Software for Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://win-superb.techidaily.com/future-challenges-await-for-windows-users-revealed-by-zdnet-analysis/"><u>Future Challenges Await for Windows Users, Revealed by ZDNet Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-dolby-audio-driver-updates-for-windows-111081-free-download-now/"><u>Get the Latest Dolby Audio Driver Updates for Windows 11/10/8.1 - Free Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-secure-update-and-enhance-your-gaming-experience-with-fresh-amd-vega-56-drivers-on-windows/"><u>How To: Secure, Update And Enhance Your Gaming Experience With Fresh AMD Vega 56 Drivers on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nubia-z50-ultra-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nubia Z50 Ultra</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-official-epson-perfection-v39-windows-7-10-printer-driver-no-trial/"><u>Install Official Epson Perfection V39 Windows 7-10 Printer Driver (No Trial)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-most-recent-nvidia-rtx-3080-ti-drivers-on-windows-available-for-windows-11-10-and-7/"><u>Install the Most Recent NVIDIA RTX 3080 Ti Drivers on Windows - Available for WINDOWS 11, 10 and 7</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ntaneous-subscriber-tracking/"><u>Instantaneous Subscriber Tracking</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-digital-challenges-boosting-design-craftsmanship/"><u>Top 9 Digital Challenges Boosting Design Craftsmanship</u></a></li>
 </ul></div>
 

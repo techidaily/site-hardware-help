@@ -1,7 +1,7 @@
 ---
 title: "How to Install or Update SAS Driver Software on Windows Systems: 10/8/7 Guides & Resources"
-date: 2024-08-19T10:58:17.176Z
-updated: 2024-08-20T10:58:17.176Z
+date: 2025-02-26T18:12:50.394Z
+updated: 2025-03-02T19:37:13.427Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 ## Find the Latest Canon MG2520 Driver Software for Windows Systems Here
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa76122609.jpg)
 
  This post will show you how to update the printer driver for your**Canon MG2520 printer** .
@@ -26,18 +23,12 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes to update Canon MG2520 driver
 
 1. [Update printer driver manually](https://tools.techidaily.com/drivereasy/download/)
 2. [Update printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 3. [Update printer driver in Device Manager](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update printer driver manually
 
  You can manually download the Canon MG2520 driver from the Canon website in your Windows computer. To do so, follow the instructions below:
@@ -46,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
  2) In the search box, type**Canon mg2520 printer** , and click**Canon PIXMA MG2520 Driver** in the search result.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa83e682e2.jpg)
 
  3) Scroll down and find**Canon PIXMA MG2520 Windows Driver** , and click**Download** .
@@ -77,23 +65,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
 
 4) Restart your computer to make it take effect.
@@ -122,13 +93,6 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
  5) Choose**Search automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
 
  6) Then Windows will start to help search the new driver for your printer.
@@ -146,8 +110,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +117,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/-journey-through-time-best-history-youtubes-for-scholars-and-enthusiasts-for-2024/"><u>[New] A Journey Through Time Best History YouTubes for Scholars & Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-perfecting-presentations-adopt-the-ezvide-screencast-method/"><u>[New] Perfecting Presentations Adopt the EZvide Screencast Method</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-earning-on-snapchat-for-2024/"><u>[Updated] The Ultimate Guide to Earning on Snapchat for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-vr-frontier-who-holds-the-crown-for-2024/"><u>[Updated] The VR Frontier Who Holds the Crown for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-streamlined-tactics-for-scrolling-through-popular-youtube-reactions/"><u>2024 Approved Streamlined Tactics for Scrolling Through Popular YouTube Reactions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canoscan-lide-120-scanner-drivers-latest-downloads-and-updates-guide/"><u>CanoScan LiDE 120 Scanner Drivers – Latest Downloads and Updates Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-the-premium-service-psplus-vs-xbgplus/"><u>Choosing the Premium Service: PS+ Vs. XBG+</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-intel-hd-graphics-drivers-on-windows-11-step-by-step-guide/"><u>Download & Update Intel HD Graphics Drivers on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-hp-deskjet-annoy-2700-functionality-with-the-new-drivers-downloaded-for-free/"><u>Enhance Your HP Deskjet Annoy 2700 Functionality with the New Drivers Downloaded for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-downloads-install-the-latest-epson-et-2750-printer-driver-on-your-pc/"><u>Free Downloads: Install the Latest Epson ET-2750 Printer Driver on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-newest-realtek-driver-software-directly-from-our-site-for-optimal-windows-11-support/"><u>Install the Newest Realtek Driver Software Directly From Our Site for Optimal Windows 11 Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/linksys-ae2500-driver-download-made-simple-fast-effective-tips-inside/"><u>Linksys AE2500 Driver Download Made Simple – Fast, Effective Tips Inside</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-slow-motion-selecting-the-best-mobile-camera-apps/"><u>Pro Slow Motion Selecting the Best Mobile Camera Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-for-fixing-non-ejectable-cd-dvd-and-blu-ray-drives/"><u>Step-by-Step Guide for Fixing Non-Ejectable CD, DVD, and Blu-Ray Drives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-mejores-lectores-de-video-en-alta-definicion-4k-para-ordenadores-y-macs/"><u>Top 5 Mejores Lectores De Video en Alta Definición 4K Para Ordenadores Y Macs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-installation-guide-linksys-wusb6300-wi-fi-adapter-drivers-downloaded/"><u>Ultimate Installation Guide: Linksys WUSB6300 Wi-Fi Adapter Drivers Downloaded</u></a></li>
+</ul></div>
 

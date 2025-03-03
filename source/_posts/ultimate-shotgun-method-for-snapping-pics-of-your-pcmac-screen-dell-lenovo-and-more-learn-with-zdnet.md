@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Shotgun Method for Snapping Pics of Your PC/Mac Screen: Dell, Lenovo and More - Learn with ZDNET"
-date: 2025-01-15T00:16:06.641Z
-updated: 2025-01-16T23:14:55.661Z
+date: 2025-02-27T00:48:40.631Z
+updated: 2025-03-03T01:30:33.129Z
 tags:
   - laptops
 categories:
@@ -20,10 +20,6 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the Amazon Prime Day deal?
 
 We are a week ahead of Amazon's Prime Big Deal Days sale, and both configurations of the [HP Envy x360 2-in-1 laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSpectre-x360-Touchscreen-Long-Battery-Fingerprint%2Fdp%2FB0D9JMTWM4%2F%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C75a79144-9c50-433d-bad9-204992ff7452%7Cdtp&dtb=1) are on sale now. You can purchase the model with the 512GB SSD for $749 and the device with a 1TB SSD for $799\. However, with the latter configuration, you better act fast because there are only a few left at the time of this writing.
@@ -31,10 +27,6 @@ We are a week ahead of Amazon's Prime Big Deal Days sale, and both configuration
 **Also:** [**The best October Prime Day deals so far**](https://www.zdnet.com/article/best-early-amazon-prime-day-deals-2024/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -96,10 +88,6 @@ If you can't tell already, I'm a big fan of the Envy x360, and out of [all the 2
 
 These issues are prevalent across all 2-in-1 laptops I've tested and are (usually) intermittent enough to not be problems -- but in certain moments, facing non-functioning hardware can be frustrating, and you should keep that in mind.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [HP Envy x360 16 (2024)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-envy-x360-2-in-1-laptop-16-ad0097nr&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is priced well for an upper-mid-tier device with a gorgeous display and solid performance. Creators will love this laptop's flexible form factor and impressive battery life. After using it for a few weeks, I can say that it's my favorite big-screen 2-in-1, despite its quirks. This is a laptop for work as much as it is for entertainment, and if you're looking for a 2-in-1 laptop, you have to consider the Envy x360.
@@ -107,10 +95,6 @@ The [HP Envy x360 16 (2024)](https://www.dpbolvw.net/click-9041660-15850793?url=
 Compared to its rivals, HP's model offers a more complete package. Take a look at [Lenovo's Yoga 7i](https://www.zdnet.com/article/the-2-in-1-laptop-that-i-recommend-for-college-juggles-work-and-play-seamlessly/). It's also a great machine worth consideration, but the Yoga is heavier with a duller screen. [Microsoft's 11th-Gen Surface Pro](https://www.zdnet.com/article/the-tablet-i-recommend-most-for-business-travel-is-not-an-ipad-or-thinkpad/) arguably has better hardware, but it is much smaller, sporting a 13-inch touchscreen. The [MacBook Pro](https://www.zdnet.com/article/m3-macbook-pro-vs-m1-macbook-pro/) is another great option, but do you really want to spend money on something that'll probably feel outdated in a year or so? Think of the Envy x360 as a Goldilocks laptop -- everything about it is just right.
 
 If you're looking for a smaller option, consider [HP's 2024 Spectre x360](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-spectre-x360-2-in-1-laptop-14t-eu000-14-7k635av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), which has a 14-inch display. For something more adventurous, check out the [Lenovo Yoga Book 9i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Yoga-Book-9i-Intel-Laptop-13-3-Glass-155U-Graphics-16GB-1TB-SSD%2F5388081138&subId1=zd-__COM_CLICK_ID__-dtp), which has two displays.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -146,19 +130,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-a-step-by-step-guide-to-making-engaging-audio-promos-for-2024/"><u>[New] A Step-by-Step Guide to Making Engaging Audio Promos for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-prime-collection-of-pc-screen-capture-tools-win11/"><u>[New] The Prime Collection of PC Screen Capture Tools (Win11)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-a-deeper-dive-into-the-heart-of-mixed-reality/"><u>[Updated] 2024 Approved A Deeper Dive Into the Heart of Mixed Reality</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-ppt-recording-techniques/"><u>[Updated] Mastering PPT Recording Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-of-av1-codec-mastery/"><u>[Updated] Unveiling the Secrets of AV1 Codec Mastery</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-magic-v2-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor Magic V2 Activity | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-smart-7-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Smart 7 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-hardware-uncovered-cutting-edge-gadget-analysis/"><u>Tom's Hardware Uncovered: Cutting-Edge Gadget Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-expert-guides-on-hardware-selection/"><u>Tom's Tech Review: Expert Guides on Hardware Selection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-insights-from-toms-hardware-for-your-pc-needs/"><u>Ultimate Insights From Tom’s Hardware for Your PC Needs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unboxing-the-game-changing-pixio-px277-max-monitor-discovering-its-hidden-brilliance/"><u>Unboxing the Game-Changing Pixio PX277 Max Monitor: Discovering Its Hidden Brilliance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-immersive-viewing-experience-snag-a-giant-samsung-oled-monitor-for-just-60-less-exclusive-offer/"><u>Unleash Immersive Viewing Experience: Snag a Giant Samsung OLED Monitor for Just $60 Less – Exclusive Offer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ransforming-viewership-engaging-end-screens-tutorials/"><u>[New] Transforming Viewership Engaging End Screens Tutorials</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-essential-tips-precise-video-trimming-on-vimeo-5-methods/"><u>[Updated] Essential Tips Precise Video Trimming on Vimeo [5 Methods]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-gameplay-to-legacy-proven-strategies-for-documenting-a-sims-in-game-saga-in-sims-4-for-2024/"><u>[Updated] From Gameplay to Legacy Proven Strategies for Documenting a Sim’s In-Game Saga in Sims 4 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-skill-elevation-rising-through-the-ranks-in-designing/"><u>[Updated] In 2024, Skill Elevation Rising Through the Ranks in Designing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-streamlining-media-edits-storyremix-and-windows-11-photos-integration/"><u>[Updated] Streamlining Media Edits StoryRemix & Windows 11 Photos Integration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expand-your-visual-palette-in-after-effects/"><u>2024 Approved Expand Your Visual Palette in After Effects</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-tale-of-high-quality-mobility-sony-xperia-xz-summary/"><u>A Tale of High-Quality Mobility Sony Xperia XZ Summary</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparing-fingerprint-sensor-technologies-ultrasonic-vs-optical-which-is-superior/"><u>Comparing Fingerprint Sensor Technologies: Ultrasonic Vs. Optical – Which Is Superior?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dells-fresh-approach-elevating-the-experience-with-innovative-keyboard-and-mouse-design/"><u>Dell's Fresh Approach: Elevating the Experience with Innovative Keyboard & Mouse Design</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/determining-the-optimal-timeframe-for-upgrading-your-workplace-computer-systems/"><u>Determining the Optimal Timeframe for Upgrading Your Workplace Computer Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-latest-snapdragon-powered-laptops-lenovos-all-new-thinkpad-t14s-and-yoga-slim/"><u>Discover the Latest Snapdragon-Powered Laptops: Lenovo's All-New ThinkPad T14s & Yoga Slim</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/distinguishing-wi-fi-from-the-internet-uncovering-essential-variations-and-their-importance/"><u>Distinguishing Wi-Fi From the Internet: Uncovering Essential Variations and Their Importance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-pc-maintenance-essential-toolkit-of-7-must-have-items/"><u>DIY PC Maintenance: Essential Toolkit of 7 Must-Have Items</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-multi-pc-management-with-intels-new-thunderbolt-sharing-technology/"><u>Effortless Multi-PC Management with Intel's New Thunderbolt Sharing Technology</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/micro-business-video-advertising-insights-for-2024/"><u>Micro-Business Video Advertising Insights for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-3d-blu-ray-players-for-home-viewing/"><u>Ultimate Guide to 3D Blu-Ray Players for Home Viewing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work Gadgets Amidst Advancing AI: A Perspective"
-date: 2025-02-11T00:27:34.426Z
-updated: 2025-02-12T00:15:12.629Z
+date: 2025-03-01T21:59:33.089Z
+updated: 2025-03-02T16:03:40.672Z
 tags:
   - laptops
 categories:
@@ -29,10 +29,6 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
 
@@ -68,10 +64,6 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Optimizing hardware and software for AI
 
 Asked what requirements are toughest to balance as demand for AI PCs grows, Butler pointed to the usual tradeoffs between the desire for thinner and lighter devices, alongside longer battery life and better performance. 
@@ -79,10 +71,6 @@ Asked what requirements are toughest to balance as demand for AI PCs grows, Butl
 Boosting performance will inevitably impact battery longevity and vice versa, he said. "With NPUs \[now available\], though, it allows us to offload some of the workloads that traditionally will tax either the GPU or CPU," he noted. Noise-cancelling capabilities, for instance, can be moved to the NPU. Butler noted that software vendors are looking to see how they can optimize their code to take advantage of NPUs. 
 
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
 
@@ -134,16 +122,19 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-crafting-time-lapses-with-your-ipad-easefully/"><u>[New] Crafting Time-Lapses with Your iPad Easefully</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unrivaled-recording-experience-from-leading-apps/"><u>[Updated] In 2024, Unrivaled Recording Experience From Leading Apps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-vsg-screen-snapshots-review-thorough-examination/"><u>[Updated] In 2024, VSG Screen Snapshots Review Thorough Examination</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-r9-360-driver-update-and-download-instructions-for-windows-11-users/"><u>AMD Radeon R9 360 Driver Update and Download Instructions for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-printer-drivers-compatible-with-windows-7-8-and-10-free-download-guide/"><u>Canon Printer Drivers Compatible with Windows 7, 8 & 10 - Free Download Guide</u></a></li>
-<li><a href="https://win-info.techidaily.com/fortify-system-defenses-with-tpm-20-upgrades-on-vanguard-systems/"><u>Fortify System Defenses with TPM 2.0 Upgrades on Vanguard Systems</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-elevating-your-content-becoming-a-staff-pick-favorite-on-vimeo/"><u>In 2024, Elevating Your Content Becoming a Staff Pick Favorite on Vimeo</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-x9b-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor X9b FRP</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-hp-officejet-5740-driver-downloads-for-win-11108-free-update-guide/"><u>Latest HP OfficeJet 지패 5740 Driver Downloads for Win 11/10/8 - FREE Update Guide</u></a></li>
-<li><a href="https://win-studio.techidaily.com/mx500-boot-probleme-gelost-erfolglose-kladdeinitiierung-nach-klonung/"><u>MX500 Boot-Probleme Gelöst? Erfolglose Kladdeinitiierung Nach Klonung</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-to-windows-11-secure-your-intel-usb-devices-with-the-latest-drivers/"><u>Upgrade to Windows 11? Secure Your Intel USB Devices with the Latest Drivers!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-halls-of-fame-on-reddit-celebrating-best-rated-threads/"><u>[New] Halls of Fame on Reddit Celebrating Best-Rated Threads</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-smooth-integration-of-youtube-playlists-via-web-tech/"><u>[New] In 2024, Smooth Integration of YouTube Playlists via Web Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-potential-transforming-vhs-photos-through-technology/"><u>2024 Approved Unleash Potential Transforming VHS Photos Through Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-top-large-language-model-llm-bard-chatgpt-or-offline-alpaca-a-comparative-review/"><u>Choosing the Top Large Language Model (LLM): Bard, ChatGPT, or Offline Alpaca - A Comparative Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-reinstalling-serial-communication-device-drivers-in-windows/"><u>Comprehensive Tutorial on Reinstalling Serial Communication Device Drivers in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-windows-11-graphics-driver-enhancement-techniques/"><u>Comprehensive Tutorial on Windows 11 Graphics Driver Enhancement Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-mastery-meets-machine-learning-the-next-chapter/"><u>DIY Mastery Meets Machine Learning: The Next Chapter</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-simplified-guide-to-burning-audio-from-cds-using-wmp/"><u>In 2024, Simplified Guide to Burning Audio From Cds Using WMP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-enhancement-how-the-latest-nahimic-audio-driver-revamps-your-audio-quality/"><u>Instant Enhancement: How the Latest Nahimic Audio Driver Revamps Your Audio Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fixes-overcoming-usb-communication-challenges-between-lg-gadgets-and-windows-systems/"><u>Step-by-Step Fixes: Overcoming USB Communication Challenges Between LG Gadgets and Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-title-emphasizes-that-amds-epyc-chip-has-shattered-performance-records-and-is-particularly-strong-in-multi-threaded-benchmarks-thanks-to-its-numerous-co77/"><u>The Title Emphasizes that AMD's EPYC Chip Has Shattered Performance Records and Is Particularly Strong in Multi-Threaded Benchmarks, Thanks to Its Numerous Cores</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-secrets-behind-topmates-c302-cooler-an-affordable-and-competent-performance-analysis/"><u>Unveiling the Secrets Behind TopMate's C302 Cooler: An Affordable and Competent Performance Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-acer-sound-drivers-with-speed-a-simple-guide/"><u>Update Your Acer Sound Drivers with Speed: A Simple Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/v305-dell-printer-driver-fix-for-windows-7/"><u>V305 Dell Printer Driver Fix for Windows 7</u></a></li>
 </ul></div>
 

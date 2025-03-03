@@ -1,7 +1,7 @@
 ---
 title: Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More | ZDNET
-date: 2025-02-05T05:38:47.846Z
-updated: 2025-02-11T19:32:46.213Z
+date: 2025-02-25T19:25:17.329Z
+updated: 2025-03-03T00:51:22.643Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,6 @@ However, the new slimline design also came with a chunky price increase of $200/
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Price & options
 
 The design of the new MacBook Air is certainly striking -- but so is that price increase. To preserve the MacBook Air's position as 'Apple's most affordable laptop', the [M1 model from 2020](https://www.apple.com/shop/buy-mac/macbook-air/with-m1-chip) remains on sale at its original price point, starting at $999/£999 with 8GB of unified memory and 256GB of solid-state storage. 
@@ -51,10 +47,6 @@ The design of the new MacBook Air is certainly striking -- but so is that price 
 The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip) starts at $1199/£1249, with an 8-core M2 processor running at 3.5GHz, an 8-core integrated GPU, 8GB of memory and a 256GB SSD. There's also a second model, reviewed here, which steps up to a 10-core GPU and doubles the SSD storage to 512GB for $1499/£1549\. That model still has a moderate 8GB of memory, though, and Apple's upgrade options remain as expensive as ever, costing an extra $200/£200 for 16GB or $400/£400 for the maximum 24GB. 
 
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Design & features
 
@@ -72,10 +64,6 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 
 Image: Cliff Joseph / ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Performance & battery life
 
 Along with the updated design, the new MacBook Air also introduced Apple's second-generation M2 processor, which proves to be a clear improvement over the previous M1, even if it still [lags behind](https://www.zdnet.com/article/apple-m1-vs-m2/) the M1 Pro, Max and Ultra variants used in the high-end MacBook Pro. 
@@ -87,10 +75,6 @@ Like the M1, the M2 has a similar 8-core CPU, and this only provides modest impr
 You are paying for that extra performance, of course, so the M1 version of the MacBook Air remains the more affordable option for web browsing and other routine productivity tasks. One other thing to note is that the larger, brighter display of the M2 MacBook Air does affect battery life. The 2020 M1 model lasted for a full 17 hours and 20 minutes of streaming video, but the new M2 model dips to 15 hours and 50 minutes. Even so, that's effectively two days of work on a single charge, which is still far ahead of most of the MacBook Air's ultraportable competition. 
 
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -130,10 +114,6 @@ Image: Apple
 | _Price_               | $1199 (8-core GPU/256GB SSD) / $1499 (10-core GPU/512GB SSD)                                                                                                                 |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -176,20 +156,20 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-cutting-edge-tech-in-daily-life/"><u>[New] 2024 Approved Cutting-Edge Tech in Daily Life</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-cloaked-consumption-the-secret-guide-for-exploring-instagram-stories-on-multiple-platforms-free-for-2024/"><u>[New] Cloaked Consumption The Secret Guide for Exploring Instagram Stories on Multiple Platforms (Free) for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-finding-your-perfect-match-premium-videographer-recruitment/"><u>[New] In 2024, Finding Your Perfect Match Premium Videographer Recruitment</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-dual-method-approach-for-instagram-reel-downloads/"><u>[Updated] In 2024, A Dual Method Approach for Instagram Reel Downloads</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigate-your-net-worth-with-youtube-the-threefold-approach-to-assessing-earnings/"><u>2024 Approved Navigate Your Net Worth with YouTube The Threefold Approach to Assessing Earnings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-rx-480-driver-update-made-easy-find-and-install-in-no-time/"><u>AMD RX 480 Driver Update Made Easy – Find & Install in No Time!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-high-quality-csr-bluetooth-chip-software-now/"><u>Download High-Quality CSR Bluetooth Chip Software Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-obtain-and-install-logitech-g2email-protected-drivers-windows-7-10-and-11-support/"><u>Easy Steps to Obtain and Install Logitech G2([email Protected] Drivers (Windows 7, 10 & 11 Support)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-rtx-3080-drivers-compatible-with-windows-1087/"><u>Get the Latest NVIDIA RTX 3080 Drivers – Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-5-best-zoom-transcription-software-free-and-paid/"><u>In 2024, 5 Best Zoom Transcription Software [Free & Paid]</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-platform-profitability-showdown-dailymovements-standards-vs-youtube/"><u>In 2024, Platform Profitability Showdown DailyMovement's Standards Vs Youtube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-ac-9560-wi-fi-driver-software-download-and-update-steps-explained/"><u>Intel AC 9560 Wi-Fi Driver Software: Download and Update Steps Explained</u></a></li>
-<li><a href="https://win-info.techidaily.com/meet-miya-cao-of-aomei-top-talent-behind-engaging-content-and-insights-author-profile/"><u>Meet Miya Cao of AOMEI – Top Talent Behind Engaging Content and Insights (Author Profile)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simplify-pc-maintenance-update-battery-drivers-on-windows-with-zero-hassle/"><u>Simplify PC Maintenance: Update Battery Drivers on Windows with Zero Hassle!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networks-diving-deep-into-facebook-twitter-instagram-and-youtubes-ecosystem/"><u>The Big Four of Social Networks: Diving Deep Into Facebook, Twitter, Instagram and YouTube's Ecosystem.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-4-ways-to-set-up-your-talking-head-shots-for-youtube/"><u>[New] In 2024, 4 Ways To Set Up Your Talking-Head Shots For YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-room-for-oculus-vr/"><u>[New] Streamlining Your Room for Oculus VR</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-maximize-your-youtube-shorts-earnings/"><u>[Updated] How to Maximize Your YouTube Shorts Earnings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-pro-b760m-ct-csm-mainboard-evaluation-unleashing-the-power-of-csm/"><u>Asus Pro B760M-CT CSM Mainboard Evaluation - Unleashing the Power of CSM</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/detailed-assessment-of-the-asus-prime-ap-750g-gold-750w-power-unit-reviews-and-insights/"><u>Detailed Assessment of the Asus Prime AP-750G Gold 750W Power Unit: Reviews and Insights</u></a></li>
+<li><a href="https://discover-help.techidaily.com/effective-strategies-for-diagnosing-and-resolving-graphics-card-problems-guided-by-yl-tech-solutions/"><u>Effective Strategies for Diagnosing and Resolving Graphics Card Problems - Guided by YL Tech Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/embracing-the-best-of-both-worlds-how-huaweis-upcoming-kirin-chip-could-mirror-apple-and-intels-packaging-techniques/"><u>Embracing the Best of Both Worlds: How Huawei's Upcoming Kirin Chip Could Mirror Apple and Intel’s Packaging Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-comprehensive-insights-on-latest-computer-hardware/"><u>Exploring Tom's Tech: Comprehensive Insights on Latest Computer Hardware</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-confusion-to-clarity-excel-made-simple-by-chatgpt/"><u>From Confusion to Clarity: Excel Made Simple by ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/harness-up-to-100w-of-energy-with-the-revolutionary-amd-rx-76m-xt-external-gpu-the-new-laptop-charger-and-performance-behemoth-inside-wiko-hi-gt-cube/"><u>Harness Up to 100W of Energy with the Revolutionary AMD RX 76#M XT External GPU: The New Laptop Charger and Performance Behemoth Inside Wiko Hi GT Cube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964483569-harness-up-to-100w-of-energy-with-the-revolutionary-amd-rx-76m-xt-external-gpu-the-new-laptop-charger-and-performance-behemoth-inside-wiko-hi-gt-cube/"><u>Harness Up to 100W of Energy with the Revolutionary AMD RX 76#M XT External GPU: The New Laptop Charger and Performance Behemoth Inside Wiko Hi GT Cube.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726220095804-movavi/"><u>Movavi 無料ダウンロード - 優秀な機能を持つ最新の動画編集ツール</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/simplifizierte-prozedur-erneutes-hochladen-verlorener-e-mails-in-deinem-gmail-konto/"><u>Simplifizierte Prozedur: Erneutes Hochladen Verlorener E-Mails in Deinem Gmail-Konto</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-pc-insights-in-depth-analysis-of-cutting-edge-computer-systems/"><u>Tom's PC Insights: In-Depth Analysis of Cutting-Edge Computer Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-narzo-n53s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme Narzo N53s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

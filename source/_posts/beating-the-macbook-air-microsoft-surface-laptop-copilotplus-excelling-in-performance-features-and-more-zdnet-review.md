@@ -1,7 +1,7 @@
 ---
 title: "Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review"
-date: 2025-02-05T01:21:31.766Z
-updated: 2025-02-11T23:02:23.477Z
+date: 2025-02-23T18:22:53.977Z
+updated: 2025-03-02T21:17:20.028Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kyle Kucharski/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -108,10 +104,6 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [HP OmniBook X 14](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omnibook-x-copilot-pc-14-2-2k-touch-screen-laptop-snapdragon-x-elite-16gb-memory-1tb-sdd-meteor-silver%2F6583279.p&publisher_slug=itechdaily19598&exclusive=1) is a solid choice for remote workers, digital nomads, and professionals who need a powerful laptop with a marathon battery. I would also recommend this laptop to those who are actively engaged with AI-related tasks and all in with its future applications. 
@@ -148,19 +140,24 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-the-new-tech-horizon-with-microsofts-hololens-review-for-2024/"><u>[New] The New Tech Horizon with Microsoft's HoloLens Review for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-pinnacle-of-brainy-content-general-knowledge-top-11/"><u>[Updated] 2024 Approved Pinnacle of Brainy Content General Knowledge Top 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-x-flip-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo X Flip</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-overcoming-challenges-of-connecting-hp-laserjet-p2035-to-windows-devices/"><u>Comprehensive Guide: Overcoming Challenges of Connecting HP LaserJet P2035 to Windows Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tutorial-on-quickly-upgrading-to-the-latest-surface-dock-driver/"><u>Easy Tutorial on Quickly Upgrading to the Latest Surface Dock Driver</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-the-worldwide-network-offline-uncover-fb-status/"><u>Is the Worldwide Network Offline? Uncover FB Status</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-the-latest-dell-2330ddn-monochrome-printer-driver/"><u>Step-by-Step Installation of the Latest Dell 2330D/DN Monochrome Printer Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/success-retrieve-your-wireless-network-cards-driver-version-1535-here/"><u>Success! Retrieve Your Wireless Network Card's Driver Version 1535 Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-updating-dell-latitude-e6430-drivers-on-a-windows-pc-a-comprehensive-guide-issue-solved/"><u>Troubleshooting and Updating Dell Latitude E6430 Drivers on a Windows PC: A Comprehensive Guide (ISSUE SOLVED)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-on-3d-lut-tools-for-2024/"><u>Ultimate Tutorial on 3D LUT Tools for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-toms-guide-to-cutting-edge-hardware/"><u>Unveiling New Gadgets: Tom's Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-system-with-the-new-nvidia-rtx-3080-ti-graphics-card-driver-windows-support-includes-w11-w8-and-w7/"><u>Update Your System with the New NVIDIA RTX 3080 Ti Graphics Card Driver - Windows Support Includes W11, W8 & W7</u></a></li>
-<li><a href="https://win-blog.techidaily.com/wolcen-lords-of-mayhem-why-gamers-cant-play-yet/"><u>Wolcen: Lords of Mayhem - Why Gamers Can't Play Yet?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-best-practices-when-basking-in-the-podcast-glow/"><u>[Updated] In 2024, Best Practices When Basking in the Podcast Glow</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-minecraft-sustainable-house-projects-6-10/"><u>[Updated] In 2024, Minecraft Sustainable House Projects #6-10</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-narrative-flow-integrating-chapters-into-your-youtube-content/"><u>2024 Approved Enhancing Narrative Flow Integrating Chapters Into Your YouTube Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-gaming-fsps-2500w-psu-powers-up-to-four-monster-rtx-4090-graphics-cards/"><u>Boost Your Gaming: FSP's 2500W PSU Powers Up to Four Monster RTX 4090 Graphics Cards</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/comprehensive-guide-to-recording-hulu-across-platforms/"><u>Comprehensive Guide to Recording Hulu Across Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-camera-malfunction-here-are-the-top-remedies/"><u>Discord Camera Malfunction? Here Are the Top Remedies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-top-gear-analysis-with-toms-hardware-hub/"><u>Discover Top Gear Analysis with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-computer-gear-with-tom-in-depth-guides-on-cutting-edge-hardware/"><u>Exploring Computer Gear with Tom: In-Depth Guides on Cutting-Edge Hardware</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improved-power-supply-units-incorporate-upgraded-600w-interface-to-support-future-ready-gpus-update/"><u>Improved Power Supply Units Incorporate Upgraded 600W Interface to Support Future-Ready GPUs (Update)</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oneplus-ace-2v-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do OnePlus Ace 2V Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/join-our-free-online-demo-and-qanda-on-jammtext-learn-dj-tips-with-us-on-oct-27-8-pm-est-via-facebook/"><u>Join Our Free Online Demo & Q&A on JammText - Learn DJ Tips with Us on Oct. 27, 8 PM EST via Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-new-electronics-with-tom-in-depth-hardware-analysis/"><u>Navigating New Electronics with Tom: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-potential-of-your-rtx-gpu-setup-with-cooler-masters-powerful-mx-mighty-series-psus/"><u>Unlock the Potential of Your RTX GPU Setup with Cooler Master’s Powerful MX Mighty Series PSUs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-technology-secrets-with-toms-hardware-insights-comprehensive-guides-and-comparisons/"><u>Unlocking Technology Secrets with Tom's Hardware Insights - Comprehensive Guides and Comparisons</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/up-to-1300-watt-performance-exploring-cooler-masters-high-capacity-v-series-and-its-x-silent-fanless-psus/"><u>Up to 1300-Watt Performance: Exploring Cooler Master's High Capacity V Series and Its X Silent Fanless PSUs</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>Updated In 2024, An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
 </ul></div>
 

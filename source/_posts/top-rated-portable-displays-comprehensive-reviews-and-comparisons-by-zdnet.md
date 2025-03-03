@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Portable Displays - Comprehensive Reviews & Comparisons by ZDNet
-date: 2025-02-07T19:47:23.528Z
-updated: 2025-02-12T05:01:10.136Z
+date: 2025-03-02T01:14:49.101Z
+updated: 2025-03-03T01:45:40.502Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the best lightweight laptop right now?
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
@@ -48,10 +44,6 @@ Cons
 * The LCD display isn't as impressive as OLED competitors
 * 8GB of RAM on base model is limiting
 * Built-in speakers could be stronger
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple MacBook Air M3
 
@@ -144,10 +136,6 @@ Cons
 
 ## LG Gram Pro 17
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop with a 17" display
 
 The LG Gram Pro 17 takes portability to the extreme. At just half an inch thick and weighing barely over three pounds, the Gram Pro 17 not only holds a Guinness record, but achieved something that at one time was thought to be impossible for a 17" laptop.
@@ -217,10 +205,6 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test lightweight laptops
 
 Kyle Kucharski/ZDNET
@@ -245,10 +229,6 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does having a lightweight laptop matter?
 
 The answer to this question is simple: laptops are made to be carried around, and no one wants to carry a heavy computer. Having a thin, lightweight machine opens up its usability and lets you take it places you normally wouldn't consider possible. 
@@ -256,10 +236,6 @@ The answer to this question is simple: laptops are made to be carried around, an
 Ultraportability does come with tradeoffs, however, both in terms of design and cost. When talking about design, the constraints on manufacturers to squeeze value out of every square inch of space in the laptop means that certain elements may be smaller, lighter, or in non-conventional locations. This especially refers to the laptop's battery, its display, or the laptop's keyboard. 
 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much does a typical laptop weigh?
 
@@ -284,10 +260,6 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -335,20 +307,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-elite-selections-8-excellent-tripods-for-high-quality-4k-video/"><u>[New] 2024 Approved Elite Selections 8 Excellent Tripods for High-Quality 4K Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-streamlining-your-subtitle-workflow-with-leading-online-tools/"><u>[New] 2024 Approved Streamlining Your Subtitle Workflow with Leading Online Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-turn-any-device-into-a-youtube-livestream-capturing-tool/"><u>[New] In 2024, How to Turn Any Device Into a YouTube Livestream Capturing Tool</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-virtual-realm-revelations-the-most-anticipated-ps-vr-games/"><u>[Updated] 2024 Approved Virtual Realm Revelations The Most Anticipated PS VR Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-chrome-multitasking-via-picture-in-picture-mode/"><u>2024 Approved Maximizing Chrome Multitasking via Picture in Picture Mode</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/address-playback-lag-in-iphone-based-youtube-streams/"><u>Address Playback Lag in iPhone-Based YouTube Streams</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-amd-radeon-rx-590-drivers-on-windows/"><u>Download & Install AMD Radeon RX 590 Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-canon-mx490-printer-drivers-for-windows-10-8-and-7-step-by-step-guide/"><u>Download Canon MX490 Printer Drivers for Windows 10, 8 & 7: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-m-audio-fast-track-ultra-drivers-for-free-optimized-audio-performance/"><u>Download M-Audio Fast Track Ultra Drivers for Free: Optimized Audio Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-insignia-crossover-usb-ethernet-driver-here/"><u>Get Your Insignia CrossOver USB Ethernet Driver Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722961297206-hp-photosmart-7520-software-download-install-your-high-quality-printer-drivers-today/"><u>HP Photosmart 7520 Software Download: Install Your High-Quality Printer Drivers Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pc-4/"><u>PC 系統音再生手順トップ4: 効果的な記録方法</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-installer-insignia-mobile-media-adapter-cn230-universal-drivers/"><u>Secure Installer: Insignia Mobile Media Adapter (CN230) Universal Drivers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-solve-your-grand-theft-auto-v-game-crashing-issues/"><u>Ultimate Guide: Solve Your Grand Theft Auto V Game-Crashing Issues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-shooting-guide-to-immersive-video-top-9-techniques/"><u>[Updated] In 2024, The Ultimate Shooting Guide to Immersive Video (Top 9 Techniques)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-zooctorial-template-goldmine-for-2024/"><u>[Updated] Zooctorial Template Goldmine for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-iphone-screen-capture-simplified-guide/"><u>2024 Approved IPhone Screen Capture Simplified Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-thematic-wow-factor-designing-engaging-youtube-templates/"><u>2024 Approved Thematic Wow Factor Designing Engaging YouTube Templates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/aoc-monitor-support-software-free-downloads-and-step-by-step-setup-on-windows-win-11108/"><u>AOC Monitor Support Software: Free Downloads & Step-by-Step Setup on Windows (Win 11/10/8)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/delving-into-computer-components-a-journey-with-toms-hardware-experts/"><u>Delving Into Computer Components: A Journey with Tom's Hardware Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ensuring-your-visual-story-is-whole-a-guide-to-comprehensive-photo-posts-on-instagram/"><u>Ensuring Your Visual Story Is Whole: A Guide to Comprehensive Photo Posts on Instagram</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ffmpeg-review-upholding-authentic-audio-formats-for-2024/"><u>FFmpeg Review Upholding Authentic Audio Formats for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-started-with-magic-mouse-free-driver-download-for-windows-users/"><u>Getting Started with Magic Mouse: Free Driver Download for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-connexent-driver-update-for-windows-10-version-2004-a-comprehensive-guide/"><u>Installing the Connexent Driver Update for Windows 10 Version 2004: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-the-art-of-live-image-capturing-on-screens-for-2024/"><u>Mastering the Art of Live Image Capturing on Screens for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-9000-dl-catastrophe-exposed-zen-5-manufacturing-defects-with-damaged-wafers-and-solder-leftovers/"><u>Ryzen 9000 DL Catastrophe: Exposed Zen 5 Manufacturing Defects with Damaged Wafers and Solder Leftovers</u></a></li>
 </ul></div>
 

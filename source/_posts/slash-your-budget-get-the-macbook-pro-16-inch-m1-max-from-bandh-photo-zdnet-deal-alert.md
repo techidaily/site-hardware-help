@@ -1,7 +1,7 @@
 ---
 title: Slash Your Budget! Get the MacBook Pro 16-Inch M1 Max From B&H Photo | ZDNET Deal Alert!
-date: 2025-01-12T22:14:14.206Z
-updated: 2025-01-16T19:43:29.772Z
+date: 2025-02-25T00:01:11.207Z
+updated: 2025-03-02T17:38:10.630Z
 tags:
   - laptops
 categories:
@@ -19,17 +19,9 @@ Apple product deals are rare, but this 20% discount on a MacBook Air is unheard 
 
 **Read the review: [M1 MacBook Air review](https://www.zdnet.com/article/m1-macbook-air-long-term-review/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![2020-03-19-at-2-39-54-pm.jpg](https://www.zdnet.com/a/img/resize/80ba392bacc4388899c436d9acd4d00f04d5645c/2020/03/19/ff6c9504-c35e-4cb6-a83c-f51c18669916/2020-03-19-at-2-39-54-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best laptop with the longest battery life The laptops on this list can keep you online and working longer when you need to be unplugged.  Read now](https://www.zdnet.com/article/best-battery-life-laptop/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The laptop comes packed with 256GB of storage and 8GB RAM, so you can quickly work through websites, documents, and more. Plus, you can stay focused for hours on end thanks to the long battery life, which lasts up to 18 hours on a single charge. 
 
@@ -69,17 +61,17 @@ The backlit keyboard enables you to log on in any environment. You can even Face
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-mastering-twitter-videos-a-beginners-tutorial/"><u>[New] Mastering Twitter Videos A Beginner's Tutorial</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862825815-from-retro-to-revolutionary-how-a-classic-crt-monitor-managed-extreme-70-groove-refresh-rate-at-the-expense-of-resolution/"><u>From Retro to Revolutionary: How a Classic CRT Monitor Managed Extreme 70 Groove Refresh Rate at the Expense of Resolution.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862785823-game-monitors-reimagined-the-all-new-gen-2-samsung-55-odyssey-at-record-low-prices/"><u>Game Monitors Reimagined: The All-New Gen 2 Samsung 55 Odyssey at Record Low Prices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y77t-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y77t PC | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-6s-plusipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 6s Plus/iPad Without Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/quality-and-value-in-a-nutshell-affordable-gaming-mothers/"><u>Quality and Value in a Nutshell: Affordable Gaming Mothers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamlessly-convert-your-3g2-videos-to-high-quality-flv-no-cost-using-simplevideoconverter/"><u>Seamlessly Convert Your 3G2 Videos to High-Quality FLV - No Cost, Using SimpleVideoConverter!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862818552-steal-the-deal-acers-34-wqhd-curved-monitor-for-a-steal-at-just-200-newegg-exclusive/"><u>Steal the Deal: Acer's 34 WQHD Curved Monitor for a Steal at Just $200 - Newegg Exclusive!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862837847-title-top-review-experience-exceptional-precision-with-the-asus-rog-strix-xg27acs-qhd-gaming-monitor/"><u>Title: Top Review: Experience Exceptional Precision with the Asus ROG Strix XG27ACS QHD Gaming Monitor.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unique-selling-points-of-chatgpt-for-companies/"><u>Unique Selling Points of ChatGPT for Companies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862783431-unleash-the-ultimate-gaming-experience-incredible-value-of-innocns-high-definition-27-240hz-ips-monitor-for-199/"><u>Unleash the Ultimate Gaming Experience: Incredible Value of Innocn's High-Definition 27 240Hz IPS Monitor for $199!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-essential-steps-for-forming-a-facebook-profile/"><u>[New] 2024 Approved The Essential Steps for Forming a Facebook Profile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-finest-places-to-source-high-quality-vectors/"><u>[New] The Finest Places to Source High-Quality Vectors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-goggles-ranking-best-5-for-drone-flyers/"><u>[Updated] Pinnacle Goggles Ranking Best 5 for Drone Flyers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-an-in-depth-look-at-huawei-p10s-audio-experience/"><u>2024 Approved An In-Depth Look at Huawei P10's Audio Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/choose-your-vlog-aspect-on-fb-verticalhorizontal/"><u>Choose Your Vlog Aspect on FB Vertical/Horizontal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-the-espn-streaming-service-operate-known-as-espnplus/"><u>How Does the ESPN Streaming Service Operate, Known as ESPN+?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/slice-editor/"><u>ImageSlice Editor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nfc-capabilities-on-your-android-device-understanding-and-applications/"><u>NFC Capabilities on Your Android Device - Understanding & Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nostalgic-tech-alert-why-these-8-classic-smartphone-features-deserve-a-comeback/"><u>Nostalgic Tech Alert: Why These 8 Classic Smartphone Features Deserve a Comeback</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/passionate-about-ios-perks-still-not-parting-with-my-android-handset/"><u>Passionate About iOS Perks, Still Not Parting with My Android Handset</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-recycling-unleashing-new-purposes-for-your-outdated-android-smartphone-13-innovative-ways/"><u>Revolutionize Recycling: Unleashing New Purposes for Your Outdated Android Smartphone (13 Innovative Ways)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mline-your-youtube-presentations-with-captions-for-2024/"><u>Streamline Your YouTube Presentations with Captions for 2024</u></a></li>
 </ul></div>
 

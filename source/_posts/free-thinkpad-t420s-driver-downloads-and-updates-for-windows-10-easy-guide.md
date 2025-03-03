@@ -1,7 +1,7 @@
 ---
 title: Free ThinkPad T420s Driver Downloads and Updates for Windows 10 - Easy Guide
-date: 2024-08-19T10:59:49.806Z
-updated: 2024-08-20T10:59:49.806Z
+date: 2025-02-27T23:30:58.991Z
+updated: 2025-03-02T23:59:27.267Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
 ## Canon MG2520 Windows Drivers - Free Downloads and Updates Available
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa76122609.jpg)
 
  This post will show you how to update the printer driver for your**Canon MG2520 printer** .
@@ -32,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 2. [Update printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 3. [Update printer driver in Device Manager](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update printer driver manually
 
  You can manually download the Canon MG2520 driver from the Canon website in your Windows computer. To do so, follow the instructions below:
@@ -43,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
  2) In the search box, type**Canon mg2520 printer** , and click**Canon PIXMA MG2520 Driver** in the search result.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa83e682e2.jpg)
 
  3) Scroll down and find**Canon PIXMA MG2520 Windows Driver** , and click**Download** .
@@ -56,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
  This is time consuming. If this method doesn’t work for you, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update printer driver automatically
 
  Manually downloading and installing the Canon MG2520 driver requires time and computer skills. If you don’t have patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -93,16 +81,10 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
  2) Type**devmgmt.msc** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af53ac9c34f3.png)
 
  3) Double click**Printers** to expand it.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26e71b4a11.png)
 
  4) Right click on your**Printer** (it can be displayed as**Unknown device** ), and select**Update driver** .
@@ -128,8 +110,6 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +117,20 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-amp-up-your-ig-videos-crafting-winning-marketing-tactics/"><u>[Updated] 2024 Approved Amp Up Your IG Videos Crafting Winning Marketing Tactics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-educational-videography-key-editing-strategies-for-2024/"><u>[Updated] Educational Videography Key Editing Strategies for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ultimate-list-best-video-cameras-s-musical-cinematography-for-2024/"><u>[Updated] Ultimate List Best Video Cameras 'S Musical Cinematography for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/buying-guide-choosing-the-perfect-portable-laptop-monitor-now/"><u>Buying Guide: Choosing the Perfect Portable Laptop Monitor Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/como-hacer-una-transcripcion-de-tu-reunion-webex-tendencias-y-estrategias-para-2024-con-movavi/"><u>Cómo Hacer Una Transcripción De Tu Reunión Webex: Tendencias Y Estrategias Para 2024 Con Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-obtain-the-newest-hp-laserjet-printer-drivers-for-model-m404/"><u>Easy Steps to Obtain the Newest HP LaserJet Printer Drivers for Model M404#</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-windows-amigos-7-dell-router-driver-here/"><u>Get Your Windows Amigos 7 Dell Router Driver Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphic-error-overcome-driver-restored-successfully/"><u>Graphic Error Overcome, Driver Restored Successfully</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-intel-chip-support-get-the-latest-drivers-now/"><u>Hassle-Free Intel Chip Support - Get the Latest Drivers Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-look-confidential-intel-papers-indicate-ongoing-cpu-instability-not-just-from-elevated-voltages/"><u>Inside Look: Confidential Intel Papers Indicate Ongoing CPU Instability Not Just From Elevated Voltages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-printer-running-smoothly-hp-laserjet-pro-mfp-m428fdw-drivers-for-microsoft-windows-11-10-and-7/"><u>Keep Your Printer Running Smoothly: HP LaserJet Pro MFP M428fdw Drivers for Microsoft Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-and-installing-amd-ryzen-5-2400g-drivers/"><u>Quick Guide to Downloading and Installing AMD Ryzen 5 2400G Drivers</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-google-pixel-8-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Google Pixel 8 Pro without backup.</u></a></li>
+</ul></div>
 

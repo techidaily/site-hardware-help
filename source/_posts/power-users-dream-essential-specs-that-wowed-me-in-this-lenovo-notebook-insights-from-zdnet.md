@@ -1,7 +1,7 @@
 ---
 title: "Power User's Dream: Essential Specs That Wowed Me in This Lenovo Notebook - Insights From ZDNet"
-date: 2025-02-08T22:45:08.542Z
-updated: 2025-02-12T02:47:11.489Z
+date: 2025-02-28T22:42:16.661Z
+updated: 2025-03-02T20:11:43.397Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -76,10 +72,6 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I do recommend the [Lenovo ThinkPad Z13 Gen 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21D2001RUS-Notebook-Board%2Fdp%2FB0B7YQC7CC%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf169cf74-93ad-47a4-86fd-6049162230fe%7Cdtp&dtb=1) if you're looking for a lightweight laptop for work, school, or as an entertainment machine while traveling. It's currently on sale on Lenovo's website in Artic Grey, with prices starting at $1,241\. 
@@ -116,22 +108,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-video-editing-tips-for-beginner-editors/"><u>[New] 2024 Approved YouTube Video Editing Tips for Beginner Editors</u></a></li>
-<li><a href="https://facebook.techidaily.com/conquer-fb-surveillance-using-the-off-fb-toolset/"><u>Conquer FB Surveillance Using the Off-FB Toolset</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-the-scansnap-s1300i-scanner-a-quick-guide/"><u>Download and Update the ScanSnap S1300i Scanner: A Quick Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-msi-gs65-graphics-and-system-drivers-for-enhanced-windows-experience/"><u>Download MSI GS65 Graphics and System Drivers for Enhanced Windows Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-use-of-windows-explorer-over-traditional-ls/"><u>Effective Use of Windows Explorer Over Traditional LS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elite-video-call-and-chat-service-selections-for-2024/"><u>Elite Video Call & Chat Service Selections for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/emerging-realities-speak-top-30-metaverse-expressions-arvr/"><u>Emerging Realities Speak Top 30 Metaverse Expressions [AR/VR]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensuring-optimal-display-a-how-to-on-installing-new-graphics-drivers-in-windows-11/"><u>Ensuring Optimal Display: A How-To on Installing New Graphics Drivers in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-artisan-1430-printer-driver-software-free-download-for-windows-users/"><u>Epson Artisan 1430 Printer Driver Software - Free Download for Windows Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-a-blinking-display-on-your-mobile-device-discover-7-remedies-to-restore-stability/"><u>Experiencing a Blinking Display on Your Mobile Device? Discover 7 Remedies to Restore Stability</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fast-easy-free-uncovering-the-best-10-image-converters-for-2024/"><u>Fast, Easy, FREE Uncovering the Best 10 Image Converters for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-m-audio-fast-track-driver-for-your-pc-on-windows-10-7-8-and-81-now-available/"><u>Get the Latest M-Audio Fast Track Driver for Your PC on Windows 10, 7, 8 & 8.1 - Now Available!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-free-m-audio-ultratrack-drivers-today/"><u>Get Your Hands on the FREE M-Audio UltraTrack Drivers Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-sound-back-download-realtek-asio-windows-10-drivers-now-simple-steps-included/"><u>Get Your Sound Back! Download Realtek Asio Windows 10 Drivers Now - Simple Steps Included</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nokia-xr21-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nokia XR21 to iPod | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-play-8t-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor Play 8T is off? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/m-audio-fast-track-drivers-update-your-sound-experience-on-windows-version-supported-os-list/"><u>M-Audio Fast Track Drivers: Update Your Sound Experience on Windows (Version Supported OS List)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-available-hp-scanjet-driver-upgrades-for-smooth-operation-on-windows-11-8-and-7/"><u>[Latest Version Available]: HP Scanjet Driver Upgrades for Smooth Operation on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capturing-desktop-image-on-windows-editions/"><u>[New] In 2024, Capturing Desktop Image on Windows Editions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-production-xstudio-deep-dive/"><u>[Updated] Mastering Video Production XStudio Deep Dive</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/celestial-journey-enhanced-by-these-sj4000-gear-must-haves/"><u>Celestial Journey Enhanced by These SJ4000 Gear Must-Haves</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-shapley-explanations-unveiling-the-capabilities-of-openais-shape/"><u>Exploring Shapley Explanations: Unveiling the Capabilities of OpenAI's SHAPE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-your-guide-to-the-latest-in-computer-hardware/"><u>Exploring Tom's Tech: Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-download-videos-in-various-formats-from-porntube-mp4-mov-avi-and-more/"><u>How to Download Videos in Various Formats From PornTube: MP4, MOV, AVI, and More</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-and-install-canon-mg5220-driver-on-your-pc-windows-10-8-and-7/"><u>How to Find and Install Canon MG5220 Driver on Your PC (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-designjet-500-printer-driver-download-get-the-latest-software-here/"><u>HP DesignJet 500 Printer Driver Download: Get the Latest Software Here!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-perfecting-presentations-with-zoom-screenshares/"><u>In 2024, Perfecting Presentations with Zoom Screenshares</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-takes-performance-to-new-heights-the-just-released-granite-rapids-cpus-set-the-bar-higher-with-an-astounding-128-core-architecture-and-unprecedented-566/"><u>Intel Takes Performance to New Heights: The Just-Released Granite Rapids CPUs Set the Bar Higher with An Astounding 128 Core Architecture and Unprecedented 500W TDP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-microsoft-bluetooth-driver-updates-for-windows-operating-systems-win-10-11-8-and-7-supported/"><u>Latest Microsoft Bluetooth Driver Updates for Windows Operating Systems: Win 10, 11, 8, and 7 Supported</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-performance-with-the-latest-version-free-steelseries-engine-for-windows-users/"><u>Maximize Performance with the [Latest Version]: Free SteelSeries Engine for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pro-mobile-showdown-google-pixel-e-vs-apple-iphone-13-expert-review-and-buying-guide/"><u>Pro Mobile Showdown: Google Pixel E vs Apple iPhone 13 | Expert Review and Buying Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-solution-for-your-printing-needs-downloading-epson-xp-830-drivers-made-simple/"><u>Quick Solution for Your Printing Needs: Downloading Epson XP-830 Drivers Made Simple</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-rndis-driver-installation-guide-for-windows-latest-updates-included/"><u>Successful RNDIS Driver Installation Guide for Windows: Latest Updates Included</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-beelink-gti14-a-mini-pc-that-supports-external-gpus-through-a-secure-latchable-expansion-slot/"><u>Unveiling the Beelink GTi14: A Mini-PC That Supports External GPUs Through a Secure Latchable Expansion Slot</u></a></li>
 </ul></div>
 

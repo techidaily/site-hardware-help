@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Comprehvew: Why Lenovo's Newly Unveiled ThinkBook Plus Stands Out as This Year’s Top 2-in-1 Laptop Contender"
-date: 2025-02-10T23:46:01.431Z
-updated: 2025-02-12T04:37:04.481Z
+date: 2025-02-23T22:30:53.789Z
+updated: 2025-03-02T16:44:53.387Z
 tags:
   - laptops
 categories:
@@ -20,10 +20,6 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the Amazon Prime Day deal?
 
 We are a week ahead of Amazon's Prime Big Deal Days sale, and both configurations of the [HP Envy x360 2-in-1 laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSpectre-x360-Touchscreen-Long-Battery-Fingerprint%2Fdp%2FB0D9JMTWM4%2F%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9b362bdb-ed04-4597-a2fb-2e8d190e44eb%7Cdtp&dtb=1) are on sale now. You can purchase the model with the 512GB SSD for $749 and the device with a 1TB SSD for $799\. However, with the latter configuration, you better act fast because there are only a few left at the time of this writing.
@@ -31,10 +27,6 @@ We are a week ahead of Amazon's Prime Big Deal Days sale, and both configuration
 **Also:** [**The best October Prime Day deals so far**](https://www.zdnet.com/article/best-early-amazon-prime-day-deals-2024/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -96,10 +88,6 @@ If you can't tell already, I'm a big fan of the Envy x360, and out of [all the 2
 
 These issues are prevalent across all 2-in-1 laptops I've tested and are (usually) intermittent enough to not be problems -- but in certain moments, facing non-functioning hardware can be frustrating, and you should keep that in mind.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [HP Envy x360 16 (2024)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-envy-x360-2-in-1-laptop-16-ad0097nr&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is priced well for an upper-mid-tier device with a gorgeous display and solid performance. Creators will love this laptop's flexible form factor and impressive battery life. After using it for a few weeks, I can say that it's my favorite big-screen 2-in-1, despite its quirks. This is a laptop for work as much as it is for entertainment, and if you're looking for a 2-in-1 laptop, you have to consider the Envy x360.
@@ -107,10 +95,6 @@ The [HP Envy x360 16 (2024)](https://www.dpbolvw.net/click-9041660-15850793?url=
 Compared to its rivals, HP's model offers a more complete package. Take a look at [Lenovo's Yoga 7i](https://www.zdnet.com/article/the-2-in-1-laptop-that-i-recommend-for-college-juggles-work-and-play-seamlessly/). It's also a great machine worth consideration, but the Yoga is heavier with a duller screen. [Microsoft's 11th-Gen Surface Pro](https://www.zdnet.com/article/the-tablet-i-recommend-most-for-business-travel-is-not-an-ipad-or-thinkpad/) arguably has better hardware, but it is much smaller, sporting a 13-inch touchscreen. The [MacBook Pro](https://www.zdnet.com/article/m3-macbook-pro-vs-m1-macbook-pro/) is another great option, but do you really want to spend money on something that'll probably feel outdated in a year or so? Think of the Envy x360 as a Goldilocks laptop -- everything about it is just right.
 
 If you're looking for a smaller option, consider [HP's 2024 Spectre x360](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-spectre-x360-2-in-1-laptop-14t-eu000-14-7k635av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), which has a 14-inch display. For something more adventurous, check out the [Lenovo Yoga Book 9i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Yoga-Book-9i-Intel-Laptop-13-3-Glass-155U-Graphics-16GB-1TB-SSD%2F5388081138&subId1=zd-__COM_CLICK_ID__-dtp), which has two displays.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -146,22 +130,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-upload-a-video-to-instagram-from-a-desktop/"><u>[Updated] 2024 Approved How to Upload a Video to Instagram From a Desktop</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-accessing-social-network-videos-seamlessly-on-apple-tv/"><u>[Updated] Accessing Social Network Videos Seamlessly on Apple TV</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>[Updated] The Magic Behind the Lens IPhone X's Groundbreayer Camera Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-eos-driver-installation-and-update-guide/"><u>Canon EOS Driver Installation & Update Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-to-downloading-canon-printer-mf4500-drivers-safely/"><u>Complete Guide to Downloading Canon Printer MF4500 Drivers Safely</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/complete-step-by-step-tutorial-on-restoring-lost-files-from-your-sony-vaio-notebook/"><u>Complete Step-by-Step Tutorial on Restoring Lost Files From Your Sony VAIO Notebook</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-hd-pro-webcam-c930e-drivers-and-software-for-windows-10-and-11/"><u>Download Logitech HD Pro Webcam C930e Drivers & Software for Windows 10 and 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-elgato-software-download-process-step-by-step/"><u>Effortless Elgato Software Download Process - Step by Step</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-that-the-cable-is-securely-plugged-into-both-your-iphoneipad-and-computers-usb-port-without-forcing-or-bending/"><u>Ensure that the Cable Is Securely Plugged Into Both Your iPhone/iPad and Computer's USB Port without Forcing or Bending</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fire-up-your-dreams-with-these-10-movie-gems-for-2024/"><u>Fire Up Your Dreams with These 10 Movie Gems for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-mbox2-drivers-for-windows-quick-fix-and-update-techniques/"><u>Get the Newest MBox2 Drivers for Windows – Quick Fix and Update Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-epson-xp-330-drivers-instantly/"><u>Get Your Epson XP-330 Drivers Instantly!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-djis-sky-high-adventure-a-compreranal-of-the-pro-model/"><u>In 2024, DJI’s Sky-High Adventure A Compreranal of the Pro Model</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-tips-for-skewing-photo-captions/"><u>In 2024, Tips for Skewing Photo Captions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-c615-driver-woes-heres-how-to-fix-them-easily-and-fast/"><u>Logitech C615 Driver Woes? Here's How to Fix Them Easily and Fast</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-diy-with-advanced-technology-anticipating-the-arrival-of-gpt-4/"><u>Revolutionizing DIY with Advanced Technology: Anticipating the Arrival of GPT-4</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-approaches-to-non-sound-media/"><u>[New] In 2024, Best Approaches to Non-Sound Media</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-artist-writes-an-ipad-guide-to-time-lapse-photography-for-2024/"><u>[New] The Artist' Writes An iPad Guide to Time-Lapse Photography for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-phones-potential-the-ultimate-montage-application-guide/"><u>2024 Approved Unleash Your Phone's Potential The Ultimate Montage Application Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-ryzen-9000-now-available-on-best-buy-prices-slashed-below-launch-rates-of-previous-ryzen-models/"><u>AMD's Ryzen 9000 Now Available on Best Buy: Prices Slashed Below Launch Rates of Previous Ryzen Models.</u></a></li>
+<li><a href="https://win11.techidaily.com/dims-techniques-for-efficient-repair-in-windows-11-image/"><u>DIMS Techniques for Efficient Repair in Windows 11 Image</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-creative-cam-driver-suite-for-windows-pcs/"><u>Download and Update Creative Cam-Driver Suite for Windows PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-corsair-k70-keyboard-drivers-and-software/"><u>Download Corsair K70 Keyboard Drivers & Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-hp-deskjet-2700-printing-drivers-compatible-with-windows-and-mac/"><u>Download Updated HP DeskJet 2700 Printing Drivers - Compatible with Windows and Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-where-to-download-and-setup-your-corsair-gaming-mouse-suite/"><u>Easy Guide: Where to Download & Setup Your Corsair Gaming Mouse Suite!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-on-your-next-computer-purchase-from-toms-review-hub/"><u>Expert Advice on Your Next Computer Purchase From Tom's Review Hub</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-phantom-v-flip-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Phantom V Flip to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-note-12-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi Note 12 Pro 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-latest-realtek-bluetooth-driver-versions-ensuring-seamless-connectivity-on-windows-11-and-10/"><u>Install the Latest Realtek Bluetooth Driver Versions: Ensuring Seamless Connectivity on Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-rtx-3060-ti-graphics-card-drivers-compatible-with-windows-10-and-11/"><u>Latest NVIDIA RTX 3060 Ti Graphics Card Drivers - Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-fixing-and-preventing-gtfo-app-crashes/"><u>Ultimate Guide: Fixing and Preventing GTFO App Crashes</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/yl-computings-step-by-step-instructions-for-enabling-family-safety-settings-in-the-control-panel/"><u>YL Computing's Step-by-Step Instructions for Enabling Family Safety Settings in the Control Panel</u></a></li>
 </ul></div>
 

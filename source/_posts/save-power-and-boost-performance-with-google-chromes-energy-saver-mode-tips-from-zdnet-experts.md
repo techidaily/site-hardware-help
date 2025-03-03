@@ -1,7 +1,7 @@
 ---
 title: Save Power and Boost Performance with Google Chrome's Energy Saver Mode - Tips From ZDNet Experts
-date: 2025-02-10T01:06:31.902Z
-updated: 2025-02-12T05:02:03.770Z
+date: 2025-02-25T02:37:17.437Z
+updated: 2025-03-02T20:12:43.415Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ Google
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [How to use Google Pixel's Magic Eraser to wipe out photobombers](https://www.zdnet.com/article/how-to-use-magic-eraser-on-the-google-pixel/)
@@ -43,17 +39,9 @@ In an attempt to make the browser a bit less of a drain on the batteries of port
 
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
 
@@ -64,10 +52,6 @@ _chrome://settings/help_
 If you are not yet running version 108 or higher, you need to update.
 
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
 
@@ -92,10 +76,6 @@ The "Enable the battery saver mode feature in the settings" flag in Google Chrom
 Adrian Kingsley-Hughes/ZDNET
 
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
 
@@ -153,18 +133,22 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-firefoxs-picture-in-picture-capabilities/"><u>[Updated] Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-video-editing-journeys-end-discover-the-best-10-tools/"><u>[Updated] Video Editing Journey's End Discover the Best 10 Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/accessing-cinema-bliss-installing-and-using-fandango-app-on-firestick-in-simple-steps/"><u>Accessing Cinema Bliss: Installing and Using Fandango App on Firestick in Simple Steps</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/brighten-up-techniques-for-improving-video-lighting-on-youtube/"><u>Brighten Up Techniques for Improving Video Lighting on YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-drawing-experience-with-the-latest-driver-update-for-huion-h610-pro-graphics-pad/"><u>Enhance Your Drawing Experience with the Latest Driver Update for Huion H610 Pro Graphics Pad</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-network-connection-with-updated-usb-30-gigabit-ethernet-driver-for-pcs/"><u>Enhance Your Network Connection with Updated USB 3.0 Gigabit Ethernet Driver for PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-video-chat-quality-updating-windows-10-webcam-drivers-made-easy/"><u>Improve Video Chat Quality: Updating Windows 10 Webcam Drivers Made Easy</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-v30t-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme V30T Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977508817-mastering-the-art-of-surface-book-driver-updates-a-hassle-free-approach/"><u>Mastering the Art of Surface Book Driver Updates: A Hassle-Free Approach!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-keep-your-epson-wf-7720-printer-drivers-up-to-date-on-windows-systems/"><u>Troubleshooting Tips: Keep Your Epson WF-7720 Printer Drivers Up-to-Date on Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-installing-latest-zebra-zp450-driver-software-complete-steps-included/"><u>Ultimate Guide to Installing Latest Zebra ZP450 Driver Software (Complete Steps Included)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ering-youtubes-top-viewed-comments/"><u>Uncovering YouTube's Top Viewed Comments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-cameras-for-quality-youtube-content/"><u>[New] In 2024, Best Cameras for Quality YouTube Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-realistic-movement-rendering-for-images-for-2024/"><u>[New] Realistic Movement Rendering for Images for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-essentialists-guide-to-iphone-sound-recording/"><u>[Updated] 2024 Approved The Essentialist's Guide to iPhone Sound Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-effective-measures-to-block-pesky-video-ads-online-for-2024/"><u>[Updated] Effective Measures to Block Pesky Video Ads Online for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-enhancing-clicks-youtube-thumbnail-sizes-explored-for-2024/"><u>[Updated] Enhancing Clicks YouTube Thumbnail Sizes Explored for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-introduces-the-ultimate-protection-with-the-iconic-mjolnir-ups-a-new-era-of-innovative-psus/"><u>Asus Introduces the Ultimate Protection with the Iconic Mjolnir UPS: A New Era of Innovative PSUs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-computers-with-tom-a-comprehensive-guide-on-tech-hardware/"><u>Exploring the World of Computers with Tom - A Comprehensive Guide on Tech Hardware</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-the-world-of-mac-pages-documents-a-pc-users-handbook/"><u>Navigating Through the World of Mac Pages Documents: A PC User's Handbook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-no-worries-solving-it-takes-two-computer-speaker-issues/"><u>No Audio? No Worries: Solving 'It Takes Two' Computer Speaker Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smart-reading-assistance-top-5-ai-powered-apps-for-tailored-book-ideas/"><u>Smart Reading Assistance: Top 5 AI Powered Apps for Tailored Book Ideas</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-toms-computer-gear-guide-and-comparison/"><u>The Ultimate Tom's Computer Gear Guide & Comparison</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-dive-into-the-latest-hardware-reviews-and-tips/"><u>Tom's Tech Insights: Dive Into the Latest Hardware Reviews and Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-the-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-expert-insights-on-computer-components-and-systems/"><u>Tom's Tech Review: Expert Insights on Computer Components and Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-insights-on-latest-computer-equipment/"><u>Tom's Tech Reviews: Comprehensive Insights on Latest Computer Equipment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-gadgets-with-tom-a-comprehensive-guide-to-hardware-excellence/"><u>Unveiling Gadgets with Tom: A Comprehensive Guide to Hardware Excellence</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-motorola-moto-g73-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Motorola Moto G73 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

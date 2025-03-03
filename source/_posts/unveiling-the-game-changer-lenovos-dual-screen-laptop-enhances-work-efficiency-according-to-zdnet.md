@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Game-Changer: Lenovo’s Dual-Screen Laptop Enhances Work Efficiency, According to ZDNet"
-date: 2025-02-04T22:35:23.931Z
-updated: 2025-02-12T04:52:20.697Z
+date: 2025-02-23T23:08:16.078Z
+updated: 2025-03-02T23:52:02.610Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -44,10 +40,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -61,10 +53,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7720f040-ecee-4f18-b2a4-d4eddb365f24%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -86,10 +74,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -109,10 +93,6 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -182,24 +162,15 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-playback-of-srt-audio-files-in-computers-windowsmacos/"><u>[New] In 2024, Playback of SRT Audio Files in Computers (Windows/macOS)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-gesture-control-a-comprehensive-overview/"><u>[New] Mastering Gesture Control A Comprehensive Overview</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-frills-screensaver-windows-compatible/"><u>[New] No Frills Screensaver - Windows Compatible</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-perfecting-your-snapchat-story-cinematography-for-2024/"><u>[New] Perfecting Your Snapchat Story Cinematography for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-transform-your-iphone-into-a-content-powerhouse-with-best-fb-video-downloaders-for-ios/"><u>[New] Transform Your iPhone Into a Content Powerhouse with Best FB Video Downloaders for iOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/binge-on-inspirational-athletics-movies-10-selections-for-your-next-screen-time/"><u>Binge on Inspirational Athletics Movies: 10 Selections for Your Next Screen Time</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-newest-version-of-wacom-cintiq-tablet-driver-for-enhanced-performance/"><u>Download Newest Version of Wacom Cintiq Tablet Driver for Enhanced Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-startech-drivers-errors-on-windows-11-8-and-7-resolved/"><u>Effective Solutions for StarTech Drivers Errors on Windows 11, 8 & 7 - Resolved!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963877497-effortless-driver-update-for-samsung-c460-start-now/"><u>Effortless Driver Update for Samsung C460 - Start Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improved-microsoft-power-device-management-correcting-previous-acpi-compliance-driver-concerns/"><u>Improved Microsoft Power Device Management: Correcting Previous ACPI Compliance Driver Concerns</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-gaming-mouse-g602-setup-and-drivers-free-downloads-for-windows-users/"><u>Logitech Gaming Mouse (G602) Setup & Drivers: Free Downloads for Windows Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/securing-pcs-in-the-modern-age-proven-tips-for-windows-users-at-home-and-workspace-featuring-expert-advice-zdnet/"><u>Securing PCs in the Modern Age: Proven Tips for Windows Users at Home and Workspace, Featuring Expert Advice | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-secure-your-pcs-audio-with-official-realtek-drivers-for-windows-11107/"><u>Step-by-Step: Secure Your PC's Audio with Official Realtek Drivers for Windows (11/10/7)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-freeware-de-compression-video-pour-mac-en-2023-designez-le-votre/"><u>Top Freeware De Compression Vidéo Pour MAC en 2023 - Designez Le Vôtre</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-error-code-0x80240034-in-windows-11-updates/"><u>Troubleshooting and Repairing Error Code 0X80240034 in Windows 11 Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-d-e-t-alen-intel-usb-30-device-drivers-downloads/"><u>Windows ˈD E T Aɪˈləʊn: Intel USB 3.0 Device Drivers Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-11-and-10-compatible-corsair-icue-software-download-now/"><u>Windows 11 & 10 Compatible Corsair iCUE Software - Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-users-heres-how-to-set-up-your-epson-wf-265cuickly-download-the-right-drivers-today/"><u>Windows Users, Here's How to Set Up Your Epson WF-265cuickly - Download the Right Drivers Today!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-discover-ultra-hd-mastering-the-art-of-buying-a-4k-monitor-for-2024/"><u>[New] Discover Ultra HD Mastering the Art of Buying a 4K Monitor for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-formulating-fascinating-film-moments-for-2024/"><u>[New] Formulating Fascinating Film Moments for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-anti-fog-gear-for-clear-shot-capture-in-cold-weather/"><u>2024 Approved Anti-Fog Gear for Clear Shot Capture in Cold Weather</u></a></li>
+<li><a href="https://win-hot.techidaily.com/aprenda-las-formas-de-rescatar-datos-eliminados-por-chkdsk-una-guia-completa/"><u>Aprenda Las Formas De Rescatar Datos Eliminados Por CHKDSK: Una Guía Completa</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-graphics-performance-with-updated-geforce-rtx-2080-ti-drivers-for-gamers/"><u>Boost Graphics Performance with Updated GeForce RTX 2080 Ti Drivers for Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-installation-guide-canon-mx340-driver-windows-1187-free-download/"><u>Complete Installation Guide: Canon MX340 Driver Windows 11/8/7 Free Download</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/complete-step-by-step-instructions-boosting-your-hp-victus-15l-with-an-ssd/"><u>Complete Step-by-Step Instructions: Boosting Your HP Victus 15L with an SSD</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-discovery-housekeepers-unearth-original-intel-8008-based-personal-computers-with-limited-memory-capacity/"><u>Revolutionary Discovery: Housekeepers Unearth Original Intel 8008-Based Personal Computers with Limited Memory Capacity</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-12-pro-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme 12 Pro 5G Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968742106-windows-11-and-10-compatible-corsair-icue-software-download-now/"><u>Windows 11 & 10 Compatible Corsair iCUE Software - Download Now</u></a></li>
 </ul></div>
 

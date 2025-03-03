@@ -1,7 +1,7 @@
 ---
 title: "Corporate Insights: In-Depth Microsoft Surface Pro 8 Evaluation on ZDNet"
-date: 2025-02-07T22:17:17.819Z
-updated: 2025-02-12T01:44:19.424Z
+date: 2025-02-27T00:37:33.882Z
+updated: 2025-03-03T00:44:24.227Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,6 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Processor       | 12th-Gen Intel Core i5 or Core i7                                                          |
@@ -56,10 +52,6 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Connectivity    | Wi-Fi 6, Bluetooth 5.1                                                                     |
 | Ports           | 1 x USB-C 4.0/Thunderbolt 4, 1 x USB-A 3.1, 3.5mm headphone jack, 1 x Surface Connect Port |
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How's the build quality?
 
@@ -78,10 +70,6 @@ Michael Gariffo/ZDNET
 **A note about materials**: My review unit was the all-aluminum model. Microsoft offers configurations with Alcantara material on the keyboard deck. If you hate the feel of cold metal on your wrists, it could be a great option. But, I'd consider the trials and tribulations you put your laptop through, and how that material will hold up to them, before buying. 
 
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Features and ports
 
@@ -143,10 +131,6 @@ This might be forgivable in a budget model. But even the base config [Surface La
 
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Performance and battery life
 
 Unlike on many other laptops I've tested recently, the keyboard deck remained entirely cool, no matter how hard I pushed the laptop.
@@ -168,10 +152,6 @@ At the extremes, I could deplete the battery in about 7 hours if I tried to crea
 Overall, I'd have no qualms about leaving my charger at home and expecting to get a full workday from this laptop, as long as I topped it up overnight. If you do need a charge and you left your proprietary charger at home, all is not lost. The included USB-C port can charge the Surface Laptop 5, too. A generic 65W charger I tested took the unit from nearly dead to full in about 2 hours. 
 
 [Microsoft Surface Laptop 5 $1,095 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -227,18 +207,20 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-digital-scribes-leading-screen-recorder-software/"><u>[New] Digital Scribes Leading Screen Recorder Software</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-driving-engagement-the-art-of-building-a-buzz/"><u>[New] Driving Engagement The Art of Building a Buzz</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-boundless-memories-archive-instagrams-free-saves/"><u>[Updated] In 2024, Boundless Memories Archive Instagram’s Free Saves</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlining-screen-capture-minecraft-edition-tips-and-tricks-for-macs/"><u>[Updated] In 2024, Streamlining Screen Capture Minecraft Edition - Tips & Tricks for Macs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-upgrade-your-scansnap-ix50n-devices-drivers-on-pc-systems/"><u>How to Seamlessly Upgrade Your ScanSnap iX50n Device's Drivers on PC Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-envy-5660-seamless-driver-setup-in-a-few-simple-steps/"><u>HP Envy 5660: Seamless Driver Setup in a Few Simple Steps!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-note-30-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Note 30 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-focusrite-scarlett-18i20-drivers-on-windows-download-now/"><u>Install Focusrite Scarlett 18I20 Drivers on Windows – Download Now</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/mastering-audio-amplitude-control-in-audacity/"><u>Mastering Audio Amplitude Control in Audacity</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-flip-videos-with-ease-best-online-editors/"><u>New Flip Videos with Ease Best Online Editors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-setup-for-qualcomm-atheros-ar938x-network-cards-free-drivers-available-now/"><u>Seamless Setup for Qualcomm Atheros AR938X Network Cards – Free Drivers Available Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-digital-adventures-the-essential-guide-to-geforce-rtx-2080-ti-driver-upgrades/"><u>Transform Your Digital Adventures: The Essential Guide to GeForce RTX 2080 Ti Driver Upgrades</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-realtek-lan-driver-issues-on-various-windows-platforms/"><u>Troubleshooting and Fixing Realtek LAN Driver Issues on Various Windows Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unlock-jet-setting-perks-save-25-on-flights-with-your-amazon-prime-student-card-insider-tips/"><u>1. Unlock Jet-Setting Perks: Save $25 on Flights with Your Amazon Prime Student Card - Insider Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-dynamic-range-the-essential-guide-to-modern-camera-tech/"><u>2024 Approved High Dynamic Range The Essential Guide to Modern Camera Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969783470-comprehensive-guide-to-microsoft-driver-update-for-windows-1187-made-easy/"><u>Comprehensive Guide to Microsoft Driver Update for Windows 11/8/7 Made Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-mpow-bluetooth-drivers-updates-for-windows-1087/"><u>Download MPOW Bluetooth Drivers: Updates for Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-comprehensive-guide-to-behringer-audio-drivers/"><u>Free Download: Comprehensive Guide to Behringer Audio Drivers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/from-blacked-out-battles-to-full-spectrum-victory-correcting-rainbow-six-sieges-pc-visual-glitches/"><u>From Blacked-Out Battles to Full Spectrum Victory: Correcting Rainbow Six Siege's PC Visual Glitches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-5-best-tools-to-convert-videos-directly-to-twitter/"><u>In 2024, The 5 Best Tools to Convert Videos Directly to Twitter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-compatible-amd-radeon-graphics-driver-software-available-to-download/"><u>Latest Windows-Compatible AMD Radeon Graphics Driver Software Available to Download</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-subtitles-the-ultimate-guide-to-free-tools-for-2024/"><u>Mastering Subtitles The Ultimate Guide to FREE Tools for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/protect-your-game-experience-developer-rolls-out-crash-alert-for-intels-latest-processors-follow-these-steps-to-prevent-downtime/"><u>Protect Your Game Experience: Developer Rolls Out Crash Alert for Intel's Latest Processors - Follow These Steps to Prevent Downtime</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-tech-milestone-google-pixel-s-unveils-worlds-first-sos-messaging-via-satellites/"><u>Revolutionary Tech Milestone: Google Pixel S Unveils World's First SOS Messaging via Satellites</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-install-and-update-hid-keyboards-drivers-with-ease/"><u>Simple Steps: Install & Update HID Keyboards Drivers with Ease</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-12-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 12 Before the Plan Expires</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/up-to-date-driver-download-guide-for-your-acer-aspire-notebook-or-desktop-on-windows-os/"><u>Up-to-Date Driver Download Guide for Your Acer Aspire Notebook or Desktop on Windows OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-foldable-iphone-unveiled-anticipated-cost-launch-timeline-features-and-latest-gossip/"><u>Upcoming Foldable iPhone Unveiled: Anticipated Cost, Launch Timeline, Features & Latest Gossip</u></a></li>
 </ul></div>
 

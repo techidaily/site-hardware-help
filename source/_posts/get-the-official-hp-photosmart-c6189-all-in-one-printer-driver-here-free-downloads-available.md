@@ -1,7 +1,7 @@
 ---
 title: Get the Official HP Photosmart C6189 All-in-One Printer Driver Here – Free Downloads Available
-date: 2024-08-19T11:02:05.267Z
-updated: 2024-08-20T11:02:05.267Z
+date: 2025-02-27T20:50:16.918Z
+updated: 2025-03-02T16:44:09.405Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
 
 ## Get the Latest HP Officejet Pro ˈ8600 Drivers for Your Windows PC – Free Downloads Available
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c02926047.png)
 
  This post will show you how to update printer driver for your**HP Officejet Pro 8600 All-in-One series** of printers.
@@ -38,21 +35,12 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
 
  1) Press**Windows key** and**R** at the same time, then type in**devmgmt.msc** and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5907fef252f36.png)
  2) Locate and click to expand category**Print queues** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_590802e3114a1.jpg)
  3) Right click the**HP Officejet Pro 8600 printer** that you see here. Then choose**Update driver** option from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59080a9f4559f.png)
 
  4) Then choose**Search automatically for updated driver software** .
@@ -61,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
 
  5) Then Windows will start to help you with the search of the new driver. If you see the notification as below, which indicates that Windows cannot help you with the driver update, then you need to look for an alternative. Please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082342e5590.jpg)
 
  **Option 2: Update Printer Driver Manually**
@@ -88,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
 
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082b9478bec.png)
 
  3) Click the**Update** button next to the flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -108,8 +90,6 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +97,19 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-choosing-the-best-footage-editor-hero-vs-polaroid-edition/"><u>[New] In 2024, Choosing the Best Footage Editor Hero Vs. Polaroid Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-hyperprospects-top-laptops-for-elite-video-editors-in-4k/"><u>[New] In 2024, HyperProspects Top Laptops for Elite Video Editors in 4K</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ideal-no-cost-screen-grabber-toolset/"><u>[Updated] Ideal No-Cost Screen Grabber Toolset</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-smartphone-list-for-capturing-crystal-clear-video/"><u>[Updated] Ultimate Smartphone List for Capturing Crystal Clear Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-creativity-with-smartphones-best-apps/"><u>Capture Creativity with Smartphones' Best Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-y36i-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo Y36i Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-computing-devices-by-tom-hardware-specialist/"><u>In-Depth Evaluation of Computing Devices by Tom Hardware Specialist</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/starting-from-just-1099-acer-dell-hp-and-lenovo-launch-snapdragon-x-windows-copilot-pcs-with-extended-multi-day-battery/"><u>Starting From Just $1,099: Acer, Dell, HP & Lenovo Launch Snapdragon X Windows Copilot PCs With Extended Multi-Day Battery!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/take-on-any-challenge-discover-gaming-excellence-with-the-affordable-and-powerful-lenovo-legion-slim-5-899-packed-with-a-cutting-edge-rtx-4060-gpu/"><u>Take On Any Challenge: Discover Gaming Excellence with the Affordable and Powerful Lenovo Legion Slim 5 ($899) - Packed With a Cutting-Edge RTX 4060 GPU</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-compendium-of-hardware-by-toms-tech-team/"><u>The Ultimate Compendium of Hardware by Tom's Tech Team</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-gaming-machine-razer-blade-18-unveiled-with-powerful-i9-14900hx-and-immersive-rtx-4090-at-4799/"><u>The Ultimate Gaming Machine: Razer Blade 18 Unveiled with Powerful I9-14900HX & Immersive RTX 4090 at $4,799</u></a></li>
+<li><a href="https://win-docs.techidaily.com/wdwindows-11and10/"><u>WD軟體儲存解决方案：Windows 11&10专用云盘与数据备份程序 [立即下载]</u></a></li>
+</ul></div>
 

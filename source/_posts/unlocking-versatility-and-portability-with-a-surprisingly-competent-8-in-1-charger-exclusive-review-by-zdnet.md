@@ -1,7 +1,7 @@
 ---
 title: Unlocking Versatility and Portability with a Surprisingly Competent 8-in-1 Charger - Exclusive Review by ZDNET
-date: 2025-02-07T16:51:41.459Z
-updated: 2025-02-12T00:53:22.971Z
+date: 2025-02-28T22:31:28.728Z
+updated: 2025-03-02T17:46:31.877Z
 tags:
   - laptops
 categories:
@@ -44,10 +44,6 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 ---
@@ -70,10 +66,6 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 The ability to run two external monitors with the lid closed is one of the M3 MacBook Air's biggest upgrades.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
 
@@ -108,10 +100,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | Photo 3                      | 0:17     |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
 
@@ -171,10 +159,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9d7a976-2d13-4b45-813c-13ccc3ba0f0e%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9d7a976-2d13-4b45-813c-13ccc3ba0f0e%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -184,10 +168,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,19 +215,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-your-ultimate-guide-to-samsungs-best-gear-vr-games/"><u>[New] In 2024, Your Ultimate Guide to Samsung's Best Gear VR Games</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ini-youtube-content-explained-for-2024/"><u>[New] Mini YouTube Content Explained for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-hd-7700-graphics-driver-download-and-updates-easily/"><u>AMD Radeon HD 7700 Graphics Driver Download & Updates Easily</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-deal-on-tv-support-cheetahs-arms-advantage/"><u>Best Deal on TV Support: Cheetah's Arms Advantage</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-now-the-most-compatible-version-of-easycap-drivers-for-all-systems/"><u>Download Now: The Most Compatible Version of EasyCAP Drivers for All Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ready-to-be-wowed-by-the-best-chef-themed-tv-show-collection-on-netflix/"><u>Get Ready to Be Wowed by the Best Chef-Themed TV Show Collection on Netflix</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-corsair-k55-driver-software-here/"><u>Get the Newest Corsair K55 Driver Software Here!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-changing-video-pace-on-your-instagram-feed/"><u>In 2024, Changing Video Pace on Your Instagram Feed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-epson-workforce-ds-series-printer-drivers-windows-11-8-or-7-supported/"><u>Install Epson WorkForce DS Series Printer Drivers: Windows 11, 8, or 7 Supported</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-driver-updates-a-razer-blade-letes-guide-from-windows-7-to-11/"><u>Mastering Driver Updates: A Razer Blade Lete's Guide From Windows 7 to 11</u></a></li>
-<li><a href="https://howto.techidaily.com/samsung-galaxy-a15-4g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A15 4G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/smooth-surfaces-from-stability-handheld-tech-for-pros/"><u>Smooth Surfaces From Stability Handheld Tech for Pros</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-choice-handheld-cameras-with-image-control/"><u>Top Choice Handheld Cameras with Image Control</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultra-reliable-tt560-flash-photography-made-simple/"><u>Ultra-Reliable TT560: Flash Photography Made Simple</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-swift-systems-for-rearranging-youtube-video-lineup/"><u>[New] In 2024, Swift Systems for Rearranging YouTube Video Lineup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976069927-get-the-edge-in-gaming-step-by-step-amd-vega-graphics-card-firmware-update/"><u>Get the Edge in Gaming: Step-by-Step AMD Vega Graphics Card Firmware Update!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-logitech-g29-steering-wheel-setup-download-drivers-for-win-10117/"><u>Get Your Logitech G29 Steering Wheel Setup: Download Drivers for Win 10/11/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-samsung-printer-up-and-running-free-download-for-windows-drivers/"><u>Get Your Samsung Printer Up & Running: Free Download for Windows Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-windows-10-failing-to-detect-usb-devices-solution-guide/"><u>How to Fix Windows 10 Failing to Detect USB Devices - Solution Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-your-logitech-driving-wheel-setup-on-windows-7810-step-by-step-tutorial/"><u>How to Get Your Logitech Driving Wheel Setup on Windows 7/8/10: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-c51-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme C51 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovating-visual-storytelling-drone-techniques/"><u>Innovating Visual Storytelling Drone Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972936995-the-dorsalis-pedis-pulse-palpable-on-the-top-of-the-foot-is-a-continuation-of-the-anterior-tibial-artery/"><u>The Dorsalis Pedis Pulse, Palpable on the Top of the Foot, Is a Continuation of the Anterior Tibial Artery.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-11-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme 11 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-pc-performance-the-ultimate-guide-to-hardware-by-tom/"><u>Unlocking PC Performance: The Ultimate Guide to Hardware by Tom</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-find-x7-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo Find X7 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

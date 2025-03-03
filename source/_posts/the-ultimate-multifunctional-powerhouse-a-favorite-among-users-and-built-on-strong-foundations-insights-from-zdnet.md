@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Multifunctional Powerhouse: A Favorite Among Users & Built on Strong Foundations – Insights From ZDNet"
-date: 2025-01-14T19:24:54.907Z
-updated: 2025-01-16T16:24:12.534Z
+date: 2025-02-25T22:21:36.765Z
+updated: 2025-03-02T20:10:50.957Z
 tags:
   - laptops
 categories:
@@ -17,10 +17,6 @@ Costco is my go-to for great quality products, bulk savings, amazing deals, and 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -135,10 +131,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Samsung Galaxy 10.4-inch S6 Lite Tab + Book cover for $260 (save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-10.4%22-tab-s6-lite-64gb---oxford-gray---includes-book-cover.product.100660228.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday headphone deals still available**
 
 [Samsung Galaxy Buds2 Pro for $170 (Save $50) plus get $20 Google Play gift code View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-buds2-pro-with-%2420-google-gift-code.product.4000037682.html)
@@ -169,10 +161,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Ring Security 14-pc Kit for $230 (Save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-security-alarm-14-piece-kit-%28gen-2%29-with-stick-up-cam%2c-smokeco-listener-and-range-extender.product.100849368.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Cyber Monday Costco deals?
 
 As a Costco member, I'm always on the lookout for the best deals and, thankfully, Costco makes this easy by consistently offering great deals on high-quality items. Here at ZDNET, we do the legwork for you and round up the best ones through research, experience, and our own expertise.
@@ -190,10 +178,6 @@ Here's how the different memberships stack up:
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Purchase for resale                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Annual 2% cash back on qualified Costco purchases                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Additional benefits for Travel and Costco services                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What were Costco's holiday hours during Black Friday and Cyber Monday?
 
 The Costco warehouses closed for Thanksgiving, but the retailer did have some exclusive deals through the online store. 
@@ -206,17 +190,9 @@ Though most warehouses open at 10:00am Monday through Friday, Cyber Monday deals
 
 Cyber Monday takes place on the next Monday following the Thanksgiving holiday and Black Friday. This year it was on November 28, 2022\. We combed through all the best Cyber Monday deals as the day went on, to bring you the latest ones available.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When was Black Friday 2022?
 
 Black Friday 2022 was on November 25th, 2022; the day after Thanksgiving.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
 
@@ -241,10 +217,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 Samsung deals](https://www.zdnet.com/article/samsung-best-holiday-deals-2022/)
 * [The best holiday 2022 Dell deals](http://zdnet.com/article/dell-best-holiday-deals-2022/)
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Holiday deals by category**
 
@@ -271,10 +243,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found:
 
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -324,15 +292,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-learn-the-basics-of-digital-distortion/"><u>[Updated] 2024 Approved Learn the Basics of Digital Distortion</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mastering-audio-format-switches-srt-to-ssa-and-more/"><u>[Updated] Mastering Audio Format Switches SRT to SSA & More</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-snap-and-save-the-ultimate-list-of-top-8-free-android-recorders-for-2024/"><u>[Updated] Snap & Save The Ultimate List of Top 8 Free Android Recorders for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862791579-aocs-new-premium-ultrawide-monitor-240hz-oled-technology-at-just-1399/"><u>AOC's New Premium Ultrawide Monitor - 240Hz OLED Technology at Just $1,399</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elevate-video-production-mastering-obs-on-android/"><u>Elevate Video Production Mastering OBS on Android</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862787670-exclusive-offer-shop-the-incredible-240hz-32-4k-alienware-monitor-with-200-off-today/"><u>Exclusive Offer: Shop the Incredible 240Hz, 32 4K Alienware Monitor with $200 Off Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862767074-massive-sale-snag-a-stunning-49-samsung-oled-ultrawide-display-at-an-unbeatable-price/"><u>Massive Sale: Snag a Stunning 49 Samsung OLED UltraWide Display at an Unbeatable Price!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transforma-videos-flv-en-formato-vob-directamente-desde-tu-navegador-con-nuestro-servicio-de-conversion-libre/"><u>Transforma Videos FLV en Formato VOB Directamente Desde Tu Navegador Con Nuestro Servicio De Conversión Libre</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unveiling-the-full-details-official-winxvideo-ai-features-and-capabilities/"><u>Unveiling the Full Details: Official WinXVideo AI Features & Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-computing-with-toms-hardware-guides/"><u>Unveiling the Latest in Computing with Tom's Hardware Guides</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-successful-instagram-story-surveys/"><u>[New] Step-by-Step Guide to Successful Instagram Story Surveys</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-solo-strategies-making-your-podcast-sensational/"><u>[Updated] Solo Strategies Making Your Podcast Sensational</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevating-your-play-experience-why-switching-to-advanced-handheld-systems-after-mastering-mobile-gaming-is-beneficial/"><u>Elevating Your Play Experience: Why Switching to Advanced Handheld Systems After Mastering Mobile Gaming Is Beneficial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-setup-asus-motherboards-get-compatible-with-windows-11s-customizable-lights/"><u>Enhance Your PC Setup: Asus Motherboards Get Compatible with Windows 11'S Customizable Lights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/evaluate-the-essential-factors-prior-to-smart-surveillance-camera-setup/"><u>Evaluate the Essential Factors Prior to Smart Surveillance Camera Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-5000mah-belkin-boostcharge-pro-with-wireless-charging-and-stand-unmatched-portable-power-solution/"><u>Exclusive 5,000mAh Belkin BoostCharge Pro with Wireless Charging & Stand - Unmatched Portable Power Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-enhanced-performance-the-latest-modular-design-featuring-intels-top-tier-core-cpus/"><u>Experience Enhanced Performance: The Latest Modular Design Featuring Intel's Top-Tier Core CPUs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-impressive-loudness-with-the-jbl-partybox-stage-320-a-comprehensive-sound-system-review/"><u>Experience Impressive Loudness with the JBL PartyBox Stage 320: A Comprehensive Sound System Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-analysis-jbl-clip-5-as-the-ultimate-compact-bluetooth-speaker-a-comprehhavioral-review/"><u>Expert Analysis: JBL Clip 5 as the Ultimate Compact Bluetooth Speaker - A Comprehhavioral Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-apply-the-latest-windows-compatible-amd-vega-64-driver-updates-your-problem-solved/"><u>Find and Apply the Latest Windows-Compatible AMD Vega 64 Driver Updates – YOUR PROBLEM SOLVED</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-elite-iphone-and-android-edits-to-improve-gopro-content/"><u>In 2024, Elite iPhone & Android Edits to Improve GoPro Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-whats-youtube-creative-commons-and-how-to-use-cc-to-make-video/"><u>In 2024, What's YouTube Creative Commons and How to Use CC to Make Video</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/speed-up-your-computer-with-efficient-disk-cleanup-techniques-guidance-by-yl-software-experts/"><u>Speed Up Your Computer with Efficient Disk Cleanup Techniques - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/stream-with-precision-rokus-audio-and-video-innovation/"><u>Stream with Precision: Roku's Audio & Video Innovation</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-6-varied-gaming-choices-for-channel-creators/"><u>The Top 6 Varied Gaming Choices for Channel Creators</u></a></li>
 </ul></div>
 

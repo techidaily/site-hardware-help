@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Alternative to MacBook Air: Discover a Powerful and Affordable Windows Laptop That Rival's Apple's Offering"
-date: 2025-01-24T17:04:09.679Z
-updated: 2025-01-30T17:59:47.092Z
+date: 2025-02-24T23:44:52.209Z
+updated: 2025-03-02T23:43:08.654Z
 tags:
   - laptops
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -84,19 +80,11 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I mentioned this before, but the direction that Microsoft took with this laptop is, well, rather uncharacteristic. The [Microsoft Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0187407f-b818-4c0b-bf8e-17986ef13ac7%7Cdtp&dtb=1) is light, airy, and brings some fun to the Copilot+ line. I would have loved to see this laptop with an OLED display, but the one we get instead is still quite nice, especially with this fantastic battery life. 
 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -132,24 +120,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unravel-the-power-of-wmp-in-audio-transition-from-cds/"><u>[New] 2024 Approved Unravel the Power of WMP in Audio Transition From Cds</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easywebcamusage-recordingtipsandtricks-for-2024/"><u>[Updated] EasyWebCamUsage RecordingTipsAndTricks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-lgs-ultra-clear-4k-screen-capabilities/"><u>[Updated] Exploring LG's Ultra-Clear 4K Screen Capabilities</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-10-leading-christian-church-streamers/"><u>2024 Approved Unveiling The 10 Leading Christian Church Streamers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-dr-c225-printer-driver-software-download-options-for-windows-users-windows-11-10-and-8/"><u>Canon DR-C225 Printer Driver Software: Download Options for Windows Users (Windows 11, 10 & 8)</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-resolving-dell-laptops-black-display-issue-step-by-step-solutions/"><u>Complete Guide: Resolving Dell Laptop's Black Display Issue - Step-by-Step Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-amd-radeon-rx-5700-xt-graphics-card-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download AMD Radeon RX 5700 XT Graphics Card Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-and-installing-logitech-g510-controllers-for-windows-users/"><u>Easy Guide to Downloading and Installing Logitech G510 Controllers for Windows Users</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easy-guide-to-downloading-content-from-hardsextube/"><u>Easy Guide to Downloading Content From HardSexTube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortless-visual-content-creation-for-instagram-users/"><u>Effortless Visual Content Creation for Instagram Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-updated-targus-displaylink-drivers-a-comprehensive-guide-for-windows-users/"><u>Find and Install Updated Targus DisplayLink Drivers: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-et-n562d-printer-software-on-windows-driver-downloads-and-installation-guide/"><u>Get the Latest Epson ET-N562D Printer Software on Windows: Driver Downloads & Installation Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-graphics-card-software-nvidia-rtx-1650-super-drivers-compatible-with-windows-11/"><u>Get the Newest Graphics Card Software: Nvidia RTX 1650 Super Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-pcs-wireless-performance-boost-with-killer-network-driver-free-for-windows-users/"><u>Get Your PC's Wireless Performance Boost with Killer Network Driver - FREE for Windows Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-11-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-new-targus-displaylink-driver-software-on-your-pc-windows-instructions/"><u>Install New Targus DisplayLink Driver Software on Your PC - Windows Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969266787-installing-broadcoms-bluetooth-drivers-on-windows-1087-free-downloads-available-now/"><u>Installing Broadcom's Bluetooth Drivers on Windows 10/8/7 - Free Downloads Available Now!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-top-6-favorite-short-form-video-download-tools-for-2024/"><u>Unveiling the Top 6 Favorite Short-Form Video Download Tools for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-elite-enhancements-for-high-quality-gopros/"><u>[New] 2024 Approved Elite Enhancements for High-Quality GoPros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-view-bots-how-to-increase-youtube-views/"><u>[New] YouTube View Bots How to Increase YouTube Views?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-camera-kings-picks-selecting-the-very-best-6-4k-dslrs/"><u>[Updated] Camera Kings' Picks Selecting the Very Best 6 4K DSLRs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-y100a-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beelink-gti1n-unveiled-meteor-lake-powered-mini-pc-featuring-external-gpu-expansion-and-built-in-145w-psu/"><u>Beelink GTi1n Unveiled: Meteor Lake-Powered Mini PC Featuring External GPU Expansion & Built-In 145W PSU</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-to-high-performance-wireless-drivers-today/"><u>Download and Upgrade to High-Performance Wireless Drivers Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-integration-mastering-the-quick-addition-of-your-surface-dock-driver-today/"><u>Effortless Integration: Mastering the Quick Addition of Your Surface Dock Driver Today</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-magic-5-lite-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Magic 5 Lite Location by Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamline-your-workflow-with-top-10-free-mac-screen-recorders/"><u>In 2024, Streamline Your Workflow with Top 10 Free Mac Screen Recorders</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Pokemon Go Error 12 Failed to Detect Location On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-intel-core-ultra-k-achieves-5-ghz-on-4th-generation-process-node-no-avx-512-support-detected-by-cpu-z/"><u>Revolutionary Intel Core Ultra K: Achieves 5 GHz on 4Th Generation Process Node - No AVX-512 Support Detected by CPU-Z</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-conversion-guide-youtube-to-igtv-for-2024/"><u>The Ultimate Conversion Guide YouTube to IGTV for 2024</u></a></li>
 </ul></div>
 

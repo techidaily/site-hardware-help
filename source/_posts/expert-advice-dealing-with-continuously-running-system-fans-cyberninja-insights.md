@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Dealing with Continuously Running System Fans | CyberNinja Insights"
-date: 2025-02-04T18:42:48.304Z
-updated: 2025-02-12T03:20:50.177Z
+date: 2025-03-01T00:01:56.831Z
+updated: 2025-03-02T23:57:10.870Z
 tags:
   - laptops
 categories:
@@ -38,10 +38,6 @@ If you're running a resource-heavy application such as Photoshop, or have a brow
 
 Another heavy load for MacBooks is using [external monitors](https://www.zdnet.com/article/best-monitor/), because these stress the GPU, which in turn means that the fans need to run more often. Not reassured? Keep reading. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Is your Mac hot or not?
 
 I recommend installing a temperature monitor. The app that I recommend is [TG Pro](https://www.tunabellysoftware.com/tgpro/). This app not only logs the temperatures of various components, but also allows you to take control of the system fans manually. 
@@ -54,29 +50,17 @@ The TG Pro Mac software in action.
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Reboot
 
 Still worried? Then I'd suggest a reboot.
 
 It's possible that an application -- or maybe even the operating system -- has crashed and is going rogue. The quickest way to fix this is with a reboot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Reset your Intel-based Mac
 
 If you're still experiencing this problem and you don't think that it's normal (that is, you've rebooted and you're not running anything that's hammering at the CPU or GPU that much) and you have an Intel-based Mac, then I recommend that you try resetting the SMC and PRAM. (This does not work on the new Apple Silicon Macs -- I'll get to those in a bit.)
 
 Don't worry, it's a lot easier than it sounds -- oh, and you won't lose any data doing this!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Reset SMC (System Management Controller)
 
@@ -95,10 +79,6 @@ To reset the PRAM you need to hold down COMMAND and OPTION and P and R while pow
 ## 4\. Restart your Apple Silicon Mac
 
 For these newer M1- and M2-powered Macs, resetting the SMC and PRAM doesn't work, and all Apple recommends doing is restarting the computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Oh, one more thing ... dust!
 
@@ -140,19 +120,24 @@ Hold the nozzle an inch or so away from the vents and only use the suction brief
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-noise-reduction-for-better-video-experiences-on-youtube/"><u>[New] 2024 Approved Noise Reduction for Better Video Experiences on YouTube</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-breakdown-of-how-youtube-ad-revenue-works-cpm/"><u>[New] Breakdown of How YouTube Ad Revenue Works (CPM)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-simplify-your-youtube-presence-with-flawless-shorts-thumbnails/"><u>[New] Simplify Your YouTube Presence with Flawless Shorts Thumbnails</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/calculating-cost-for-shooting-a-song-in-cinematic-style-for-2024/"><u>Calculating Cost for Shooting A Song in Cinematic Style for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canoscan-lide-120-scanner-software-free-download-and-newest-upgrade/"><u>CanoScan LiDE 120 Scanner Software: Free Download and Newest Upgrade</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-samsung-ssd-960-evo-drives-updates-and-software-support-on-windows/"><u>Download & Install Samsung SSD 960 EVO Drives: Updates & Software Support on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-your-matching-intel-wireless-controller-driver-for-win11-10-or-7-today/"><u>Download Your Matching Intel Wireless Controller Driver for Win11, 10 or 7 Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-update-your-pc-with-newly-released-toshiba-dynabook-hub-drivers-on-windows/"><u>Easy Guide to Update Your PC with Newly Released Toshiba Dynabook Hub Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-gaming-like-never-before-by-updating-nvidias-gtx-1660-ti-drivers/"><u>Experience Gaming Like Never Before by Updating NVIDIA's GTX 1660 Ti Drivers!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-canon-mx340-all-in-one-printer-drivers-for-windows-7810-users/"><u>Get the Latest Canon MX340 All-in-One Printer Drivers for Windows 7/8/10 Users</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-comfortable-virtual-realities-for-2024/"><u>Mastering Comfortable Virtual Realities for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/photobooth-video-glitch-understanding-the-halt/"><u>Photobooth Video Glitch - Understanding the Halt</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-to-prevent-youtube-use-on-an-ipad/"><u>Step-by-Step Instructions to Prevent YouTube Use on an iPad</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-truth-about-the-tp-link-av1-cuffss-powerline-range-extender-not-quite-up-to-par/"><u>The Truth About the TP-Link AV1 Cuffs's Powerline Range Extender: Not Quite Up to Par</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-live-and-learn-twitter-video-chronicles-of-23/"><u>[New] Live and Learn Twitter Video Chronicles of '23</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-proven-methods-for-professional-video-editing-and-dvd-burning-on-mac/"><u>[New] Proven Methods for Professional Video Editing and DVD Burning on Mac</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-fluent-in-content-sharing-tiktok-twitter-transition/"><u>[Updated] Fluent in Content Sharing TikTok-Twitter Transition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-freefire-gaming-guide-maximizing-video-impact/"><u>[Updated] FreeFire Gaming Guide Maximizing Video Impact</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fb-moments-snappy-storytime/"><u>2024 Approved FB Moments Snappy Storytime</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-free-and-premium-screen-capture-apps-manycam-obs-studio-vlc-media-player/"><u>Best Free and Premium Screen Capture Apps: ManyCam, OBS Studio, VLC Media Player</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-your-epson-xp-440-driver-software/"><u>Easy Guide to Updating Your Epson XP-440 Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-gaming-performance-on-windows-11-and-10-with-nvidias-game-ready-driver-downloads/"><u>Enhance Gaming Performance on Windows 11 and 10 with Nvidia's Game Ready Driver Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-out-how-to-legally-obtain-the-latest-nvidia-3d-vision-drivers-for-free-on-windows/"><u>Find Out How to Legally Obtain the Latest Nvidia 3D Vision Drivers for Free on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-network-issues-a-guide-to-dealing-with-unavailable-dhcp-servers/"><u>Fixing Network Issues: A Guide to Dealing with Unavailable DHCP Servers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-free-download-acer-wireless-touchpad-driver-for-windows-11/"><u>Get the Latest [Free Download] Acer Wireless Touchpad Driver for Windows 11</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-rapide-recuperez-vos-fichiers-dimages-perdus-sous-windows/"><u>Guide Rapide : Récupèrez Vos Fichiers D'images Perdus Sous Windows #</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-download-and-install-nexiq-usb-data-bridge-software/"><u>How to Easily Download and Install Nexiq USB Data Bridge Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-effortlessly-update-msi-video-card-drivers-for-windows-11-and-7-users/"><u>How to Effortlessly Update MSI Video Card Drivers for Windows 11 & 7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-reviews-and-tips-from-toms-hardware-experts/"><u>In-Depth Reviews and Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/roadcasting-made-easy-upload-tutorial-for-youtube-for-2024/"><u>MP3 Broadcasting Made Easy Upload Tutorial for YouTube for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-intel-hd-graphics-630-driver-compatibility-hurdles-on-windows-the-complete-fix/"><u>Overcoming Intel HD Graphics 630 Driver Compatibility Hurdles on Windows – The Complete Fix</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-windows-7-network-card-drivers-expert-solutions/"><u>Troubleshooting and Fixing Windows 7 Network Card Drivers - Expert Solutions!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Surpassing the MacBook Air: The Microsoft Surface Laptop Copilot+ PC Excellence Tested and Reviewed by ZDNet Experts"
-date: 2025-02-09T00:51:26.597Z
-updated: 2025-02-12T04:48:30.747Z
+date: 2025-02-23T18:25:20.938Z
+updated: 2025-03-03T01:59:13.192Z
 tags:
   - laptops
 categories:
@@ -32,10 +32,6 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. More seamless on-device AI features
 
 Kerry Wan/ZDNET
@@ -50,10 +46,6 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Windows Hello feels faster than ever
 
 Kerry Wan/ZDNET
@@ -66,10 +58,6 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Touchscreen support
 
 Kerry Wan/ZDNET
@@ -81,10 +69,6 @@ I know. Much like Windows Hello, touchscreen support has always been a key advan
 For example, the new Cocreator tool in Paint requires you to both write a prompt for image generation _and_ draw a base sketch for Copilot to work with. Normally, I'd struggle with drawing circles and straight lines on a trackpad, but I didn't have to on the Surface Laptop. Instead, I just pulled the laptop closer and began sketching with my finger. 
 
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc9919522-685b-4aa9-983b-c7ff321ae869%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
 
@@ -125,24 +109,19 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/download-geforce-rtx-3090-driver-for-windows-10-8-or-7/"><u>[Download] GeForce RTX 3090 Driver for Windows 10, 8 or 7</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-creation-crafting-youtube-video-splits-for-2024/"><u>[New] From Concept to Creation Crafting YouTube Video Splits for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-the-heavens-phone-panorama-basics/"><u>[Updated] Capturing the Heavens Phone Panorama Basics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-premier-top-8-4k-blu-ray-playback-machines/"><u>[Updated] In 2024, Premier Top 8 4K Blu-Ray Playback Machines</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-cutting-edge-speedy-frame-compiler/"><u>2024 Approved Cutting Edge Speedy Frame Compiler</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-helldivers-2-on-computer-expert-fixes-for-uninterrupted-gaming-bliss/"><u>Beat Helldivers 2 on Computer: Expert Fixes for Uninterrupted Gaming Bliss</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comparing-two-powerhouses-of-live-broadcast-twitch-and-youtube-for-2024/"><u>Comparing Two Powerhouses of Live Broadcast Twitch & YouTube for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-to-updating-your-hp-asters-drivers-with-the-latest-version-for-model-840-g3/"><u>Complete Guide to Updating Your HP Asters' Drivers with the Latest Version for Model 840 G3.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-link-install-updated-drivers-for-enhanced-gaming-experience-with-your-rtx-206esupers-on-windows/"><u>Direct Link: Install Updated Drivers for Enhanced Gaming Experience with Your RTX 206eSupers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-how-to-get-asus-atk0100-acpi-drivers-installed/"><u>Easy Installation: How To Get ASUS ATK0100 ACPI Drivers Installed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-usb-30-drivers-installed-on-a-windows-pc-free-downloads/"><u>Get Your USB 3.0 Drivers Installed on a Windows PC - Free Downloads!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-network-device-cannot-be-found-tl-wn722n-error-on-your-computer/"><u>How to Fix 'Network Device Cannot Be Found - TL-WN722N' Error on Your Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-your-hp-m477-color-laserjet-pro-driver-installed-step-by-step-tutorial/"><u>How to Get Your HP M477 Color LaserJet Pro Driver Installed – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-cracking-comics-the-essential-guide-to-meme-magic/"><u>In 2024, Cracking Comics The Essential Guide to Meme Magic</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-windows-compatible-hp-officejet-pro-8600-software-and-driver-downloads/"><u>Latest Windows-Compatible HP Officejet Pro 8600 Software and Driver Downloads</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubles-with-battlefront-ii-heres-how-to-fix-it/"><u>PC Troubles with Battlefront II? Here's How to Fix It!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-f15-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy F15 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-the-corsair-k70-rgb-mechanical-gaming-keyboard/"><u>Step by Step Guide: Installing the Corsair K70 RGB Mechanical Gaming Keyboard.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-social-networking-grounds-for-youtube-growth/"><u>Top Social Networking Grounds for YouTube Growth</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-game-plan-for-getting-your-product-in-front-of-a-youtubers-audience/"><u>2024 Approved The Game Plan for Getting Your Product in Front of a Youtuber's Audience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/career-advancement-with-ai-the-top-10-strategies-for-finding-a-job-via-linkedin/"><u>Career Advancement with AI: The Top 10 Strategies for Finding a Job via LinkedIn</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cutting-costs-and-carbon-footprints-essential-guide-to-energy-savings-in-offices-building-green-magazine/"><u>Cutting Costs and Carbon Footprints: Essential Guide to Energy Savings in Offices - Building Green Magazine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-lenovo-x220-up-and-running-efficient-driver-downloads/"><u>Get Your Lenovo X220 Up and Running - Efficient Driver Downloads!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-2-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 2 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-jump-into-the-moment-with-these-8-trendy-videos-on-fb/"><u>In 2024, Jump Into the Moment with These 8 Trendy Videos on FB</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-comprehensive-guide-to-installing-ft232-rs-232-drivers/"><u>Quick Download: Comprehensive Guide to Installing FT232 RS-232 Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-guide-downloading-and-updating-d-link-drivers-on-your-windows-pc/"><u>Successful Guide: Downloading and Updating D-Link Drivers on Your Windows PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/survey-unique-categories-in-visual-media-equipment-for-2024/"><u>Survey Unique Categories in Visual Media Equipment for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-hardware-your-one-stop-tech-review-destination/"><u>Tom's Hardware: Your One-Stop Tech Review Destination</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transformative-zooms-for-snapchat-photos-and-videos-for-2024/"><u>Transformative Zooms for Snapchat Photos & Videos for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zen-5-ryzen-ai-9-hx-surpasses-intel-20-core-and-apple-m3-max-in-passmark-an-in-depth-comparison/"><u>Zen 5 Ryzen AI 9 HX Surpasses Intel 20-Core & Apple M3 Max in PassMark: An In-Depth Comparison</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Revelations at Apple's October Showcase: Unveiling the M4 Mac Mini, Latest iPad Lineup, Enhanced AI Capabilities & Beyond - Insights From ZDNet"
-date: 2025-02-11T04:06:02.333Z
-updated: 2025-02-11T20:36:12.777Z
+date: 2025-03-02T01:55:44.117Z
+updated: 2025-03-03T02:23:34.130Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -43,10 +39,6 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 [In his most recent newsletter](https://www.bloomberg.com/news/articles/2024-10-01/apple-readies-iphone-se-4-upgraded-ipad-air-for-early-2025?srnd=undefined), Apple watcher Mark Gurman stated that the M4 chip will be used in the upcoming MacBook Pros and iMacs. Gurman doesn't say whether or not there will be different configurations, but we expect to see the base M4 as well as M4 Pro and M4 Max options for the two Mac models. 
 
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
 
@@ -60,10 +52,6 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. New iPads
 
 Adam Breeden/ZDNET
@@ -73,10 +61,6 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 **Also: [Why I'm more excited about an iPad Mini with Apple Intelligence than the new iPhone 16 models](https://www.zdnet.com/article/why-im-more-excited-about-an-ipad-mini-with-apple-intelligence-than-the-new-iphone-16-models/)**
 
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
 
@@ -118,24 +102,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-the-art-top-5-fluid-gaming-journeys/"><u>[New] Mastering the Art Top 5 Fluid Gaming Journeys</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-churn-out-custom-internet-echo-jokes/"><u>[Updated] Churn Out Custom Internet Echo Jokes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-navigating-virtual-territories-metaverse-and-multiverse-guide-for-2024/"><u>[Updated] Navigating Virtual Territories Metaverse & Multiverse Guide for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-screen-grab-analysis-a-comparative-look-at-leading-software/"><u>2024 Approved Screen Grab Analysis A Comparative Look at Leading Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-ip110-printer-support-for-windows-operating-systems-downloads-for-win11-win10-win8-and-win7/"><u>Canon IP110 Printer Support for Windows Operating Systems: Downloads for Win11, Win10, Win8 & Win7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-elgato-drivers-instantly-a-simple-tutorial/"><u>Download Elgato Drivers Instantly: A Simple Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-optimal-performance-free-driver-downloads-for-gigabytes-z370p-platform/"><u>Ensure Optimal Performance: Free Driver Downloads for Gigabyte's Z370P Platform</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-sades-headset-drivers-guaranteed-safe-for-your-windows-system/"><u>Get the Latest Sades Headset Drivers - Guaranteed Safe for Your Windows System</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-patch-windows-11-version-2004-with-a-new-conexant-graphics-card-driver/"><u>How to Successfully Patch Windows 11 (Version 2004) with a New Conexant Graphics Card Driver</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unlocking-your-channels-potential-the-cost-analysis/"><u>In 2024, Unlocking Your Channel's Potential The Cost Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-msi-b350-tomahawk-graphics-card-drivers-a-guide-for-users-of-windows-10-and-7-systems/"><u>Installing MSI B350 Tomahawk Graphics Card Drivers: A Guide for Users of Windows 10 & 7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-necessary-drivers-for-smooth-operation-on-hp-840-g3-devices/"><u>Installing Necessary Drivers for Smooth Operation on HP 840 G3 Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-fingerprint-software-upgrade-free-download-for-windows/"><u>Latest Fingerprint Software Upgrade - Free Download for Windows</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-subtitle-integration-on-instagram-tv-for-2024/"><u>Mastering Subtitle Integration on Instagram TV for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-airpods-connection-issues-no-more-unwanted-switching-between-apple-products/"><u>Resolve AirPods Connection Issues: No More Unwanted Switching Between Apple Products</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-how-to-install-soundmax-drivers-in-windows-effortlessly/"><u>Step-by-Step Tutorial: How to Install SoundMAX Drivers in Windows Effortlessly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-hot-30-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Infinix Hot 30 5G Device</u></a></li>
-<li><a href="https://techidaily.com/unveiling-windows-11-for-official-use-reasons-to-steer-clear-of-this-specialized-operating-system/"><u>Unveiling Windows 11 for Official Use - Reasons to Steer Clear of This Specialized Operating System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-now-enhanced-performance-hp-scanjet-driver-update-for-windows-users/"><u>[Download Now]: Enhanced Performance - HP Scanjet Driver Update for Windows Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-elevate-facebook-videos-with-synchronized-musical-charm/"><u>[New] 2024 Approved Elevate Facebook Videos with Synchronized Musical Charm</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-masterful-tag-utilization-boosting-video-performance/"><u>[New] 2024 Approved Masterful Tag Utilization Boosting Video Performance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-xs-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone XS Max</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-nokia-c110-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Nokia C110 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-iphone-drivers-for-windows-11-users-free-downloads-and-instructions/"><u>Best iPhone Drivers for Windows 11 Users - Free Downloads & Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-with-latest-windows-versions-secure-your-free-logiteche-wheel-driver-today/"><u>Compatible with Latest Windows Versions: Secure Your Free Logiteche Wheel Driver Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-geforce-rtx-xl-rtx-3070-ti-drivers-for-windows-operating-systems-10-8-and-7/"><u>Download the Latest GeForce RTX 지팬 XL (RTX 3070 Ti) Drivers for Windows Operating Systems - 10, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effective-strategies-for-addressing-driver-conflicts-with-samsung-ssd-hardware-in-windows-machines-fix-explained/"><u>Effective Strategies for Addressing Driver Conflicts with Samsung SSD Hardware in Windows Machines [Fix Explained]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-epson-wf-3620-printer-drivers-installation-guide-for-windows-10-8-and-7-users/"><u>Free Epson WF-3620 Printer Drivers: Installation Guide for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-samsung-galaxy-s24-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Samsung Galaxy S24 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-x1-carbon-driver-software-free-downloads-for-windows-107-users-step-by-step-tutorial/"><u>Lenovo X1 Carbon Driver Software Free Downloads for Windows 10/7 Users – Step by Step Tutorial</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leverage-the-efficiency-of-cookiebot-for-superior-website-performance/"><u>Leverage the Efficiency of Cookiebot for Superior Website Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-usb-c-driver-options-for-enhanced-performance-on-windows-10-systems/"><u>Top USB-C Driver Options for Enhanced Performance on Windows 10 Systems</u></a></li>
 </ul></div>
 
